@@ -1,0 +1,5 @@
+<ellipse cx="100" cy="60" rx="60" ry="20" fill="{F}"/>
+<ellipse cx="100" cy="60" rx="44" ry="12" fill="#000"/>
+<path d="M40 60 V150 Q40 180 100 180 Q160 180 160 150 V60" stroke-width="5"/>
+<path d="M90 110 Q100 100 110 110" stroke-width="0"/>
+<path d="M80 120 Q100 110 120 120" stroke-dasharray="3 6" stroke-width="3"/>
