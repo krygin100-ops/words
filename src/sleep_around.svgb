@@ -1,0 +1,6 @@
+<circle cx="100" cy="100" r="18" fill="{F}"/>
+<circle cx="94" cy="96" r="3" fill="{L}" stroke="none"/>
+<circle cx="106" cy="96" r="3" fill="{L}" stroke="none"/>
+<path d="M92 106 Q100 112 108 106"/>
+<path d="M30 40 c-6 -7 -16 -2 -11 6 l11 11 l11 -11 c5 -8 -5 -13 -11 -6 z M170 40 c-6 -7 -16 -2 -11 6 l11 11 l11 -11 c5 -8 -5 -13 -11 -6 z M30 160 c-6 -7 -16 -2 -11 6 l11 11 l11 -11 c5 -8 -5 -13 -11 -6 z M170 160 c-6 -7 -16 -2 -11 6 l11 11 l11 -11 c5 -8 -5 -13 -11 -6 z" fill="{F}" stroke-width="3"/>
+<path d="M84 86 L44 54 M116 86 L156 54 M84 114 L44 150 M116 114 L156 150" stroke-dasharray="4 5" stroke-width="3"/>
