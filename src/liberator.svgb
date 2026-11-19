@@ -1,0 +1,7 @@
+<circle cx="100" cy="56" r="20" fill="{F}"/>
+<path d="M92 60 Q100 66 108 60"/>
+<path d="M66 190 Q66 86 100 86 Q134 86 134 190" fill="{F}"/>
+<path d="M66 110 L36 60 M134 110 L164 60"/>
+<rect x="18" y="40" width="30" height="18" rx="9" transform="rotate(-50 33 49)"/>
+<rect x="150" y="40" width="30" height="18" rx="9" transform="rotate(50 165 49)"/>
+<path d="M30 70 L20 80 M170 70 L180 80" stroke-width="3"/>
