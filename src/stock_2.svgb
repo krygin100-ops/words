@@ -1,0 +1,5 @@
+<path d="M30 30 V170 H180" stroke-width="4"/>
+<path d="M40 150 L70 120 L90 130 L120 90 L140 100 L170 50" stroke-width="6"/>
+<path d="M150 50 L172 46 L170 68" stroke-width="5"/>
+<rect x="40" y="40" width="60" height="30" rx="4"/>
+<text x="70" y="62" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">AAPL</text>

@@ -1,0 +1,11 @@
+<circle cx="50" cy="80" r="20" fill="{F}"/>
+<path d="M38 70 L48 76 M62 70 L52 76" stroke-width="4"/>
+<circle cx="56" cy="80" r="3.5" fill="{L}" stroke="none"/>
+<path d="M44 94 H58"/>
+<path d="M16 196 Q16 110 50 110 Q84 110 84 196" fill="{F}"/>
+<circle cx="150" cy="80" r="20" fill="{F}"/>
+<path d="M138 70 L148 76 M162 70 L152 76" stroke-width="4"/>
+<circle cx="144" cy="80" r="3.5" fill="{L}" stroke="none"/>
+<path d="M142 94 H156"/>
+<path d="M116 196 Q116 110 150 110 Q184 110 184 196" fill="{F}"/>
+<text x="100" y="54" font-family="Arial" font-size="26" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">VS</text>
