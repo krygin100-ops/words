@@ -1,0 +1,8 @@
+<circle cx="100" cy="90" r="40" fill="{F}"/>
+<path d="M78 80 L92 88 M122 80 L108 88" stroke-width="4"/>
+<path d="M78 90 l8 6 M86 90 l-8 6 M114 90 l8 6 M122 90 l-8 6" stroke-width="3"/>
+<path d="M80 116 Q90 106 100 116 Q110 126 120 116" stroke-width="4"/>
+<path d="M110 120 Q116 140 124 130" fill="{L}" stroke="none"/>
+<path d="M60 196 Q60 146 100 146 Q140 146 140 196" fill="{F}"/>
+<path d="M150 50 Q160 40 170 50 Q160 60 170 70" stroke-width="3"/>
+<text x="160" y="40" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">eww</text>

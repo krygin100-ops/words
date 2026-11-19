@@ -1,0 +1,4 @@
+<rect x="20" y="30" width="160" height="150" rx="4" fill="{F}"/>
+<rect x="34" y="44" width="132" height="34" fill="#000"/>
+<text x="100" y="70" font-family="Arial" font-size="22" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">BIG NEWS!</text>
+<path d="M34 96 H96 M34 112 H96 M34 128 H96 M34 144 H96 M110 96 H166 V144 H110 Z" stroke="#000" stroke-width="3"/>
