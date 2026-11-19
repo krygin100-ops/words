@@ -1,0 +1,4 @@
+<path d="M10 100 Q20 60 30 100 T50 100 T70 100 T90 100 T110 100 T130 100 T150 100 T170 100 T190 100" stroke-width="5"/>
+<path d="M10 160 H190" stroke-width="3"/>
+<path d="M30 150 V170 M50 150 V170" stroke-width="3"/>
+<text x="140" y="40" font-family="Arial" font-size="24" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">Hz</text>
