@@ -1,0 +1,5 @@
+<circle cx="30" cy="100" r="16" fill="{F}"/>
+<circle cx="72" cy="100" r="16" fill="{F}"/>
+<circle cx="114" cy="100" r="16" fill="{F}"/>
+<rect x="148" y="70" width="36" height="36" fill="{F}" transform="rotate(15 166 88)"/>
+<path d="M140 130 L190 130" stroke-dasharray="5 5" stroke-width="3"/>
