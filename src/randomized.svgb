@@ -1,0 +1,8 @@
+<rect x="20" y="40" width="40" height="40" rx="4" fill="{F}"/>
+<rect x="80" y="40" width="40" height="40" rx="4" fill="{F}"/>
+<rect x="140" y="40" width="40" height="40" rx="4" fill="{F}"/>
+<text x="40" y="70" font-family="Arial" font-size="26" font-weight="bold" text-anchor="middle" fill="#000" stroke="none">3</text>
+<text x="100" y="70" font-family="Arial" font-size="26" font-weight="bold" text-anchor="middle" fill="#000" stroke="none">1</text>
+<text x="160" y="70" font-family="Arial" font-size="26" font-weight="bold" text-anchor="middle" fill="#000" stroke="none">2</text>
+<path d="M40 100 Q100 180 160 100 M160 100 Q100 140 40 140" stroke-width="4"/>
+<path d="M150 96 L162 98 L158 110 M50 132 L40 140 L50 148" stroke-width="4"/>

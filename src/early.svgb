@@ -1,0 +1,6 @@
+<path d="M10 140 H190" stroke-width="3"/>
+<path d="M40 140 A60 60 0 0 1 160 140" fill="{F}"/>
+<path d="M100 70 V50 M60 90 L46 76 M140 90 L154 76" stroke-width="4"/>
+<circle cx="100" cy="170" r="16" stroke-width="4"/>
+<path d="M100 162 V170 L94 170" stroke-width="3"/>
+<text x="150" y="186" font-family="Arial" font-size="18" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">6:00</text>

@@ -1,0 +1,5 @@
+<path d="M40 120 Q40 90 70 90 L110 90 Q130 90 130 70 V50" stroke-width="7"/>
+<circle cx="130" cy="40" r="10" fill="{F}"/>
+<path d="M150 30 l4 10 l10 4 l-10 4 l-4 10 l-4 -10 l-10 -4 l10 -4 z M160 80 l3 6 l6 3 l-6 3 l-3 6 l-3 -6 l-6 -3 l6 -3 z M110 20 l3 6 l6 3 l-6 3 l-3 6 l-3 -6 l-6 -3 l6 -3 z" fill="{L}" stroke="none"/>
+<rect x="40" y="130" width="80" height="50" rx="6" fill="{F}"/>
+<path d="M60 150 H100" stroke="#000" stroke-width="4"/>
