@@ -1,0 +1,6 @@
+<circle cx="40" cy="110" r="16" fill="{F}"/>
+<circle cx="100" cy="100" r="16" fill="{F}"/>
+<circle cx="160" cy="110" r="16" fill="{F}"/>
+<path d="M24 190 Q24 136 40 136 Q56 136 56 190 M84 190 Q84 126 100 126 Q116 126 116 190 M144 190 Q144 136 160 136 Q176 136 176 190" fill="{F}"/>
+<path d="M52 98 Q70 80 86 92 M114 90 Q130 80 148 98" stroke-dasharray="3 4" stroke-width="3"/>
+<text x="100" y="60" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">psst</text>
