@@ -1,0 +1,6 @@
+<rect x="20" y="30" width="70" height="150" fill="{F}"/>
+<rect x="30" y="40" width="40" height="140" fill="#000"/>
+<circle cx="125" cy="90" r="20" fill="{F}"/>
+<path d="M100 190 Q100 125 125 125 Q150 125 150 190" fill="{F}"/>
+<path d="M145 130 L170 95"/>
+<text x="150" y="50" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">Ta-da!</text>

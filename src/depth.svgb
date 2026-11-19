@@ -1,0 +1,7 @@
+<path d="M10 40 Q50 30 100 40 Q150 50 190 40" />
+<path d="M100 40 V170" stroke-dasharray="6 6"/>
+<path d="M90 160 L100 175 L110 160"/>
+<ellipse cx="140" cy="155" rx="20" ry="10" fill="{F}"/>
+<path d="M160 155 L172 147 V163 Z" fill="{F}"/>
+<circle cx="132" cy="152" r="3" fill="{L}" stroke="none"/>
+<text x="50" y="120" font-size="24" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">999m</text>

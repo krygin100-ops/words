@@ -1,0 +1,4 @@
+<path d="M80 10 V80 H10 M120 10 V80 H190 M80 190 V120 H10 M120 190 V120 H190"/>
+<path d="M100 20 V60 M100 140 V180 M20 100 H60 M140 100 H180" stroke-dasharray="8 8" stroke-width="3"/>
+<circle cx="100" cy="100" r="12" fill="{F}"/>
+<text x="100" y="106" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">?</text>

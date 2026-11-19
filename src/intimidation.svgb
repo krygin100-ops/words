@@ -1,0 +1,6 @@
+<path d="M100 20 C70 20 50 45 50 75 C50 95 60 105 65 115 V140 H135 V115 C140 105 150 95 150 75 C150 45 130 20 100 20 Z" fill="{F}"/>
+<circle cx="80" cy="80" r="14" fill="#000"/>
+<circle cx="120" cy="80" r="14" fill="#000"/>
+<path d="M100 95 L92 112 H108 Z" fill="#000"/>
+<path d="M75 140 V160 M90 140 V160 M110 140 V160 M125 140 V160"/>
+<text x="100" y="190" font-size="24" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">BOO!</text>
