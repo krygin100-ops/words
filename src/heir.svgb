@@ -1,0 +1,5 @@
+<circle cx="100" cy="100" r="22" fill="{F}"/>
+<path d="M78 72 L85 55 L93 68 L100 50 L107 68 L115 55 L122 72 Z" fill="{L}"/>
+<path d="M70 190 Q70 130 100 130 Q130 130 130 190" fill="{F}"/>
+<path d="M92 100 Q100 106 108 100" stroke-width="3"/>
+<text x="160" y="60" font-size="24" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">Jr.</text>

@@ -1,0 +1,7 @@
+<rect x="110" y="40" width="40" height="150" fill="{F}"/>
+<circle cx="95" cy="70" r="18" fill="{F}"/>
+<circle cx="88" cy="68" r="4" fill="{L}" stroke="none"/>
+<path d="M85 80 Q90 78 95 80" stroke-width="3"/>
+<path d="M80 110 V180 M80 110 Q95 100 110 110" />
+<path d="M60 60 Q55 70 60 75 M65 90 Q58 95 62 102" stroke-width="3"/>
+<text x="40" y="150" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">eep</text>
