@@ -1,0 +1,6 @@
+<rect x="40" y="80" width="120" height="90" fill="{F}"/>
+<path d="M40 80 L20 50 M160 80 L180 50"/>
+<g fill="{L}" stroke="none"><rect x="55" y="45" width="30" height="40" transform="rotate(-20 70 65)"/><rect x="90" y="35" width="30" height="45"/><rect x="125" y="45" width="28" height="40" transform="rotate(25 139 65)"/></g>
+<circle cx="70" cy="25" r="16" fill="{F}"/>
+<path d="M70 41 L80 60" />
+<text x="150" y="25" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">grr!</text>

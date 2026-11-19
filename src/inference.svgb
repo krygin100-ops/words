@@ -1,0 +1,5 @@
+<text x="40" y="60" font-size="22" fill="{L}" stroke="none" font-family="sans-serif">A=B</text>
+<text x="40" y="100" font-size="22" fill="{L}" stroke="none" font-family="sans-serif">B=C</text>
+<path d="M35 115 H135" stroke-width="4"/>
+<text x="40" y="155" font-size="26" fill="{L}" stroke="none" font-family="sans-serif">A=C</text>
+<path d="M140 145 L150 155 L170 130" stroke-width="6"/>
