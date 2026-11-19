@@ -1,0 +1,5 @@
+<rect x="70" y="80" width="60" height="110" fill="{F}"/>
+<rect x="20" y="140" width="40" height="50" fill="{F}" opacity="0.6"/>
+<rect x="140" y="150" width="40" height="40" fill="{F}" opacity="0.6"/>
+<text x="100" y="150" font-family="Arial" font-size="40" font-weight="bold" text-anchor="middle" fill="#000" stroke="none">1</text>
+<path d="M100 20 l8 18 l20 2 l-15 13 l5 20 l-18 -11 l-18 11 l5 -20 l-15 -13 l20 -2 z" fill="{L}" stroke="none"/>
