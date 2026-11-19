@@ -1,0 +1,6 @@
+<path d="M10 180 H190" stroke-width="3"/>
+<path d="M30 180 L50 140 L80 150 L70 180 Z" fill="{F}"/>
+<path d="M90 180 L110 120 L140 130 L130 180 Z" fill="{F}" transform="rotate(10 115 150)"/>
+<path d="M140 180 L160 150 L180 170 L176 180 Z" fill="{F}"/>
+<circle cx="70" cy="110" r="10" fill="{F}"/>
+<path d="M110 100 Q120 80 110 60 Q100 40 114 20 M140 120 Q150 100 140 80" stroke-width="3"/>

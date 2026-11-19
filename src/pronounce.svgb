@@ -1,0 +1,5 @@
+<circle cx="70" cy="100" r="40" fill="{F}"/>
+<ellipse cx="80" cy="120" rx="14" ry="14" fill="#000"/>
+<circle cx="70" cy="80" r="4" fill="{L}" stroke="none"/>
+<path d="M120 100 Q130 110 120 120 M134 90 Q148 110 134 130" stroke-width="5"/>
+<text x="166" y="120" font-family="Arial" font-size="40" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">A</text>
