@@ -1,0 +1,5 @@
+<circle cx="55" cy="110" r="30" fill="{F}" opacity="0.5"/>
+<path d="M150 80 L158 98 L178 100 L163 113 L168 133 L150 122 L132 133 L137 113 L122 100 L142 98 Z" fill="{F}"/>
+<path d="M100 60 L150 60" stroke-width="3"/>
+<path d="M150 40 L160 55 L180 30" stroke-width="6"/>
+<text x="100" y="185" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">this one!</text>

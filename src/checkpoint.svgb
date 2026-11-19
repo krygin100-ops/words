@@ -1,0 +1,6 @@
+<rect x="20" y="70" width="40" height="110" fill="{F}"/>
+<path d="M60 100 H190" stroke-width="10"/>
+<path d="M80 100 V110 M110 100 V110 M140 100 V110 M170 100 V110" stroke="#000" stroke-width="10"/>
+<rect x="28" y="80" width="24" height="20" fill="#000"/>
+<text x="120" y="60" font-size="26" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">STOP</text>
+<path d="M10 180 H190"/>

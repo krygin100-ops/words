@@ -1,0 +1,6 @@
+<rect x="20" y="120" width="40" height="50" fill="{F}" opacity="0.4"/>
+<rect x="80" y="120" width="40" height="50" fill="{F}"/>
+<rect x="140" y="120" width="40" height="50" fill="{F}" opacity="0.4"/>
+<circle cx="100" cy="85" r="15" fill="{F}"/>
+<path d="M85 120 Q85 100 100 100 Q115 100 115 120" fill="{F}"/>
+<text x="100" y="45" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">taken!</text>

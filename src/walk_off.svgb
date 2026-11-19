@@ -1,0 +1,5 @@
+<rect x="20" y="40" width="60" height="140" fill="{F}"/>
+<rect x="30" y="50" width="40" height="120" fill="#000"/>
+<circle cx="130" cy="75" r="15" fill="{F}"/>
+<path d="M130 90 L128 130 L115 170 M128 130 L145 170 M130 100 L148 115 M130 100 L112 112"/>
+<text x="155" y="45" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">bye!</text>
