@@ -1,0 +1,10 @@
+<circle cx="50" cy="100" r="18" fill="{F}"/>
+<path d="M42 96 H48 M54 96 H60" stroke-width="3"/>
+<path d="M42 110 H58"/>
+<path d="M20 196 Q20 130 50 130 Q80 130 80 196" fill="{F}"/>
+<circle cx="150" cy="100" r="18" fill="{F}"/>
+<path d="M142 96 H148 M154 96 H160" stroke-width="3"/>
+<path d="M142 110 H158"/>
+<path d="M120 196 Q120 130 150 130 Q180 130 180 196" fill="{F}"/>
+<path d="M40 40 L60 60 M60 40 L40 60 M140 40 L160 60 M160 40 L140 60" stroke-width="5"/>
+<text x="100" y="56" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">too</text>

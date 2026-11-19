@@ -1,0 +1,7 @@
+<circle cx="100" cy="100" r="44" fill="{F}"/>
+<path d="M70 82 L94 96 M130 82 L106 96" stroke-width="7"/>
+<circle cx="86" cy="102" r="4" fill="{L}" stroke="none"/>
+<circle cx="114" cy="102" r="4" fill="{L}" stroke="none"/>
+<path d="M82 130 Q100 116 118 130"/>
+<path d="M20 30 H180 V60 H20 Z" fill="{F}"/>
+<text x="100" y="54" font-family="Arial" font-size="24" font-weight="bold" text-anchor="middle" fill="#000" stroke="none">#@%!</text>

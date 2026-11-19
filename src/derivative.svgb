@@ -1,0 +1,5 @@
+<circle cx="50" cy="100" r="30" fill="{F}"/>
+<path d="M80 100 H120 M108 88 L120 100 L108 112" stroke-width="5"/>
+<circle cx="150" cy="100" r="20" fill="{F}" opacity="0.7"/>
+<path d="M140 100 H160" stroke="#000" stroke-width="0"/>
+<text x="150" y="166" font-family="Arial" font-size="26" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">f'</text>
