@@ -1,0 +1,7 @@
+<rect x="20" y="60" width="70" height="100" rx="4" fill="{F}"/>
+<text x="55" y="110" font-family="Arial" font-size="12" font-weight="bold" text-anchor="middle" fill="#000" stroke="none">SECRET</text>
+<path d="M30 130 H80 M30 144 H70" stroke="#000" stroke-width="3"/>
+<circle cx="140" cy="90" r="30" stroke-width="7"/>
+<path d="M162 112 L190 140" stroke-width="10"/>
+<path d="M130 86 Q140 76 150 86 Q140 96 130 86 Z" fill="{L}" stroke="none"/>
+<path d="M110 90 L90 100" stroke-dasharray="3 3" stroke-width="3"/>
