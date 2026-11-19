@@ -1,0 +1,17 @@
+<circle cx="140" cy="80" r="18" fill="{F}"/>
+<path d="M134 76 Q138 72 142 76 M146 76 Q150 72 154 76" stroke-width="0"/>
+<circle cx="136" cy="78" r="3" fill="{L}" stroke="none"/>
+<circle cx="148" cy="78" r="3" fill="{L}" stroke="none"/>
+<path d="M134 92 Q142 88 150 92"/>
+<path d="M110 196 Q110 110 140 110 Q170 110 170 196" fill="{F}"/>
+<circle cx="50" cy="70" r="20" fill="{F}"/>
+<path d="M36 62 L46 66 M64 62 L54 66" stroke-width="3"/>
+<circle cx="42" cy="70" r="3" fill="{L}" stroke="none"/>
+<circle cx="58" cy="70" r="3" fill="{L}" stroke="none"/>
+<path d="M44 84 H58"/>
+<path d="M16 196 Q16 100 50 100 Q84 100 84 196" fill="{F}"/>
+<path d="M84 120 L120 120" stroke-width="9"/>
+<path d="M100 150 H130 M120 140 L130 150 L120 160" stroke-width="0"/>
+<rect x="120" y="140" width="40" height="30" rx="3"/>
+<path d="M126 150 H154 M126 160 H146" stroke-width="3"/>
+<path d="M90 140 L114 150" stroke-width="5"/>
