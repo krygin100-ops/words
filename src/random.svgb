@@ -1,0 +1,10 @@
+<rect x="20" y="50" width="70" height="70" rx="10" fill="{F}" transform="rotate(-15 55 85)"/>
+<circle cx="40" cy="70" r="6" fill="#000"/>
+<circle cx="60" cy="90" r="6" fill="#000"/>
+<rect x="110" y="80" width="70" height="70" rx="10" fill="{F}" transform="rotate(20 145 115)"/>
+<circle cx="132" cy="100" r="6" fill="#000"/>
+<circle cx="158" cy="100" r="6" fill="#000"/>
+<circle cx="132" cy="126" r="6" fill="#000"/>
+<circle cx="158" cy="126" r="6" fill="#000"/>
+<circle cx="145" cy="113" r="6" fill="#000"/>
+<text x="70" y="180" font-family="Arial" font-size="30" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">?</text>

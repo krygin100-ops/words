@@ -1,0 +1,10 @@
+<circle cx="100" cy="70" r="22" fill="{F}"/>
+<path d="M78 62 Q90 40 122 56" stroke-width="7"/>
+<circle cx="92" cy="72" r="3.5" fill="{L}" stroke="none"/>
+<circle cx="108" cy="72" r="3.5" fill="{L}" stroke="none"/>
+<path d="M92 84 Q100 90 108 84"/>
+<path d="M60 196 Q60 102 100 102 Q140 102 140 196" fill="{F}"/>
+<rect x="140" y="110" width="30" height="50" rx="4" fill="{F}"/>
+<rect x="144" y="116" width="22" height="34" fill="#000"/>
+<path d="M140 130 L130 130" stroke-width="7"/>
+<text x="50" y="50" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">2026</text>
