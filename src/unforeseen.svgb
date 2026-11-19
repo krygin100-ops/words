@@ -1,0 +1,8 @@
+<rect x="60" y="14" width="80" height="44" rx="6" fill="{F}"/>
+<path d="M70 58 V72 M130 58 V72 M70 28 H130 M82 28 V46 M96 28 V46 M110 28 V46 M124 28 V46" stroke-width="4"/>
+<path d="M70 78 V86 M100 78 V90 M130 78 V86" stroke-width="3"/>
+<circle cx="100" cy="126" r="16" fill="{F}"/>
+<path d="M74 196 Q74 152 100 152 Q126 152 126 196" fill="{F}"/>
+<circle cx="94" cy="124" r="3.5" fill="{L}" stroke="none"/>
+<circle cx="106" cy="124" r="3.5" fill="{L}" stroke="none"/>
+<path d="M150 100 V140 M150 152 V156" stroke-width="8"/>
