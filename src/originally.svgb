@@ -1,0 +1,6 @@
+<path d="M20 160 H180" stroke-width="4"/>
+<circle cx="30" cy="160" r="12" fill="{L}" stroke="none"/>
+<path d="M60 150 V170 M100 150 V170 M140 150 V170" stroke-width="3"/>
+<path d="M30 140 V60" stroke-width="4"/>
+<path d="M30 60 L60 70 L30 80" fill="{F}"/>
+<text x="110" y="100" font-family="Arial" font-size="22" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">start</text>
