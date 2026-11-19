@@ -1,0 +1,8 @@
+<path d="M100 40 L100 176 M66 176 L134 176"/>
+<path d="M30 70 L170 70"/>
+<circle cx="100" cy="40" r="6" fill="{L}"/>
+<path d="M30 70 L14 112 L46 112 Z M170 70 L154 112 L186 112 Z"/>
+<rect x="18" y="90" width="24" height="20" fill="{F}"/>
+<rect x="158" y="96" width="24" height="14" fill="{F}"/>
+<rect x="160" y="40" width="20" height="14" fill="{F}" stroke-dasharray="4 3"/>
+<path d="M170 58 L170 84" stroke-width="3"/>
