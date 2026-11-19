@@ -1,0 +1,5 @@
+<rect x="40" y="60" width="120" height="80" rx="10" fill="{F}"/>
+<path d="M60 100 H90 M80 90 L90 100 L80 110" stroke-width="4"/>
+<path d="M140 100 H110 M120 90 L110 100 L120 110" stroke-width="4"/>
+<text x="100" y="40" font-size="30" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">?¿</text>
+<text x="100" y="180" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">yes / no</text>

@@ -1,0 +1,7 @@
+<circle cx="100" cy="90" r="38" fill="{F}"/>
+<circle cx="85" cy="85" r="3.5" fill="{L}" stroke="none"/>
+<path d="M107 85 Q115 80 120 85" stroke-width="3"/>
+<path d="M85 105 Q100 115 115 105"/>
+<path d="M100 105 Q105 125 112 112" fill="{L}" stroke="none"/>
+<path d="M62 85 L40 70 M138 85 L160 70" />
+<text x="100" y="175" font-size="26" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">NOPE!</text>

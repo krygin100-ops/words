@@ -1,0 +1,6 @@
+<rect x="85" y="80" width="30" height="90" fill="{F}"/>
+<path d="M100 80 V65"/>
+<path d="M100 65 Q88 50 100 30 Q112 50 100 65 Z" fill="{L}"/>
+<path d="M70 170 H130"/>
+<path d="M140 40 Q155 30 160 45 Q150 50 140 40" fill="{F}"/>
+<text x="45" y="60" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">3 AM</text>

@@ -1,0 +1,4 @@
+<rect x="40" y="40" width="120" height="120" rx="8" fill="{F}"/>
+<circle cx="170" cy="100" r="18" fill="{F}"/>
+<path d="M168 95 L172 95" stroke-width="3"/>
+<text x="100" y="108" font-size="30" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">?</text>

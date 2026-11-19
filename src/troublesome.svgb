@@ -1,0 +1,8 @@
+<circle cx="100" cy="95" r="45" fill="{F}"/>
+<path d="M75 75 L92 82 M125 75 L108 82"/>
+<circle cx="86" cy="90" r="3.5" fill="{L}" stroke="none"/>
+<circle cx="114" cy="90" r="3.5" fill="{L}" stroke="none"/>
+<path d="M82 120 Q100 128 118 120"/>
+<path d="M70 50 L60 30 L80 45 M130 50 L140 30 L120 45" fill="{F}"/>
+<path d="M150 150 L170 175 M30 150 L50 130 M50 175 L30 170" stroke-width="3"/>
+<text x="100" y="185" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">trouble!</text>
