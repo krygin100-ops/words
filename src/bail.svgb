@@ -1,0 +1,7 @@
+<rect x="30" y="70" width="70" height="100" fill="{F}"/>
+<path d="M30 70 V170 M48 70 V170 M66 70 V170 M84 70 V170 M100 70 V170" stroke="#000" stroke-width="4"/>
+<path d="M100 120 L150 120"/>
+<rect x="135" y="95" width="50" height="35" rx="5" fill="{F}"/>
+<text x="160" y="120" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">$$</text>
+<path d="M115 60 L120 45 L135 50" stroke-width="3"/>
+<text x="140" y="40" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">out!</text>

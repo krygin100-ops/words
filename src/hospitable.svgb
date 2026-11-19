@@ -1,0 +1,7 @@
+<path d="M20 100 L80 50 L140 100"/>
+<path d="M30 95 V180 H130 V95" fill="{F}"/>
+<rect x="65" y="125" width="30" height="55" fill="#000"/>
+<circle cx="160" cy="110" r="16" fill="{F}"/>
+<path d="M140 190 Q140 135 160 135 Q180 135 180 190" fill="{F}"/>
+<path d="M140 150 L115 135 M180 150 L195 130"/>
+<text x="80" y="35" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">Welcome!</text>

@@ -1,0 +1,6 @@
+<circle cx="100" cy="95" r="45" fill="{F}"/>
+<path d="M78 85 Q86 92 94 85 M106 85 Q114 92 122 85" stroke-width="3"/>
+<path d="M82 120 Q100 108 118 120"/>
+<path d="M88 95 Q85 108 88 112" fill="{L}" stroke="none"/>
+<text x="100" y="180" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">but whyyy</text>
+<path d="M150 40 Q160 50 150 60 Q140 70 150 80" stroke-width="3"/>

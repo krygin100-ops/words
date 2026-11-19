@@ -1,0 +1,6 @@
+<path d="M40 190 V110 Q40 70 80 70 Q120 70 120 110 V190 Z" fill="{F}" transform="rotate(-10 80 130)"/>
+<path d="M70 110 H90 M80 100 V130" stroke="#000" stroke-width="5" transform="rotate(-10 80 130)"/>
+<circle cx="150" cy="70" r="16" fill="{F}" opacity="0.7"/>
+<path d="M150 86 V130 M150 100 L135 85 M150 100 L165 85" opacity="0.7"/>
+<path d="M150 40 V30 M130 45 L122 38 M170 45 L178 38" stroke-width="3"/>
+<text x="160" y="170" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">I'm back!</text>

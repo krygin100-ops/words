@@ -1,0 +1,9 @@
+<circle cx="70" cy="80" r="30" fill="{F}"/>
+<path d="M55 75 L63 70 M78 70 L86 75" stroke-width="3"/>
+<text x="59" y="88" font-size="16" fill="{L}" stroke="none" font-family="sans-serif" text-anchor="middle">$</text>
+<text x="82" y="88" font-size="16" fill="{L}" stroke="none" font-family="sans-serif" text-anchor="middle">$</text>
+<path d="M60 100 Q70 108 82 98"/>
+<path d="M40 190 Q40 120 70 115 Q100 120 100 190" fill="{F}"/>
+<g fill="{L}" stroke="none"><circle cx="130" cy="170" r="14"/><circle cx="155" cy="170" r="14"/><circle cx="142" cy="148" r="14"/><circle cx="170" cy="150" r="12"/></g>
+<path d="M100 140 L125 150" />
+<text x="150" y="60" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">MORE!</text>

@@ -1,0 +1,4 @@
+<g fill="{F}"><circle cx="40" cy="60" r="12"/><circle cx="80" cy="60" r="12"/><circle cx="120" cy="60" r="12"/><circle cx="160" cy="60" r="12"/><circle cx="40" cy="120" r="12"/><circle cx="80" cy="120" r="12"/><circle cx="120" cy="120" r="12"/><circle cx="160" cy="120" r="12"/></g>
+<g fill="{F}"><rect x="30" y="40" width="20" height="8"/><rect x="70" y="40" width="20" height="8"/><rect x="110" y="40" width="20" height="8"/><rect x="150" y="40" width="20" height="8"/><rect x="30" y="100" width="20" height="8"/><rect x="70" y="100" width="20" height="8"/><rect x="110" y="100" width="20" height="8"/><rect x="150" y="100" width="20" height="8"/></g>
+<path d="M40 72 V95 M80 72 V95 M120 72 V95 M160 72 V95 M40 132 V160 M80 132 V160 M120 132 V160 M160 132 V160"/>
+<path d="M20 180 H180" stroke-width="3"/>

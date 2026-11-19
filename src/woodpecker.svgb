@@ -1,0 +1,8 @@
+<rect x="140" y="10" width="45" height="185" fill="{F}"/>
+<ellipse cx="95" cy="110" rx="30" ry="45" fill="{F}" transform="rotate(-15 95 110)"/>
+<circle cx="110" cy="60" r="20" fill="{F}"/>
+<path d="M90 45 Q100 30 115 40" stroke-width="7"/>
+<path d="M128 60 L142 62" stroke-width="5"/>
+<circle cx="115" cy="55" r="3.5" fill="{L}" stroke="none"/>
+<path d="M75 150 L60 185 L85 165" fill="{F}"/>
+<text x="40" y="50" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">tok tok</text>
