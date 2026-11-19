@@ -1,0 +1,5 @@
+<rect x="40" y="120" width="120" height="60" rx="6" fill="{F}"/>
+<path d="M90 20 Q90 50 74 60 Q90 70 106 60 Q90 50 90 20 Z" fill="{L}" stroke="none"/>
+<path d="M70 70 Q64 84 70 90 Q76 84 70 70 Z M120 60 Q114 74 120 80 Q126 74 120 60 Z" fill="{L}" stroke="none"/>
+<path d="M60 140 Q70 130 80 140 M110 150 Q120 140 130 150" stroke-width="3"/>
+<path d="M90 92 V110 M70 100 V114 M120 92 V110" stroke-width="3" stroke-dasharray="3 5"/>
