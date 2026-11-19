@@ -1,0 +1,6 @@
+<path d="M20 180 L180 180"/>
+<rect x="30" y="140" width="30" height="40" fill="{F}"/>
+<rect x="80" y="110" width="30" height="70" fill="{F}"/>
+<rect x="130" y="70" width="30" height="110" fill="{F}"/>
+<path d="M40 110 L140 30 M120 30 L140 30 L140 50"/>
+<path d="M170 30 L170 50 M160 40 L180 40" stroke-width="4"/>

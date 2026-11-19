@@ -1,0 +1,6 @@
+<path d="M100 30 L100 170 M64 170 L136 170"/>
+<path d="M40 60 L160 60"/>
+<circle cx="100" cy="30" r="6" fill="{L}"/>
+<path d="M40 60 L22 104 L58 104 Z M160 60 L142 104 L178 104 Z"/>
+<path d="M22 104 Q40 118 58 104 M142 104 Q160 118 178 104" fill="{F}"/>
+<rect x="114" y="120" width="40" height="50" rx="3" fill="{F}" transform="rotate(10 134 145)"/>
