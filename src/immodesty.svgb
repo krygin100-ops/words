@@ -1,0 +1,7 @@
+<circle cx="100" cy="70" r="22" fill="{F}"/>
+<path d="M88 64 Q92 60 96 64 M104 64 Q108 60 112 64" stroke-width="3"/>
+<path d="M88 80 Q100 92 112 80 Z" fill="{L}"/>
+<path d="M50 196 Q46 100 100 100 Q154 100 150 196" fill="{F}"/>
+<path d="M150 130 L176 106 M50 130 L24 106" stroke-width="9"/>
+<path d="M30 30 l4 10 l10 4 l-10 4 l-4 10 l-4 -10 l-10 -4 l10 -4 z M170 30 l4 10 l10 4 l-10 4 l-4 10 l-4 -10 l-10 -4 l10 -4 z" fill="{L}" stroke="none"/>
+<text x="100" y="160" font-family="Arial" font-size="22" font-weight="bold" text-anchor="middle" fill="#000" stroke="none">ME</text>

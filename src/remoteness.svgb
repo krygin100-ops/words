@@ -1,0 +1,5 @@
+<circle cx="30" cy="100" r="12" fill="{F}"/>
+<circle cx="170" cy="100" r="12" fill="{F}"/>
+<path d="M50 100 H150" stroke-width="3" stroke-dasharray="4 8"/>
+<path d="M50 90 L40 100 L50 110 M150 90 L160 100 L150 110" stroke-width="4"/>
+<text x="100" y="80" font-family="Arial" font-size="24" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">1000 km</text>

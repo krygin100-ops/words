@@ -1,0 +1,8 @@
+<rect x="20" y="70" width="60" height="60" rx="6" fill="{F}"/>
+<text x="50" y="110" font-family="Arial" font-size="26" font-weight="bold" text-anchor="middle" fill="#000" stroke="none">cat</text>
+<path d="M90 95 H110 M90 105 H110" stroke-width="5"/>
+<ellipse cx="150" cy="110" rx="26" ry="20" fill="{F}"/>
+<circle cx="150" cy="80" r="16" fill="{F}"/>
+<path d="M140 70 L136 58 L146 66 M160 70 L164 58 L154 66" fill="{F}"/>
+<circle cx="146" cy="78" r="3" fill="{L}" stroke="none"/>
+<circle cx="156" cy="78" r="3" fill="{L}" stroke="none"/>
