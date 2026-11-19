@@ -1,0 +1,6 @@
+<rect x="40" y="90" width="120" height="90" rx="6" fill="{F}"/>
+<path d="M40 90 L60 40 H140 L160 90" fill="{F}" transform="rotate(-20 40 90)"/>
+<path d="M100 130 l10 24 l26 2 l-20 16" stroke-width="0"/>
+<path d="M100 100 L80 60 M100 100 V40 M100 100 L120 60" stroke-width="4"/>
+<circle cx="100" cy="140" r="16" fill="{L}" stroke="none"/>
+<path d="M100 120 V110" stroke-width="3"/>
