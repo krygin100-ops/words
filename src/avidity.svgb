@@ -1,0 +1,7 @@
+<circle cx="100" cy="90" r="36" fill="{F}"/>
+<text x="86" y="100" font-family="Arial" font-size="22" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">$</text>
+<text x="116" y="100" font-family="Arial" font-size="22" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">$</text>
+<path d="M84 114 Q100 124 116 114"/>
+<path d="M98 120 Q100 132 104 120" fill="{L}" stroke="none"/>
+<path d="M60 196 Q60 136 100 136 Q140 136 140 196" fill="{F}"/>
+<path d="M60 150 L30 130 M140 150 L170 130" stroke-width="9"/>
