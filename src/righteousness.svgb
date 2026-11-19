@@ -1,0 +1,6 @@
+<path d="M100 30 V160" stroke-width="5"/>
+<path d="M40 70 H160" stroke-width="7"/>
+<path d="M30 70 L50 120 L70 70 M130 70 L150 120 L170 70" stroke-width="4"/>
+<path d="M30 120 H70 M130 120 H170" stroke-width="5"/>
+<path d="M70 180 H130" stroke-width="7"/>
+<ellipse cx="100" cy="20" rx="22" ry="6" stroke-width="4"/>
