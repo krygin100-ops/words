@@ -1,0 +1,4 @@
+<rect x="40" y="90" width="120" height="20" rx="6" fill="{F}" transform="rotate(-30 100 100)"/>
+<path d="M140 60 Q160 40 180 60 L166 74 L152 66 L146 80 Z" fill="{F}" transform="rotate(-30 160 60)"/>
+<path d="M30 150 l12 12 l24 -28" stroke-width="7"/>
+<path d="M140 160 c-6 -7 -16 -2 -11 6 l11 11 l11 -11 c5 -8 -5 -13 -11 -6 z" fill="{L}" stroke="none"/>

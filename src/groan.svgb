@@ -1,0 +1,6 @@
+<circle cx="80" cy="100" r="34" fill="{F}"/>
+<path d="M64 92 L74 96 L64 100 M96 92 L86 96 L96 100" stroke-width="3"/>
+<ellipse cx="80" cy="118" rx="8" ry="8" fill="#000"/>
+<path d="M44 196 Q44 146 80 146 Q116 146 116 196" fill="{F}"/>
+<path d="M120 90 Q130 80 140 90 Q150 100 160 90 Q170 80 180 90" stroke-width="4"/>
+<text x="160" y="70" font-family="Arial" font-size="22" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">ugh</text>

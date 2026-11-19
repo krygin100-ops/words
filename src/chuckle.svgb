@@ -1,0 +1,6 @@
+<circle cx="100" cy="100" r="44" fill="{F}"/>
+<path d="M78 90 Q86 82 94 90 M106 90 Q114 82 122 90" stroke-width="4"/>
+<path d="M84 112 Q100 128 116 112" stroke-width="4"/>
+<path d="M140 50 l4 -10 M150 64 l12 -4 M154 80 h12" stroke-width="3"/>
+<text x="160" y="40" font-family="Arial" font-size="18" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">hehe</text>
+<path d="M60 196 Q60 150 100 150 Q140 150 140 196" fill="{F}"/>
