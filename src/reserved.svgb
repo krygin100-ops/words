@@ -1,0 +1,7 @@
+<circle cx="100" cy="80" r="24" fill="{F}"/>
+<path d="M90 78 H98 M102 78 H110" stroke-width="3"/>
+<path d="M94 92 H106"/>
+<path d="M60 196 Q60 114 100 114 Q140 114 140 196" fill="{F}"/>
+<path d="M66 140 L110 160 M134 140 L90 160" stroke-width="9"/>
+<rect x="140" y="40" width="50" height="24" rx="4"/>
+<text x="165" y="58" font-family="Arial" font-size="12" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">PRIVATE</text>

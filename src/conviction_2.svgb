@@ -1,0 +1,6 @@
+<rect x="50" y="110" width="100" height="70" fill="{F}"/>
+<path d="M150 90 L176 64" stroke-width="7"/>
+<rect x="164" y="44" width="30" height="16" rx="3" fill="{F}" transform="rotate(-45 179 52)"/>
+<rect x="40" y="30" width="80" height="60" rx="4" fill="{F}"/>
+<text x="80" y="68" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle" fill="#000" stroke="none">GUILTY</text>
+<path d="M60 140 H140" stroke="#000" stroke-width="3"/>
