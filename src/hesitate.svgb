@@ -1,0 +1,6 @@
+<circle cx="100" cy="60" r="20" fill="{F}"/>
+<path d="M100 80 V130 M100 130 L85 175 M100 130 L115 175 M100 95 L80 110 M100 95 L120 110"/>
+<path d="M20 180 H70 M130 180 H180"/>
+<path d="M75 180 Q100 195 125 180" stroke-width="2" stroke-dasharray="4 4"/>
+<text x="150" y="40" font-size="26" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">umm</text>
+<text x="45" y="50" font-size="26" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">?</text>

@@ -1,0 +1,6 @@
+<circle cx="80" cy="100" r="40" fill="{F}"/>
+<path d="M62 85 L76 92 M98 85 L84 92" stroke-width="5"/>
+<ellipse cx="80" cy="120" rx="10" ry="8" fill="#000"/>
+<path d="M120 110 L160 100"/>
+<path d="M160 85 L175 80 V120 L160 115" fill="{F}"/>
+<text x="140" y="50" font-size="28" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">NOW!</text>

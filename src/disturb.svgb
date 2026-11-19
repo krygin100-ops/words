@@ -1,0 +1,8 @@
+<path d="M20 160 H180"/>
+<rect x="30" y="130" width="140" height="30" rx="8" fill="{F}"/>
+<circle cx="60" cy="115" r="16" fill="{F}"/>
+<path d="M52 112 L58 118 M64 112 L58 118" stroke-width="3"/>
+<rect x="110" y="40" width="70" height="40" rx="5" fill="{F}"/>
+<text x="145" y="66" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">DO NOT</text>
+<path d="M100 95 L95 85 M120 100 L130 92 M80 85 L75 70" stroke-width="3"/>
+<text x="60" y="60" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">RING!</text>

@@ -1,0 +1,5 @@
+<circle cx="100" cy="100" r="55" fill="{F}"/>
+<path d="M100 100 V60 M100 100 L130 112" stroke-width="6"/>
+<path d="M160 50 A70 70 0 0 1 165 140" stroke-width="4"/>
+<path d="M155 133 L165 145 L175 130" stroke-width="4"/>
+<text x="100" y="185" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">see you later</text>

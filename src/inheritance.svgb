@@ -1,0 +1,5 @@
+<path d="M50 40 H150 V170 H50 Z" fill="{F}"/>
+<text x="100" y="75" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="serif">WILL</text>
+<path d="M65 95 H135 M65 115 H135 M65 135 H110" stroke="#000" stroke-width="3"/>
+<circle cx="125" cy="155" r="12" fill="{L}" stroke="none"/>
+<g fill="{L}" stroke="none"><circle cx="30" cy="160" r="10"/><circle cx="170" cy="160" r="10"/><circle cx="25" cy="140" r="8"/></g>

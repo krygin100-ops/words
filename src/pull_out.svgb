@@ -1,0 +1,6 @@
+<rect x="30" y="60" width="90" height="110" rx="6" fill="{F}"/>
+<circle cx="150" cy="90" r="14" fill="{F}"/>
+<path d="M150 104 V140 L140 170 M150 140 L162 170 M150 115 L172 105"/>
+<path d="M120 115 H138 M130 108 L138 115 L130 122" stroke-width="3"/>
+<text x="75" y="120" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">DEAL</text>
+<path d="M50 90 L100 140 M100 90 L50 140" stroke="#000" stroke-width="5"/>

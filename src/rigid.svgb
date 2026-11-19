@@ -1,0 +1,5 @@
+<rect x="30" y="80" width="140" height="40" fill="{F}"/>
+<path d="M100 40 V75 M90 65 L100 77 L110 65" stroke-width="4"/>
+<path d="M30 130 H50 M150 130 H170" stroke-width="4"/>
+<path d="M30 140 L40 160 H20 Z M170 140 L180 160 H160 Z" fill="{F}"/>
+<text x="100" y="185" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">won't bend</text>
