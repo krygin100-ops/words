@@ -1,0 +1,5 @@
+<rect x="30" y="40" width="50" height="50" fill="{F}" transform="rotate(-15 55 65)"/>
+<rect x="110" y="30" width="50" height="50" fill="{F}" transform="rotate(20 135 55)"/>
+<rect x="40" y="120" width="50" height="50" fill="{F}" transform="rotate(10 65 145)"/>
+<rect x="120" y="120" width="50" height="50" fill="{F}" transform="rotate(-25 145 145)"/>
+<path d="M90 90 L80 80 M110 90 L120 80 M90 110 L80 120 M110 110 L120 120" stroke-width="4"/>

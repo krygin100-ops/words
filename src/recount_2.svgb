@@ -1,0 +1,9 @@
+<circle cx="60" cy="90" r="22" fill="{F}"/>
+<circle cx="68" cy="86" r="3.5" fill="{L}" stroke="none"/>
+<ellipse cx="76" cy="100" rx="5" ry="4" fill="{L}" stroke="none"/>
+<path d="M26 196 Q26 122 60 122 Q94 122 94 196" fill="{F}"/>
+<path d="M100 40 H180 V110 H120 L104 126 L110 110 H100 Z" fill="{F}"/>
+<rect x="114" y="54" width="22" height="18" rx="2"/>
+<rect x="144" y="54" width="22" height="18" rx="2"/>
+<rect x="114" y="80" width="22" height="18" rx="2"/>
+<rect x="144" y="80" width="22" height="18" rx="2"/>
