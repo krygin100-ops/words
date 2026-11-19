@@ -1,0 +1,11 @@
+<circle cx="50" cy="100" r="30" fill="{F}"/>
+<circle cx="40" cy="94" r="4" fill="{L}" stroke="none"/>
+<circle cx="60" cy="94" r="4" fill="{L}" stroke="none"/>
+<path d="M40 112 Q50 118 60 112"/>
+<circle cx="150" cy="100" r="30" stroke-dasharray="5 5" stroke-width="4"/>
+<circle cx="140" cy="94" r="4" fill="{L}" stroke="none"/>
+<circle cx="160" cy="94" r="4" fill="{L}" stroke="none"/>
+<path d="M140 112 Q150 118 160 112"/>
+<path d="M88 100 H112" stroke-width="5"/>
+<path d="M90 90 Q100 70 110 90" stroke-width="0"/>
+<text x="100" y="80" font-family="Arial" font-size="30" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">≈</text>
