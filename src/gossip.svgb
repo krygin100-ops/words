@@ -1,0 +1,11 @@
+<circle cx="50" cy="90" r="18" fill="{F}"/>
+<circle cx="56" cy="86" r="3.5" fill="{L}" stroke="none"/>
+<path d="M58 98 Q64 102 68 96"/>
+<path d="M20 196 Q20 120 50 120 Q80 120 80 196" fill="{F}"/>
+<path d="M70 80 L84 70" stroke-width="5"/>
+<circle cx="140" cy="90" r="18" fill="{F}"/>
+<circle cx="134" cy="86" r="5" fill="{L}" stroke="none"/>
+<ellipse cx="136" cy="98" rx="4" ry="4" fill="#000"/>
+<path d="M110 196 Q110 120 140 120 Q170 120 170 196" fill="{F}"/>
+<path d="M120 86 Q114 96 120 106" stroke-width="5"/>
+<text x="100" y="50" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">psst..</text>

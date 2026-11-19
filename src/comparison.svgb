@@ -1,0 +1,5 @@
+<rect x="20" y="70" width="60" height="80" rx="6" fill="{F}"/>
+<rect x="120" y="50" width="60" height="100" rx="6" fill="{F}"/>
+<path d="M90 90 H110 M90 110 H110" stroke-width="0"/>
+<text x="100" y="114" font-family="Arial" font-size="34" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">vs</text>
+<path d="M50 30 Q100 0 150 30" stroke-width="4"/>

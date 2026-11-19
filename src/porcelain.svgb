@@ -1,0 +1,6 @@
+<path d="M50 80 H150 L140 160 Q130 180 100 180 Q70 180 60 160 Z" fill="{F}"/>
+<path d="M150 100 Q174 100 170 120 Q166 136 146 136" stroke-width="6"/>
+<path d="M70 110 Q80 100 90 110 Q100 120 110 110 Q120 100 130 110" stroke="#000" stroke-width="3"/>
+<circle cx="80" cy="140" r="5" fill="#000"/>
+<circle cx="120" cy="140" r="5" fill="#000"/>
+<ellipse cx="100" cy="190" rx="70" ry="6" stroke-width="3"/>
