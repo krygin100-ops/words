@@ -1,0 +1,8 @@
+<circle cx="40" cy="100" r="22" fill="{F}"/>
+<circle cx="160" cy="100" r="22" fill="{F}"/>
+<path d="M70 80 H130 M118 68 L130 80 L118 92" stroke-width="5"/>
+<path d="M130 130 H70 M82 118 L70 130 L82 142" stroke-width="5" stroke-dasharray="6 6"/>
+<circle cx="100" cy="44" r="16" fill="{F}"/>
+<text x="100" y="52" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle" fill="#000" stroke="none">$</text>
+<circle cx="100" cy="166" r="12"/>
+<text x="100" y="172" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">%</text>

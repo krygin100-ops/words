@@ -1,0 +1,4 @@
+<rect x="20" y="30" width="160" height="90" fill="{F}"/>
+<text x="100" y="90" font-family="Arial" font-size="40" font-weight="bold" text-anchor="middle" fill="#000" stroke="none">SALE!</text>
+<path d="M60 120 V190 M140 120 V190" stroke-width="8"/>
+<path d="M20 190 H180" stroke-width="3"/>

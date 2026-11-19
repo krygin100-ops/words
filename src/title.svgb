@@ -1,0 +1,4 @@
+<rect x="30" y="30" width="140" height="150" rx="6" fill="{F}"/>
+<rect x="44" y="44" width="112" height="30" fill="#000"/>
+<text x="100" y="66" font-family="Arial" font-size="18" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">TITLE</text>
+<path d="M44 96 H156 M44 116 H156 M44 136 H156 M44 156 H130" stroke="#000" stroke-width="3"/>
