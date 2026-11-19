@@ -1,0 +1,5 @@
+<rect x="40" y="30" width="110" height="140" rx="6" fill="{F}"/>
+<path d="M60 60 H130 M60 80 H130 M60 100 H110" stroke-width="3"/>
+<text x="95" y="150" font-family="Arial" font-size="30" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">§1</text>
+<path d="M150 120 L180 90" stroke-width="7"/>
+<rect x="160" y="70" width="36" height="20" rx="4" fill="{F}" transform="rotate(-45 178 80)"/>
