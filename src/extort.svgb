@@ -1,0 +1,10 @@
+<circle cx="60" cy="70" r="20" fill="{F}"/>
+<rect x="40" y="62" width="40" height="8" fill="#000" stroke="none"/>
+<path d="M35 190 Q35 105 60 105 Q85 105 85 190" fill="{F}"/>
+<path d="M85 120 L110 110 L110 100"/>
+<circle cx="150" cy="80" r="18" fill="{F}"/>
+<circle cx="145" cy="78" r="5"/>
+<circle cx="157" cy="78" r="5"/>
+<path d="M130 190 Q130 115 150 115 Q170 115 170 190" fill="{F}"/>
+<rect x="115" y="125" width="30" height="18" fill="{L}" transform="rotate(-15 130 134)"/>
+<text x="90" y="40" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">PAY UP</text>

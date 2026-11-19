@@ -1,0 +1,5 @@
+<circle cx="60" cy="100" r="40" fill="{F}"/>
+<circle cx="52" cy="90" r="3.5" fill="{L}" stroke="none"/>
+<ellipse cx="85" cy="110" rx="6" ry="8" fill="#000"/>
+<path d="M100 105 Q130 90 160 105 M100 115 Q140 115 175 125 M100 125 Q130 140 160 150" stroke-width="4"/>
+<text x="150" y="65" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">phew</text>

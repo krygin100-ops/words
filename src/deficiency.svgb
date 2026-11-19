@@ -1,0 +1,4 @@
+<rect x="30" y="70" width="130" height="60" rx="8" stroke-width="6"/>
+<rect x="38" y="78" width="25" height="44" fill="{F}" stroke="none"/>
+<path d="M160 88 H175 V112 H160" stroke-width="6"/>
+<text x="100" y="170" font-size="26" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">LOW</text>
