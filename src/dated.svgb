@@ -1,0 +1,6 @@
+<rect x="40" y="40" width="120" height="130" rx="8" fill="{F}"/>
+<path d="M40 74 H160" stroke-width="5"/>
+<path d="M70 26 V54 M130 26 V54" stroke-width="7"/>
+<text x="100" y="140" font-family="Arial" font-size="38" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">1985</text>
+<path d="M150 170 Q160 180 170 170 M30 170 Q40 180 50 170" stroke-width="0"/>
+<path d="M160 30 l10 -10 M170 40 l14 -4" stroke-width="0"/>
