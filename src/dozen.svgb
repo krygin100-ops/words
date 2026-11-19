@@ -1,0 +1,14 @@
+<circle cx="40" cy="60" r="14" fill="{F}"/>
+<circle cx="80" cy="60" r="14" fill="{F}"/>
+<circle cx="120" cy="60" r="14" fill="{F}"/>
+<circle cx="160" cy="60" r="14" fill="{F}"/>
+<circle cx="40" cy="100" r="14" fill="{F}"/>
+<circle cx="80" cy="100" r="14" fill="{F}"/>
+<circle cx="120" cy="100" r="14" fill="{F}"/>
+<circle cx="160" cy="100" r="14" fill="{F}"/>
+<circle cx="40" cy="140" r="14" fill="{F}"/>
+<circle cx="80" cy="140" r="14" fill="{F}"/>
+<circle cx="120" cy="140" r="14" fill="{F}"/>
+<circle cx="160" cy="140" r="14" fill="{F}"/>
+<rect x="16" y="36" width="168" height="128" rx="10" stroke-width="4"/>
+<text x="100" y="192" font-family="Arial" font-size="22" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">12</text>

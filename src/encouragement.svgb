@@ -1,0 +1,11 @@
+<circle cx="60" cy="80" r="18" fill="{F}"/>
+<circle cx="66" cy="76" r="3.5" fill="{L}" stroke="none"/>
+<path d="M60 88 Q68 96 76 86"/>
+<path d="M30 196 Q30 110 60 110 Q90 110 90 196" fill="{F}"/>
+<path d="M90 130 L120 120" stroke-width="9"/>
+<circle cx="150" cy="110" r="16" fill="{F}"/>
+<circle cx="146" cy="106" r="3" fill="{L}" stroke="none"/>
+<circle cx="156" cy="106" r="3" fill="{L}" stroke="none"/>
+<path d="M144 118 Q150 122 156 118" stroke-width="3"/>
+<path d="M126 196 Q126 140 150 140 Q174 140 174 196" fill="{F}"/>
+<text x="90" y="50" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">You can!</text>

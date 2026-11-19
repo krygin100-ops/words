@@ -1,0 +1,7 @@
+<circle cx="100" cy="100" r="16" fill="{L}" stroke="none"/>
+<ellipse cx="100" cy="100" rx="70" ry="24" stroke-width="4"/>
+<ellipse cx="100" cy="100" rx="70" ry="24" stroke-width="4" transform="rotate(60 100 100)"/>
+<ellipse cx="100" cy="100" rx="70" ry="24" stroke-width="4" transform="rotate(-60 100 100)"/>
+<circle cx="170" cy="100" r="6" fill="{F}"/>
+<circle cx="65" cy="40" r="6" fill="{F}"/>
+<circle cx="65" cy="160" r="6" fill="{F}"/>
