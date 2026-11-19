@@ -1,0 +1,7 @@
+<rect x="20" y="60" width="70" height="90" fill="{F}"/>
+<path d="M30 130 Q40 110 50 130 Q60 145 75 120" stroke-width="3"/>
+<rect x="110" y="60" width="70" height="90" fill="{F}"/>
+<path d="M120 130 Q130 110 140 130 Q150 145 165 120" stroke-width="3"/>
+<path d="M150 50 L185 20" stroke-width="6"/>
+<text x="55" y="45" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">REAL</text>
+<text x="145" y="180" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">"REAL"</text>

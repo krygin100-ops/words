@@ -1,0 +1,6 @@
+<path d="M10 150 Q100 120 190 150 V190 H10 Z" fill="{F}"/>
+<path d="M60 140 L80 100 H140 L150 135 Z" fill="{F}"/>
+<path d="M110 100 V40"/>
+<path d="M110 40 L150 90 H110" />
+<path d="M10 110 Q30 100 50 110 M150 110 Q170 100 190 110" stroke-width="3"/>
+<text x="55" y="60" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">stuck!</text>

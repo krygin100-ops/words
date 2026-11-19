@@ -1,0 +1,6 @@
+<circle cx="100" cy="80" r="25" fill="{F}"/>
+<path d="M90 82 Q100 90 110 82" stroke-width="3"/>
+<path d="M60 190 Q60 115 100 115 Q140 115 140 190" fill="{F}"/>
+<path d="M60 145 Q100 175 140 145" stroke-width="7"/>
+<g fill="{L}" stroke="none"><circle cx="85" cy="150" r="7"/><circle cx="100" cy="155" r="7"/><circle cx="115" cy="150" r="7"/></g>
+<text x="100" y="40" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">MINE!</text>

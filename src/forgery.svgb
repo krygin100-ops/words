@@ -1,0 +1,5 @@
+<rect x="30" y="40" width="140" height="110" fill="{F}"/>
+<path d="M50 70 H150 M50 90 H150 M50 110 H120" stroke-width="3"/>
+<path d="M95 135 Q110 120 120 135 Q130 145 145 128" stroke-width="3"/>
+<text x="100" y="185" font-size="28" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">FAKE</text>
+<circle cx="60" cy="130" r="12" />

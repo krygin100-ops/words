@@ -1,0 +1,3 @@
+<circle cx="100" cy="40" r="16" fill="{F}"/>
+<path d="M100 56 V110 M100 70 L75 95 M100 70 L125 85 M100 110 L75 150 L60 155 M100 110 L125 145 L135 175" stroke-width="7"/>
+<g fill="{F}"><ellipse cx="40" cy="180" rx="10" ry="5"/><ellipse cx="80" cy="170" rx="10" ry="5"/><ellipse cx="160" cy="180" rx="10" ry="5"/></g>

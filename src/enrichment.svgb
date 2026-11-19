@@ -1,0 +1,4 @@
+<path d="M40 170 V110 M80 170 V80 M120 170 V60 M160 170 V30" stroke-width="16"/>
+<path d="M30 170 H170"/>
+<path d="M30 130 L80 70 L120 55 L170 20" stroke-width="3" stroke-dasharray="6 6"/>
+<text x="50" y="60" font-size="30" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">+</text>

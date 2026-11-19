@@ -1,0 +1,7 @@
+<path d="M10 180 H70 Q100 180 110 140"/>
+<rect x="80" y="40" width="60" height="30" rx="8" fill="{F}" transform="rotate(-35 110 55)"/>
+<circle cx="88" cy="80" r="12" fill="{F}"/>
+<circle cx="135" cy="45" r="12" fill="{F}"/>
+<circle cx="120" cy="30" r="10" fill="{F}"/>
+<path d="M130 160 Q150 120 170 100" stroke-dasharray="5 7" stroke-width="3"/>
+<text x="50" y="40" font-size="24" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">WOW</text>
