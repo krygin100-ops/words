@@ -1,0 +1,7 @@
+<path d="M20 170 H180 V140 H20 Z" fill="{F}"/>
+<circle cx="45" cy="125" r="15" fill="{F}"/>
+<path d="M38 120 L43 125 L38 130 M48 120 L53 125" stroke-width="2"/>
+<path d="M60 90 Q55 50 95 50 Q100 20 135 30 Q170 25 170 60 Q185 90 150 95 Q120 110 100 95 Q70 105 60 90 Z" fill="{F}"/>
+<path d="M95 60 L120 55 L115 75 Z M130 60 L150 58 L145 75 Z" fill="#000"/>
+<path d="M105 85 L112 78 L119 85 L126 78 L133 85" stroke="#000" stroke-width="3"/>
+<text x="160" y="125" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">AAH!</text>
