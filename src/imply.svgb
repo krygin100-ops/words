@@ -1,0 +1,8 @@
+<circle cx="70" cy="100" r="26" fill="{F}"/>
+<path d="M58 96 Q62 92 66 96" stroke-width="3"/>
+<path d="M76 92 L88 96" stroke-width="3"/>
+<circle cx="80" cy="98" r="3.5" fill="{L}" stroke="none"/>
+<path d="M60 112 Q72 120 84 110"/>
+<path d="M34 196 Q34 134 70 134 Q106 134 106 196" fill="{F}"/>
+<path d="M110 40 H190 V90 H130 L114 104 L120 90 H110 Z" fill="{F}"/>
+<text x="150" y="74" font-family="Arial" font-size="24" font-weight="bold" text-anchor="middle" fill="#000" stroke="none">hint</text>

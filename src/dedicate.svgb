@@ -1,0 +1,4 @@
+<rect x="40" y="40" width="110" height="140" rx="6" fill="{F}"/>
+<path d="M40 40 V180" stroke-width="8"/>
+<text x="95" y="80" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle" fill="#000" stroke="none">To Mom</text>
+<path d="M95 100 c-8 -9 -22 -3 -15 8 l15 15 l15 -15 c7 -11 -7 -17 -15 -8 z" fill="#000" stroke="none"/>
