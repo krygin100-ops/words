@@ -1,0 +1,4 @@
+<rect x="30" y="60" width="140" height="90" rx="8" stroke-dasharray="10 8" stroke-width="5"/>
+<circle cx="100" cy="105" r="24" fill="{F}"/>
+<path d="M100 92 V105 L110 112" stroke-width="4"/>
+<path d="M60 170 Q100 190 140 170" stroke-width="3" stroke-dasharray="4 6"/>
