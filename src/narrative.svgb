@@ -1,0 +1,5 @@
+<rect x="40" y="30" width="110" height="140" rx="6" fill="{F}"/>
+<path d="M60 60 H130 M60 80 H130 M60 100 H130 M60 120 H110" stroke="#000" stroke-width="3"/>
+<path d="M40 30 Q30 30 30 40 V160 Q30 170 40 170" stroke-width="5"/>
+<path d="M150 140 Q170 130 180 150" stroke-width="0"/>
+<text x="95" y="155" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle" fill="#000" stroke="none">Once upon…</text>
