@@ -1,0 +1,8 @@
+<circle cx="80" cy="60" r="20" fill="{F}"/>
+<rect x="60" y="52" width="40" height="8" fill="#000" stroke="none"/>
+<path d="M60 40 H100 L95 30 H65 Z" fill="{F}"/>
+<path d="M45 190 L55 90 H105 L115 190 Z" fill="{F}"/>
+<path d="M60 110 L80 140 L100 110" stroke="#000" stroke-width="3"/>
+<g fill="{L}" stroke="none"><rect x="62" y="150" width="14" height="10"/><rect x="85" y="150" width="14" height="10"/><circle cx="72" cy="172" r="5"/></g>
+<text x="155" y="80" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">nothing</text>
+<text x="155" y="105" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">to declare</text>

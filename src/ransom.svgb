@@ -1,0 +1,6 @@
+<rect x="40" y="40" width="120" height="120" rx="6" fill="{F}"/>
+<text x="65" y="80" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="serif">P</text>
+<text x="88" y="82" font-size="26" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">A</text>
+<text x="112" y="78" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="monospace">Y</text>
+<text x="100" y="135" font-size="34" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">$$$</text>
+<path d="M60 95 H140" stroke-width="2"/>

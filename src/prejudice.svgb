@@ -1,0 +1,8 @@
+<circle cx="60" cy="80" r="22" fill="{F}"/>
+<rect x="38" y="72" width="44" height="10" fill="#000" stroke="none"/>
+<path d="M35 190 Q35 115 60 115 Q85 115 85 190" fill="{F}"/>
+<circle cx="145" cy="90" r="20" fill="{F}"/>
+<path d="M120 190 Q120 120 145 120 Q170 120 170 190" fill="{F}"/>
+<path d="M90 70 L115 80" stroke-width="3" stroke-dasharray="4 4"/>
+<text x="140" y="50" font-size="26" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">bad!</text>
+<text x="40" y="45" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">I just know</text>

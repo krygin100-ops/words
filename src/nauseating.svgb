@@ -1,0 +1,5 @@
+<path d="M50 120 H150 Q150 170 100 170 Q50 170 50 120 Z" fill="{F}"/>
+<path d="M50 120 H150"/>
+<g fill="#000" stroke="none"><circle cx="80" cy="140" r="6"/><circle cx="115" cy="145" r="7"/></g>
+<path d="M70 105 Q60 85 75 70 Q90 55 80 35 M100 105 Q90 85 105 70 Q120 55 110 35 M130 105 Q120 85 135 70 Q150 55 140 35" stroke-width="4"/>
+<text x="170" y="185" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">blech</text>
