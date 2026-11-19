@@ -1,0 +1,10 @@
+<circle cx="100" cy="50" r="18" fill="{F}"/>
+<circle cx="94" cy="46" r="3.5" fill="{L}" stroke="none"/>
+<circle cx="106" cy="46" r="3.5" fill="{L}" stroke="none"/>
+<path d="M92 58 Q100 66 108 58 Z" fill="{L}"/>
+<path d="M70 120 Q70 76 100 76 Q130 76 130 120" fill="{F}"/>
+<path d="M70 90 L40 100 M130 90 L160 100" stroke-width="7"/>
+<path d="M40 100 L20 80 M160 100 L180 80" stroke-width="4"/>
+<ellipse cx="100" cy="150" rx="60" ry="16" fill="{F}"/>
+<path d="M40 150 V180 Q100 196 160 180 V150" fill="{F}"/>
+<path d="M50 160 L70 180 L90 160 L110 180 L130 160 L150 180" stroke="#000" stroke-width="3"/>
