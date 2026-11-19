@@ -1,0 +1,6 @@
+<rect x="20" y="70" width="32" height="60" fill="{L}" stroke="none"/>
+<rect x="52" y="70" width="32" height="60" fill="{L}" opacity="0.75" stroke="none"/>
+<rect x="84" y="70" width="32" height="60" fill="{L}" opacity="0.5" stroke="none"/>
+<rect x="116" y="70" width="32" height="60" fill="{F}" stroke="none"/>
+<rect x="148" y="70" width="32" height="60" fill="{F}" opacity="0.5" stroke="none"/>
+<rect x="20" y="70" width="160" height="60" stroke-width="3"/>

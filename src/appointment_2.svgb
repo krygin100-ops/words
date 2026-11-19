@@ -1,0 +1,7 @@
+<circle cx="100" cy="70" r="22" fill="{F}"/>
+<path d="M65 190 Q65 105 100 105 Q135 105 135 190" fill="{F}"/>
+<path d="M100 105 L92 125 L100 145 L108 125 Z" fill="#000"/>
+<rect x="135" y="40" width="50" height="30" rx="4" fill="{F}"/>
+<text x="160" y="61" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">CEO</text>
+<path d="M140 85 L125 110" stroke-width="3"/>
+<g fill="{L}" stroke="none"><path d="M40 50 L43 40 L46 50 L56 53 L46 56 L43 66 L40 56 L30 53 Z"/></g>

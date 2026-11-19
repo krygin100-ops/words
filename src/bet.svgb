@@ -1,0 +1,7 @@
+<circle cx="50" cy="80" r="18" fill="{F}"/>
+<circle cx="150" cy="80" r="18" fill="{F}"/>
+<path d="M28 190 Q28 110 50 110 Q72 110 72 190 M128 190 Q128 110 150 110 Q172 110 172 190" fill="{F}"/>
+<path d="M72 130 L95 125 M128 130 L105 125"/>
+<circle cx="100" cy="122" r="7" fill="{L}" stroke="none"/>
+<g fill="{L}" stroke="none"><circle cx="85" cy="175" r="10"/><circle cx="100" cy="175" r="10"/><circle cx="115" cy="175" r="10"/><circle cx="100" cy="160" r="10"/></g>
+<text x="100" y="40" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">deal?</text>
