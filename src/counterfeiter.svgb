@@ -1,0 +1,7 @@
+<circle cx="70" cy="70" r="22" fill="{F}"/>
+<rect x="48" y="60" width="44" height="10" fill="#000" stroke="none"/>
+<path d="M40 190 Q40 110 70 110 Q100 110 100 190" fill="{F}"/>
+<rect x="105" y="110" width="80" height="40" rx="5" fill="{F}"/>
+<text x="145" y="138" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">$3</text>
+<path d="M100 130 L108 125" />
+<text x="145" y="90" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">legit!</text>

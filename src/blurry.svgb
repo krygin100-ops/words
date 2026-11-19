@@ -1,0 +1,8 @@
+<circle cx="100" cy="100" r="45" fill="{F}" opacity="0.6"/>
+<circle cx="108" cy="104" r="45" opacity="0.5" stroke-width="3"/>
+<circle cx="92" cy="96" r="45" opacity="0.5" stroke-width="3"/>
+<circle cx="85" cy="92" r="5" fill="{L}" stroke="none" opacity="0.6"/>
+<circle cx="115" cy="92" r="5" fill="{L}" stroke="none" opacity="0.6"/>
+<circle cx="90" cy="95" r="5" fill="{L}" stroke="none" opacity="0.4"/>
+<circle cx="120" cy="95" r="5" fill="{L}" stroke="none" opacity="0.4"/>
+<text x="100" y="180" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">huh?</text>

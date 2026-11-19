@@ -1,0 +1,4 @@
+<circle cx="100" cy="80" r="40" fill="{F}"/>
+<path d="M80 70 Q100 50 120 70 Q115 95 100 95 Q85 95 80 70" />
+<path d="M100 120 V185 M100 150 Q80 140 70 150 Q85 160 100 150" />
+<text x="155" y="180" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="serif">deep red</text>

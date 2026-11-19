@@ -1,0 +1,8 @@
+<path d="M15 180 V110 L45 90 L75 110 V180" fill="{F}"/>
+<path d="M70 180 V120 H120 V180" fill="{F}" transform="rotate(4 95 150)"/>
+<path d="M115 180 V100 L150 80 L185 105 V180" fill="{F}"/>
+<rect x="30" y="130" width="15" height="15" fill="#000"/>
+<rect x="140" y="120" width="18" height="18" fill="#000"/>
+<path d="M45 85 L48 65 M150 75 L155 55" />
+<path d="M20 100 Q100 90 180 95" stroke-width="2"/>
+<rect x="85" y="96" width="10" height="16" fill="{L}" stroke="none"/>

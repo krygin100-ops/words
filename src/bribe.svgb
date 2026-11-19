@@ -1,0 +1,7 @@
+<rect x="20" y="95" width="70" height="40" rx="5" fill="{F}" transform="rotate(-10 55 115)"/>
+<text x="55" y="122" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif" transform="rotate(-10 55 115)">$$$</text>
+<path d="M90 130 Q110 140 130 135" />
+<rect x="110" y="140" width="80" height="45" fill="{F}"/>
+<path d="M110 155 H190"/>
+<text x="140" y="60" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">psst..</text>
+<path d="M30 40 Q35 30 45 40" stroke-width="3"/>

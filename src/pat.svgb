@@ -1,0 +1,7 @@
+<circle cx="120" cy="130" r="35" fill="{F}"/>
+<path d="M95 105 L85 80 L108 98 M145 105 L155 80 L132 98" fill="{F}"/>
+<path d="M108 128 Q113 123 118 128 M122 128 Q127 123 132 128" stroke-width="3"/>
+<path d="M115 145 Q120 150 125 145" stroke-width="3"/>
+<path d="M60 60 Q90 70 110 92 L125 88 Q110 65 70 45 Z" fill="{F}"/>
+<path d="M60 30 Q55 40 62 42 M80 25 Q78 35 85 38" stroke-width="3"/>
+<text x="165" y="60" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">pat</text>

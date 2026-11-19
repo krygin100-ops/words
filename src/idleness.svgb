@@ -1,0 +1,5 @@
+<path d="M20 70 Q100 150 180 70" />
+<path d="M20 70 V180 M180 70 V180"/>
+<circle cx="70" cy="95" r="14" fill="{F}"/>
+<path d="M80 105 Q110 125 150 100 L150 90 Q110 110 80 92 Z" fill="{F}"/>
+<text x="140" y="55" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">Zzz</text>

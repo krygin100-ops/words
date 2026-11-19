@@ -1,0 +1,6 @@
+<path d="M30 160 H170"/>
+<g fill="{F}"><circle cx="40" cy="150" r="8"/><circle cx="70" cy="150" r="8"/><circle cx="100" cy="150" r="8"/><circle cx="160" cy="150" r="8"/></g>
+<circle cx="130" cy="60" r="14" fill="{F}"/>
+<path d="M118 143 Q120 100 130 76" stroke-dasharray="6 6"/>
+<path d="M30 140 H170" stroke-width="2"/>
+<text x="65" y="60" font-size="30" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">wee!</text>
