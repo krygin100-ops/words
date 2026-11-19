@@ -1,0 +1,4 @@
+<path d="M30 140 H150 Q170 140 170 120 V110 Q170 100 160 100 H30" fill="{F}"/>
+<path d="M30 100 V140"/>
+<g fill="{L}" stroke="none"><circle cx="60" cy="120" r="3"/><circle cx="80" cy="115" r="3"/><circle cx="100" cy="125" r="3"/><circle cx="120" cy="115" r="3"/><circle cx="140" cy="122" r="3"/></g>
+<text x="100" y="75" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">tingle...</text>

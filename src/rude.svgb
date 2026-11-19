@@ -1,0 +1,6 @@
+<circle cx="100" cy="90" r="45" fill="{F}"/>
+<circle cx="85" cy="78" r="3.5" fill="{L}" stroke="none"/>
+<circle cx="115" cy="78" r="3.5" fill="{L}" stroke="none"/>
+<path d="M85 105 Q100 100 115 105"/>
+<path d="M92 108 Q95 130 105 128 Q110 118 108 108" fill="{L}" stroke="none"/>
+<text x="100" y="180" font-size="26" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">BLEH!</text>

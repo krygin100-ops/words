@@ -1,0 +1,5 @@
+<rect x="50" y="30" width="100" height="140" fill="{F}"/>
+<path d="M40 30 Q50 20 60 30 M140 170 Q150 180 160 170"/>
+<text x="100" y="65" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="serif">HEAR YE</text>
+<path d="M65 90 H135 M65 110 H135 M65 130 H120"/>
+<circle cx="125" cy="155" r="10" fill="{L}" stroke="none"/>

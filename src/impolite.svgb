@@ -1,0 +1,7 @@
+<circle cx="70" cy="80" r="22" fill="{F}"/>
+<path d="M45 190 Q45 115 70 115 Q95 115 95 190" fill="{F}"/>
+<path d="M85 85 Q100 70 120 75" />
+<circle cx="150" cy="90" r="22" fill="{F}"/>
+<circle cx="145" cy="88" r="3.5" fill="{L}" stroke="none"/>
+<path d="M125 190 Q125 125 150 125 Q175 125 175 190" fill="{F}"/>
+<text x="110" y="45" font-size="26" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">*BURP*</text>

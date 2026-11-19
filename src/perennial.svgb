@@ -1,0 +1,9 @@
+<path d="M30 175 H170"/>
+<path d="M60 175 V120 M100 175 V100 M140 175 V120"/>
+<circle cx="60" cy="110" r="14" fill="{F}"/>
+<circle cx="100" cy="85" r="16" fill="{F}"/>
+<circle cx="140" cy="110" r="14" fill="{F}"/>
+<path d="M30 40 A30 30 0 1 1 30 41" />
+<path d="M25 20 L32 10 L35 22" />
+<text x="135" y="45" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">year after</text>
+<text x="135" y="68" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">year</text>

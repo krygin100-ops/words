@@ -1,0 +1,5 @@
+<rect x="40" y="40" width="120" height="130" rx="10" fill="{F}"/>
+<path d="M60 70 H140 M60 95 H140 M60 120 H110"/>
+<circle cx="135" cy="140" r="22" fill="#000"/>
+<path d="M124 140 L132 148 L148 130" stroke-width="7"/>
+<text x="100" y="30" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">MONTHLY</text>
