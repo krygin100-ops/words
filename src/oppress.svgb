@@ -1,0 +1,7 @@
+<circle cx="100" cy="140" r="20" fill="{F}"/>
+<path d="M75 190 Q75 165 100 165 Q125 165 125 190" fill="{F}"/>
+<path d="M90 145 Q100 140 110 145" stroke-width="3"/>
+<path d="M60 40 H140 V100 H60 Z" fill="{F}"/>
+<path d="M60 100 L75 115 M140 100 L125 115" stroke-width="4"/>
+<path d="M90 60 L100 75 L110 60 M100 75 V110" stroke="#000" stroke-width="5"/>
+<text x="100" y="30" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">1000 kg</text>
