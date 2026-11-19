@@ -1,0 +1,6 @@
+<rect x="40" y="50" width="120" height="100" rx="10" fill="{F}"/>
+<path d="M60 75 L80 95 M80 75 L60 95 M120 75 L140 95 M140 75 L120 95" stroke="#000" stroke-width="5"/>
+<path d="M75 130 Q100 115 125 130" stroke="#000" stroke-width="5"/>
+<path d="M100 50 L95 30 L110 35 L105 15" stroke-width="3"/>
+<path d="M160 100 L180 110 M160 120 L175 135" stroke-width="3"/>
+<text x="100" y="185" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">ERROR</text>

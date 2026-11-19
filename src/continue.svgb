@@ -1,0 +1,6 @@
+<path d="M20 100 H120" stroke-width="8"/>
+<path d="M130 100 H150 M160 100 H170" stroke-width="8"/>
+<path d="M165 80 L185 100 L165 120" stroke-width="8"/>
+<rect x="30" y="140" width="50" height="30" rx="5" fill="{F}"/>
+<path d="M50 145 L62 155 L50 165 Z" fill="#000"/>
+<text x="120" y="162" font-size="18" fill="{L}" stroke="none" font-family="sans-serif">play</text>

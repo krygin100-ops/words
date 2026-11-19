@@ -1,0 +1,7 @@
+<rect x="30" y="120" width="40" height="40" fill="{F}"/>
+<path d="M30 120 L50 105 L70 120" />
+<circle cx="140" cy="90" r="15" fill="{F}"/>
+<path d="M140 105 L138 140 L125 175 M138 140 L155 175 M140 115 L160 125 M140 115 L120 125"/>
+<path d="M75 140 H110" stroke-width="2" stroke-dasharray="4 5"/>
+<text x="50" y="100" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">hey?..</text>
+<path d="M165 90 H190 M180 82 L190 90 L180 98" stroke-width="3"/>

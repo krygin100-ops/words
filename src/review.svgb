@@ -1,0 +1,6 @@
+<rect x="30" y="30" width="110" height="140" rx="6" fill="{F}"/>
+<path d="M50 60 H120 M50 85 H120 M50 110 H100" stroke="#000" stroke-width="4"/>
+<path d="M45 140 L52 132 L59 140 L66 132 M75 140 L82 132 L89 140" stroke-width="0"/>
+<g fill="{L}" stroke="none"><path d="M55 135 L58 128 L61 135 L68 136 L63 141 L64 148 L58 144 L52 148 L53 141 L48 136 Z"/><path d="M80 135 L83 128 L86 135 L93 136 L88 141 L89 148 L83 144 L77 148 L78 141 L73 136 Z"/><path d="M105 135 L108 128 L111 135 L118 136 L113 141 L114 148 L108 144 L102 148 L103 141 L98 136 Z"/></g>
+<circle cx="150" cy="120" r="25" stroke-width="7"/>
+<path d="M168 138 L190 160" stroke-width="9"/>

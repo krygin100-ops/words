@@ -1,0 +1,6 @@
+<path d="M20 160 L100 60 L180 160"/>
+<circle cx="100" cy="50" r="14" fill="{F}"/>
+<path d="M85 50 H70 M115 50 H130" stroke-width="3"/>
+<path d="M30 40 Q25 25 45 25 Q55 15 70 25" stroke-width="3"/>
+<path d="M50 30 L48 40" stroke-width="2"/>
+<text x="100" y="185" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">rain, but still...</text>

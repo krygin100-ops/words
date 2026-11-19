@@ -1,0 +1,7 @@
+<circle cx="80" cy="70" r="20" fill="{F}"/>
+<path d="M55 190 Q55 105 80 105 Q105 105 105 190" fill="{F}"/>
+<path d="M100 115 L120 70 L118 50 M120 70 L125 55 M120 70 L132 60"/>
+<path d="M60 135 L40 145"/>
+<rect x="20" y="140" width="35" height="45" fill="{F}"/>
+<path d="M30 155 H45 M37 148 V170" stroke="#000" stroke-width="4"/>
+<text x="155" y="40" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">I swear!</text>

@@ -1,0 +1,7 @@
+<circle cx="80" cy="80" r="25" fill="{F}"/>
+<path d="M68 75 L76 78 M92 75 L84 78" stroke-width="3"/>
+<path d="M70 95 H90" stroke-width="3"/>
+<path d="M50 190 Q50 120 80 120 Q110 120 110 190" fill="{F}"/>
+<path d="M110 130 L150 100"/>
+<path d="M140 80 L160 75 L165 105 L150 110 Z" fill="{F}"/>
+<text x="150" y="50" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">Objection!</text>

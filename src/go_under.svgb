@@ -1,0 +1,6 @@
+<path d="M10 120 Q50 105 100 120 Q150 135 190 120 V190 H10 Z" fill="{F}"/>
+<path d="M80 125 L100 85 L120 125" fill="{F}" stroke="none"/>
+<rect x="85" y="60" width="30" height="40" fill="{F}" transform="rotate(20 100 80)"/>
+<text x="100" y="50" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">CLOSED</text>
+<path d="M60 150 Q65 140 70 150 M130 155 Q135 145 140 155" stroke="#000" stroke-width="3"/>
+<g fill="{L}" stroke="none"><circle cx="100" cy="170" r="4"/><circle cx="110" cy="160" r="3"/></g>
