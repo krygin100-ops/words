@@ -1,0 +1,6 @@
+<rect x="40" y="70" width="120" height="70" rx="6" fill="{F}" transform="rotate(-6 100 105)"/>
+<rect x="40" y="80" width="120" height="70" rx="6" fill="{F}" transform="rotate(4 100 115)"/>
+<rect x="88" y="70" width="24" height="90" fill="#000"/>
+<rect x="90" y="70" width="20" height="90" fill="{L}" stroke="none"/>
+<circle cx="60" cy="116" r="8"/>
+<circle cx="140" cy="120" r="8"/>
