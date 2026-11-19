@@ -1,0 +1,6 @@
+<circle cx="100" cy="95" r="45" fill="{F}"/>
+<path d="M80 92 Q86 86 92 92 M108 92 Q114 86 120 92" stroke-width="3"/>
+<path d="M82 120 H118" stroke-width="5"/>
+<path d="M75 115 L80 112 M125 115 L120 112" stroke-width="3"/>
+<path d="M60 40 L70 50 M140 40 L130 50" stroke-width="4"/>
+<text x="100" y="180" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">*deep breath*</text>

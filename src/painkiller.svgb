@@ -1,0 +1,5 @@
+<rect x="40" y="70" width="120" height="50" rx="25" fill="{F}"/>
+<path d="M100 70 V120" stroke="#000" stroke-width="5"/>
+<rect x="40" y="70" width="60" height="50" rx="25" fill="{L}" stroke="none" opacity="0.7"/>
+<path d="M60 150 L80 170 L140 140" stroke-width="5"/>
+<text x="100" y="45" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">no more ow</text>

@@ -1,0 +1,6 @@
+<circle cx="100" cy="85" r="40" fill="{F}"/>
+<circle cx="85" cy="80" r="3.5" fill="{L}" stroke="none"/>
+<circle cx="115" cy="80" r="3.5" fill="{L}" stroke="none"/>
+<path d="M85 105 H115"/>
+<path d="M45 70 Q35 85 45 100 M155 70 Q165 85 155 100" stroke-width="4"/>
+<text x="100" y="170" font-size="26" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">wasn't me</text>
