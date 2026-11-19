@@ -1,0 +1,4 @@
+<circle cx="80" cy="100" r="50" fill="{F}"/>
+<circle cx="120" cy="100" r="50"/>
+<text x="65" y="108" font-size="26" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">A</text>
+<text x="140" y="108" font-size="26" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">+B</text>
