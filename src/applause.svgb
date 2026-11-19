@@ -1,0 +1,4 @@
+<path d="M50 150 L70 70 Q75 60 85 65 L95 140 Z" fill="{F}" transform="rotate(-15 75 105)"/>
+<path d="M150 150 L130 70 Q125 60 115 65 L105 140 Z" fill="{F}" transform="rotate(15 125 105)"/>
+<path d="M100 40 V20 M75 45 L65 30 M125 45 L135 30 M55 60 L40 50 M145 60 L160 50" stroke-width="4"/>
+<text x="100" y="185" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">clap clap</text>
