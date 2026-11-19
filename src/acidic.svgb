@@ -1,0 +1,6 @@
+<ellipse cx="80" cy="110" rx="56" ry="40" fill="{F}" transform="rotate(-20 80 110)"/>
+<path d="M40 130 L120 90 M60 80 L100 140" stroke-width="3"/>
+<circle cx="80" cy="110" r="10"/>
+<circle cx="160" cy="60" r="22" fill="{F}"/>
+<path d="M148 54 L156 58 M172 54 L164 58 M150 70 L156 66 L162 72 L168 66"/>
+<path d="M140 170 Q132 182 140 190 Q148 182 140 170 Z" fill="{L}"/>
