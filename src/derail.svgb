@@ -1,0 +1,7 @@
+<path d="M10 180 H140 M10 190 H140" stroke-width="4"/>
+<path d="M20 180 V190 M50 180 V190 M80 180 V190 M110 180 V190" stroke-width="3"/>
+<rect x="100" y="100" width="80" height="50" rx="8" fill="{F}" transform="rotate(25 140 125)"/>
+<circle cx="120" cy="160" r="10" fill="{F}"/>
+<circle cx="160" cy="176" r="10" fill="{F}"/>
+<path d="M40 130 H90 M50 150 H96" stroke-width="3"/>
+<path d="M170 80 l10 -10 M180 100 h14" stroke-width="4"/>
