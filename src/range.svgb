@@ -1,0 +1,6 @@
+<path d="M20 100 H180" stroke-width="6"/>
+<path d="M20 80 V120 M180 80 V120" stroke-width="7"/>
+<path d="M30 100 H170" stroke-width="0"/>
+<text x="20" y="150" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">min</text>
+<text x="180" y="150" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">max</text>
+<path d="M60 60 L80 80 L60 100" stroke-width="0"/>

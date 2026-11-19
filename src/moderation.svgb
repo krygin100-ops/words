@@ -1,0 +1,6 @@
+<rect x="20" y="120" width="160" height="20" rx="10" stroke-width="5"/>
+<rect x="24" y="124" width="76" height="12" rx="6" fill="{L}" stroke="none"/>
+<path d="M100 100 V80 M90 90 L100 80 L110 90" stroke-width="0"/>
+<path d="M100 110 V60" stroke-width="5"/>
+<path d="M90 70 L100 60 L110 70" stroke-width="5"/>
+<text x="100" y="40" font-family="Arial" font-size="22" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">not too much</text>

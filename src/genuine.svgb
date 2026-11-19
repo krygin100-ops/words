@@ -1,0 +1,5 @@
+<path d="M100 30 L130 60 L120 100 H80 L70 60 Z" fill="{F}"/>
+<path d="M70 60 H130 M100 30 V100 M80 100 L100 60 L120 100" stroke="#000" stroke-width="3"/>
+<circle cx="140" cy="150" r="26" fill="{L}" stroke="none"/>
+<path d="M128 150 l8 8 l14 -16" stroke="#000" stroke-width="5"/>
+<text x="60" y="160" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">real</text>

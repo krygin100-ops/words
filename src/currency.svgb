@@ -1,0 +1,6 @@
+<circle cx="60" cy="70" r="30" fill="{F}"/>
+<text x="60" y="82" font-family="Arial" font-size="32" font-weight="bold" text-anchor="middle" fill="#000" stroke="none">$</text>
+<circle cx="140" cy="70" r="30" fill="{F}"/>
+<text x="140" y="82" font-family="Arial" font-size="32" font-weight="bold" text-anchor="middle" fill="#000" stroke="none">€</text>
+<circle cx="100" cy="140" r="30" fill="{F}"/>
+<text x="100" y="152" font-family="Arial" font-size="32" font-weight="bold" text-anchor="middle" fill="#000" stroke="none">£</text>
