@@ -1,0 +1,5 @@
+<circle cx="100" cy="60" r="20" fill="{F}"/>
+<path d="M65 190 Q65 95 100 95 Q135 95 135 190" fill="{F}"/>
+<path d="M75 115 L45 70 M125 115 L155 70"/>
+<g fill="{L}" stroke="none"><path d="M40 55 L43 45 L46 55 L56 58 L46 61 L43 71 L40 61 L30 58 Z"/><path d="M160 55 L163 45 L166 55 L176 58 L166 61 L163 71 L160 61 L150 58 Z"/></g>
+<text x="100" y="30" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="serif">abracadabra</text>

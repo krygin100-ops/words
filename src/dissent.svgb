@@ -1,0 +1,6 @@
+<circle cx="60" cy="70" r="20" fill="{F}"/>
+<circle cx="140" cy="70" r="20" fill="{F}"/>
+<path d="M35 190 Q35 105 60 105 Q85 105 85 190 M115 190 Q115 105 140 105 Q165 105 165 190" fill="{F}"/>
+<path d="M50 65 L58 68 M70 65 L62 68 M130 65 L138 68 M150 65 L142 68" stroke-width="3"/>
+<text x="60" y="30" font-size="24" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">YES</text>
+<text x="140" y="30" font-size="24" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">NO</text>
