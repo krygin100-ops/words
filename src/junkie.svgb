@@ -1,0 +1,11 @@
+<circle cx="90" cy="80" r="22" fill="{F}" transform="rotate(-15 90 120)"/>
+<circle cx="82" cy="78" r="6"/>
+<circle cx="100" cy="76" r="6"/>
+<circle cx="82" cy="80" r="2" fill="{L}" stroke="none"/>
+<circle cx="100" cy="78" r="2" fill="{L}" stroke="none"/>
+<path d="M84 94 Q92 90 100 94" stroke-width="3"/>
+<path d="M50 196 Q50 120 90 116 Q130 120 130 196" fill="{F}"/>
+<path d="M50 150 L30 180 M130 150 L150 180" stroke-width="9"/>
+<rect x="150" y="160" width="20" height="30" rx="4"/>
+<ellipse cx="180" cy="186" rx="6" ry="3" fill="{L}" stroke="none"/>
+<ellipse cx="140" cy="192" rx="6" ry="3" fill="{L}" stroke="none"/>

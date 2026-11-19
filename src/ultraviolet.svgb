@@ -1,0 +1,4 @@
+<circle cx="70" cy="70" r="30" fill="{F}"/>
+<path d="M70 30 V20 M30 70 H20 M44 44 L36 36 M96 44 L104 36" stroke-width="4"/>
+<path d="M100 100 L170 170 M110 90 L180 160 M90 110 L160 180" stroke-width="3" stroke-dasharray="8 6"/>
+<text x="140" y="80" font-family="Arial" font-size="34" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">UV</text>
