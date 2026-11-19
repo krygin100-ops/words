@@ -1,0 +1,9 @@
+<circle cx="70" cy="100" r="26" fill="{F}"/>
+<path d="M58 94 Q62 90 66 94" stroke-width="3"/>
+<circle cx="80" cy="92" r="3.5" fill="{L}" stroke="none"/>
+<path d="M60 110 Q74 120 86 106"/>
+<path d="M36 196 Q36 134 70 134 Q104 134 104 196" fill="{F}"/>
+<path d="M100 40 H180 V90 H120 L104 104 L110 90 H100 Z" fill="{F}"/>
+<path d="M120 60 l20 0 M150 56 l4 10 l4 -10 M166 56 l4 10 l4 -10" stroke="#000" stroke-width="3"/>
+<path d="M120 150 l10 -6 M130 170 l14 -2" stroke-width="3"/>
+<text x="150" y="160" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle" fill="{L}" stroke="none">ha!</text>

@@ -1,0 +1,6 @@
+<path d="M20 80 L40 40 H160 L180 80 Z" fill="{F}"/>
+<rect x="30" y="80" width="140" height="100" fill="{F}"/>
+<rect x="50" y="100" width="40" height="40" fill="#000"/>
+<rect x="110" y="110" width="40" height="70" fill="#000"/>
+<path d="M60 110 L70 104 L80 110 V130 H60 Z" fill="{L}" stroke="none"/>
+<text x="100" y="66" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle" fill="#000" stroke="none">SALE</text>
