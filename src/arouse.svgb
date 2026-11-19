@@ -1,0 +1,9 @@
+<path d="M14 166 L186 166 M20 166 L20 112 M180 166 L180 140"/>
+<path d="M20 140 L180 140" />
+<path d="M90 140 Q120 120 176 132 L176 140" fill="{F}"/>
+<path d="M44 140 Q44 108 66 104 L84 104 Q92 120 92 140" fill="{F}"/>
+<circle cx="68" cy="80" r="20" fill="{F}"/>
+<circle cx="62" cy="76" r="4" fill="{L}" stroke="none"/>
+<circle cx="76" cy="76" r="4" fill="{L}" stroke="none"/>
+<ellipse cx="69" cy="90" rx="4" ry="5" fill="{L}" stroke="none"/>
+<path d="M40 46 L48 56 M68 34 L68 48 M96 46 L88 56"/>
