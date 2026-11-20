@@ -1,0 +1,6 @@
+<circle cx="60" cy="80" r="20" fill="{F}"/>
+<path d="M35 190 Q35 115 60 115 Q85 115 85 190" fill="{F}"/>
+<path d="M85 130 L110 100 L108 75"/>
+<path d="M140 50 L180 120 H100 Z" fill="{L}" transform="translate(5 30)"/>
+<path d="M145 105 V125 M145 133 V135" stroke="#000" stroke-width="6"/>
+<text x="60" y="40" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">careful!</text>

@@ -1,0 +1,7 @@
+<circle cx="70" cy="90" r="22" fill="{F}"/>
+<path d="M40 190 Q40 125 70 125 Q100 125 100 190" fill="{F}"/>
+<path d="M100 140 L125 125"/>
+<rect x="120" y="70" width="60" height="80" fill="{F}"/>
+<path d="M130 90 L137 97 L150 83 M130 115 L137 122 L150 108" stroke="#000" stroke-width="4"/>
+<path d="M155 92 H172 M155 117 H172" stroke="#000" stroke-width="3"/>
+<text x="65" y="45" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">my fault</text>

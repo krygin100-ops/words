@@ -1,0 +1,8 @@
+<circle cx="100" cy="100" r="45" fill="{F}"/>
+<circle cx="80" cy="90" r="12"/>
+<circle cx="120" cy="95" r="6"/>
+<path d="M80 90 m-5 0 a5 5 0 1 1 5 5" stroke-width="2"/>
+<path d="M85 125 Q100 140 115 120"/>
+<path d="M95 130 Q100 145 108 132" fill="{L}" stroke="none"/>
+<path d="M60 40 Q80 30 75 50 Q70 70 90 55 M130 40 Q140 25 150 45" stroke-width="3"/>
+<text x="165" y="175" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">cuckoo</text>

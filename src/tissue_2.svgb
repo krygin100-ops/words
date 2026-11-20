@@ -1,0 +1,4 @@
+<rect x="40" y="100" width="120" height="70" rx="6" fill="{F}"/>
+<ellipse cx="100" cy="100" rx="30" ry="6" fill="#000"/>
+<path d="M85 100 Q80 60 100 40 Q120 60 115 100" fill="{L}"/>
+<path d="M95 60 Q100 55 105 60" stroke="#000" stroke-width="2"/>
