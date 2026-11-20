@@ -76594,30 +76594,69 @@
   "word": "pretty",
   "transcription": "[ˈprɪti]",
   "translation": "приятный, милый",
-  "nuance": null,
+  "nuance": "Хорошенький, милый (о девушке, вещах). Handsome — о мужчинах; beautiful — сильнее.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/pretty_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "What a #pretty# little village!",
+    "ru": "Какая милая деревушка!"
+   },
+   {
+    "en": "She's very #pretty#.",
+    "ru": "Она очень хорошенькая."
+   },
+   {
+    "en": "That's a #pretty# dress.",
+    "ru": "Красивое платье."
+   }
+  ]
  },
  {
   "id": "3333",
   "word": "call off",
   "transcription": "[kɔːlɒf]",
   "translation": "отменить",
-  "nuance": null,
+  "nuance": "Отменить (запланированное). Cancel — синоним.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/call_off.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The match was #called off# because of rain.",
+    "ru": "Матч отменили из-за дождя."
+   },
+   {
+    "en": "They #called off# the wedding.",
+    "ru": "Они отменили свадьбу."
+   },
+   {
+    "en": "#Call off# the search — I found my keys!",
+    "ru": "Отменяй поиски — я нашёл ключи!"
+   }
+  ]
  },
  {
   "id": "3334",
   "word": "manifest",
   "transcription": "[ˈmænɪfɛst]",
   "translation": "проявить, явный",
-  "nuance": null,
+  "nuance": "Книжное: проявиться; явный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/manifest.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His fear #manifested# itself as anger.",
+    "ru": "Его страх проявился в виде гнева."
+   },
+   {
+    "en": "The symptoms #manifest# after a week.",
+    "ru": "Симптомы проявляются через неделю."
+   },
+   {
+    "en": "Her joy was #manifest#.",
+    "ru": "Её радость была очевидна."
+   }
+  ]
  },
  {
   "id": "3335",
@@ -76627,7 +76666,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/manifestation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Stress has many #manifestations#.",
+    "ru": "Стресс проявляется по-разному."
+   },
+   {
+    "en": "The protest was a #manifestation# of anger.",
+    "ru": "Протест был проявлением гнева."
+   },
+   {
+    "en": "Fever is a #manifestation# of infection.",
+    "ru": "Температура — проявление инфекции."
+   }
+  ]
  },
  {
   "id": "3336",
@@ -76637,17 +76689,43 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/7144/7144_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Make a shopping #list#.",
+    "ru": "Составь список покупок."
+   },
+   {
+    "en": "I forgot the #list# at home.",
+    "ru": "Я забыл список дома."
+   },
+   {
+    "en": "#List# your three best qualities.",
+    "ru": "Перечисли три своих лучших качества."
+   }
+  ]
  },
  {
   "id": "3337",
   "word": "listed",
   "transcription": "[ˈlɪstɪd]",
   "translation": "включённый в список",
-  "nuance": null,
+  "nuance": "Включённый в список; брит. listed building — памятник архитектуры.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/listed.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The hotel is #listed# on the website.",
+    "ru": "Отель указан на сайте."
+   },
+   {
+    "en": "It's a #listed# building — you can't change it.",
+    "ru": "Это охраняемое здание — его нельзя менять."
+   },
+   {
+    "en": "All the ingredients are #listed# below.",
+    "ru": "Все ингредиенты перечислены ниже."
+   }
+  ]
  },
  {
   "id": "3338",
@@ -76657,7 +76735,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unlisted.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His number is #unlisted#.",
+    "ru": "Его номера нет в справочнике."
+   },
+   {
+    "en": "The video is #unlisted# — only friends can see it.",
+    "ru": "Видео скрыто — его видят только друзья."
+   },
+   {
+    "en": "The company is #unlisted#.",
+    "ru": "Компания не котируется на бирже."
+   }
+  ]
  },
  {
   "id": "3339",
@@ -76667,17 +76758,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/muslim.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Many #Muslims# fast during Ramadan.",
+    "ru": "Многие мусульмане соблюдают пост в Рамадан."
+   },
+   {
+    "en": "It's a #Muslim# country.",
+    "ru": "Это мусульманская страна."
+   },
+   {
+    "en": "Our neighbours are #Muslim#.",
+    "ru": "Наши соседи — мусульмане."
+   }
+  ]
  },
  {
   "id": "3340",
   "word": "savage",
   "transcription": "[ˈsævɪʤ]",
   "translation": "дикарь, дикий (в т. ч. перен.)",
-  "nuance": null,
+  "nuance": "Дикий, жестокий; сленг savage — «беспощадно-дерзкий, жёсткий». Сущ. «дикарь» — устарело и обидно.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/savage.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The dog was #savage# with strangers.",
+    "ru": "Собака была свирепой с чужими."
+   },
+   {
+    "en": "It was a #savage# attack.",
+    "ru": "Это было жестокое нападение."
+   },
+   {
+    "en": "Her comments were #savage#.",
+    "ru": "Её комментарии были беспощадными."
+   }
+  ]
  },
  {
   "id": "3341",
@@ -76687,17 +76804,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/savagery.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #savagery# of the war shocked the world.",
+    "ru": "Зверство войны потрясло мир."
+   },
+   {
+    "en": "The film shows the #savagery# of nature.",
+    "ru": "Фильм показывает дикость природы."
+   },
+   {
+    "en": "We were shocked by the #savagery# of the attack.",
+    "ru": "Нас потрясла жестокость нападения."
+   }
+  ]
  },
  {
   "id": "3342",
   "word": "treaty",
   "transcription": "[ˈtriːti]",
   "translation": "договор (между гос-вами)",
-  "nuance": null,
+  "nuance": "Международный договор. Contract — договор между людьми/компаниями.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/treaty.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The two countries signed a peace #treaty#.",
+    "ru": "Две страны подписали мирный договор."
+   },
+   {
+    "en": "The #treaty# ended the war.",
+    "ru": "Договор положил конец войне."
+   },
+   {
+    "en": "They broke the #treaty#.",
+    "ru": "Они нарушили договор."
+   }
+  ]
  },
  {
   "id": "3343",
@@ -76707,7 +76850,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/7245/7245_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We planted tomato #seeds#.",
+    "ru": "Мы посадили семена помидоров."
+   },
+   {
+    "en": "Spit out the watermelon #seeds#.",
+    "ru": "Выплюнь арбузные косточки."
+   },
+   {
+    "en": "He planted the #seed# of doubt.",
+    "ru": "Он посеял сомнение."
+   }
+  ]
  },
  {
   "id": "3344",
@@ -76717,27 +76873,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/seeding.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Seeding# starts in spring.",
+    "ru": "Посев начинается весной."
+   },
+   {
+    "en": "The farmers finished #seeding# the field.",
+    "ru": "Фермеры закончили засевать поле."
+   },
+   {
+    "en": "Cloud #seeding# can make rain.",
+    "ru": "Засев облаков может вызвать дождь."
+   }
+  ]
  },
  {
   "id": "3345",
   "word": "recreation",
   "transcription": "[ˌriːkrɪˈeɪʃən]",
   "translation": "отдых и развлечения",
-  "nuance": null,
+  "nuance": "Отдых, досуг (офиц.). Leisure — синоним; fun — разг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/recreation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The park is used for #recreation#.",
+    "ru": "Парк используется для отдыха."
+   },
+   {
+    "en": "What do you do for #recreation#?",
+    "ru": "Чем ты занимаешься на досуге?"
+   },
+   {
+    "en": "The town built a new #recreation# centre.",
+    "ru": "В городе построили новый центр досуга."
+   }
+  ]
  },
  {
   "id": "3346",
   "word": "recreational",
   "transcription": "[ˌrɛkrɪˈeɪʃənl]",
   "translation": "развлекательный",
-  "nuance": null,
+  "nuance": "Для отдыха, любительский.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/recreational.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Recreational# fishing is popular here.",
+    "ru": "Любительская рыбалка здесь популярна."
+   },
+   {
+    "en": "It's a #recreational# area with lakes.",
+    "ru": "Это зона отдыха с озёрами."
+   },
+   {
+    "en": "#Recreational# drugs are illegal.",
+    "ru": "Наркотики «для развлечения» запрещены."
+   }
+  ]
  },
  {
   "id": "3347",
@@ -76747,7 +76942,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/collapse.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The old bridge #collapsed#.",
+    "ru": "Старый мост обрушился."
+   },
+   {
+    "en": "I #collapsed# on the sofa after work.",
+    "ru": "После работы я рухнул на диван."
+   },
+   {
+    "en": "The company #collapsed# last year.",
+    "ru": "В прошлом году компания рухнула."
+   }
+  ]
  },
  {
   "id": "3348",
@@ -76757,27 +76965,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/collapsible.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We have a #collapsible# table for camping.",
+    "ru": "У нас складной стол для кемпинга."
+   },
+   {
+    "en": "The #collapsible# chair fits in the car.",
+    "ru": "Складной стул помещается в машину."
+   },
+   {
+    "en": "Buy a #collapsible# water bottle.",
+    "ru": "Купи складную бутылку для воды."
+   }
+  ]
  },
  {
   "id": "3349",
   "word": "ill",
   "transcription": "[ɪl]",
   "translation": "дурной, нехороший",
-  "nuance": null,
+  "nuance": "Дурной, злой (книжн.); ill-mannered, ill-tempered.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/ill.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I wish you no #ill#.",
+    "ru": "Я не желаю тебе зла."
+   },
+   {
+    "en": "Don't speak #ill# of the dead.",
+    "ru": "О мёртвых — либо хорошо, либо ничего."
+   },
+   {
+    "en": "It was an #ill# omen.",
+    "ru": "Это было дурное предзнаменование."
+   }
+  ]
  },
  {
   "id": "3350",
   "word": "crew",
   "transcription": "[kruː]",
   "translation": "команда, экипаж",
-  "nuance": null,
+  "nuance": "Экипаж, бригада; сленг — своя компания.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/crew.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #crew# welcomed us on board.",
+    "ru": "Экипаж приветствовал нас на борту."
+   },
+   {
+    "en": "The film #crew# worked all night.",
+    "ru": "Съёмочная группа работала всю ночь."
+   },
+   {
+    "en": "I came with my #crew#.",
+    "ru": "Я пришёл со своей компанией."
+   }
+  ]
  },
  {
   "id": "3351",
@@ -76787,7 +77034,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/wise.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandma is very #wise#.",
+    "ru": "Бабушка очень мудрая."
+   },
+   {
+    "en": "That was a #wise# decision.",
+    "ru": "Это было мудрое решение."
+   },
+   {
+    "en": "It's not #wise# to swim after a big meal.",
+    "ru": "Неразумно плавать после плотного обеда."
+   }
+  ]
  },
  {
   "id": "3352",
@@ -76797,47 +77057,112 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/wisdom.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "With age comes #wisdom#. Sometimes.",
+    "ru": "С возрастом приходит мудрость. Иногда."
+   },
+   {
+    "en": "She shared her #wisdom# with us.",
+    "ru": "Она поделилась с нами своей мудростью."
+   },
+   {
+    "en": "I had my #wisdom# teeth out.",
+    "ru": "Мне удалили зубы мудрости."
+   }
+  ]
  },
  {
   "id": "3353",
   "word": "like that",
   "transcription": "[laɪkðæt]",
   "translation": "вот так",
-  "nuance": null,
+  "nuance": "Вот так (о том, что далеко / уже было).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/like_that.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't talk to me #like that#!",
+    "ru": "Не разговаривай со мной так!"
+   },
+   {
+    "en": "Is it always #like that#?",
+    "ru": "Это всегда так?"
+   },
+   {
+    "en": "I wish I could dance #like that#.",
+    "ru": "Хотел бы я так танцевать."
+   }
+  ]
  },
  {
   "id": "3354",
   "word": "like this",
   "transcription": "[laɪkðɪs]",
   "translation": "вот так",
-  "nuance": null,
+  "nuance": "Вот так (показывая, здесь и сейчас).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/like_this.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Hold the knife #like this#.",
+    "ru": "Держи нож вот так."
+   },
+   {
+    "en": "Do it #like this#, not like that.",
+    "ru": "Делай вот так, а не так."
+   },
+   {
+    "en": "I've never seen anything #like this#!",
+    "ru": "Я никогда не видел ничего подобного!"
+   }
+  ]
  },
  {
   "id": "3355",
   "word": "camp",
   "transcription": "[kæmp]",
   "translation": "лагерь",
-  "nuance": null,
+  "nuance": "Лагерь; go camping — ходить в поход (с палаткой).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/25974/25974_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The kids are at summer #camp#.",
+    "ru": "Дети в летнем лагере."
+   },
+   {
+    "en": "We set up #camp# by the lake.",
+    "ru": "Мы разбили лагерь у озера."
+   },
+   {
+    "en": "Let's go #camping# this weekend.",
+    "ru": "Давай съездим в поход на выходных."
+   }
+  ]
  },
  {
   "id": "3356",
   "word": "camper",
   "transcription": "[ˈkæmpə]",
   "translation": "турист (в кемпинге)",
-  "nuance": null,
+  "nuance": "Турист в кемпинге; амер. — дом на колёсах. Happy camper — довольный человек.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/camper.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #campers# sang around the fire.",
+    "ru": "Туристы пели у костра."
+   },
+   {
+    "en": "Happy #campers# get free breakfast.",
+    "ru": "Довольные отдыхающие получают бесплатный завтрак."
+   },
+   {
+    "en": "We rented a #camper# for the trip.",
+    "ru": "Мы арендовали дом на колёсах для поездки."
+   }
+  ]
  },
  {
   "id": "3357",
@@ -76847,7 +77172,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/confirm.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Please #confirm# your booking.",
+    "ru": "Пожалуйста, подтвердите бронирование."
+   },
+   {
+    "en": "The doctor #confirmed# it was just a cold.",
+    "ru": "Врач подтвердил, что это просто простуда."
+   },
+   {
+    "en": "Can you #confirm# your address?",
+    "ru": "Можете подтвердить свой адрес?"
+   }
+  ]
  },
  {
   "id": "3358",
@@ -76857,57 +77195,135 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/confirmed.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's a #confirmed# bachelor.",
+    "ru": "Он закоренелый холостяк."
+   },
+   {
+    "en": "She's a #confirmed# cat lover.",
+    "ru": "Она убеждённая кошатница."
+   },
+   {
+    "en": "It's a #confirmed# case of flu.",
+    "ru": "Это подтверждённый случай гриппа."
+   }
+  ]
  },
  {
   "id": "3359",
   "word": "headquarters",
   "transcription": "[ˈhɛdˈkwɔːtəz]",
   "translation": "штаб-квартира",
-  "nuance": null,
+  "nuance": "Всегда с -s (и ед., и мн.ч.). Сокр. HQ.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/headquarters.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The company's #headquarters# are in London.",
+    "ru": "Штаб-квартира компании в Лондоне."
+   },
+   {
+    "en": "Police #headquarters# is downtown.",
+    "ru": "Управление полиции в центре города."
+   },
+   {
+    "en": "The kitchen is the family's #headquarters#.",
+    "ru": "Кухня — штаб семьи."
+   }
+  ]
  },
  {
   "id": "3360",
   "word": "burst",
   "transcription": "[bɜːst]",
   "translation": "взрыв, всплеск и т. д.",
-  "nuance": null,
+  "nuance": "Лопнуть, прорваться; burst into tears/laughter — разразиться.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/30956/30956_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A pipe #burst# in the kitchen.",
+    "ru": "На кухне прорвало трубу."
+   },
+   {
+    "en": "She #burst# into tears.",
+    "ru": "Она расплакалась."
+   },
+   {
+    "en": "There was a #burst# of laughter.",
+    "ru": "Раздался взрыв смеха."
+   }
+  ]
  },
  {
   "id": "3361",
   "word": "earth",
   "transcription": "[ɜːθ]",
   "translation": "Земля",
-  "nuance": null,
+  "nuance": "Земля (планета, почва). Why on earth — ну с какой стати.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/3160/3160_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #Earth# goes round the Sun.",
+    "ru": "Земля вращается вокруг Солнца."
+   },
+   {
+    "en": "Why on #earth# did you do that?",
+    "ru": "Ну зачем ты это сделал?"
+   },
+   {
+    "en": "Plant the seeds in the #earth#.",
+    "ru": "Посади семена в землю."
+   }
+  ]
  },
  {
   "id": "3362",
   "word": "earthly",
   "transcription": "[ˈɜːθli]",
   "translation": "земной",
-  "nuance": null,
+  "nuance": "Земной; в отриц./вопр. — «никакой, ни малейший».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/earthly.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's no #earthly# reason to worry.",
+    "ru": "Нет ни малейшей причины волноваться."
+   },
+   {
+    "en": "He gave up all #earthly# pleasures.",
+    "ru": "Он отказался от всех земных удовольствий."
+   },
+   {
+    "en": "What #earthly# use is this?",
+    "ru": "Какой от этого толк?"
+   }
+  ]
  },
  {
   "id": "3363",
   "word": "fulfil",
   "transcription": "[fʊlˈfɪl]",
   "translation": "исполнить",
-  "nuance": null,
+  "nuance": "Брит. fulfil, амер. fulfill. Исполнить; приносить удовлетворение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fulfil.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #fulfilled# her dream of travelling.",
+    "ru": "Она исполнила свою мечту путешествовать."
+   },
+   {
+    "en": "He #fulfilled# his promise.",
+    "ru": "Он выполнил своё обещание."
+   },
+   {
+    "en": "The job doesn't #fulfil# me.",
+    "ru": "Работа не приносит мне удовлетворения."
+   }
+  ]
  },
  {
   "id": "3364",
@@ -76917,7 +77333,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fulfilment.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Teaching gives her a sense of #fulfilment#.",
+    "ru": "Преподавание даёт ей чувство удовлетворения."
+   },
+   {
+    "en": "Order #fulfilment# takes two days.",
+    "ru": "Выполнение заказа занимает два дня."
+   },
+   {
+    "en": "The #fulfilment# of a dream.",
+    "ru": "Исполнение мечты."
+   }
+  ]
  },
  {
   "id": "3365",
@@ -76927,7 +77356,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/cash.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Do you pay in #cash# or by card?",
+    "ru": "Вы платите наличными или картой?"
+   },
+   {
+    "en": "I never carry #cash#.",
+    "ru": "Я никогда не ношу с собой наличные."
+   },
+   {
+    "en": "#Cash# the cheque at the bank.",
+    "ru": "Обналичь чек в банке."
+   }
+  ]
  },
  {
   "id": "3366",
@@ -76937,7 +77379,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/3001/3001_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #cashier# gave me the wrong change.",
+    "ru": "Кассир дал мне неправильную сдачу."
+   },
+   {
+    "en": "She works as a #cashier# at the supermarket.",
+    "ru": "Она работает кассиром в супермаркете."
+   },
+   {
+    "en": "Pay the #cashier#, please.",
+    "ru": "Оплатите на кассе, пожалуйста."
+   }
+  ]
  },
  {
   "id": "3367",
@@ -76947,7 +77402,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dedicate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #dedicate# this song to my mum.",
+    "ru": "Посвящаю эту песню маме."
+   },
+   {
+    "en": "She #dedicated# her life to science.",
+    "ru": "Она посвятила жизнь науке."
+   },
+   {
+    "en": "He's a #dedicated# teacher.",
+    "ru": "Он преданный своему делу учитель."
+   }
+  ]
  },
  {
   "id": "3368",
@@ -76957,17 +77425,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dedication.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Her #dedication# to the job is amazing.",
+    "ru": "Её преданность работе поражает."
+   },
+   {
+    "en": "The book has a sweet #dedication# to his wife.",
+    "ru": "В книге трогательное посвящение жене."
+   },
+   {
+    "en": "It takes #dedication# to learn a language.",
+    "ru": "Чтобы выучить язык, нужна целеустремлённость."
+   }
+  ]
  },
  {
   "id": "3369",
   "word": "sick",
   "transcription": "[sɪk]",
   "translation": "больной, плохо чувствующий",
-  "nuance": null,
+  "nuance": "Больной (амер.), тошнит (брит.); be sick of — надоело.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/28742/28742_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I feel #sick# — too much cake.",
+    "ru": "Меня тошнит — слишком много торта."
+   },
+   {
+    "en": "She's been #sick# all week.",
+    "ru": "Она болеет всю неделю."
+   },
+   {
+    "en": "I'm #sick# of this rain!",
+    "ru": "Мне надоел этот дождь!"
+   }
+  ]
  },
  {
   "id": "3370",
@@ -76977,7 +77471,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6891/6891_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The fire #alarm# went off. Toast again.",
+    "ru": "Сработала пожарная сигнализация. Опять тост."
+   },
+   {
+    "en": "There's no cause for #alarm#.",
+    "ru": "Нет повода для тревоги."
+   },
+   {
+    "en": "Set the #alarm# for 7.",
+    "ru": "Поставь будильник на семь."
+   }
+  ]
  },
  {
   "id": "3371",
@@ -76987,7 +77494,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/alarming.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The news is #alarming#.",
+    "ru": "Новости тревожные."
+   },
+   {
+    "en": "Prices are rising at an #alarming# rate.",
+    "ru": "Цены растут с тревожной скоростью."
+   },
+   {
+    "en": "There's an #alarming# noise from the car.",
+    "ru": "Из машины доносится тревожный звук."
+   }
+  ]
  },
  {
   "id": "3372",
@@ -76997,57 +77517,135 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/5560/5560_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I didn't hear my #alarm clock#.",
+    "ru": "Я не услышал будильник."
+   },
+   {
+    "en": "The cat is my #alarm clock#.",
+    "ru": "Кот — мой будильник."
+   },
+   {
+    "en": "Throw the #alarm clock# out of the window.",
+    "ru": "Выбрось будильник в окно."
+   }
+  ]
  },
  {
   "id": "3373",
   "word": "kid",
   "transcription": "[kɪd]",
   "translation": "ребёнок",
-  "nuance": null,
+  "nuance": "Разг. ребёнок. Child — нейтральное.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/kid_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #kids# are asleep — finally!",
+    "ru": "Дети спят — наконец-то!"
+   },
+   {
+    "en": "I have two #kids# and a dog.",
+    "ru": "У меня двое детей и собака."
+   },
+   {
+    "en": "When I was a #kid#, there was no internet.",
+    "ru": "Когда я был ребёнком, интернета не было."
+   }
+  ]
  },
  {
   "id": "3374",
   "word": "tall",
   "transcription": "[tɔːl]",
   "translation": "высокий (чел)",
-  "nuance": null,
+  "nuance": "Высокий (люди, деревья, здания). High — высокий (горы, потолок, цены).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/25782/25782_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's very #tall# — he plays basketball.",
+    "ru": "Он очень высокий — играет в баскетбол."
+   },
+   {
+    "en": "How #tall# are you?",
+    "ru": "Какой у тебя рост?"
+   },
+   {
+    "en": "That's a #tall# order.",
+    "ru": "Это трудная задача."
+   }
+  ]
  },
  {
   "id": "3375",
   "word": "border",
   "transcription": "[ˈbɔːdə]",
   "translation": "граница, край",
-  "nuance": null,
+  "nuance": "Граница (государств), край. Boundary — граница (участка).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8483/8483_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We crossed the #border# at night.",
+    "ru": "Мы пересекли границу ночью."
+   },
+   {
+    "en": "The #border# of the garden is full of flowers.",
+    "ru": "Край сада весь в цветах."
+   },
+   {
+    "en": "The country #borders# Spain.",
+    "ru": "Страна граничит с Испанией."
+   }
+  ]
  },
  {
   "id": "3376",
   "word": "peer",
   "transcription": "[pɪə]",
   "translation": "вглядываться",
-  "nuance": null,
+  "nuance": "Вглядываться (с трудом, прищурившись).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/peer_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #peered# through the window.",
+    "ru": "Она вглядывалась в окно."
+   },
+   {
+    "en": "He #peered# at the small text.",
+    "ru": "Он вглядывался в мелкий текст."
+   },
+   {
+    "en": "The cat #peered# under the sofa.",
+    "ru": "Кот заглянул под диван."
+   }
+  ]
  },
  {
   "id": "3377",
   "word": "bishop",
   "transcription": "[ˈbɪʃəp]",
   "translation": "епископ",
-  "nuance": null,
+  "nuance": "Епископ; в шахматах — слон.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/24200/24200_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #bishop# blessed the new church.",
+    "ru": "Епископ освятил новую церковь."
+   },
+   {
+    "en": "He became a #bishop# at 50.",
+    "ru": "Он стал епископом в 50 лет."
+   },
+   {
+    "en": "In chess, the #bishop# moves diagonally.",
+    "ru": "В шахматах слон ходит по диагонали."
+   }
+  ]
  },
  {
   "id": "3378",
@@ -77057,17 +77655,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/archbishop.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #Archbishop# of Canterbury gave a speech.",
+    "ru": "Архиепископ Кентерберийский выступил с речью."
+   },
+   {
+    "en": "The #archbishop# led the ceremony.",
+    "ru": "Церемонию вёл архиепископ."
+   },
+   {
+    "en": "He met the #archbishop# in Rome.",
+    "ru": "Он встретился с архиепископом в Риме."
+   }
+  ]
  },
  {
   "id": "3379",
   "word": "string",
   "transcription": "[strɪŋ]",
   "translation": "струна, тетива, бечева",
-  "nuance": null,
+  "nuance": "Струна, бечёвка; no strings attached — без обязательств.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/string.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My guitar #string# broke.",
+    "ru": "У гитары порвалась струна."
+   },
+   {
+    "en": "Tie the parcel with #string#.",
+    "ru": "Перевяжи посылку бечёвкой."
+   },
+   {
+    "en": "No #strings# attached.",
+    "ru": "Без всяких условий."
+   }
+  ]
  },
  {
   "id": "3380",
@@ -77077,17 +77701,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stringy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The meat was #stringy#.",
+    "ru": "Мясо было жилистым."
+   },
+   {
+    "en": "Her hair looked #stringy# after the swim.",
+    "ru": "После плавания её волосы повисли сосульками."
+   },
+   {
+    "en": "#Stringy# cheese on pizza is the best.",
+    "ru": "Тянущийся сыр на пицце — лучшее."
+   }
+  ]
  },
  {
   "id": "3381",
   "word": "allowance",
   "transcription": "[əˈlaʊəns]",
   "translation": "выплата, пособие",
-  "nuance": null,
+  "nuance": "Пособие, карманные деньги (амер.); норма; make allowance for — учесть.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/allowance.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The kids get a weekly #allowance#.",
+    "ru": "Дети получают карманные деньги каждую неделю."
+   },
+   {
+    "en": "The baggage #allowance# is 20 kilos.",
+    "ru": "Норма багажа — 20 килограммов."
+   },
+   {
+    "en": "Make #allowance# for traffic.",
+    "ru": "Сделай поправку на пробки."
+   }
+  ]
  },
  {
   "id": "3382",
