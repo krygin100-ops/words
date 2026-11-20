@@ -1,0 +1,6 @@
+<circle cx="150" cy="100" r="16" fill="{F}"/>
+<path d="M150 116 V150 L140 175 M150 150 L160 175"/>
+<g fill="{F}"><circle cx="60" cy="70" r="12"/><circle cx="60" cy="130" r="12"/></g>
+<path d="M75 75 L130 95 M75 125 L130 105" stroke-width="3" stroke-dasharray="5 5"/>
+<path d="M120 88 L132 95 L122 102 M120 98 L132 105 L122 112" stroke-width="3"/>
+<text x="150" y="60" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">uh oh</text>

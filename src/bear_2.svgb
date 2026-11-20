@@ -1,0 +1,5 @@
+<circle cx="90" cy="45" r="16" fill="{F}"/>
+<path d="M90 61 V120 L75 175 M90 120 L105 175 M90 75 L60 60 M90 75 L120 60" stroke-width="7"/>
+<rect x="45" y="20" width="90" height="40" rx="6" fill="{F}"/>
+<text x="90" y="46" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">500 kg</text>
+<path d="M120 50 Q125 60 120 65" fill="{L}" stroke="none"/>

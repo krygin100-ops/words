@@ -1,0 +1,4 @@
+<rect x="30" y="60" width="140" height="80" rx="8" fill="{F}"/>
+<text x="100" y="112" font-size="34" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">USA</text>
+<path d="M100 145 V165 M92 158 L100 167 L108 158" stroke-width="3"/>
+<text x="100" y="190" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">United States of America</text>

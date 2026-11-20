@@ -1,0 +1,4 @@
+<circle cx="100" cy="80" r="25" fill="{F}"/>
+<path d="M65 190 Q65 115 100 115 Q135 115 135 190" fill="{F}"/>
+<circle cx="100" cy="110" r="70" stroke-width="3" stroke-dasharray="8 6"/>
+<text x="165" y="40" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">here!</text>

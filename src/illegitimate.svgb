@@ -1,0 +1,4 @@
+<rect x="40" y="30" width="120" height="150" rx="6" fill="{F}"/>
+<path d="M60 60 H140 M60 80 H140 M60 100 H120" stroke="#000" stroke-width="3"/>
+<path d="M95 125 L130 165 M130 125 L95 165" stroke="#000" stroke-width="7"/>
+<text x="65" y="155" font-size="14" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">ILLEGAL</text>
