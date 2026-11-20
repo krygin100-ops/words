@@ -105344,500 +105344,1150 @@
   "word": "intrusion",
   "transcription": "[ɪnˈtruːʒən]",
   "translation": "вторжение",
-  "nuance": null,
+  "nuance": "intrusion — вторжение, вмешательство (в частную жизнь), проникновение. Invasion — вторжение (массовое, воен.), interruption — прерывание.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/intrusion.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Sorry for the #intrusion# — can I borrow some sugar?",
+    "ru": "Простите за вторжение — можно одолжить немного сахара?"
+   },
+   {
+    "en": "Phone calls at dinner are an #intrusion#.",
+    "ru": "Звонки во время ужина — это вторжение."
+   },
+   {
+    "en": "The alarm warns of any #intrusion#.",
+    "ru": "Сигнализация предупреждает о любом проникновении."
+   }
+  ]
  },
  {
   "id": "4583",
   "word": "intruder",
   "transcription": "[ɪnˈtruːdə]",
   "translation": "нарушитель",
-  "nuance": null,
+  "nuance": "intruder — посторонний, незваный гость, нарушитель (проникший без разрешения). Burglar — взломщик, trespasser — нарушитель границ (участка).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/intruder.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The dog barked at the #intruder#. It was the postman.",
+    "ru": "Собака лаяла на нарушителя. Это был почтальон."
+   },
+   {
+    "en": "Police caught the #intruder# in the garden.",
+    "ru": "Полиция поймала постороннего в саду."
+   },
+   {
+    "en": "I felt like an #intruder# at their family dinner.",
+    "ru": "Я чувствовал себя лишним на их семейном ужине."
+   }
+  ]
  },
  {
   "id": "4584",
   "word": "martyr",
   "transcription": "[ˈmɑːtə]",
   "translation": "мученик",
-  "nuance": null,
+  "nuance": "martyr — мученик; разг. — тот, кто строит из себя жертву. be a martyr to smth — страдать от (болезни). Victim — жертва.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/martyr.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He was a #martyr# for his beliefs.",
+    "ru": "Он стал мучеником за свои убеждения."
+   },
+   {
+    "en": "Stop playing the #martyr# — I'll do the dishes.",
+    "ru": "Хватит строить из себя мученика — я помою посуду."
+   },
+   {
+    "en": "She's a #martyr# to her migraines.",
+    "ru": "Она страдает от мигреней."
+   }
+  ]
  },
  {
   "id": "4585",
   "word": "martyrdom",
   "transcription": "[ˈmɑːtədəm]",
   "translation": "мученичество",
-  "nuance": null,
+  "nuance": "martyrdom — мученичество (религ., серьёзно; иронично — о показном страдании). Suffering — страдание, sacrifice — жертва.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/martyrdom.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Saint Stephen suffered #martyrdom#.",
+    "ru": "Святой Стефан принял мученическую смерть."
+   },
+   {
+    "en": "Her sigh of #martyrdom# made us laugh.",
+    "ru": "Её мученический вздох нас рассмешил."
+   },
+   {
+    "en": "They saw his death as #martyrdom#.",
+    "ru": "Они считали его смерть мученичеством."
+   }
+  ]
  },
  {
   "id": "4586",
   "word": "pillow",
   "transcription": "[ˈpɪləʊ]",
   "translation": "подушка",
-  "nuance": null,
+  "nuance": "pillow — подушка (для сна). Cushion — диванная подушка, pillowcase — наволочка. pillow talk — разговоры в постели.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2250/2250_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The cat stole my #pillow#. Again.",
+    "ru": "Кот опять украл мою подушку."
+   },
+   {
+    "en": "We had a #pillow# fight.",
+    "ru": "Мы устроили бой подушками."
+   },
+   {
+    "en": "I need a softer #pillow#.",
+    "ru": "Мне нужна подушка помягче."
+   }
+  ]
  },
  {
   "id": "4587",
   "word": "flap",
   "transcription": "[flæp]",
   "translation": "створка, клапан, хлопать",
-  "nuance": null,
+  "nuance": "flap — клапан, створка, лоскут; хлопать (крыльями, на ветру); брит. разг. — паника (in a flap). Cat flap — дверца для кошки.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/flap.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The tent #flap# opened in the wind.",
+    "ru": "Полог палатки распахнулся на ветру."
+   },
+   {
+    "en": "The bird #flapped# its wings.",
+    "ru": "Птица захлопала крыльями."
+   },
+   {
+    "en": "Don't get in a #flap# — we have time!",
+    "ru": "Не паникуй — у нас есть время!"
+   }
+  ]
  },
  {
   "id": "4588",
   "word": "flute",
   "transcription": "[fluːt]",
   "translation": "флейта",
-  "nuance": null,
+  "nuance": "flute — флейта; бокал-флюте (для шампанского). Recorder — блокфлейта, whistle — свисток/дудочка.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2396/2396_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She plays the #flute# in the school band.",
+    "ru": "Она играет на флейте в школьном оркестре."
+   },
+   {
+    "en": "The #flute# solo was beautiful.",
+    "ru": "Соло на флейте было прекрасным."
+   },
+   {
+    "en": "He played a sad tune on the #flute#.",
+    "ru": "Он сыграл грустную мелодию на флейте."
+   }
+  ]
  },
  {
   "id": "4589",
   "word": "scissors",
   "transcription": "[ˈsɪzəz]",
   "translation": "ножницы",
-  "nuance": null,
+  "nuance": "scissors — ножницы (всегда мн. ч.: a pair of scissors, the scissors are...). Shears — большие ножницы (садовые).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2591/2591_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Where are the #scissors#? Nobody knows. Ever.",
+    "ru": "Где ножницы? Никто не знает. Никогда."
+   },
+   {
+    "en": "Cut along the line with #scissors#.",
+    "ru": "Разрежь по линии ножницами."
+   },
+   {
+    "en": "Pass me a pair of #scissors#.",
+    "ru": "Передай мне ножницы."
+   }
+  ]
  },
  {
   "id": "4590",
   "word": "hog",
   "transcription": "[hɒg]",
   "translation": "большой свин, боров",
-  "nuance": null,
+  "nuance": "hog — боров, свинья (амер.); разг. — жадина; глагол hog — захапать, занимать. go the whole hog — идти до конца. Pig — свинья.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/hog.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The farmer's #hog# weighed 300 kilos.",
+    "ru": "Хряк фермера весил 300 килограмм."
+   },
+   {
+    "en": "Stop being a #hog# — share the popcorn!",
+    "ru": "Не жадничай — делись попкорном!"
+   },
+   {
+    "en": "He #hogs# the bathroom every morning.",
+    "ru": "Он каждое утро занимает ванную надолго."
+   }
+  ]
  },
  {
   "id": "4591",
   "word": "ward",
   "transcription": "[wɔːd]",
   "translation": "палата, отделение, камера",
-  "nuance": null,
+  "nuance": "ward — больничная палата, отделение; подопечный; избирательный округ (брит.). Room — палата (частная), department — отделение.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/38876/38876_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She works in the children's #ward#.",
+    "ru": "Она работает в детском отделении."
+   },
+   {
+    "en": "Visiting hours on the #ward# are 2 to 4.",
+    "ru": "Часы посещения в палате — с 2 до 4."
+   },
+   {
+    "en": "The court made him a #ward# of the state.",
+    "ru": "Суд передал его под опеку государства."
+   }
+  ]
  },
  {
   "id": "4592",
   "word": "order",
   "transcription": "[ˈɔːdə]",
   "translation": "приказ",
-  "nuance": null,
+  "nuance": "order — приказ, распоряжение; приказывать. Command — команда (воен.), instruction — указание, demand — требование.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/order_3.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The captain gave the #order# to stop.",
+    "ru": "Капитан отдал приказ остановиться."
+   },
+   {
+    "en": "I'm just following #orders#.",
+    "ru": "Я просто выполняю приказы."
+   },
+   {
+    "en": "He #ordered# us to leave.",
+    "ru": "Он приказал нам уйти."
+   }
+  ]
  },
  {
   "id": "4593",
   "word": "cut across",
   "transcription": "[kʌtəˈkrɒs]",
   "translation": "пересечь, срезать путь",
-  "nuance": null,
+  "nuance": "cut across — срезать путь, пересечь; затрагивать (разные группы). Take a shortcut — срезать путь, cross — пересечь.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/38284/38284_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Let's #cut across# the park — it's quicker.",
+    "ru": "Давай срежем через парк — так быстрее."
+   },
+   {
+    "en": "The road #cuts across# the forest.",
+    "ru": "Дорога пересекает лес."
+   },
+   {
+    "en": "This problem #cuts across# all departments.",
+    "ru": "Эта проблема касается всех отделов."
+   }
+  ]
  },
  {
   "id": "4594",
   "word": "interrogate",
   "transcription": "[ɪnˈtɛrəʊgeɪt]",
   "translation": "допрашивать",
-  "nuance": null,
+  "nuance": "interrogate — допрашивать (жёстко, офиц.); шутл. — устраивать допрос. Question — опрашивать (мягче), quiz — расспрашивать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/interrogate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The police #interrogated# him for six hours.",
+    "ru": "Полиция допрашивала его шесть часов."
+   },
+   {
+    "en": "Stop #interrogating# me — I just went for a walk!",
+    "ru": "Хватит меня допрашивать — я просто гулял!"
+   },
+   {
+    "en": "Mum #interrogated# us about the broken vase.",
+    "ru": "Мама учинила нам допрос насчёт разбитой вазы."
+   }
+  ]
  },
  {
   "id": "4595",
   "word": "interrogation",
   "transcription": "[ɪnˌtɛrəʊˈgeɪʃən]",
   "translation": "допрос",
-  "nuance": null,
+  "nuance": "interrogation — допрос. Questioning — опрос, investigation — расследование.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/interrogation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #interrogation# lasted all night.",
+    "ru": "Допрос длился всю ночь."
+   },
+   {
+    "en": "Dinner with her parents felt like an #interrogation#.",
+    "ru": "Ужин с её родителями походил на допрос."
+   },
+   {
+    "en": "He was released after #interrogation#.",
+    "ru": "После допроса его отпустили."
+   }
+  ]
  },
  {
   "id": "4596",
   "word": "foil",
   "transcription": "[fɔɪl]",
   "translation": "расстраивать, разрушать",
-  "nuance": null,
+  "nuance": "foil — сорвать, расстроить (план, преступление). Сущ. foil — фольга; контраст (a foil for). Thwart — помешать (книжн.), ruin — испортить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/foil.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The guard #foiled# the robbery.",
+    "ru": "Охранник сорвал ограбление."
+   },
+   {
+    "en": "My plan to sleep in was #foiled# by the neighbour's drill.",
+    "ru": "Мой план поспать подольше сорвала соседская дрель."
+   },
+   {
+    "en": "Police #foiled# a plot to steal the jewels.",
+    "ru": "Полиция сорвала план кражи драгоценностей."
+   }
+  ]
  },
  {
   "id": "4597",
   "word": "soot",
   "transcription": "[sʊt]",
   "translation": "сажа",
-  "nuance": null,
+  "nuance": "soot — сажа, копоть. Ash — пепел, smoke — дым, grime — въевшаяся грязь.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/soot.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The chimney was full of #soot#.",
+    "ru": "Дымоход был полон сажи."
+   },
+   {
+    "en": "His face was black with #soot#.",
+    "ru": "Его лицо было чёрным от сажи."
+   },
+   {
+    "en": "Wipe the #soot# off the window.",
+    "ru": "Сотри сажу с окна."
+   }
+  ]
  },
  {
   "id": "4598",
   "word": "sooty",
   "transcription": "[ˈsʊti]",
   "translation": "закопченный",
-  "nuance": null,
+  "nuance": "sooty — закопчённый, покрытый сажей; чёрный как сажа. Smoky — дымный, grimy — грязный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sooty.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The fireman came out with a #sooty# face.",
+    "ru": "Пожарный вышел с закопчённым лицом."
+   },
+   {
+    "en": "The walls were #sooty# after the fire.",
+    "ru": "После пожара стены были закопчёнными."
+   },
+   {
+    "en": "A #sooty# black cat crossed the road.",
+    "ru": "Чёрный как сажа кот перешёл дорогу."
+   }
+  ]
  },
  {
   "id": "4599",
   "word": "snapshot",
   "transcription": "[ˈsnæpˌʃɒt]",
   "translation": "снимок",
-  "nuance": null,
+  "nuance": "snapshot — снимок, фотка (любительская); переносно — срез, моментальный снимок ситуации. Photo — фото, picture — снимок.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/snapshot.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I took a quick #snapshot# of the sunset.",
+    "ru": "Я быстро сфотографировал закат."
+   },
+   {
+    "en": "This survey is a #snapshot# of public opinion.",
+    "ru": "Этот опрос — срез общественного мнения."
+   },
+   {
+    "en": "Old family #snapshots# make me laugh.",
+    "ru": "Старые семейные фотки меня смешат."
+   }
+  ]
  },
  {
   "id": "4600",
   "word": "aggregate",
   "transcription": "[ˈægrɪgɪt]",
   "translation": "совокупный",
-  "nuance": null,
+  "nuance": "aggregate — совокупный, суммарный (офиц./спорт.); сущ. — совокупность; строит. заполнитель. Total — общий, combined — объединённый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/aggregate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #aggregate# score after two games was 3–2.",
+    "ru": "По сумме двух игр счёт был 3:2."
+   },
+   {
+    "en": "We looked at the #aggregate# data.",
+    "ru": "Мы смотрели на сводные данные."
+   },
+   {
+    "en": "Gravel and sand are called #aggregate#.",
+    "ru": "Гравий и песок называются заполнителем."
+   }
+  ]
  },
  {
   "id": "4601",
   "word": "aggregation",
   "transcription": "[ˌægrɪˈgeɪʃ(ə)n]",
   "translation": "объединение, группировка",
-  "nuance": null,
+  "nuance": "aggregation — объединение, сбор, агрегирование (техн./научн.). Collection — сбор, grouping — группировка.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/aggregation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "News #aggregation# sites collect stories from everywhere.",
+    "ru": "Новостные агрегаторы собирают материалы отовсюду."
+   },
+   {
+    "en": "#Aggregation# of data takes time.",
+    "ru": "Сбор данных воедино требует времени."
+   },
+   {
+    "en": "Birds form #aggregations# in winter.",
+    "ru": "Зимой птицы собираются в стаи."
+   }
+  ]
  },
  {
   "id": "4602",
   "word": "loop",
   "transcription": "[luːp]",
   "translation": "петля",
-  "nuance": null,
+  "nuance": "loop — петля, кольцо, цикл. in the loop — в курсе, on a loop — по кругу. Knot — узел, circle — круг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/loop.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Tie a #loop# in the rope.",
+    "ru": "Завяжи петлю на верёвке."
+   },
+   {
+    "en": "The song plays on a #loop# in my head.",
+    "ru": "Эта песня крутится у меня в голове по кругу."
+   },
+   {
+    "en": "Keep me in the #loop#!",
+    "ru": "Держи меня в курсе!"
+   }
+  ]
  },
  {
   "id": "4603",
   "word": "paw",
   "transcription": "[pɔː]",
   "translation": "лапа",
-  "nuance": null,
+  "nuance": "paw — лапа (с подушечками); разг. — рука, «лапы». Claw — коготь, hoof — копыто. paw at — трогать лапой.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/paw.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The dog gave me its #paw#.",
+    "ru": "Собака дала мне лапу."
+   },
+   {
+    "en": "Keep your #paws# off my chocolate!",
+    "ru": "Убери лапы от моего шоколада!"
+   },
+   {
+    "en": "The cat left muddy #paw# prints everywhere.",
+    "ru": "Кот оставил грязные следы лап повсюду."
+   }
+  ]
  },
  {
   "id": "4604",
   "word": "fit in with",
   "transcription": "[fɪtɪnwɪð]",
   "translation": "вписаться (в коллектив)",
-  "nuance": null,
+  "nuance": "fit in (with) — вписаться, влиться (в коллектив); подходить (к планам). Belong — быть своим, get along — ладить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fit_in_with.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It took me a while to #fit in with# the team.",
+    "ru": "Мне потребовалось время, чтобы влиться в команду."
+   },
+   {
+    "en": "He doesn't #fit in with# the other kids.",
+    "ru": "Он не вписывается в компанию других детей."
+   },
+   {
+    "en": "Does Tuesday #fit in with# your plans?",
+    "ru": "Вторник вписывается в твои планы?"
+   }
+  ]
  },
  {
   "id": "4605",
   "word": "hand in",
   "transcription": "[hændɪn]",
   "translation": "сдать",
-  "nuance": null,
+  "nuance": "hand in — сдать (работу, документ), подать (заявление). Submit — подать (офиц.), turn in — амер. «сдать».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/hand_in.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Hand in# your homework by Friday.",
+    "ru": "Сдайте домашнее задание до пятницы."
+   },
+   {
+    "en": "He #handed in# his notice.",
+    "ru": "Он подал заявление об уходе."
+   },
+   {
+    "en": "Someone #handed in# my lost wallet.",
+    "ru": "Кто-то сдал мой потерянный кошелёк."
+   }
+  ]
  },
  {
   "id": "4606",
   "word": "give in",
   "transcription": "[gɪvɪn]",
   "translation": "сдать",
-  "nuance": null,
+  "nuance": "give in — брит. «сдать» (работу); чаще — уступить, сдаться. Hand in — сдать (нейтр.), surrender — сдаться (офиц.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/give_in_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Give in# your test papers now, please.",
+    "ru": "Сдайте, пожалуйста, ваши работы сейчас."
+   },
+   {
+    "en": "I finally #gave in# and bought the dog.",
+    "ru": "Я в итоге сдался и купил собаку."
+   },
+   {
+    "en": "Don't #give in# to pressure.",
+    "ru": "Не поддавайся давлению."
+   }
+  ]
  },
  {
   "id": "4607",
   "word": "get in",
   "transcription": "[gɛt ɪn]",
   "translation": "сдавать",
-  "nuance": null,
+  "nuance": "get in (smth) — разг. «успеть сдать/подать». Также «войти, сесть (в машину), приехать». Hand in — сдать (нейтр.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/get_in_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Make sure you #get# your essay #in# on time.",
+    "ru": "Постарайся сдать эссе вовремя."
+   },
+   {
+    "en": "I #got# the application #in# just before the deadline.",
+    "ru": "Я успел подать заявку прямо перед дедлайном."
+   },
+   {
+    "en": "#Get# your forms #in# by Monday.",
+    "ru": "Сдайте анкеты до понедельника."
+   }
+  ]
  },
  {
   "id": "4608",
   "word": "turn in",
   "transcription": "[tɜːn ɪn]",
   "translation": "сдавать(cя)",
-  "nuance": null,
+  "nuance": "turn in — сдать (амер.: работу, ключи); turn oneself in — сдаться (полиции); разг. — лечь спать. Hand in — сдать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/turn_in.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The thief #turned# himself #in# to the police.",
+    "ru": "Вор сдался полиции."
+   },
+   {
+    "en": "Please #turn in# your keys when you leave.",
+    "ru": "Пожалуйста, сдайте ключи при уходе."
+   },
+   {
+    "en": "I'm tired — I'll #turn in# early.",
+    "ru": "Я устал — пойду спать пораньше."
+   }
+  ]
  },
  {
   "id": "4609",
   "word": "chord",
   "transcription": "[kɔːd]",
   "translation": "аккорд",
-  "nuance": null,
+  "nuance": "chord — аккорд; strike a chord — найти отклик, задеть за живое. Ловушка: cord — шнур (звучит так же), vocal cords — голосовые связки.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/chord.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I only know three guitar #chords#.",
+    "ru": "Я знаю всего три гитарных аккорда."
+   },
+   {
+    "en": "Her story struck a #chord# with everyone.",
+    "ru": "Её история нашла отклик у всех."
+   },
+   {
+    "en": "Play a C major #chord#.",
+    "ru": "Сыграй до-мажорный аккорд."
+   }
+  ]
  },
  {
   "id": "4610",
   "word": "zoo",
   "transcription": "[zuː]",
   "translation": "зоопарк",
-  "nuance": null,
+  "nuance": "zoo — зоопарк; разг. — сумасшедший дом, бардак. Safari park — сафари-парк, aquarium — аквариум.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/4773/4773_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We spent the day at the #zoo#.",
+    "ru": "Мы провели день в зоопарке."
+   },
+   {
+    "en": "My kids' bedroom is a #zoo#.",
+    "ru": "Детская у меня — настоящий зверинец."
+   },
+   {
+    "en": "The #zoo# has two new baby pandas.",
+    "ru": "В зоопарке два новых детёныша панды."
+   }
+  ]
  },
  {
   "id": "4611",
   "word": "be after",
   "transcription": "[biːˈɑːftə]",
   "translation": "иметь целью",
-  "nuance": null,
+  "nuance": "be after — добиваться, хотеть получить; разыскивать, преследовать (разг.). Look for — искать, want — хотеть.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/be_after.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I know what you're #after# — the last cookie.",
+    "ru": "Я знаю, чего ты добиваешься — последнее печенье."
+   },
+   {
+    "en": "The police #are after# him.",
+    "ru": "Полиция его разыскивает."
+   },
+   {
+    "en": "What exactly #are# you #after#?",
+    "ru": "Чего именно ты добиваешься?"
+   }
+  ]
  },
  {
   "id": "4612",
   "word": "coincidence",
   "transcription": "[kəʊˈɪnsɪdəns]",
   "translation": "совпадение",
-  "nuance": null,
+  "nuance": "coincidence — совпадение, случайность. Chance — случай, accident — случайность. by coincidence — случайно, по совпадению.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/coincidence.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "What a #coincidence# — we have the same birthday!",
+    "ru": "Какое совпадение — у нас один день рождения!"
+   },
+   {
+    "en": "It's no #coincidence# that he's late every Monday.",
+    "ru": "Неслучайно он опаздывает каждый понедельник."
+   },
+   {
+    "en": "By #coincidence#, we were on the same plane.",
+    "ru": "По совпадению мы оказались в одном самолёте."
+   }
+  ]
  },
  {
   "id": "4613",
   "word": "youngster",
   "transcription": "[ˈjʌŋstə]",
   "translation": "юноша, ребёнок",
-  "nuance": null,
+  "nuance": "youngster — ребёнок, подросток, юнец (немного старомодно-тепло). Kid — ребёнок (разг.), teenager — подросток, youth — молодёжь.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/youngster.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #youngsters# love the new skate park.",
+    "ru": "Молодёжи нравится новый скейт-парк."
+   },
+   {
+    "en": "When I was a #youngster#, we played outside.",
+    "ru": "Когда я был ребёнком, мы играли на улице."
+   },
+   {
+    "en": "He's just a #youngster# — give him time.",
+    "ru": "Он ещё юнец — дай ему время."
+   }
+  ]
  },
  {
   "id": "4614",
   "word": "come to life",
   "transcription": "[kʌmtuːlaɪf]",
   "translation": "оживать, приходить в себя",
-  "nuance": null,
+  "nuance": "come to life — оживать, становиться оживлённым; прийти в себя. Wake up — проснуться, revive — ожить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/come_to_life.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The town #comes to life# at night.",
+    "ru": "Город оживает ночью."
+   },
+   {
+    "en": "After coffee, I finally #came to life#.",
+    "ru": "После кофе я наконец ожил."
+   },
+   {
+    "en": "The garden #comes to life# in spring.",
+    "ru": "Весной сад оживает."
+   }
+  ]
  },
  {
   "id": "4615",
   "word": "bring to life",
   "transcription": "[brɪŋtuːlaɪf]",
   "translation": "приводить в чувство",
-  "nuance": null,
+  "nuance": "bring to life — оживить, вдохнуть жизнь; вернуть к жизни (реанимировать). Revive — привести в чувство, animate — оживить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/bring_to_life.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The actor #brought# the character #to life#.",
+    "ru": "Актёр оживил персонажа."
+   },
+   {
+    "en": "Good music #brings# a party #to life#.",
+    "ru": "Хорошая музыка оживляет вечеринку."
+   },
+   {
+    "en": "The doctors #brought# him back #to life#.",
+    "ru": "Врачи вернули его к жизни."
+   }
+  ]
  },
  {
   "id": "4616",
   "word": "serene",
   "transcription": "[sɪˈriːn]",
   "translation": "безмятежный, безоблачный",
-  "nuance": null,
+  "nuance": "serene — безмятежный, спокойный, ясный (книжн.-поэтичное). Calm — спокойный, peaceful — мирный, tranquil — тихий.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/37828/37828_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The lake was #serene# in the morning.",
+    "ru": "Утром озеро было безмятежным."
+   },
+   {
+    "en": "She stayed #serene# while the kids screamed.",
+    "ru": "Она сохраняла спокойствие, пока дети кричали."
+   },
+   {
+    "en": "We had a #serene# week in the mountains.",
+    "ru": "Мы провели безмятежную неделю в горах."
+   }
+  ]
  },
  {
   "id": "4617",
   "word": "serenity",
   "transcription": "[sɪˈrɛnɪti]",
   "translation": "безмятежность",
-  "nuance": null,
+  "nuance": "serenity — безмятежность, душевный покой. Calm — спокойствие, peace — покой, tranquillity — умиротворение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/serenity.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I found #serenity# in the garden.",
+    "ru": "Я обрёл покой в саду."
+   },
+   {
+    "en": "Her #serenity# during the storm was amazing.",
+    "ru": "Её спокойствие во время бури поражало."
+   },
+   {
+    "en": "Grant me the #serenity# to accept what I can't change.",
+    "ru": "Дай мне спокойствие принять то, что я не могу изменить."
+   }
+  ]
  },
  {
   "id": "4618",
   "word": "crib",
   "transcription": "[krɪb]",
   "translation": "раскладушка или дет. кроватка",
-  "nuance": null,
+  "nuance": "crib (амер.) — детская кроватка (брит. cot); сленг — дом, «хата»; шпаргалка (брит. разг.). Раскладушка — обычно cot (амер.) / camp bed (брит.).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/5980/5980_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The baby sleeps in a #crib# next to our bed.",
+    "ru": "Малыш спит в кроватке рядом с нашей кроватью."
+   },
+   {
+    "en": "Guests can sleep on the #crib#.",
+    "ru": "Гости могут спать на раскладушке."
+   },
+   {
+    "en": "Nice #crib#! Is that a pool?",
+    "ru": "Классная хата! Это бассейн?"
+   }
+  ]
  },
  {
   "id": "4619",
   "word": "mammoth",
   "transcription": "[ˈmæməθ]",
   "translation": "мамонт",
-  "nuance": null,
+  "nuance": "mammoth — мамонт; прил. — громадный, колоссальный (разг.). Huge — огромный, enormous — громадный, massive — массивный.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/29682/29682_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Mammoths# lived during the Ice Age.",
+    "ru": "Мамонты жили в ледниковый период."
+   },
+   {
+    "en": "That was a #mammoth# task.",
+    "ru": "Это была громадная задача."
+   },
+   {
+    "en": "We had a #mammoth# breakfast.",
+    "ru": "Мы плотно позавтракали."
+   }
+  ]
  },
  {
   "id": "4620",
   "word": "suitcase",
   "transcription": "[ˈsjuːtkeɪs]",
   "translation": "чемодан",
-  "nuance": null,
+  "nuance": "suitcase — чемодан. Luggage/baggage — багаж (неисч.), bag — сумка, trunk — сундук.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2931/2931_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My #suitcase# is full of shoes.",
+    "ru": "Мой чемодан полон обуви."
+   },
+   {
+    "en": "The #suitcase# didn't arrive with me.",
+    "ru": "Чемодан не прилетел вместе со мной."
+   },
+   {
+    "en": "Pack your #suitcase# — we leave tomorrow!",
+    "ru": "Собирай чемодан — уезжаем завтра!"
+   }
+  ]
  },
  {
   "id": "4621",
   "word": "pass up",
   "transcription": "[pɑːsʌp]",
   "translation": "не воспользоваться шансом",
-  "nuance": null,
+  "nuance": "pass up — упустить, отказаться от (возможности; разг.). Miss — упустить (случайно), turn down — отклонить, decline — отказаться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/pass_up.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #pass up# a free holiday!",
+    "ru": "Не упускай бесплатный отпуск!"
+   },
+   {
+    "en": "I #passed up# the job and regret it.",
+    "ru": "Я отказался от той работы и жалею."
+   },
+   {
+    "en": "He never #passes up# a chance to eat.",
+    "ru": "Он никогда не упускает возможности поесть."
+   }
+  ]
  },
  {
   "id": "4622",
   "word": "thug",
   "transcription": "[θʌg]",
   "translation": "бандит, головорез",
-  "nuance": null,
+  "nuance": "thug — громила, бандит, головорез. Gangster — гангстер, hooligan — хулиган, criminal — преступник.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/thug.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Two #thugs# stole his phone.",
+    "ru": "Двое бандитов украли его телефон."
+   },
+   {
+    "en": "The film is full of #thugs# and gangsters.",
+    "ru": "Фильм полон головорезов и гангстеров."
+   },
+   {
+    "en": "Don't be a #thug# — say sorry!",
+    "ru": "Не будь хулиганом — извинись!"
+   }
+  ]
  },
  {
   "id": "4623",
   "word": "coffin",
   "transcription": "[ˈkɒfɪn]",
   "translation": "гроб",
-  "nuance": null,
+  "nuance": "coffin — гроб (брит.); амер. casket. nail in the coffin — гвоздь в крышку гроба. Grave — могила.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/32194/32194_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #coffin# was made of oak.",
+    "ru": "Гроб был сделан из дуба."
+   },
+   {
+    "en": "That's another nail in the #coffin# for the project.",
+    "ru": "Это ещё один гвоздь в крышку гроба проекта."
+   },
+   {
+    "en": "Vampires sleep in #coffins#.",
+    "ru": "Вампиры спят в гробах."
+   }
+  ]
  },
  {
   "id": "4624",
   "word": "dread",
   "transcription": "[drɛd]",
   "translation": "страх, бояться",
-  "nuance": null,
+  "nuance": "dread — сильно бояться, с ужасом ожидать; страх. Fear — бояться (нейтр.), be afraid — бояться (разг.). dreadlocks — дреды.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dread.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #dread# Monday mornings.",
+    "ru": "Я с ужасом жду утра понедельника."
+   },
+   {
+    "en": "She lived in #dread# of the dentist.",
+    "ru": "Она жила в страхе перед стоматологом."
+   },
+   {
+    "en": "I #dread# to think what he'll say.",
+    "ru": "Страшно подумать, что он скажет."
+   }
+  ]
  },
  {
   "id": "4625",
   "word": "dreadful",
   "transcription": "[ˈdrɛdfʊl]",
   "translation": "ужасный",
-  "nuance": null,
+  "nuance": "dreadful — ужасный (брит., эмоц.). Terrible/awful — то же (разг.), horrible — отвратительный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dreadful.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The weather was #dreadful#.",
+    "ru": "Погода была ужасной."
+   },
+   {
+    "en": "I'm #dreadful# at maths.",
+    "ru": "У меня ужасно с математикой."
+   },
+   {
+    "en": "What a #dreadful# thing to say!",
+    "ru": "Как ужасно так говорить!"
+   }
+  ]
  },
  {
   "id": "4626",
   "word": "pity",
   "transcription": "[ˈpɪti]",
   "translation": "жалость",
-  "nuance": null,
+  "nuance": "pity — жалость; what a pity / it's a pity — «как жаль». Sympathy — сочувствие (уважительное), compassion — сострадание, shame — жаль (разг.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/pity.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I don't want your #pity#.",
+    "ru": "Мне не нужна твоя жалость."
+   },
+   {
+    "en": "What a #pity# you can't come!",
+    "ru": "Как жаль, что ты не можешь прийти!"
+   },
+   {
+    "en": "She took #pity# on the wet kitten.",
+    "ru": "Она сжалилась над мокрым котёнком."
+   }
+  ]
  },
  {
   "id": "4627",
   "word": "pitiful",
   "transcription": "[ˈpɪtɪfʊl]",
   "translation": "жалкий",
-  "nuance": null,
+  "nuance": "pitiful — жалкий (вызывает жалость или презрение). Pathetic — жалкий (с презрением), sad — печальный, miserable — несчастный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/pitiful.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The kitten looked #pitiful# in the rain.",
+    "ru": "Котёнок выглядел жалким под дождём."
+   },
+   {
+    "en": "His excuse was #pitiful#.",
+    "ru": "Его оправдание было жалким."
+   },
+   {
+    "en": "They pay #pitiful# wages.",
+    "ru": "Они платят жалкие гроши."
+   }
+  ]
  },
  {
   "id": "4628",
   "word": "pitiless",
   "transcription": "[ˈpɪtɪlɪs]",
   "translation": "безжалостный",
-  "nuance": null,
+  "nuance": "pitiless — безжалостный (книжн.). Merciless — беспощадный, cruel — жестокий, ruthless — безжалостный (в достижении целей).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/pitiless.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #pitiless# sun burned our backs.",
+    "ru": "Безжалостное солнце обжигало нам спины."
+   },
+   {
+    "en": "He was a #pitiless# boss.",
+    "ru": "Он был безжалостным начальником."
+   },
+   {
+    "en": "The critics were #pitiless#.",
+    "ru": "Критики были беспощадны."
+   }
+  ]
  },
  {
   "id": "4629",
   "word": "drown",
   "transcription": "[draʊn]",
   "translation": "тонуть",
-  "nuance": null,
+  "nuance": "drown — тонуть/утонуть (о людях, погибнуть); утопить; переносно — тонуть (в работе). Sink — тонуть (о предметах)!",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/5366/5366_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He nearly #drowned# in the lake as a kid.",
+    "ru": "В детстве он чуть не утонул в озере."
+   },
+   {
+    "en": "I'm #drowning# in paperwork.",
+    "ru": "Я тону в бумажной работе."
+   },
+   {
+    "en": "Don't #drown# your fries in ketchup!",
+    "ru": "Не заливай картошку кетчупом!"
+   }
+  ]
  },
  {
   "id": "4630",
   "word": "break into (break in)",
   "transcription": "[breɪkˈɪntuː]",
   "translation": "проникнуть, вломиться",
-  "nuance": null,
+  "nuance": "break into / break in — вломиться, проникнуть со взломом; break into — внезапно начать (break into song/a run). Burgle — ограбить (дом).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/break_into.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Someone #broke into# our car last night.",
+    "ru": "Ночью кто-то вломился в нашу машину."
+   },
+   {
+    "en": "Thieves #broke in# while we were on holiday.",
+    "ru": "Пока мы были в отпуске, к нам залезли воры."
+   },
+   {
+    "en": "She #broke into# a smile.",
+    "ru": "Она расплылась в улыбке."
+   }
+  ]
  },
  {
   "id": "4631",
   "word": "break-in",
   "transcription": "[breɪk-ɪn]",
   "translation": "взлом, ограбление",
-  "nuance": null,
+  "nuance": "break-in — взлом, кража со взломом. Burglary — кража со взломом (юр.), robbery — ограбление (с угрозой).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/break_in_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There was a #break-in# at the office.",
+    "ru": "В офис залезли воры."
+   },
+   {
+    "en": "After the #break-in#, we bought an alarm.",
+    "ru": "После взлома мы купили сигнализацию."
+   },
+   {
+    "en": "Police are investigating the #break-in#.",
+    "ru": "Полиция расследует проникновение со взломом."
+   }
+  ]
  },
  {
   "id": "4632",
