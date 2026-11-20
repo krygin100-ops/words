@@ -1,0 +1,6 @@
+<rect x="40" y="30" width="120" height="140" rx="6" fill="{F}"/>
+<g fill="{L}"><rect x="55" y="50" width="25" height="15"/><rect x="55" y="80" width="25" height="15"/><rect x="55" y="110" width="25" height="15"/></g>
+<circle cx="125" cy="80" r="20" fill="#000"/>
+<path d="M125 80 L140 68" stroke="{L}" stroke-width="5"/>
+<path d="M100 140 H140" stroke="{L}" stroke-width="6"/>
+<text x="100" y="192" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">in charge</text>

@@ -1,0 +1,4 @@
+<path d="M20 100 H150" stroke-width="8"/>
+<rect x="150" y="50" width="20" height="100" fill="{L}"/>
+<g fill="{F}"><circle cx="40" cy="100" r="8"/><circle cx="80" cy="100" r="8"/><circle cx="120" cy="100" r="8"/></g>
+<text x="100" y="180" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">THE END</text>

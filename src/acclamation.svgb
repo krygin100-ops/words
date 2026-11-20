@@ -1,0 +1,4 @@
+<path d="M50 120 L35 70 Q35 60 45 62 L55 100 M50 120 Q40 140 60 150 H85 Q95 140 90 120 L80 70 Q78 60 70 65 L72 100" fill="{F}"/>
+<path d="M150 120 L165 70 Q165 60 155 62 L145 100 M150 120 Q160 140 140 150 H115 Q105 140 110 120 L120 70 Q122 60 130 65 L128 100" fill="{F}"/>
+<path d="M100 40 V20 M80 45 L70 30 M120 45 L130 30" stroke-width="4"/>
+<text x="100" y="185" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">clap clap!</text>

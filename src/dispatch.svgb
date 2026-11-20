@@ -1,0 +1,5 @@
+<rect x="40" y="90" width="80" height="60" fill="{F}"/>
+<path d="M40 90 L80 120 L120 90" stroke="#000" stroke-width="4"/>
+<path d="M125 120 H185 M170 105 L187 120 L170 135" stroke-width="6"/>
+<path d="M15 100 H30 M10 120 H30 M15 140 H30" stroke-width="3"/>
+<text x="100" y="50" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">sent!</text>

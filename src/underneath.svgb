@@ -1,0 +1,7 @@
+<rect x="20" y="70" width="160" height="15" fill="{F}"/>
+<path d="M35 85 V170 M165 85 V170"/>
+<circle cx="100" cy="140" r="22" fill="{L}"/>
+<circle cx="93" cy="137" r="3.5" fill="#000"/>
+<circle cx="107" cy="137" r="3.5" fill="#000"/>
+<path d="M100 40 V105 M90 95 L100 107 L110 95" stroke-width="0"/>
+<text x="100" y="45" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">hiding</text>

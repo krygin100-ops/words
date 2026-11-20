@@ -1,0 +1,6 @@
+<path d="M40 120 Q50 70 100 70 Q150 75 170 110 L150 115 Q120 140 80 140 L40 160 Z" fill="{F}"/>
+<circle cx="140" cy="90" r="5" fill="{L}" stroke="none"/>
+<path d="M165 100 L190 105 L168 112 Z" fill="{L}"/>
+<path d="M90 140 V170 L80 180 M110 140 V170 L120 180" stroke-width="4"/>
+<path d="M60 100 Q90 85 120 110" stroke="#000" stroke-width="3"/>
+<text x="60" y="45" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">CAW!</text>

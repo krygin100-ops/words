@@ -1,0 +1,4 @@
+<rect x="30" y="40" width="140" height="140" fill="{F}"/>
+<g fill="#000"><rect x="45" y="55" width="25" height="20"/><rect x="88" y="55" width="25" height="20"/><rect x="130" y="55" width="25" height="20"/><rect x="45" y="90" width="25" height="20"/><rect x="88" y="90" width="25" height="20"/><rect x="130" y="90" width="25" height="20"/><rect x="45" y="125" width="25" height="20"/><rect x="130" y="125" width="25" height="20"/><rect x="88" y="145" width="25" height="35"/></g>
+<g fill="{L}" stroke="none"><circle cx="57" cy="65" r="5"/><circle cx="142" cy="100" r="5"/></g>
+<text x="100" y="30" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">DORM</text>

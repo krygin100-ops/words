@@ -1,0 +1,6 @@
+<rect x="20" y="70" width="70" height="60" rx="8" fill="{L}"/>
+<text x="55" y="108" font-size="22" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">YES</text>
+<rect x="125" y="80" width="55" height="40" rx="6" fill="{F}"/>
+<text x="152" y="107" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">but…</text>
+<path d="M95 100 H120" stroke-width="4"/>
+<text x="100" y="170" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">although</text>

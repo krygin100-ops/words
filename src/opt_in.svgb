@@ -1,0 +1,3 @@
+<rect x="40" y="50" width="100" height="100" rx="8" stroke-width="7"/>
+<path d="M60 100 L85 125 L150 40" stroke-width="12"/>
+<text x="100" y="185" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">I'm in!</text>
