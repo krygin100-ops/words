@@ -46694,100 +46694,230 @@
   "word": "constant",
   "transcription": "[ˈkɒnstənt]",
   "translation": "постоянный",
-  "nuance": null,
+  "nuance": "Constant — непрерывный, не меняется (часто с раздражением). Permanent — навсегда; regular — регулярный, с интервалами.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/constant.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #constant# noise from the road drives me crazy.",
+    "ru": "Постоянный шум с дороги сводит меня с ума."
+   },
+   {
+    "en": "Keep the temperature #constant#.",
+    "ru": "Поддерживай постоянную температуру."
+   },
+   {
+    "en": "The cat needs #constant# attention.",
+    "ru": "Коту нужно постоянное внимание."
+   }
+  ]
  },
  {
   "id": "2033",
   "word": "roll up",
   "transcription": "[rəʊlʌp]",
   "translation": "свернуть, скатать",
-  "nuance": null,
+  "nuance": "Скатать/свернуть рулоном; roll up sleeves — «засучить рукава» (и перен. — взяться за дело).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/roll_up.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Roll up# your sleeves and help!",
+    "ru": "Засучи рукава и помогай!"
+   },
+   {
+    "en": "She #rolled up# the yoga mat.",
+    "ru": "Она свернула коврик для йоги."
+   },
+   {
+    "en": "#Roll up# the car window — it's raining.",
+    "ru": "Подними стекло машины — идёт дождь."
+   }
+  ]
  },
  {
   "id": "2034",
   "word": "boat",
   "transcription": "[bəʊt]",
   "translation": "лодка, судно",
-  "nuance": null,
+  "nuance": "Boat — небольшое судно (разг. любое). Ship — большой корабль. In the same boat — в одинаковом положении.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/4920/4920_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We rented a #boat# for the day.",
+    "ru": "Мы арендовали лодку на день."
+   },
+   {
+    "en": "He gets sick on every #boat#.",
+    "ru": "Его укачивает на любом судне."
+   },
+   {
+    "en": "We're all in the same #boat#.",
+    "ru": "Мы все в одной лодке."
+   }
+  ]
  },
  {
   "id": "2035",
   "word": "sailboat",
   "transcription": "[ˈseɪlbəʊt]",
   "translation": "парусная лодка",
-  "nuance": null,
+  "nuance": "Амер.; брит. — sailing boat. Yacht — яхта, обычно дорогая/большая.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sailboat.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They sailed around the island in a #sailboat#.",
+    "ru": "Они обогнули остров на парусной лодке."
+   },
+   {
+    "en": "A small #sailboat# crossed the bay.",
+    "ru": "Залив пересекла маленькая парусная лодка."
+   },
+   {
+    "en": "He dreams of living on a #sailboat#.",
+    "ru": "Он мечтает жить на парусной яхте."
+   }
+  ]
  },
  {
   "id": "2036",
   "word": "amuse",
   "transcription": "[əˈmjuːz]",
   "translation": "развлечь, порадовать",
-  "nuance": null,
+  "nuance": "Позабавить, развлечь (лёгкий смех). Entertain — занять, развлекать (шоу). «I'm not amused» — холодное неодобрение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/amuse.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The clown #amused# the kids for an hour.",
+    "ru": "Клоун час развлекал детей."
+   },
+   {
+    "en": "His jokes didn't #amuse# the teacher.",
+    "ru": "Его шутки учителя не позабавили."
+   },
+   {
+    "en": "I'm not #amused#.",
+    "ru": "Мне не смешно."
+   }
+  ]
  },
  {
   "id": "2037",
   "word": "amusement",
   "transcription": "[əˈmjuːzmənt]",
   "translation": "забава",
-  "nuance": null,
+  "nuance": "Веселье, забава. Amusement park — парк аттракционов. Fun — разговорнее.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/amusement.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Much to our #amusement#, the dog stole the cake.",
+    "ru": "К нашему веселью, собака утащила торт."
+   },
+   {
+    "en": "They went to an #amusement# park.",
+    "ru": "Они пошли в парк аттракционов."
+   },
+   {
+    "en": "He reads for #amusement#.",
+    "ru": "Он читает для развлечения."
+   }
+  ]
  },
  {
   "id": "2038",
   "word": "health",
   "transcription": "[hɛlθ]",
   "translation": "здоровье",
-  "nuance": null,
+  "nuance": "Health — существительное (неисчисляемое). «Будь здоров» — Bless you (при чихании) или Take care.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/health.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Sleep is important for your #health#.",
+    "ru": "Сон важен для здоровья."
+   },
+   {
+    "en": "Grandpa is in good #health# for his age.",
+    "ru": "Дедушка в хорошем здоровье для своего возраста."
+   },
+   {
+    "en": "Your #health# is more important than work.",
+    "ru": "Здоровье важнее работы."
+   }
+  ]
  },
  {
   "id": "2039",
   "word": "healthy",
   "transcription": "[ˈhɛlθi]",
   "translation": "здоровый",
-  "nuance": null,
+  "nuance": "Healthy — здоровый (человек) и полезный (еда, привычки). Well — «здоров» о самочувствии: I'm well.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/healthy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Eat #healthy# food — chips are not vegetables.",
+    "ru": "Ешь здоровую еду — чипсы не овощи."
+   },
+   {
+    "en": "The baby is #healthy# and happy.",
+    "ru": "Малыш здоров и счастлив."
+   },
+   {
+    "en": "It's not #healthy# to sit all day.",
+    "ru": "Сидеть весь день вредно."
+   }
+  ]
  },
  {
   "id": "2040",
   "word": "deserve",
   "transcription": "[dɪˈzɜːv]",
   "translation": "заслуживать",
-  "nuance": null,
+  "nuance": "Заслуживать — и хорошее, и плохое. Earn — заработать усилием.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/deserve.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "You #deserve# a holiday.",
+    "ru": "Ты заслуживаешь отпуска."
+   },
+   {
+    "en": "He didn't #deserve# that red card.",
+    "ru": "Он не заслуживал красной карточки."
+   },
+   {
+    "en": "We all #deserve# a second chance.",
+    "ru": "Все мы заслуживаем второго шанса."
+   }
+  ]
  },
  {
   "id": "2041",
   "word": "deserved",
   "transcription": "[dɪˈzɜːvd]",
   "translation": "заслуженный",
-  "nuance": null,
+  "nuance": "Чаще в связке well-deserved.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/deserved.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It was a well-#deserved# win.",
+    "ru": "Это была заслуженная победа."
+   },
+   {
+    "en": "Enjoy your #deserved# rest.",
+    "ru": "Наслаждайся заслуженным отдыхом."
+   },
+   {
+    "en": "She got a #deserved# promotion.",
+    "ru": "Она получила заслуженное повышение."
+   }
+  ]
  },
  {
   "id": "2042",
@@ -46797,17 +46927,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/undeserved.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He got #undeserved# praise for my work.",
+    "ru": "Он получил незаслуженную похвалу за мою работу."
+   },
+   {
+    "en": "The team suffered an #undeserved# defeat.",
+    "ru": "Команда потерпела незаслуженное поражение."
+   },
+   {
+    "en": "It was an #undeserved# punishment.",
+    "ru": "Это было незаслуженное наказание."
+   }
+  ]
  },
  {
   "id": "2043",
   "word": "explain",
   "transcription": "[ɪksˈpleɪn]",
   "translation": "объяснять",
-  "nuance": null,
+  "nuance": "Explain something TO someone (не «explain me»!). Это частая ошибка русскоговорящих.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/explain.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Can you #explain# this joke?",
+    "ru": "Можешь объяснить эту шутку?"
+   },
+   {
+    "en": "#Explain# why you're late.",
+    "ru": "Объясни, почему опоздал."
+   },
+   {
+    "en": "I can't #explain# it — it just happened.",
+    "ru": "Не могу объяснить — так получилось."
+   }
+  ]
  },
  {
   "id": "2044",
@@ -46817,77 +46973,181 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/explanation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's no #explanation# for the missing socks.",
+    "ru": "Пропавшим носкам нет объяснения."
+   },
+   {
+    "en": "I'm waiting for an #explanation#.",
+    "ru": "Я жду объяснений."
+   },
+   {
+    "en": "He gave a long #explanation# that explained nothing.",
+    "ru": "Он дал длинное объяснение, которое ничего не объяснило."
+   }
+  ]
  },
  {
   "id": "2045",
   "word": "pleasure",
   "transcription": "[ˈplɛʒə]",
   "translation": "удовольствие, наслаждение",
-  "nuance": null,
+  "nuance": "My pleasure — вежливое «не за что». Guilty pleasure — запретное удовольствие (стыдно, но нравится).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/pleasure.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It's a #pleasure# to meet you.",
+    "ru": "Приятно познакомиться."
+   },
+   {
+    "en": "\"Thanks!\" — \"My #pleasure#.\"",
+    "ru": "«Спасибо!» — «Не за что, с удовольствием»."
+   },
+   {
+    "en": "Reading in bed is my guilty #pleasure#.",
+    "ru": "Чтение в кровати — моя маленькая слабость."
+   }
+  ]
  },
  {
   "id": "2046",
   "word": "displeasure",
   "transcription": "[dɪsˈplɛʒə]",
   "translation": "неудовольствие",
-  "nuance": null,
+  "nuance": "Книжное, сдержанное недовольство. Разговорно: annoyance, being unhappy.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/displeasure.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The boss showed his #displeasure# with a long silence.",
+    "ru": "Начальник выразил недовольство долгим молчанием."
+   },
+   {
+    "en": "To my #displeasure#, the shop was closed.",
+    "ru": "К моему неудовольствию, магазин был закрыт."
+   },
+   {
+    "en": "The cat showed its #displeasure# by ignoring us.",
+    "ru": "Кот выразил недовольство, игнорируя нас."
+   }
+  ]
  },
  {
   "id": "2047",
   "word": "notion",
   "transcription": "[ˈnəʊʃən]",
   "translation": "понятие, представление",
-  "nuance": null,
+  "nuance": "Notion — представление, идея (часто расплывчатая). Concept — научное понятие, idea — мысль.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/notion.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He has no #notion# of time.",
+    "ru": "У него нет никакого представления о времени."
+   },
+   {
+    "en": "The #notion# that cats hate water is wrong.",
+    "ru": "Представление, что кошки ненавидят воду, ошибочно."
+   },
+   {
+    "en": "I had a sudden #notion# to go to the sea.",
+    "ru": "Мне вдруг пришла мысль поехать на море."
+   }
+  ]
  },
  {
   "id": "2048",
   "word": "salmon",
   "transcription": "[ˈsæmən]",
   "translation": "лосось",
-  "nuance": null,
+  "nuance": "Произношение: «сэмон», буква L не читается! Множественное число тоже salmon.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/7808/7808_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We had grilled #salmon# for dinner.",
+    "ru": "На ужин у нас был жареный лосось."
+   },
+   {
+    "en": "#Salmon# swim upstream to lay eggs.",
+    "ru": "Лосось плывёт вверх по течению на нерест."
+   },
+   {
+    "en": "Smoked #salmon# is my favourite.",
+    "ru": "Копчёный лосось — мой любимый."
+   }
+  ]
  },
  {
   "id": "2049",
   "word": "salmon (color)",
   "transcription": "[ˈsæmən]",
   "translation": "цвет лососевого мяса",
-  "nuance": null,
+  "nuance": "Розово-оранжевый оттенок. Близко к peach (персиковый) и coral (коралловый).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/salmon.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She wore a #salmon# dress.",
+    "ru": "На ней было платье лососевого цвета."
+   },
+   {
+    "en": "The walls are painted #salmon#.",
+    "ru": "Стены покрашены в лососевый."
+   },
+   {
+    "en": "Is it pink or #salmon#?",
+    "ru": "Это розовый или лососевый?"
+   }
+  ]
  },
  {
   "id": "2050",
   "word": "sweep (swept, swept)",
   "transcription": "[swiːp]",
   "translation": "подметать",
-  "nuance": null,
+  "nuance": "Мести веником. Vacuum — пылесосить, mop — мыть шваброй. Sweep under the carpet — скрывать проблему.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2658/2658_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Sweep# the floor after dinner.",
+    "ru": "Подмети пол после ужина."
+   },
+   {
+    "en": "She #swept# the leaves from the path.",
+    "ru": "Она смела листья с дорожки."
+   },
+   {
+    "en": "Don't #sweep# the problem under the carpet.",
+    "ru": "Не замалчивай проблему."
+   }
+  ]
  },
  {
   "id": "2051",
   "word": "exist",
   "transcription": "[ɪgˈzɪst]",
   "translation": "существовать",
-  "nuance": null,
+  "nuance": "Exist — книжнее; в разговоре: there is/are (Is there a God?).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/exist.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Do ghosts really #exist#?",
+    "ru": "Призраки правда существуют?"
+   },
+   {
+    "en": "Free lunch doesn't #exist#.",
+    "ru": "Бесплатных обедов не бывает."
+   },
+   {
+    "en": "The town #existed# before the Romans.",
+    "ru": "Город существовал ещё до римлян."
+   }
+  ]
  },
  {
   "id": "2052",
@@ -46897,227 +47157,526 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/existence.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #existence# of aliens is not proven.",
+    "ru": "Существование инопланетян не доказано."
+   },
+   {
+    "en": "He lives a quiet #existence# in the village.",
+    "ru": "Он ведёт тихую жизнь в деревне."
+   },
+   {
+    "en": "The shop has been in #existence# for 100 years.",
+    "ru": "Магазин существует уже 100 лет."
+   }
+  ]
  },
  {
   "id": "2053",
   "word": "existent",
   "transcription": "[ɪgˈzɪstənt]",
   "translation": "существующий",
-  "nuance": null,
+  "nuance": "Редкое, книжное. Обычно говорят existing.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/existent.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #existent# rules are too old.",
+    "ru": "Существующие правила слишком устарели."
+   },
+   {
+    "en": "Is the problem still #existent#?",
+    "ru": "Проблема всё ещё существует?"
+   },
+   {
+    "en": "They checked all #existent# data.",
+    "ru": "Они проверили все имеющиеся данные."
+   }
+  ]
  },
  {
   "id": "2054",
   "word": "nonexistent",
   "transcription": "[nonexistent]",
   "translation": "несуществующий",
-  "nuance": null,
+  "nuance": "Часто с иронией: «его просто нет» (my social life is nonexistent).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/nonexistent.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My free time is #nonexistent#.",
+    "ru": "Моего свободного времени не существует."
+   },
+   {
+    "en": "The Wi-Fi here is practically #nonexistent#.",
+    "ru": "Вайфай здесь практически отсутствует."
+   },
+   {
+    "en": "He's afraid of #nonexistent# monsters.",
+    "ru": "Он боится несуществующих монстров."
+   }
+  ]
  },
  {
   "id": "2055",
   "word": "coexist",
   "transcription": "[ˌkəʊɪgˈzɪst]",
   "translation": "сосуществовать",
-  "nuance": null,
+  "nuance": "Сосуществовать рядом, несмотря на различия. Get along — ладить (теплее).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/coexist.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Cats and dogs can #coexist# peacefully.",
+    "ru": "Кошки и собаки могут мирно сосуществовать."
+   },
+   {
+    "en": "Old and new buildings #coexist# here.",
+    "ru": "Старые и новые здания здесь соседствуют."
+   },
+   {
+    "en": "Can tourists and locals #coexist#?",
+    "ru": "Могут ли туристы и местные ужиться?"
+   }
+  ]
  },
  {
   "id": "2056",
   "word": "dump",
   "transcription": "[dʌmp]",
   "translation": "сваливать, сбрасывать, свалка",
-  "nuance": null,
+  "nuance": "Разговорное, грубоватое: сбросить небрежно, бросить (партнёра); a dump — свалка, дыра.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/15726/15726_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Someone #dumped# an old sofa by the road.",
+    "ru": "Кто-то выбросил старый диван у дороги."
+   },
+   {
+    "en": "She #dumped# her boyfriend by text.",
+    "ru": "Она бросила парня по эсэмэске."
+   },
+   {
+    "en": "This flat is a #dump#!",
+    "ru": "Эта квартира — помойка!"
+   }
+  ]
  },
  {
   "id": "2057",
   "word": "dumpster",
   "transcription": "[dumpster]",
   "translation": "мусорный контейнер",
-  "nuance": null,
+  "nuance": "Амер., большой контейнер. Брит. — skip. Bin — обычное мусорное ведро.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dumpster.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The cat sleeps behind the #dumpster#.",
+    "ru": "Кот спит за мусорным контейнером."
+   },
+   {
+    "en": "Throw the old mattress in the #dumpster#.",
+    "ru": "Выбрось старый матрас в контейнер."
+   },
+   {
+    "en": "We found a perfectly good chair next to the #dumpster#.",
+    "ru": "Мы нашли отличный стул у мусорного бака."
+   }
+  ]
  },
  {
   "id": "2058",
   "word": "ask around",
   "transcription": "[ɑːskəˈraʊnd]",
   "translation": "поспрашивать",
-  "nuance": null,
+  "nuance": "Разговорное: поспрашивать у разных людей.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/ask_around.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I'll #ask around# about a good dentist.",
+    "ru": "Поспрашиваю насчёт хорошего стоматолога."
+   },
+   {
+    "en": "She #asked around#, but nobody had seen the cat.",
+    "ru": "Она поспрашивала, но кота никто не видел."
+   },
+   {
+    "en": "#Ask around# — someone might have a spare room.",
+    "ru": "Поспрашивай — у кого-нибудь может быть свободная комната."
+   }
+  ]
  },
  {
   "id": "2059",
   "word": "report",
   "transcription": "[rɪˈpɔːt]",
   "translation": "доклад, отчёт",
-  "nuance": null,
+  "nuance": "Отчёт, доклад, репортаж, табель; глагол — сообщать, доложить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/report.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I have to write a #report# by Monday.",
+    "ru": "Мне надо написать отчёт к понедельнику."
+   },
+   {
+    "en": "The weather #report# says rain.",
+    "ru": "Прогноз погоды обещает дождь."
+   },
+   {
+    "en": "My son's school #report# was not great.",
+    "ru": "Табель сына был не очень."
+   }
+  ]
  },
  {
   "id": "2060",
   "word": "reportedly",
   "transcription": "[rɪˈpɔːtɪdli]",
   "translation": "по сообщениям",
-  "nuance": null,
+  "nuance": "Новостной стиль: «по сообщениям, якобы» — автор не ручается. Разг.: apparently, they say.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/reportedly.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The singer is #reportedly# getting married.",
+    "ru": "Говорят, певица выходит замуж."
+   },
+   {
+    "en": "The company #reportedly# lost millions.",
+    "ru": "По сообщениям, компания потеряла миллионы."
+   },
+   {
+    "en": "He #reportedly# left the country.",
+    "ru": "По имеющимся данным, он покинул страну."
+   }
+  ]
  },
  {
   "id": "2061",
   "word": "angle",
   "transcription": "[ˈæŋgl]",
   "translation": "угол, угловой",
-  "nuance": null,
+  "nuance": "Угол (геометрия), ракурс, точка зрения. Corner — угол комнаты/улицы.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/angle.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Take the photo from a different #angle#.",
+    "ru": "Сфотографируй с другого ракурса."
+   },
+   {
+    "en": "The roof is at a steep #angle#.",
+    "ru": "Крыша под крутым углом."
+   },
+   {
+    "en": "Let's look at the problem from another #angle#.",
+    "ru": "Давай посмотрим на проблему с другой стороны."
+   }
+  ]
  },
  {
   "id": "2062",
   "word": "angular",
   "transcription": "[ˈæŋgjʊlə]",
   "translation": "угловой",
-  "nuance": null,
+  "nuance": "Угловатый, с острыми углами (о лице, форме).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/angular.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He has a thin, #angular# face.",
+    "ru": "У него худое угловатое лицо."
+   },
+   {
+    "en": "The building has an #angular# design.",
+    "ru": "У здания угловатый дизайн."
+   },
+   {
+    "en": "#Angular# furniture is not good with small kids.",
+    "ru": "Угловатая мебель плоха, когда маленькие дети."
+   }
+  ]
  },
  {
   "id": "2063",
   "word": "rumor (rumour)",
   "transcription": "[ˈruːmə]",
   "translation": "слух",
-  "nuance": null,
+  "nuance": "Слух. Gossip — сплетни (о личной жизни). Rumour has it — «поговаривают».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/rumor.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't believe every #rumour# you hear.",
+    "ru": "Не верь всем слухам."
+   },
+   {
+    "en": "There's a #rumour# that the boss is leaving.",
+    "ru": "Ходят слухи, что начальник уходит."
+   },
+   {
+    "en": "#Rumour# has it they're getting divorced.",
+    "ru": "Говорят, они разводятся."
+   }
+  ]
  },
  {
   "id": "2064",
   "word": "fall over",
   "transcription": "[fɔːlˈəʊvə]",
   "translation": "упасть, перевернуться",
-  "nuance": null,
+  "nuance": "Упасть с ног / опрокинуться (с вертикального положения). Fall down — упасть вниз, с высоты.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/4582/4582_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The kid tripped and #fell over#.",
+    "ru": "Ребёнок споткнулся и упал."
+   },
+   {
+    "en": "The vase #fell over# in the wind.",
+    "ru": "Ваза опрокинулась от ветра."
+   },
+   {
+    "en": "I nearly #fell over# when I saw the price.",
+    "ru": "Я чуть не упал, когда увидел цену."
+   }
+  ]
  },
  {
   "id": "2065",
   "word": "knock over",
   "transcription": "[nɒk ˈəʊvə]",
   "translation": "опрокинуть",
-  "nuance": null,
+  "nuance": "Опрокинуть ударом (обычно случайно). Spill — пролить жидкость.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/knock_over.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The cat #knocked over# my coffee.",
+    "ru": "Кот опрокинул мой кофе."
+   },
+   {
+    "en": "He #knocked over# a vase with his elbow.",
+    "ru": "Он задел локтем и опрокинул вазу."
+   },
+   {
+    "en": "A car #knocked over# the sign.",
+    "ru": "Машина сбила знак."
+   }
+  ]
  },
  {
   "id": "2066",
   "word": "send out",
   "transcription": "[sɛndaʊt]",
   "translation": "рассылать",
-  "nuance": null,
+  "nuance": "Разослать многим людям. Send — просто отправить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/send_out.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #sent out# invitations last week.",
+    "ru": "Мы разослали приглашения на прошлой неделе."
+   },
+   {
+    "en": "The company #sent out# a warning email.",
+    "ru": "Компания разослала письмо с предупреждением."
+   },
+   {
+    "en": "The tree #sends out# new leaves in spring.",
+    "ru": "Весной дерево выпускает новые листья."
+   }
+  ]
  },
  {
   "id": "2067",
   "word": "mail out",
   "transcription": "[meɪlaʊt]",
   "translation": "рассылать",
-  "nuance": null,
+  "nuance": "Рассылать по почте (обычной или e-mail). Близко к send out, но подчёркивает почту.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/mail_out.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #mail out# the newsletter every month.",
+    "ru": "Мы рассылаем новостную рассылку каждый месяц."
+   },
+   {
+    "en": "The tickets will be #mailed out# next week.",
+    "ru": "Билеты разошлют по почте на следующей неделе."
+   },
+   {
+    "en": "They #mailed out# a thousand brochures.",
+    "ru": "Они разослали тысячу брошюр."
+   }
+  ]
  },
  {
   "id": "2068",
   "word": "maintain",
   "transcription": "[meɪnˈteɪn]",
   "translation": "поддерживать, сохранять",
-  "nuance": null,
+  "nuance": "Поддерживать в рабочем состоянии, сохранять; также «утверждать». Support — поддерживать морально/материально.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/maintain.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It's hard to #maintain# a garden.",
+    "ru": "Сад трудно содержать в порядке."
+   },
+   {
+    "en": "#Maintain# a safe distance.",
+    "ru": "Соблюдайте безопасную дистанцию."
+   },
+   {
+    "en": "He #maintains# that he's innocent.",
+    "ru": "Он настаивает, что невиновен."
+   }
+  ]
  },
  {
   "id": "2069",
   "word": "maintenance",
   "transcription": "[ˈmeɪntənəns]",
   "translation": "поддержание",
-  "nuance": null,
+  "nuance": "Обслуживание, уход. High-maintenance (о человеке) — требовательный, капризный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/maintenance.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The lift is closed for #maintenance#.",
+    "ru": "Лифт закрыт на техобслуживание."
+   },
+   {
+    "en": "Old houses need a lot of #maintenance#.",
+    "ru": "Старые дома требуют много ухода."
+   },
+   {
+    "en": "She's high #maintenance#.",
+    "ru": "С ней много хлопот (она требовательная)."
+   }
+  ]
  },
  {
   "id": "2070",
   "word": "blame",
   "transcription": "[bleɪm]",
   "translation": "винить",
-  "nuance": null,
+  "nuance": "Blame somebody FOR something / blame something ON somebody. «I don't blame you» — «понимаю тебя».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/blame.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #blame# me — the cat did it!",
+    "ru": "Не вини меня — это кот!"
+   },
+   {
+    "en": "Who's to #blame#?",
+    "ru": "Кто виноват?"
+   },
+   {
+    "en": "I don't #blame# you.",
+    "ru": "Я тебя понимаю (не осуждаю)."
+   }
+  ]
  },
  {
   "id": "2071",
   "word": "blameless",
   "transcription": "[ˈbleɪmlɪs]",
   "translation": "безупречный",
-  "nuance": null,
+  "nuance": "Невиновный, безупречный. Innocent — невиновный юридически или невинный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/blameless.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He was #blameless# — the driver ran the red light.",
+    "ru": "Он был не виноват — водитель проехал на красный."
+   },
+   {
+    "en": "She lived a #blameless# life.",
+    "ru": "Она прожила безупречную жизнь."
+   },
+   {
+    "en": "The dog is not #blameless# here.",
+    "ru": "Собака здесь тоже не без греха."
+   }
+  ]
  },
  {
   "id": "2072",
   "word": "resume",
   "transcription": "[rɪˈzjuːm]",
   "translation": "возобновить",
-  "nuance": null,
+  "nuance": "Ловушка: глагол resume — возобновить; резюме — CV / résumé (амер.). Formal; разговорно — continue, start again.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/resume.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The match #resumed# after the rain.",
+    "ru": "Матч возобновился после дождя."
+   },
+   {
+    "en": "Let's #resume# after lunch.",
+    "ru": "Давай продолжим после обеда."
+   },
+   {
+    "en": "Flights will #resume# tomorrow.",
+    "ru": "Рейсы возобновятся завтра."
+   }
+  ]
  },
  {
   "id": "2073",
   "word": "resumption",
   "transcription": "[rɪˈzʌmpʃən]",
   "translation": "возобновление",
-  "nuance": null,
+  "nuance": "Официальное слово (новости, документы).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/resumption.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We're waiting for the #resumption# of talks.",
+    "ru": "Мы ждём возобновления переговоров."
+   },
+   {
+    "en": "The #resumption# of flights was announced.",
+    "ru": "Объявили о возобновлении рейсов."
+   },
+   {
+    "en": "The #resumption# of classes is on Monday.",
+    "ru": "Занятия возобновятся в понедельник."
+   }
+  ]
  },
  {
   "id": "2074",
   "word": "persuade",
   "transcription": "[pəˈsweɪd]",
   "translation": "убеждать",
-  "nuance": null,
+  "nuance": "Persuade — уговорить сделать. Convince — убедить поверить (convince that...).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/persuade.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #persuaded# me to try sushi.",
+    "ru": "Она уговорила меня попробовать суши."
+   },
+   {
+    "en": "I couldn't #persuade# the cat to get off my chair.",
+    "ru": "Я не смог уговорить кота слезть с моего стула."
+   },
+   {
+    "en": "He #persuaded# his parents to buy a dog.",
+    "ru": "Он убедил родителей купить собаку."
+   }
+  ]
  },
  {
   "id": "2075",
@@ -47127,67 +47686,158 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/persuasion.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "With a little #persuasion#, he agreed.",
+    "ru": "После небольших уговоров он согласился."
+   },
+   {
+    "en": "She has great powers of #persuasion#.",
+    "ru": "Она умеет убеждать."
+   },
+   {
+    "en": "Chocolate is my best tool of #persuasion#.",
+    "ru": "Шоколад — мой лучший способ убеждения."
+   }
+  ]
  },
  {
   "id": "2076",
   "word": "persuasive",
   "transcription": "[pəˈsweɪsɪv]",
   "translation": "убедительный",
-  "nuance": null,
+  "nuance": "Убедительный (умеет уговорить). Convincing — правдоподобный, в который верят.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/persuasive.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He made a #persuasive# argument.",
+    "ru": "Он привёл убедительный аргумент."
+   },
+   {
+    "en": "Kids are very #persuasive# when they want sweets.",
+    "ru": "Дети очень убедительны, когда хотят сладкого."
+   },
+   {
+    "en": "The ad was #persuasive# — I bought two.",
+    "ru": "Реклама была убедительной — я купил два."
+   }
+  ]
  },
  {
   "id": "2077",
   "word": "whale",
   "transcription": "[weɪl]",
   "translation": "кит",
-  "nuance": null,
+  "nuance": "Have a whale of a time — разг. «оторваться, отлично повеселиться».",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2268/2268_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We saw a #whale# from the boat!",
+    "ru": "Мы увидели кита с лодки!"
+   },
+   {
+    "en": "Blue #whales# are the biggest animals on Earth.",
+    "ru": "Синие киты — самые большие животные на Земле."
+   },
+   {
+    "en": "We had a #whale# of a time.",
+    "ru": "Мы чудесно провели время."
+   }
+  ]
  },
  {
   "id": "2078",
   "word": "whip",
   "transcription": "[wɪp]",
   "translation": "кнут, хлестать",
-  "nuance": null,
+  "nuance": "Также «взбивать» (whipped cream — взбитые сливки).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/whip.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The rider cracked the #whip#.",
+    "ru": "Всадник щёлкнул кнутом."
+   },
+   {
+    "en": "The wind #whipped# my face.",
+    "ru": "Ветер хлестал мне в лицо."
+   },
+   {
+    "en": "#Whip# the cream until it's thick.",
+    "ru": "Взбей сливки до густоты."
+   }
+  ]
  },
  {
   "id": "2079",
   "word": "beneath",
   "transcription": "[bɪˈniːθ]",
   "translation": "ниже, под",
-  "nuance": null,
+  "nuance": "Книжнее, чем under. Beneath someone — ниже чьего-то достоинства.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/beneath.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The cat hid #beneath# the bed.",
+    "ru": "Кот спрятался под кроватью."
+   },
+   {
+    "en": "#Beneath# the calm face, she was furious.",
+    "ru": "Под спокойным лицом она была в ярости."
+   },
+   {
+    "en": "Such work is #beneath# him.",
+    "ru": "Он считает такую работу ниже своего достоинства."
+   }
+  ]
  },
  {
   "id": "2080",
   "word": "measure",
   "transcription": "[ˈmɛʒə]",
   "translation": "измерять, измерение",
-  "nuance": null,
+  "nuance": "Измерять (и «иметь размер»). Measure up — соответствовать ожиданиям.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/measure_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Measure# the window before buying curtains.",
+    "ru": "Измерь окно, прежде чем покупать шторы."
+   },
+   {
+    "en": "How do you #measure# success?",
+    "ru": "Как измерить успех?"
+   },
+   {
+    "en": "The room #measures# five by four metres.",
+    "ru": "Размер комнаты — пять на четыре метра."
+   }
+  ]
  },
  {
   "id": "2081",
   "word": "measurement",
   "transcription": "[ˈmɛʒəmənt]",
   "translation": "измерение, замер",
-  "nuance": null,
+  "nuance": "Конкретный замер, мерки. Measure — мера, мероприятие (take measures — принять меры).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/measurement.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The tailor took my #measurements#.",
+    "ru": "Портной снял с меня мерки."
+   },
+   {
+    "en": "The #measurement# was wrong — the sofa doesn't fit.",
+    "ru": "Замер был неверным — диван не влезает."
+   },
+   {
+    "en": "Check the #measurements# twice.",
+    "ru": "Дважды проверь размеры."
+   }
+  ]
  },
  {
   "id": "2082",
