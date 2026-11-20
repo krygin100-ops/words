@@ -73144,30 +73144,69 @@
   "word": "reestablish",
   "transcription": "[ˌriːɪsˈtæblɪʃ]",
   "translation": "восстановить",
-  "nuance": null,
+  "nuance": "Восстановить (связь, порядок, доверие). Restore — восстановить (шире).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/reestablish.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They #reestablished# contact after ten years.",
+    "ru": "Они восстановили связь через десять лет."
+   },
+   {
+    "en": "The government #reestablished# order.",
+    "ru": "Правительство восстановило порядок."
+   },
+   {
+    "en": "It took time to #reestablish# trust.",
+    "ru": "Чтобы восстановить доверие, понадобилось время."
+   }
+  ]
  },
  {
   "id": "3183",
   "word": "establishment",
   "transcription": "[ɪsˈtæblɪʃmənt]",
   "translation": "учреждение",
-  "nuance": null,
+  "nuance": "Учреждение, заведение; the establishment — власть, элита.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/establishment.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The restaurant is a family #establishment#.",
+    "ru": "Ресторан — семейное заведение."
+   },
+   {
+    "en": "Schools and hospitals are public #establishments#.",
+    "ru": "Школы и больницы — государственные учреждения."
+   },
+   {
+    "en": "He's against the #establishment#.",
+    "ru": "Он против истеблишмента."
+   }
+  ]
  },
  {
   "id": "3184",
   "word": "tribe",
   "transcription": "[traɪb]",
   "translation": "племя",
-  "nuance": null,
+  "nuance": "Племя; разг. — своя компания, «стая».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tribe.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #tribe# lives deep in the forest.",
+    "ru": "Племя живёт глубоко в лесу."
+   },
+   {
+    "en": "Our family is a noisy #tribe#.",
+    "ru": "Наша семья — шумное племя."
+   },
+   {
+    "en": "Each #tribe# has its own language.",
+    "ru": "У каждого племени свой язык."
+   }
+  ]
  },
  {
   "id": "3185",
@@ -73177,7 +73216,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tribal.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The museum shows #tribal# art.",
+    "ru": "В музее представлено племенное искусство."
+   },
+   {
+    "en": "#Tribal# leaders met to discuss the land.",
+    "ru": "Вожди племён встретились обсудить землю."
+   },
+   {
+    "en": "Football fans can be very #tribal#.",
+    "ru": "Футбольные фанаты бывают очень «племенными»."
+   }
+  ]
  },
  {
   "id": "3186",
@@ -73187,17 +73239,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/ally.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The two countries are #allies#.",
+    "ru": "Две страны — союзники."
+   },
+   {
+    "en": "My sister is my best #ally# against Mum.",
+    "ru": "Сестра — мой лучший союзник против мамы."
+   },
+   {
+    "en": "We need #allies# in this fight.",
+    "ru": "Нам нужны союзники в этой борьбе."
+   }
+  ]
  },
  {
   "id": "3187",
   "word": "rent",
   "transcription": "[rɛnt]",
   "translation": "аренда, арендовать, сдавать",
-  "nuance": null,
+  "nuance": "Снимать, арендовать (и сдавать). Hire — брит. арендовать на короткий срок (car hire).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8012/8012_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #rent# a small flat in the centre.",
+    "ru": "Мы снимаем маленькую квартиру в центре."
+   },
+   {
+    "en": "The #rent# went up again.",
+    "ru": "Аренда снова подорожала."
+   },
+   {
+    "en": "Let's #rent# a car for the trip.",
+    "ru": "Давай арендуем машину для поездки."
+   }
+  ]
  },
  {
   "id": "3188",
@@ -73207,7 +73285,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/rent_out.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They #rent out# their flat to tourists.",
+    "ru": "Они сдают квартиру туристам."
+   },
+   {
+    "en": "We #rented out# the garage.",
+    "ru": "Мы сдали гараж в аренду."
+   },
+   {
+    "en": "He #rents out# bikes on the beach.",
+    "ru": "Он сдаёт велосипеды на пляже."
+   }
+  ]
  },
  {
   "id": "3189",
@@ -73217,37 +73308,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/rental.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The car #rental# was cheap.",
+    "ru": "Аренда машины была дешёвой."
+   },
+   {
+    "en": "We stayed in a holiday #rental#.",
+    "ru": "Мы жили в арендованном жилье на отдыхе."
+   },
+   {
+    "en": "Bike #rental# is next to the station.",
+    "ru": "Прокат велосипедов рядом со станцией."
+   }
+  ]
  },
  {
   "id": "3190",
   "word": "beat (beat, beaten)",
   "transcription": "[biːt]",
   "translation": "бить",
-  "nuance": null,
+  "nuance": "Бить (многократно), взбивать; также победить.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/24749/24749_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Stop #beating# the carpet at 7 a.m.!",
+    "ru": "Хватит выбивать ковёр в семь утра!"
+   },
+   {
+    "en": "#Beat# the eggs with sugar.",
+    "ru": "Взбей яйца с сахаром."
+   },
+   {
+    "en": "My heart was #beating# fast.",
+    "ru": "Моё сердце быстро билось."
+   }
+  ]
  },
  {
   "id": "3191",
   "word": "bid",
   "transcription": "[bɪd]",
   "translation": "заявка, предложение цены",
-  "nuance": null,
+  "nuance": "Заявка, предложение цены, ставка; попытка.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/bid.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They made a #bid# for the house.",
+    "ru": "Они предложили цену за дом."
+   },
+   {
+    "en": "My #bid# won the auction.",
+    "ru": "Моя ставка выиграла аукцион."
+   },
+   {
+    "en": "He made a #bid# for freedom.",
+    "ru": "Он попытался вырваться на свободу."
+   }
+  ]
  },
  {
   "id": "3192",
   "word": "defeat",
   "transcription": "[dɪˈfiːt]",
   "translation": "поражение, наносить поражение",
-  "nuance": null,
+  "nuance": "Поражение; победить (кого-то). Beat — разг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/defeat.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Our team suffered a heavy #defeat#.",
+    "ru": "Наша команда потерпела тяжёлое поражение."
+   },
+   {
+    "en": "They #defeated# the champions.",
+    "ru": "Они победили чемпионов."
+   },
+   {
+    "en": "Admit #defeat# — the cat won.",
+    "ru": "Признай поражение — кот победил."
+   }
+  ]
  },
  {
   "id": "3193",
@@ -73257,27 +73400,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/undefeated.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The team is still #undefeated# this season.",
+    "ru": "Команда в этом сезоне ещё не проигрывала."
+   },
+   {
+    "en": "Grandma is the #undefeated# chess champion.",
+    "ru": "Бабушка — непобедимая чемпионка по шахматам."
+   },
+   {
+    "en": "He retired #undefeated#.",
+    "ru": "Он ушёл из спорта непобеждённым."
+   }
+  ]
  },
  {
   "id": "3194",
   "word": "grace",
   "transcription": "[greɪs]",
   "translation": "благодать, милость",
-  "nuance": null,
+  "nuance": "Изящество, грация; милость; отсрочка (grace period).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/grace.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She dances with #grace#.",
+    "ru": "Она танцует с изяществом."
+   },
+   {
+    "en": "By the #grace# of God, nobody was hurt.",
+    "ru": "Милостью Божьей никто не пострадал."
+   },
+   {
+    "en": "We have a week's #grace# to pay.",
+    "ru": "У нас неделя отсрочки на оплату."
+   }
+  ]
  },
  {
   "id": "3195",
   "word": "gracious",
   "transcription": "[ˈgreɪʃəs]",
   "translation": "милостивый",
-  "nuance": null,
+  "nuance": "Любезный, милостивый (вежливый к «низшим»). Good gracious — старомодное «боже!».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/gracious.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She was #gracious# even after losing.",
+    "ru": "Она была любезна даже после поражения."
+   },
+   {
+    "en": "Thank you for your #gracious# welcome.",
+    "ru": "Спасибо за любезный приём."
+   },
+   {
+    "en": "Good #gracious#!",
+    "ru": "Боже мой!"
+   }
+  ]
  },
  {
   "id": "3196",
@@ -73287,17 +73469,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/graceful.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Swans are #graceful# birds.",
+    "ru": "Лебеди — изящные птицы."
+   },
+   {
+    "en": "She made a #graceful# exit.",
+    "ru": "Она красиво ушла."
+   },
+   {
+    "en": "The cat landed in a #graceful# jump. Then fell off the table.",
+    "ru": "Кот изящно приземлился в прыжке. А потом упал со стола."
+   }
+  ]
  },
  {
   "id": "3197",
   "word": "dine",
   "transcription": "[daɪn]",
   "translation": "обедать",
-  "nuance": null,
+  "nuance": "Книжное: обедать, ужинать. Have dinner — разг. Dine out — есть в ресторане.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/38057/38057_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #dined# at an Italian restaurant.",
+    "ru": "Мы ужинали в итальянском ресторане."
+   },
+   {
+    "en": "They #dine# out every Friday.",
+    "ru": "Каждую пятницу они ужинают вне дома."
+   },
+   {
+    "en": "The #dining# room is too small.",
+    "ru": "Столовая слишком маленькая."
+   }
+  ]
  },
  {
   "id": "3198",
@@ -73307,7 +73515,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/hero.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The firefighter is a real #hero#.",
+    "ru": "Пожарный — настоящий герой."
+   },
+   {
+    "en": "You're my #hero#!",
+    "ru": "Ты мой герой!"
+   },
+   {
+    "en": "The #hero# of the film dies at the end.",
+    "ru": "Главный герой фильма в конце умирает."
+   }
+  ]
  },
  {
   "id": "3199",
@@ -73317,67 +73538,158 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/heroic.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It was a #heroic# rescue.",
+    "ru": "Это было героическое спасение."
+   },
+   {
+    "en": "Getting up at 5 a.m. is #heroic#.",
+    "ru": "Встать в пять утра — это героизм."
+   },
+   {
+    "en": "The team made a #heroic# effort.",
+    "ru": "Команда приложила героические усилия."
+   }
+  ]
  },
  {
   "id": "3200",
   "word": "royal",
   "transcription": "[ˈrɔɪəl]",
   "translation": "королевский",
-  "nuance": null,
+  "nuance": "Королевский; the royals — члены королевской семьи.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/royal.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We watched the #royal# wedding on TV.",
+    "ru": "Мы смотрели королевскую свадьбу по ТВ."
+   },
+   {
+    "en": "The #royal# family lives in the palace.",
+    "ru": "Королевская семья живёт во дворце."
+   },
+   {
+    "en": "The cat sleeps in a #royal# bed of cushions.",
+    "ru": "Кот спит на королевском ложе из подушек."
+   }
+  ]
  },
  {
   "id": "3201",
   "word": "bill",
   "transcription": "[bɪl]",
   "translation": "счёт (к оплате)",
-  "nuance": null,
+  "nuance": "Брит. bill (в ресторане); амер. check. Также bill — законопроект, амер. купюра.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/5995/5995_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Can we have the #bill#, please?",
+    "ru": "Можно счёт, пожалуйста?"
+   },
+   {
+    "en": "The electricity #bill# is huge this month.",
+    "ru": "Счёт за электричество в этом месяце огромный."
+   },
+   {
+    "en": "Let's split the #bill#.",
+    "ru": "Давай разделим счёт."
+   }
+  ]
  },
  {
   "id": "3202",
   "word": "cattle",
   "transcription": "[ˈkætl]",
   "translation": "крупный рогатый скот",
-  "nuance": null,
+  "nuance": "Только мн.ч. (cattle are). Cow — корова (одна).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/cattle.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Cattle# graze in the fields.",
+    "ru": "На полях пасётся скот."
+   },
+   {
+    "en": "The farmer has 200 #cattle#.",
+    "ru": "У фермера 200 голов скота."
+   },
+   {
+    "en": "#Cattle# are moved in spring.",
+    "ru": "Весной скот перегоняют."
+   }
+  ]
  },
  {
   "id": "3203",
   "word": "counter",
   "transcription": "[ˈkaʊntə]",
   "translation": "противостоять, противоположный",
-  "nuance": null,
+  "nuance": "Противостоять, парировать; counter to — вопреки. Также counter — прилавок.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/counter.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The government #countered# the criticism.",
+    "ru": "Правительство ответило на критику."
+   },
+   {
+    "en": "He #countered# with a smart question.",
+    "ru": "Он парировал умным вопросом."
+   },
+   {
+    "en": "It's #counter# to common sense.",
+    "ru": "Это противоречит здравому смыслу."
+   }
+  ]
  },
  {
   "id": "3204",
   "word": "suck",
   "transcription": "[sʌk]",
   "translation": "сосать",
-  "nuance": null,
+  "nuance": "Сосать; сленг sucks — «отстой, ужасно» (грубовато).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2702/2702_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Babies #suck# their thumbs.",
+    "ru": "Малыши сосут большой палец."
+   },
+   {
+    "en": "#Suck# the juice through a straw.",
+    "ru": "Пей сок через трубочку."
+   },
+   {
+    "en": "Monday mornings #suck#.",
+    "ru": "Утро понедельника — отстой."
+   }
+  ]
  },
  {
   "id": "3205",
   "word": "resort to",
   "transcription": "[rɪˈzɔːttuː]",
   "translation": "прибегать к",
-  "nuance": null,
+  "nuance": "Прибегнуть к (обычно плохому, в крайнем случае).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/resort_to.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #resorted to# eating cereal for dinner.",
+    "ru": "Мы дошли до того, что ужинали хлопьями."
+   },
+   {
+    "en": "Don't #resort to# violence.",
+    "ru": "Не прибегай к насилию."
+   },
+   {
+    "en": "They #resorted to# begging.",
+    "ru": "Им пришлось просить милостыню."
+   }
+  ]
  },
  {
   "id": "3206",
@@ -73387,27 +73699,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sequence.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Put the photos in #sequence#.",
+    "ru": "Расположи фото по порядку."
+   },
+   {
+    "en": "The #sequence# of events is unclear.",
+    "ru": "Последовательность событий неясна."
+   },
+   {
+    "en": "The film's opening #sequence# is amazing.",
+    "ru": "Начальная сцена фильма потрясающая."
+   }
+  ]
  },
  {
   "id": "3207",
   "word": "sum",
   "transcription": "[sʌm]",
   "translation": "сумма, суммировать",
-  "nuance": null,
+  "nuance": "Сумма; sum up — подвести итог.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sum.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He paid a large #sum# for the car.",
+    "ru": "Он заплатил большую сумму за машину."
+   },
+   {
+    "en": "#Sum# up the meeting in one sentence.",
+    "ru": "Подведи итог совещания одним предложением."
+   },
+   {
+    "en": "The #sum# of 2 and 3 is 5.",
+    "ru": "Сумма 2 и 3 — 5."
+   }
+  ]
  },
  {
   "id": "3208",
   "word": "summation",
   "transcription": "[sʌˈmeɪʃən]",
   "translation": "подведение итога",
-  "nuance": null,
+  "nuance": "Книжное. Summary — проще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/summation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #summation# of the case took an hour.",
+    "ru": "Подведение итогов по делу заняло час."
+   },
+   {
+    "en": "His speech was a #summation# of his career.",
+    "ru": "Его речь была итогом его карьеры."
+   },
+   {
+    "en": "In #summation#, the plan failed.",
+    "ru": "Подводя итог, план провалился."
+   }
+  ]
  },
  {
   "id": "3209",
@@ -73417,7 +73768,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/hurry.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Hurry# up — we're late!",
+    "ru": "Поторопись — мы опаздываем!"
+   },
+   {
+    "en": "Don't #hurry# — enjoy your coffee.",
+    "ru": "Не торопись — наслаждайся кофе."
+   },
+   {
+    "en": "I'm in a #hurry#.",
+    "ru": "Я спешу."
+   }
+  ]
  },
  {
   "id": "3210",
@@ -73427,7 +73791,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/hurried.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We had a #hurried# breakfast.",
+    "ru": "Мы наспех позавтракали."
+   },
+   {
+    "en": "He made a #hurried# decision.",
+    "ru": "Он принял поспешное решение."
+   },
+   {
+    "en": "She wrote a #hurried# note.",
+    "ru": "Она набросала торопливую записку."
+   }
+  ]
  },
  {
   "id": "3211",
@@ -73437,17 +73814,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unhurried.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We enjoyed an #unhurried# lunch.",
+    "ru": "Мы насладились неторопливым обедом."
+   },
+   {
+    "en": "Village life is #unhurried#.",
+    "ru": "Деревенская жизнь неспешная."
+   },
+   {
+    "en": "He spoke in an #unhurried# voice.",
+    "ru": "Он говорил неторопливым голосом."
+   }
+  ]
  },
  {
   "id": "3212",
   "word": "justify",
   "transcription": "[ˈʤʌstɪfaɪ]",
   "translation": "оправдывать, обосновывать",
-  "nuance": null,
+  "nuance": "Оправдать, обосновать. Excuse — простить, извинить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/justify.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "How can you #justify# spending so much on shoes?",
+    "ru": "Как ты можешь оправдать такие траты на обувь?"
+   },
+   {
+    "en": "The results #justify# the effort.",
+    "ru": "Результаты оправдывают усилия."
+   },
+   {
+    "en": "You don't need to #justify# yourself.",
+    "ru": "Тебе не нужно оправдываться."
+   }
+  ]
  },
  {
   "id": "3213",
@@ -73457,7 +73860,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/justification.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's no #justification# for violence.",
+    "ru": "Насилию нет оправдания."
+   },
+   {
+    "en": "What's the #justification# for this price?",
+    "ru": "Чем обоснована эта цена?"
+   },
+   {
+    "en": "He gave a long #justification#.",
+    "ru": "Он долго оправдывался."
+   }
+  ]
  },
  {
   "id": "3214",
@@ -73467,7 +73883,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unjustified.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Your fears are #unjustified#.",
+    "ru": "Твои страхи необоснованны."
+   },
+   {
+    "en": "It was an #unjustified# attack.",
+    "ru": "Это было ничем не оправданное нападение."
+   },
+   {
+    "en": "The price rise is #unjustified#.",
+    "ru": "Повышение цен ничем не обосновано."
+   }
+  ]
  },
  {
   "id": "3215",
@@ -73477,7 +73906,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/justifiable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His anger was #justifiable#.",
+    "ru": "Его гнев был оправдан."
+   },
+   {
+    "en": "It's a #justifiable# expense.",
+    "ru": "Это оправданный расход."
+   },
+   {
+    "en": "Eating cake on your birthday is #justifiable#.",
+    "ru": "Есть торт в день рождения допустимо."
+   }
+  ]
  },
  {
   "id": "3216",
@@ -73487,57 +73929,135 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unjustifiable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Hitting a child is #unjustifiable#.",
+    "ru": "Бить ребёнка недопустимо."
+   },
+   {
+    "en": "The delay is #unjustifiable#.",
+    "ru": "Задержка непростительна."
+   },
+   {
+    "en": "That price is simply #unjustifiable#.",
+    "ru": "Эта цена ничем не оправдана."
+   }
+  ]
  },
  {
   "id": "3217",
   "word": "by oneself",
   "transcription": "[baɪwʌnˈsɛlf]",
   "translation": "один, сам",
-  "nuance": null,
+  "nuance": "Сам (без помощи) или один (в одиночестве).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/by_oneself.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My son made breakfast #by himself#!",
+    "ru": "Сын сам приготовил завтрак!"
+   },
+   {
+    "en": "She lives #by herself#.",
+    "ru": "Она живёт одна."
+   },
+   {
+    "en": "I can do it #by myself#.",
+    "ru": "Я могу сделать это сам."
+   }
+  ]
  },
  {
   "id": "3218",
   "word": "gut",
   "transcription": "[gʌt]",
   "translation": "кишка",
-  "nuance": null,
+  "nuance": "Кишка, живот (разг.); gut feeling — чутьё; guts — смелость.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/gut.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My #gut# says don't trust him.",
+    "ru": "Чутьё подсказывает мне не доверять ему."
+   },
+   {
+    "en": "He has a big beer #gut#.",
+    "ru": "У него большое пивное брюхо."
+   },
+   {
+    "en": "It takes #guts# to quit your job.",
+    "ru": "Чтобы уволиться, нужна смелость."
+   }
+  ]
  },
  {
   "id": "3219",
   "word": "plane",
   "transcription": "[pleɪn]",
   "translation": "самолёт",
-  "nuance": null,
+  "nuance": "Разг. самолёт (= aeroplane брит., airplane амер.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/plane.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #plane# landed on time.",
+    "ru": "Самолёт приземлился вовремя."
+   },
+   {
+    "en": "I hate sleeping on #planes#.",
+    "ru": "Ненавижу спать в самолётах."
+   },
+   {
+    "en": "We missed our #plane#.",
+    "ru": "Мы опоздали на самолёт."
+   }
+  ]
  },
  {
   "id": "3220",
   "word": "airplane",
   "transcription": "[ˈeəpleɪn]",
   "translation": "самолет",
-  "nuance": null,
+  "nuance": "Амер. airplane; брит. aeroplane; разг. — plane.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6924/6924_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The kids made a paper #airplane#.",
+    "ru": "Дети сделали бумажный самолётик."
+   },
+   {
+    "en": "The #airplane# was full.",
+    "ru": "Самолёт был полон."
+   },
+   {
+    "en": "I fell asleep before the #airplane# took off.",
+    "ru": "Я уснул ещё до взлёта самолёта."
+   }
+  ]
  },
  {
   "id": "3221",
   "word": "brilliant",
   "transcription": "[ˈbrɪljənt]",
   "translation": "блестящий",
-  "nuance": null,
+  "nuance": "Блестящий, гениальный; брит. разг. brilliant! — отлично!",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/brilliant.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "That's a #brilliant# idea!",
+    "ru": "Это блестящая идея!"
+   },
+   {
+    "en": "She's a #brilliant# scientist.",
+    "ru": "Она блестящий учёный."
+   },
+   {
+    "en": "The sun was #brilliant# today.",
+    "ru": "Солнце сегодня было ярким."
+   }
+  ]
  },
  {
   "id": "3222",
@@ -73547,27 +74067,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/brilliance.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Everyone admired the #brilliance# of her plan.",
+    "ru": "Все восхищались гениальностью её плана."
+   },
+   {
+    "en": "The #brilliance# of the stars amazed us.",
+    "ru": "Яркость звёзд нас поразила."
+   },
+   {
+    "en": "His #brilliance# made him famous.",
+    "ru": "Его гениальность сделала его знаменитым."
+   }
+  ]
  },
  {
   "id": "3223",
   "word": "review",
   "transcription": "[rɪˈvjuː]",
   "translation": "обзор, сделать обзор",
-  "nuance": null,
+  "nuance": "Обзор, отзыв, рецензия; пересматривать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/review_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I read a #review# before buying.",
+    "ru": "Я прочитал отзыв перед покупкой."
+   },
+   {
+    "en": "The film got terrible #reviews#.",
+    "ru": "Фильм получил ужасные отзывы."
+   },
+   {
+    "en": "Let's #review# the plan.",
+    "ru": "Давай пересмотрим план."
+   }
+  ]
  },
  {
   "id": "3224",
   "word": "sit around",
   "transcription": "[sɪtəˈraʊnd]",
   "translation": "просто сидеть",
-  "nuance": null,
+  "nuance": "Сидеть без дела, бездельничать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sit_around.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't just #sit around# — help me!",
+    "ru": "Не сиди просто так — помоги мне!"
+   },
+   {
+    "en": "We #sat around# talking all evening.",
+    "ru": "Мы весь вечер сидели и болтали."
+   },
+   {
+    "en": "He #sits around# all day playing games.",
+    "ru": "Он целыми днями сидит и играет."
+   }
+  ]
  },
  {
   "id": "3225",
@@ -73577,7 +74136,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/34017/34017_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The soup is too #thick#.",
+    "ru": "Суп слишком густой."
+   },
+   {
+    "en": "We got lost in #thick# fog.",
+    "ru": "Мы заблудились в густом тумане."
+   },
+   {
+    "en": "The forest is #thick# with trees.",
+    "ru": "Лес густо зарос деревьями."
+   }
+  ]
  },
  {
   "id": "3226",
@@ -73587,7 +74159,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/thickness_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #thickness# of the sauce is perfect.",
+    "ru": "Густота соуса идеальная."
+   },
+   {
+    "en": "The #thickness# of the ice is 20 cm.",
+    "ru": "Толщина льда — 20 см."
+   },
+   {
+    "en": "I love the #thickness# of her hair.",
+    "ru": "Мне нравится густота её волос."
+   }
+  ]
  },
  {
   "id": "3227",
@@ -73597,17 +74182,43 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/11473/11473_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It's against the #law#.",
+    "ru": "Это противозаконно."
+   },
+   {
+    "en": "She studies #law#.",
+    "ru": "Она изучает право."
+   },
+   {
+    "en": "The new #law# bans plastic bags.",
+    "ru": "Новый закон запрещает пластиковые пакеты."
+   }
+  ]
  },
  {
   "id": "3228",
   "word": "lawyer",
   "transcription": "[ˈlɔːjə]",
   "translation": "адвокат",
-  "nuance": null,
+  "nuance": "Юрист, адвокат (общее). Solicitor, barrister (брит.), attorney (амер.).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2636/2636_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Talk to a #lawyer# before you sign.",
+    "ru": "Посоветуйся с юристом, прежде чем подписывать."
+   },
+   {
+    "en": "My cousin is a divorce #lawyer#.",
+    "ru": "Мой двоюродный брат — адвокат по разводам."
+   },
+   {
+    "en": "The #lawyer# charged us a fortune.",
+    "ru": "Адвокат взял с нас целое состояние."
+   }
+  ]
  },
  {
   "id": "3229",
@@ -73617,27 +74228,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/lawmaker.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Lawmakers# voted for the new tax.",
+    "ru": "Законодатели проголосовали за новый налог."
+   },
+   {
+    "en": "The #lawmaker# proposed a ban on fireworks.",
+    "ru": "Законодатель предложил запрет на фейерверки."
+   },
+   {
+    "en": "#Lawmakers# argued for hours.",
+    "ru": "Законодатели спорили часами."
+   }
+  ]
  },
  {
   "id": "3230",
   "word": "lawful",
   "transcription": "[ˈlɔːfʊl]",
   "translation": "законный",
-  "nuance": null,
+  "nuance": "Законный (офиц.). Legal — чаще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/lawful.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Is it #lawful# to record a call?",
+    "ru": "Законно ли записывать звонок?"
+   },
+   {
+    "en": "He's the #lawful# owner of the house.",
+    "ru": "Он законный владелец дома."
+   },
+   {
+    "en": "They used #lawful# methods.",
+    "ru": "Они использовали законные методы."
+   }
+  ]
  },
  {
   "id": "3231",
   "word": "site",
   "transcription": "[saɪt]",
   "translation": "местоположение",
-  "nuance": null,
+  "nuance": "Место, участок; также website.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/site.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #site# of the new school is near the park.",
+    "ru": "Место для новой школы рядом с парком."
+   },
+   {
+    "en": "They found an ancient burial #site#.",
+    "ru": "Нашли древнее захоронение."
+   },
+   {
+    "en": "Wear a helmet on the building #site#.",
+    "ru": "На стройке надевай каску."
+   }
+  ]
  },
  {
   "id": "3232",
