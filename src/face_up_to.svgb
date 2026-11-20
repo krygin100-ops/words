@@ -1,0 +1,8 @@
+<circle cx="60" cy="80" r="22" fill="{F}"/>
+<path d="M48 75 H58 M66 75 H76" stroke-width="4"/>
+<path d="M50 95 H70" stroke-width="4"/>
+<path d="M30 190 Q30 115 60 115 Q90 115 90 190" fill="{F}"/>
+<path d="M120 60 Q115 35 145 35 Q155 20 175 30 Q190 40 182 60 Z" fill="{F}"/>
+<path d="M135 70 L130 85 M155 70 L150 85 M175 70 L170 85" stroke-width="3"/>
+<path d="M90 80 H115" stroke-width="3" stroke-dasharray="4 4"/>
+<text x="60" y="40" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">bring it</text>

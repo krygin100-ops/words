@@ -1,0 +1,4 @@
+<path d="M10 100 H190" stroke-width="30"/>
+<path d="M10 100 H190" stroke="#000" stroke-width="16"/>
+<path d="M10 100 H190" stroke="{L}" stroke-width="5"/>
+<path d="M60 70 L50 60 M100 70 V55 M140 70 L150 60" stroke-width="3"/>

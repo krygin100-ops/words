@@ -1,0 +1,3 @@
+<rect x="40" y="60" width="120" height="100" rx="10" fill="{F}"/>
+<path d="M65 110 L90 135 L140 85" stroke="#000" stroke-width="12"/>
+<text x="100" y="40" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">all good!</text>

@@ -1,0 +1,6 @@
+<circle cx="70" cy="70" r="20" fill="{F}"/>
+<circle cx="130" cy="70" r="20" fill="{F}"/>
+<path d="M45 190 Q45 105 70 105 Q95 105 95 190 M105 190 L115 105 H145 L155 190 Z" fill="{F}"/>
+<circle cx="100" cy="135" r="10" stroke="{L}" stroke-width="4"/>
+<circle cx="110" cy="135" r="10" stroke="{L}" stroke-width="4"/>
+<path d="M60 72 Q70 80 80 72 M120 72 Q130 80 140 72" stroke-width="3"/>

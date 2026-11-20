@@ -1,0 +1,5 @@
+<path d="M60 30 V100 Q60 150 90 170 H130 Q150 165 150 140 V30" fill="{F}"/>
+<circle cx="105" cy="110" r="18" fill="#000"/>
+<path d="M105 110 m-8 0 l16 0 m-8 -8 l0 16" stroke="{L}" stroke-width="3"/>
+<path d="M160 90 L180 80 M160 110 H185 M160 130 L180 140" stroke-width="3"/>
+<text x="40" y="190" font-size="20" fill="{L}" stroke="none" font-family="sans-serif">ow</text>

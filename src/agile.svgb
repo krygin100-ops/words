@@ -1,0 +1,4 @@
+<circle cx="140" cy="40" r="15" fill="{F}"/>
+<path d="M135 55 L110 100 M120 75 L160 80 M120 75 L85 60 M110 100 L140 130 L130 170 M110 100 L75 115 L55 100" stroke-width="7"/>
+<path d="M30 60 H60 M20 90 H50 M30 120 H55" stroke-width="3"/>
+<text x="60" y="180" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">nimble</text>

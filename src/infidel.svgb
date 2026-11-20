@@ -1,0 +1,7 @@
+<circle cx="80" cy="80" r="22" fill="{F}"/>
+<path d="M70 80 H78 M84 80 H92" stroke-width="3"/>
+<path d="M70 95 H90" stroke-width="3"/>
+<path d="M50 190 Q50 115 80 115 Q110 115 110 190" fill="{F}"/>
+<path d="M50 130 L30 115 M110 130 L130 115"/>
+<text x="150" y="80" font-size="34" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">?</text>
+<text x="80" y="35" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">non-believer</text>

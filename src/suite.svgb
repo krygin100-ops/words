@@ -1,0 +1,7 @@
+<path d="M20 180 V60 H180 V180" stroke-width="4"/>
+<rect x="30" y="130" width="70" height="40" rx="6" fill="{F}"/>
+<rect x="30" y="115" width="25" height="20" rx="6" fill="{L}"/>
+<rect x="120" y="140" width="50" height="30" rx="6" fill="{F}"/>
+<path d="M140 80 V100 M130 100 H150 L145 120 H135 Z" fill="{F}"/>
+<g fill="{L}" stroke="none"><path d="M100 30 L103 20 L106 30 L116 33 L106 36 L103 46 L100 36 L90 33 Z"/></g>
+<text x="60" y="45" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">LUXE</text>

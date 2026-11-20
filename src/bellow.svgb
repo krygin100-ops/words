@@ -1,0 +1,5 @@
+<circle cx="70" cy="100" r="45" fill="{F}"/>
+<path d="M45 85 L65 92 M95 85 L75 92" stroke-width="5"/>
+<path d="M45 115 Q70 150 100 115 Z" fill="#000"/>
+<path d="M120 70 L170 50 M125 100 H185 M120 130 L170 150" stroke-width="5"/>
+<text x="150" y="190" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">ROAAR!</text>
