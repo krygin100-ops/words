@@ -1,0 +1,8 @@
+<circle cx="70" cy="70" r="20" fill="{F}"/>
+<path d="M62 72 Q70 78 78 72" stroke-width="3"/>
+<path d="M50 190 L55 95 H85 L90 190 Z" fill="{F}"/>
+<path d="M85 110 L120 120" stroke-width="5"/>
+<path d="M120 120 H150" stroke-width="5"/>
+<circle cx="160" cy="120" r="14" stroke-width="5"/>
+<path d="M130 120 V132 M140 120 V128" stroke-width="5"/>
+<text x="140" y="70" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">my key</text>

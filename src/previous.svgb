@@ -1,0 +1,5 @@
+<rect x="20" y="70" width="45" height="60" rx="4" fill="{L}"/>
+<rect x="78" y="70" width="45" height="60" rx="4" fill="{F}"/>
+<rect x="136" y="70" width="45" height="60" rx="4" fill="{F}"/>
+<path d="M100 155 H45 M58 145 L43 155 L58 165" stroke-width="5"/>
+<text x="100" y="50" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">the one before</text>

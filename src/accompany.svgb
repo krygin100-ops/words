@@ -1,0 +1,5 @@
+<circle cx="70" cy="70" r="16" fill="{F}"/>
+<circle cx="125" cy="70" r="16" fill="{F}"/>
+<path d="M70 86 V135 L58 175 M70 135 L85 175 M125 86 V135 L113 175 M125 135 L140 175 M70 100 L97 110 L125 100"/>
+<path d="M30 185 H170 M155 175 L172 185 L155 195" stroke-width="4"/>
+<text x="100" y="35" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">together</text>

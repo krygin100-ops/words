@@ -1,0 +1,4 @@
+<rect x="40" y="40" width="120" height="120" rx="6" fill="{F}"/>
+<path d="M60 70 H140 M60 90 H140 M60 110 H120" stroke="#000" stroke-width="4"/>
+<rect x="50" y="115" width="110" height="35" rx="4" fill="#000" transform="rotate(-15 105 132)"/>
+<text x="105" y="140" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif" transform="rotate(-15 105 132)">REJECTED</text>

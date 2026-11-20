@@ -1,0 +1,5 @@
+<path d="M10 130 H190 V190 H10 Z" fill="{F}"/>
+<path d="M10 130 H190" stroke-width="6"/>
+<circle cx="150" cy="60" r="20" fill="{L}"/>
+<path d="M30 160 L35 150 L40 160 M90 170 L95 160 L100 170 M150 155 L155 145 L160 155" stroke="#000" stroke-width="3"/>
+<text x="60" y="80" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">flat!</text>

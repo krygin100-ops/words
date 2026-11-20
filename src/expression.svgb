@@ -1,0 +1,7 @@
+<circle cx="45" cy="100" r="30" fill="{F}"/>
+<path d="M33 110 Q45 120 57 110" stroke-width="3"/>
+<circle cx="100" cy="100" r="30" fill="{F}"/>
+<path d="M88 115 Q100 105 112 115" stroke-width="3"/>
+<circle cx="155" cy="100" r="30" fill="{F}"/>
+<ellipse cx="155" cy="113" rx="7" ry="8" fill="#000"/>
+<g fill="{L}" stroke="none"><circle cx="35" cy="92" r="3.5"/><circle cx="55" cy="92" r="3.5"/><circle cx="90" cy="92" r="3.5"/><circle cx="110" cy="92" r="3.5"/><circle cx="145" cy="90" r="5"/><circle cx="165" cy="90" r="5"/></g>
