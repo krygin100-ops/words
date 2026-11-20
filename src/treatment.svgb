@@ -1,0 +1,8 @@
+<circle cx="60" cy="80" r="20" fill="{F}"/>
+<path d="M50 82 Q60 90 70 82" stroke-width="3"/>
+<path d="M35 190 Q35 115 60 115 Q85 115 85 190" fill="{F}"/>
+<path d="M85 130 L115 125"/>
+<circle cx="145" cy="105" r="18" fill="{F}"/>
+<path d="M125 190 Q125 130 145 130 Q165 130 165 190" fill="{F}"/>
+<path d="M100 60 C100 52 112 50 112 60 C112 68 100 75 100 75 C100 75 88 68 88 60 C88 50 100 52 100 60 Z" fill="{L}" stroke="none"/>
+<text x="145" y="60" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">how kind</text>

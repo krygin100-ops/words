@@ -1,0 +1,8 @@
+<rect x="20" y="120" width="160" height="65" fill="{F}"/>
+<path d="M10 120 H190" stroke-width="8"/>
+<circle cx="100" cy="70" r="20" fill="{F}"/>
+<path d="M88 72 Q100 80 112 72" stroke-width="3"/>
+<path d="M75 120 Q75 95 100 95 Q125 95 125 120" fill="{F}"/>
+<path d="M80 60 Q80 40 100 40 Q120 40 120 60" stroke-width="3"/>
+<rect x="117" y="60" width="8" height="15" fill="{L}"/>
+<text x="100" y="25" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">Hello! Name?</text>

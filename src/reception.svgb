@@ -1,0 +1,7 @@
+<rect x="20" y="110" width="160" height="70" fill="{F}"/>
+<path d="M10 110 H190" stroke-width="8"/>
+<circle cx="100" cy="75" r="16" fill="{F}"/>
+<path d="M80 110 Q80 90 100 90 Q120 90 120 110" fill="{F}"/>
+<path d="M30 30 H170 V60 H30 Z" fill="{F}"/>
+<text x="100" y="52" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">RECEPTION</text>
+<path d="M140 95 Q145 90 150 95 L150 105 H140 Z" fill="{L}"/>

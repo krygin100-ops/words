@@ -1,0 +1,7 @@
+<circle cx="80" cy="90" r="25" fill="{F}"/>
+<path d="M68 85 L76 89 M92 85 L84 89" stroke-width="3"/>
+<path d="M68 105 Q80 98 92 108" stroke-width="3"/>
+<path d="M50 190 Q50 125 80 125 Q110 125 110 190" fill="{F}"/>
+<path d="M105 45 H185 V95 H135 L120 110 V95 H105 Z" fill="{F}"/>
+<text x="145" y="68" font-size="15" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">traffic was</text>
+<text x="145" y="86" font-size="15" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">crazy!</text>

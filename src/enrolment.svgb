@@ -1,0 +1,5 @@
+<rect x="30" y="40" width="140" height="130" rx="6" fill="{F}"/>
+<text x="100" y="70" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">REGISTER</text>
+<g fill="#000"><circle cx="55" cy="95" r="6"/><circle cx="55" cy="120" r="6"/><circle cx="55" cy="145" r="6"/></g>
+<path d="M70 95 H150 M70 120 H150" stroke="#000" stroke-width="3"/>
+<path d="M70 145 H150" stroke="{L}" stroke-width="5"/>

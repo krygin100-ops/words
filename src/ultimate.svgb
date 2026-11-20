@@ -1,0 +1,5 @@
+<path d="M20 100 H150" stroke-width="3" stroke-dasharray="8 6"/>
+<path d="M150 50 V150" stroke-width="5"/>
+<path d="M150 50 H185 V75 H150 M165 50 V75 M150 62 H185" stroke-width="3"/>
+<circle cx="120" cy="100" r="14" fill="{F}"/>
+<text x="80" y="160" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">final</text>

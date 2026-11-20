@@ -1,0 +1,6 @@
+<circle cx="30" cy="100" r="15" fill="{F}"/>
+<circle cx="100" cy="100" r="15" fill="{L}"/>
+<circle cx="170" cy="100" r="15" fill="{F}"/>
+<path d="M45 100 H85 M115 100 H155" stroke-width="4"/>
+<path d="M145 92 L155 100 L145 108" stroke-width="4"/>
+<text x="100" y="150" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">through</text>

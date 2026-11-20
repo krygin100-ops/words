@@ -1,0 +1,5 @@
+<circle cx="80" cy="80" r="40" stroke-width="7"/>
+<path d="M108 108 L150 150" stroke-width="10"/>
+<g fill="{F}"><ellipse cx="70" cy="80" rx="8" ry="12" transform="rotate(-20 70 80)"/></g>
+<g fill="{F}"><circle cx="64" cy="66" r="3"/><circle cx="72" cy="64" r="3"/></g>
+<text x="150" y="40" font-size="24" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">aha!</text>

@@ -1,0 +1,4 @@
+<rect x="30" y="80" width="60" height="60" rx="10" fill="{F}" transform="rotate(-15 60 110)"/>
+<rect x="110" y="70" width="60" height="60" rx="10" fill="{F}" transform="rotate(15 140 100)"/>
+<g fill="#000"><circle cx="50" cy="100" r="5"/><circle cx="70" cy="120" r="5"/><circle cx="60" cy="110" r="5"/><circle cx="130" cy="85" r="5"/><circle cx="150" cy="85" r="5"/><circle cx="130" cy="115" r="5"/><circle cx="150" cy="115" r="5"/></g>
+<text x="100" y="180" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">all in?</text>

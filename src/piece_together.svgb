@@ -1,0 +1,5 @@
+<path d="M30 40 H80 V55 Q90 45 100 55 Q110 65 100 75 Q90 85 80 75 V90 H30 Z" fill="{F}"/>
+<path d="M120 40 H170 V90 H120 V75 Q130 85 140 75 Q150 65 140 55 Q130 45 120 55 Z" fill="{F}" opacity="0.5" transform="translate(-20 0)"/>
+<path d="M30 110 H80 V160 H30 Z" fill="{F}" opacity="0.5"/>
+<path d="M100 120 L120 140 L150 105" stroke-width="5"/>
+<text x="140" y="180" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">click!</text>

@@ -1,0 +1,5 @@
+<rect x="35" y="25" width="130" height="155" rx="6" fill="{F}"/>
+<text x="100" y="55" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">SURVEY</text>
+<g fill="none" stroke="#000" stroke-width="3"><rect x="50" y="70" width="14" height="14"/><rect x="50" y="100" width="14" height="14"/><rect x="50" y="130" width="14" height="14"/></g>
+<path d="M53 106 L57 110 L63 102" stroke="#000" stroke-width="3"/>
+<path d="M75 77 H150 M75 107 H150 M75 137 H150" stroke="#000" stroke-width="3"/>
