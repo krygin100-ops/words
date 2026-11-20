@@ -1,0 +1,7 @@
+<path d="M20 160 H180"/>
+<rect x="30" y="110" width="25" height="50" fill="{F}"/>
+<rect x="65" y="70" width="25" height="90" fill="{F}"/>
+<rect x="100" y="125" width="25" height="35" fill="{F}"/>
+<rect x="135" y="90" width="25" height="70" fill="{F}"/>
+<path d="M20 100 H180" stroke-width="3" stroke-dasharray="8 6"/>
+<text x="100" y="40" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">avg</text>

@@ -1,0 +1,9 @@
+<circle cx="70" cy="80" r="20" fill="{F}"/>
+<path d="M50 70 L58 74 M90 70 L82 74" stroke-width="3"/>
+<path d="M40 190 Q40 115 70 115 Q100 115 100 190" fill="{F}"/>
+<path d="M100 130 L125 110" />
+<path d="M120 105 L125 90 L140 100 Z" fill="{F}"/>
+<circle cx="165" cy="120" r="12" fill="{F}"/>
+<path d="M165 132 L160 160 M163 140 L180 135 M160 160 L150 180 M160 160 L172 180"/>
+<path d="M135 130 L145 125 M140 145 L150 145" stroke-width="3"/>
+<text x="100" y="35" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">SHOO!</text>

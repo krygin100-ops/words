@@ -1,0 +1,6 @@
+<rect x="30" y="140" width="25" height="40" fill="{F}"/>
+<rect x="65" y="115" width="25" height="65" fill="{F}"/>
+<rect x="100" y="85" width="25" height="95" fill="{F}"/>
+<rect x="135" y="55" width="25" height="125" fill="{F}"/>
+<circle cx="150" cy="30" r="18" fill="{L}"/>
+<text x="150" y="37" font-size="20" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">$</text>

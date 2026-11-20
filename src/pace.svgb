@@ -1,0 +1,4 @@
+<circle cx="100" cy="45" r="15" fill="{F}"/>
+<path d="M100 60 L95 105 L75 145 M95 105 L120 140 L125 175 M98 75 L120 90 M98 75 L75 85" stroke-width="7"/>
+<g fill="{F}"><ellipse cx="40" cy="185" rx="10" ry="5"/><ellipse cx="80" cy="185" rx="10" ry="5"/><ellipse cx="120" cy="185" rx="10" ry="5"/><ellipse cx="160" cy="185" rx="10" ry="5"/></g>
+<text x="160" y="80" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">step step</text>
