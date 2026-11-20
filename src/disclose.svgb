@@ -1,0 +1,5 @@
+<rect x="40" y="90" width="120" height="80" fill="{F}"/>
+<path d="M40 90 L60 40 L170 50" fill="{F}" stroke-width="5"/>
+<g fill="{L}" stroke="none"><path d="M100 70 L104 82 L116 82 L106 90 L110 102 L100 94 L90 102 L94 90 L84 82 L96 82 Z"/></g>
+<path d="M75 60 L65 45 M125 62 L135 45" stroke-width="3"/>
+<text x="100" y="140" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">SECRET</text>

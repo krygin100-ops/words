@@ -1,0 +1,8 @@
+<circle cx="100" cy="85" r="45" fill="{F}"/>
+<circle cx="83" cy="75" r="4" fill="{L}" stroke="none"/>
+<path d="M110 75 L125 72" stroke-width="4"/>
+<path d="M75 100 Q100 125 125 100" stroke-width="4"/>
+<path d="M98 112 Q102 130 112 112" fill="{L}" stroke="none"/>
+<path d="M55 60 Q30 40 40 20 M145 60 Q170 40 160 20" stroke-width="5"/>
+<path d="M30 30 L15 20 M170 30 L185 20" stroke-width="0"/>
+<text x="100" y="170" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">nyah nyah!</text>

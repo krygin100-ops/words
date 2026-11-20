@@ -1,0 +1,6 @@
+<circle cx="35" cy="80" r="14" fill="{F}"/>
+<path d="M40 94 L50 130 L30 165 M50 130 L65 165 M45 105 L95 110" stroke-width="6"/>
+<path d="M95 110 H190" stroke-width="5"/>
+<rect x="160" y="80" width="30" height="60" fill="{F}"/>
+<path d="M15 70 L5 60 M15 90 L0 90" stroke-width="3"/>
+<text x="120" y="70" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">heave!</text>

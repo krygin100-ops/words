@@ -1,0 +1,5 @@
+<path d="M10 150 H190"/>
+<path d="M30 150 A60 60 0 0 1 150 150" fill="{F}" transform="translate(10 0)"/>
+<path d="M100 75 V55 M60 90 L45 75 M140 90 L155 75" stroke-width="4"/>
+<path d="M20 175 H100 M85 165 L100 175 L85 185" stroke-width="3"/>
+<text x="150" y="180" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">start</text>

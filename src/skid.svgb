@@ -1,0 +1,6 @@
+<path d="M10 170 H190"/>
+<path d="M60 130 Q60 100 90 95 H140 Q165 100 170 130 Z" fill="{F}" transform="rotate(-12 115 130)"/>
+<circle cx="80" cy="145" r="14" fill="#000" stroke-width="5"/>
+<circle cx="150" cy="135" r="14" fill="#000" stroke-width="5"/>
+<path d="M10 160 Q30 150 50 160 M20 175 Q40 165 60 175" stroke-width="3"/>
+<text x="100" y="50" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">SCREECH!</text>

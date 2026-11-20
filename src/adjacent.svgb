@@ -1,0 +1,5 @@
+<rect x="25" y="60" width="70" height="90" fill="{F}"/>
+<rect x="105" y="60" width="70" height="90" fill="{F}"/>
+<path d="M95 40 V170 M105 40 V170" stroke-width="3"/>
+<path d="M80 30 L95 40 L80 50 M120 30 L105 40 L120 50" stroke-width="3"/>
+<text x="100" y="190" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">next door</text>
