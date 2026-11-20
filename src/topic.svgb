@@ -1,0 +1,4 @@
+<rect x="20" y="60" width="160" height="80" rx="8" fill="{F}"/>
+<text x="100" y="110" font-size="26" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">TOPIC:</text>
+<path d="M40 165 H160 M60 180 H140" stroke-width="3"/>
+<path d="M90 40 L100 25 L110 40" stroke-width="3"/>

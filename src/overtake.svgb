@@ -1,0 +1,7 @@
+<path d="M10 140 H190" stroke-width="3"/>
+<path d="M10 110 H190" stroke-width="2" stroke-dasharray="10 10"/>
+<rect x="20" y="115" width="60" height="22" rx="6" fill="{F}" opacity="0.5"/>
+<rect x="110" y="80" width="60" height="22" rx="6" fill="{F}"/>
+<path d="M60 95 Q90 80 105 90" stroke-width="3" stroke-dasharray="4 4"/>
+<path d="M175 90 H190" stroke-width="3"/>
+<text x="140" y="60" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">zoom!</text>

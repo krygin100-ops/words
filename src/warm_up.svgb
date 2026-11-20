@@ -1,0 +1,4 @@
+<circle cx="100" cy="50" r="16" fill="{F}"/>
+<path d="M100 66 V120 L80 170 M100 120 L120 170 M100 80 L60 60 M100 80 L140 60" stroke-width="7"/>
+<path d="M50 50 L40 40 M150 50 L160 40 M40 120 Q30 130 40 140 M160 120 Q170 130 160 140" stroke-width="3"/>
+<text x="100" y="195" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">1, 2, stretch!</text>

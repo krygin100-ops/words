@@ -1,0 +1,5 @@
+<rect x="30" y="40" width="140" height="90" rx="6" fill="{F}"/>
+<rect x="45" y="55" width="110" height="60" fill="#000"/>
+<path d="M90 130 V150 M110 130 V150 M60 155 H140" stroke-width="6"/>
+<rect x="60" y="165" width="80" height="20" rx="4" fill="{F}"/>
+<path d="M150 60 H175 M150 90 H175" stroke-width="0"/>

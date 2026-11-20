@@ -1,0 +1,5 @@
+<path d="M20 40 V180 H180 V40" stroke-width="5"/>
+<rect x="30" y="140" width="40" height="40" fill="{F}"/>
+<path d="M80 110 H170" stroke-width="2" stroke-dasharray="5 5"/>
+<path d="M85 100 L75 110 L85 120 M165 100 L175 110 L165 120" stroke-width="3"/>
+<text x="125" y="80" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">space</text>

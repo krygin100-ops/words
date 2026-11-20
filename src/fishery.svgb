@@ -1,0 +1,5 @@
+<path d="M10 120 Q50 110 100 120 Q150 130 190 120 V190 H10 Z" fill="{F}" opacity="0.5"/>
+<path d="M30 110 L60 80 H140 L170 110 Z" fill="{F}"/>
+<path d="M100 80 V40 M100 40 L60 120" stroke-width="3"/>
+<path d="M60 120 Q55 160 100 170 Q140 165 150 130" stroke-width="2" stroke-dasharray="4 4"/>
+<g fill="{F}"><ellipse cx="90" cy="150" rx="12" ry="6"/><ellipse cx="120" cy="155" rx="12" ry="6"/></g>

@@ -1,0 +1,9 @@
+<circle cx="100" cy="100" r="45" fill="{F}"/>
+<circle cx="85" cy="92" r="8"/>
+<circle cx="115" cy="92" r="8"/>
+<circle cx="85" cy="92" r="3" fill="{L}" stroke="none"/>
+<circle cx="115" cy="92" r="3" fill="{L}" stroke="none"/>
+<path d="M82 125 L88 120 L94 125 L100 120 L106 125 L112 120 L118 125" stroke-width="3"/>
+<path d="M140 60 Q145 70 140 75" fill="{L}" stroke="none"/>
+<path d="M50 40 Q60 30 55 20 M150 30 Q160 40 170 30 M30 120 Q20 130 30 140" stroke-width="3"/>
+<text x="100" y="185" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">what if...</text>
