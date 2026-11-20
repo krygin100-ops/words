@@ -66244,50 +66244,115 @@
   "word": "noon",
   "transcription": "[nuːn]",
   "translation": "полдень",
-  "nuance": null,
+  "nuance": "Полдень (12:00). Midday — синоним (брит. чаще).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/noon.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Let's meet at #noon#.",
+    "ru": "Давай встретимся в полдень."
+   },
+   {
+    "en": "The shop closes at #noon# on Saturdays.",
+    "ru": "По субботам магазин закрывается в полдень."
+   },
+   {
+    "en": "My teenager wakes up at #noon#.",
+    "ru": "Мой подросток просыпается в полдень."
+   }
+  ]
  },
  {
   "id": "2883",
   "word": "forenoon",
   "transcription": "[ˈfɔːnuːn]",
   "translation": "утро",
-  "nuance": null,
+  "nuance": "Устаревшее/книжное: время до полудня. Обычно — morning.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/forenoon.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The meeting is in the #forenoon#.",
+    "ru": "Совещание в первой половине дня."
+   },
+   {
+    "en": "We worked all #forenoon#.",
+    "ru": "Мы работали всё утро."
+   },
+   {
+    "en": "The #forenoon# was sunny.",
+    "ru": "Первая половина дня была солнечной."
+   }
+  ]
  },
  {
   "id": "2884",
   "word": "afternoon",
   "transcription": "[ˈɑːftəˈnuːn]",
   "translation": "после полудня",
-  "nuance": null,
+  "nuance": "После полудня (с 12 до ~18). Good afternoon — приветствие.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/afternoon.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Good #afternoon#!",
+    "ru": "Добрый день!"
+   },
+   {
+    "en": "I nap every #afternoon#.",
+    "ru": "Я дремлю каждый день после обеда."
+   },
+   {
+    "en": "Let's meet on Friday #afternoon#.",
+    "ru": "Давай встретимся в пятницу днём."
+   }
+  ]
  },
  {
   "id": "2885",
   "word": "immediate",
   "transcription": "[ɪˈmiːdiət]",
   "translation": "немедленный, непосредственный",
-  "nuance": null,
+  "nuance": "Немедленный; непосредственный, ближайший (immediate family).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/immediate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We need an #immediate# answer.",
+    "ru": "Нам нужен немедленный ответ."
+   },
+   {
+    "en": "Only #immediate# family came to the wedding.",
+    "ru": "На свадьбу пришли только самые близкие родственники."
+   },
+   {
+    "en": "The #immediate# problem is the leak.",
+    "ru": "Насущная проблема — протечка."
+   }
+  ]
  },
  {
   "id": "2886",
   "word": "billion",
   "transcription": "[ˈbɪljən]",
   "translation": "миллиард",
-  "nuance": null,
+  "nuance": "Миллиард. С числом — без -s: two billion.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/billion.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The company is worth a #billion# dollars.",
+    "ru": "Компания стоит миллиард долларов."
+   },
+   {
+    "en": "There are eight #billion# people on Earth.",
+    "ru": "На Земле восемь миллиардов человек."
+   },
+   {
+    "en": "I've told you a #billion# times!",
+    "ru": "Я тебе миллиард раз говорил!"
+   }
+  ]
  },
  {
   "id": "2887",
@@ -66297,37 +66362,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/billionaire.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's a #billionaire# who wears old jeans.",
+    "ru": "Он миллиардер, который носит старые джинсы."
+   },
+   {
+    "en": "#Billionaires# fly to space for fun.",
+    "ru": "Миллиардеры летают в космос ради развлечения."
+   },
+   {
+    "en": "My son wants to be a #billionaire# by 30.",
+    "ru": "Сын хочет стать миллиардером к 30 годам."
+   }
+  ]
  },
  {
   "id": "2888",
   "word": "succeed",
   "transcription": "[səkˈsiːd]",
   "translation": "достичь цели",
-  "nuance": null,
+  "nuance": "Succeed in doing — суметь, преуспеть. Также succeed — наследовать (трон).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/succeed.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "If you work hard, you'll #succeed#.",
+    "ru": "Если будешь усердно работать, добьёшься успеха."
+   },
+   {
+    "en": "She #succeeded# in passing the exam.",
+    "ru": "Ей удалось сдать экзамен."
+   },
+   {
+    "en": "I finally #succeeded# in getting the cat into the bath.",
+    "ru": "Мне наконец удалось засунуть кота в ванну."
+   }
+  ]
  },
  {
   "id": "2889",
   "word": "staff",
   "transcription": "[stɑːf]",
   "translation": "персонал",
-  "nuance": null,
+  "nuance": "Персонал (собирательно, обычно с глаголом во мн.ч.). Employee — один работник.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/staff.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #staff# are very friendly here.",
+    "ru": "Персонал здесь очень дружелюбный."
+   },
+   {
+    "en": "We need more #staff# for Christmas.",
+    "ru": "На Рождество нам нужно больше персонала."
+   },
+   {
+    "en": "#Staff# only!",
+    "ru": "Только для персонала!"
+   }
+  ]
  },
  {
   "id": "2890",
   "word": "utilize",
   "transcription": "[ˈjuːtɪˌlaɪz]",
   "translation": "использовать",
-  "nuance": null,
+  "nuance": "Официальное, часто напыщенное «использовать». В разговоре — use.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/utilize.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We need to #utilize# every bit of space.",
+    "ru": "Нам нужно использовать каждый кусочек пространства."
+   },
+   {
+    "en": "The app #utilizes# your location.",
+    "ru": "Приложение использует ваше местоположение."
+   },
+   {
+    "en": "#Utilize# your skills.",
+    "ru": "Используй свои навыки."
+   }
+  ]
  },
  {
   "id": "2891",
@@ -66337,17 +66454,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/utilization.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #utilization# of resources is poor.",
+    "ru": "Использование ресурсов неэффективно."
+   },
+   {
+    "en": "Space #utilization# in the office is bad.",
+    "ru": "Пространство в офисе используется плохо."
+   },
+   {
+    "en": "Hospital bed #utilization# is 95%.",
+    "ru": "Загрузка больничных коек — 95%."
+   }
+  ]
  },
  {
   "id": "2892",
   "word": "portray",
   "transcription": "[pɔːˈtreɪ]",
   "translation": "изображать, показывать",
-  "nuance": null,
+  "nuance": "Изображать, показывать (в искусстве, СМИ). Depict — изображать (на картине).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/portray.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The film #portrays# him as a hero.",
+    "ru": "Фильм изображает его героем."
+   },
+   {
+    "en": "She #portrayed# the queen brilliantly.",
+    "ru": "Она блестяще сыграла королеву."
+   },
+   {
+    "en": "The media #portrays# teenagers badly.",
+    "ru": "СМИ показывают подростков в плохом свете."
+   }
+  ]
  },
  {
   "id": "2893",
@@ -66357,17 +66500,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/portrayal.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Her #portrayal# of the mother was moving.",
+    "ru": "Её исполнение роли матери было трогательным."
+   },
+   {
+    "en": "The book's #portrayal# of village life is accurate.",
+    "ru": "Изображение деревенской жизни в книге точное."
+   },
+   {
+    "en": "I didn't like the #portrayal# of women in the film.",
+    "ru": "Мне не понравилось, как в фильме показаны женщины."
+   }
+  ]
  },
  {
   "id": "2894",
   "word": "revise",
   "transcription": "[rɪˈvaɪz]",
   "translation": "пересматривать, проверять",
-  "nuance": null,
+  "nuance": "Пересмотреть, исправить; брит. — повторять к экзамену (амер. review).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/revise.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #revised# the plan three times.",
+    "ru": "Мы трижды пересматривали план."
+   },
+   {
+    "en": "I need to #revise# for my exam.",
+    "ru": "Мне нужно повторить материал к экзамену."
+   },
+   {
+    "en": "The prices were #revised# upward.",
+    "ru": "Цены пересмотрели в сторону повышения."
+   }
+  ]
  },
  {
   "id": "2895",
@@ -66377,7 +66546,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/revision.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The essay needs some #revision#.",
+    "ru": "Эссе нужно немного доработать."
+   },
+   {
+    "en": "Exam #revision# starts in May.",
+    "ru": "Подготовка к экзаменам начинается в мае."
+   },
+   {
+    "en": "A #revision# of the rules is planned.",
+    "ru": "Планируется пересмотр правил."
+   }
+  ]
  },
  {
   "id": "2896",
@@ -66387,7 +66569,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/replace.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I need to #replace# my phone screen.",
+    "ru": "Мне нужно заменить экран телефона."
+   },
+   {
+    "en": "Nothing can #replace# a good night's sleep.",
+    "ru": "Ничто не заменит хорошего ночного сна."
+   },
+   {
+    "en": "Robots will #replace# some workers.",
+    "ru": "Роботы заменят часть работников."
+   }
+  ]
  },
  {
   "id": "2897",
@@ -66397,7 +66592,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/replacement.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We need a #replacement# for the broken lamp.",
+    "ru": "Нам нужна замена сломанной лампе."
+   },
+   {
+    "en": "He's my #replacement# while I'm on holiday.",
+    "ru": "Он меня замещает, пока я в отпуске."
+   },
+   {
+    "en": "Hip #replacement# surgery.",
+    "ru": "Операция по замене тазобедренного сустава."
+   }
+  ]
  },
  {
   "id": "2898",
@@ -66407,7 +66615,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/replaceable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The battery is easily #replaceable#.",
+    "ru": "Батарею легко заменить."
+   },
+   {
+    "en": "Nobody is #replaceable# in our team.",
+    "ru": "В нашей команде никого нельзя заменить."
+   },
+   {
+    "en": "It's just a phone — it's #replaceable#.",
+    "ru": "Это просто телефон — его можно заменить."
+   }
+  ]
  },
  {
   "id": "2899",
@@ -66417,67 +66638,158 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/irreplaceable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandma's photos are #irreplaceable#.",
+    "ru": "Бабушкины фотографии незаменимы."
+   },
+   {
+    "en": "She's #irreplaceable# at work.",
+    "ru": "На работе она незаменима."
+   },
+   {
+    "en": "Good friends are #irreplaceable#.",
+    "ru": "Хорошие друзья незаменимы."
+   }
+  ]
  },
  {
   "id": "2900",
   "word": "clip",
   "transcription": "[klɪp]",
   "translation": "отсекать, обрезать",
-  "nuance": null,
+  "nuance": "Подрезать, состричь, вырезать. Также clip — скрепка, клип.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/clip.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Clip# the dog's nails.",
+    "ru": "Подстриги собаке когти."
+   },
+   {
+    "en": "He #clipped# the hedge.",
+    "ru": "Он подстриг изгородь."
+   },
+   {
+    "en": "She #clipped# an article from the newspaper.",
+    "ru": "Она вырезала статью из газеты."
+   }
+  ]
  },
  {
   "id": "2901",
   "word": "care",
   "transcription": "[keə]",
   "translation": "забота, уход",
-  "nuance": null,
+  "nuance": "Забота, уход; care about — заботиться, волноваться; care for — ухаживать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/care.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Plants need #care# and water.",
+    "ru": "Растениям нужны уход и вода."
+   },
+   {
+    "en": "Take #care#!",
+    "ru": "Береги себя!"
+   },
+   {
+    "en": "I don't #care#.",
+    "ru": "Мне всё равно."
+   }
+  ]
  },
  {
   "id": "2902",
   "word": "specific",
   "transcription": "[spɪˈsɪfɪk]",
   "translation": "конкретный",
-  "nuance": null,
+  "nuance": "Конкретный, определённый. Ложный друг: не всегда «специфический» (= особый, странный).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/specific.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Can you be more #specific#?",
+    "ru": "Можешь сказать конкретнее?"
+   },
+   {
+    "en": "Each dog has #specific# needs.",
+    "ru": "У каждой собаки свои особые потребности."
+   },
+   {
+    "en": "Is there a #specific# reason you're late?",
+    "ru": "Есть конкретная причина, почему ты опоздал?"
+   }
+  ]
  },
  {
   "id": "2903",
   "word": "specificity",
   "transcription": "[ˌspɛsəˈfɪsɪti]",
   "translation": "специфика",
-  "nuance": null,
+  "nuance": "Книжное/науч.: конкретность, точность, специфичность.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/specificity.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #specificity# of the instructions helped a lot.",
+    "ru": "Точность инструкций очень помогла."
+   },
+   {
+    "en": "The test has high #specificity#.",
+    "ru": "У теста высокая специфичность."
+   },
+   {
+    "en": "The job requires #specificity# and care.",
+    "ru": "Работа требует точности и внимания."
+   }
+  ]
  },
  {
   "id": "2904",
   "word": "hang (hung, hung)",
   "transcription": "[hæŋ]",
   "translation": "висеть, вешать",
-  "nuance": null,
+  "nuance": "Висеть, вешать (hung). Hanged — повесить (казнь). Hang on — подождать; hang out — тусоваться.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/5593/5593_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Hang# your coat on the hook.",
+    "ru": "Повесь пальто на крючок."
+   },
+   {
+    "en": "A picture #hangs# above the bed.",
+    "ru": "Над кроватью висит картина."
+   },
+   {
+    "en": "#Hang# on — I'll be right back.",
+    "ru": "Подожди — я сейчас вернусь."
+   }
+  ]
  },
  {
   "id": "2905",
   "word": "hangman",
   "transcription": "[ˈhæŋmən]",
   "translation": "палач",
-  "nuance": null,
+  "nuance": "Палач; также игра «виселица».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/hangman.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "In old times, the #hangman# was feared.",
+    "ru": "В старые времена палача боялись."
+   },
+   {
+    "en": "We played #hangman# on the train.",
+    "ru": "В поезде мы играли в «виселицу»."
+   },
+   {
+    "en": "The #hangman# wore a black mask.",
+    "ru": "Палач носил чёрную маску."
+   }
+  ]
  },
  {
   "id": "2906",
@@ -66487,27 +66799,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/overhang.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The roof #overhangs# the porch.",
+    "ru": "Крыша нависает над крыльцом."
+   },
+   {
+    "en": "Rocks #overhang# the path.",
+    "ru": "Скалы нависают над тропой."
+   },
+   {
+    "en": "The tree branches #overhang# our garden.",
+    "ru": "Ветки дерева нависают над нашим садом."
+   }
+  ]
  },
  {
   "id": "2907",
   "word": "hanger",
   "transcription": "[hæŋə]",
   "translation": "вешалка",
-  "nuance": null,
+  "nuance": "Вешалка-плечики. Hook — крючок; rack — стойка.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2846/2846_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Put your shirt on a #hanger#.",
+    "ru": "Повесь рубашку на плечики."
+   },
+   {
+    "en": "We need more #hangers# in the closet.",
+    "ru": "Нам нужно больше вешалок в шкафу."
+   },
+   {
+    "en": "The cat played with a wire #hanger#.",
+    "ru": "Кот играл с проволочной вешалкой."
+   }
+  ]
  },
  {
   "id": "2908",
   "word": "gross",
   "transcription": "[grəʊs]",
   "translation": "валовой, грязный",
-  "nuance": null,
+  "nuance": "Валовой (до вычетов, противоп. net); разг. gross — мерзкий, гадкий.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/gross.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The company's #gross# income was a million.",
+    "ru": "Валовой доход компании составил миллион."
+   },
+   {
+    "en": "Ew, that's #gross#!",
+    "ru": "Фу, какая гадость!"
+   },
+   {
+    "en": "My #gross# salary looks nice; my net salary doesn't.",
+    "ru": "Моя зарплата до налогов выглядит прилично, а на руки — нет."
+   }
+  ]
  },
  {
   "id": "2909",
@@ -66517,7 +66868,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/contradict.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #contradict# your mother!",
+    "ru": "Не перечь маме!"
+   },
+   {
+    "en": "The facts #contradict# his story.",
+    "ru": "Факты противоречат его истории."
+   },
+   {
+    "en": "You keep #contradicting# yourself.",
+    "ru": "Ты сам себе противоречишь."
+   }
+  ]
  },
  {
   "id": "2910",
@@ -66527,7 +66891,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/contradiction.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's a #contradiction# in what he said.",
+    "ru": "В его словах есть противоречие."
+   },
+   {
+    "en": "She's a woman of #contradictions#.",
+    "ru": "Она соткана из противоречий."
+   },
+   {
+    "en": "A cheap luxury hotel — that's a #contradiction#.",
+    "ru": "Дешёвый роскошный отель — это противоречие."
+   }
+  ]
  },
  {
   "id": "2911",
@@ -66537,27 +66914,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/contradictory.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The witnesses gave #contradictory# stories.",
+    "ru": "Свидетели дали противоречивые показания."
+   },
+   {
+    "en": "I got #contradictory# advice from my friends.",
+    "ru": "Друзья дали мне противоречивые советы."
+   },
+   {
+    "en": "Studies show #contradictory# results.",
+    "ru": "Исследования показывают противоречивые результаты."
+   }
+  ]
  },
  {
   "id": "2912",
   "word": "odds",
   "transcription": "[ɒdz]",
   "translation": "шансы",
-  "nuance": null,
+  "nuance": "Шансы (мн.ч.). Against all odds — вопреки всему; at odds — в разногласии.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/odds.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #odds# are against us.",
+    "ru": "Шансы против нас."
+   },
+   {
+    "en": "What are the #odds# of winning?",
+    "ru": "Какие шансы на победу?"
+   },
+   {
+    "en": "Against all #odds#, she won.",
+    "ru": "Вопреки всему она победила."
+   }
+  ]
  },
  {
   "id": "2913",
   "word": "rob",
   "transcription": "[rɒb]",
   "translation": "грабить, отнимать",
-  "nuance": null,
+  "nuance": "Rob — ограбить (человека, банк); steal — украсть (вещь). Rob a person, steal money.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8209/8209_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Two men #robbed# the bank.",
+    "ru": "Двое мужчин ограбили банк."
+   },
+   {
+    "en": "He was #robbed# on holiday.",
+    "ru": "Его обокрали в отпуске."
+   },
+   {
+    "en": "Ten dollars for a coffee? I've been #robbed#!",
+    "ru": "Десять долларов за кофе? Меня ограбили!"
+   }
+  ]
  },
  {
   "id": "2914",
@@ -66567,7 +66983,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/robber.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #robbers# escaped in a red car.",
+    "ru": "Грабители скрылись на красной машине."
+   },
+   {
+    "en": "Police caught the #robber# at the airport.",
+    "ru": "Полиция поймала грабителя в аэропорту."
+   },
+   {
+    "en": "Kids play cops and #robbers#.",
+    "ru": "Дети играют в казаков-разбойников."
+   }
+  ]
  },
  {
   "id": "2915",
@@ -66577,17 +67006,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/robbery.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There was a #robbery# at the jewellery shop.",
+    "ru": "Ювелирный магазин ограбили."
+   },
+   {
+    "en": "The #robbery# lasted three minutes.",
+    "ru": "Ограбление длилось три минуты."
+   },
+   {
+    "en": "Those prices are daylight #robbery#!",
+    "ru": "Эти цены — грабёж среди бела дня!"
+   }
+  ]
  },
  {
   "id": "2916",
   "word": "original",
   "transcription": "[əˈrɪʤənl]",
   "translation": "первоначальный, первоисточник",
-  "nuance": null,
+  "nuance": "Первоначальный, оригинал; также оригинальный (необычный).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/original.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #original# plan was much simpler.",
+    "ru": "Первоначальный план был намного проще."
+   },
+   {
+    "en": "Is this painting an #original#?",
+    "ru": "Эта картина — оригинал?"
+   },
+   {
+    "en": "Read the book in the #original#.",
+    "ru": "Прочитай книгу в оригинале."
+   }
+  ]
  },
  {
   "id": "2917",
@@ -66597,37 +67052,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/originally.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Originally#, we wanted a cat, not a dog.",
+    "ru": "Изначально мы хотели кошку, а не собаку."
+   },
+   {
+    "en": "Where are you #originally# from?",
+    "ru": "Откуда ты родом?"
+   },
+   {
+    "en": "The house was #originally# a school.",
+    "ru": "Изначально в этом доме была школа."
+   }
+  ]
  },
  {
   "id": "2918",
   "word": "take on",
   "transcription": "[teɪkɒn]",
   "translation": "набрать (напр. рабочих)",
-  "nuance": null,
+  "nuance": "Нанять, набрать (брит.); взять на себя.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/take_on_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The shop #took on# extra staff for Christmas.",
+    "ru": "Магазин набрал дополнительный персонал на Рождество."
+   },
+   {
+    "en": "We're #taking on# new drivers.",
+    "ru": "Мы набираем новых водителей."
+   },
+   {
+    "en": "Don't #take on# too much work.",
+    "ru": "Не бери на себя слишком много работы."
+   }
+  ]
  },
  {
   "id": "2919",
   "word": "pitch",
   "transcription": "[pɪʧ]",
   "translation": "подавать (мяч)",
-  "nuance": null,
+  "nuance": "Подавать (мяч); презентовать (идею); ставить (палатку). Также pitch — футбольное поле.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/pitch.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #pitched# the ball too fast.",
+    "ru": "Он подал мяч слишком быстро."
+   },
+   {
+    "en": "She #pitched# her idea to the boss.",
+    "ru": "Она представила свою идею начальнику."
+   },
+   {
+    "en": "We #pitched# our tent by the lake.",
+    "ru": "Мы поставили палатку у озера."
+   }
+  ]
  },
  {
   "id": "2920",
   "word": "pitcher",
   "transcription": "[ˈpɪʧə]",
   "translation": "подающий игрок",
-  "nuance": null,
+  "nuance": "Подающий (бейсбол); также кувшин (амер.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/pitcher.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #pitcher# threw a perfect ball.",
+    "ru": "Питчер сделал идеальную подачу."
+   },
+   {
+    "en": "He was the best #pitcher# in the league.",
+    "ru": "Он был лучшим питчером лиги."
+   },
+   {
+    "en": "Pour water from the #pitcher#.",
+    "ru": "Налей воды из кувшина."
+   }
+  ]
  },
  {
   "id": "2921",
@@ -66637,17 +67144,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/simultaneous.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There will be #simultaneous# translation.",
+    "ru": "Будет синхронный перевод."
+   },
+   {
+    "en": "Two #simultaneous# phone calls drove me crazy.",
+    "ru": "Два одновременных звонка свели меня с ума."
+   },
+   {
+    "en": "The concerts were #simultaneous#.",
+    "ru": "Концерты проходили одновременно."
+   }
+  ]
  },
  {
   "id": "2922",
   "word": "adopt",
   "transcription": "[əˈdɒpt]",
   "translation": "принимать, перенимать",
-  "nuance": null,
+  "nuance": "Усыновить; взять (животное); принять (правило, привычку).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/adopt.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They #adopted# a little girl.",
+    "ru": "Они удочерили маленькую девочку."
+   },
+   {
+    "en": "We #adopted# a dog from the shelter.",
+    "ru": "Мы взяли собаку из приюта."
+   },
+   {
+    "en": "The school #adopted# new rules.",
+    "ru": "Школа приняла новые правила."
+   }
+  ]
  },
  {
   "id": "2923",
@@ -66657,77 +67190,181 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/adoption.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #adoption# took two years.",
+    "ru": "Удочерение заняло два года."
+   },
+   {
+    "en": "Pet #adoption# is free today.",
+    "ru": "Сегодня взять питомца можно бесплатно."
+   },
+   {
+    "en": "The #adoption# of the new law was slow.",
+    "ru": "Принятие нового закона шло медленно."
+   }
+  ]
  },
  {
   "id": "2924",
   "word": "scales",
   "transcription": "[skeɪlz]",
   "translation": "весы",
-  "nuance": null,
+  "nuance": "Весы (мн.ч. scales, амер. часто scale).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2659/2659_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I'm afraid of the bathroom #scales# after Christmas.",
+    "ru": "После Рождества боюсь весов в ванной."
+   },
+   {
+    "en": "Put the flour on the kitchen #scales#.",
+    "ru": "Положи муку на кухонные весы."
+   },
+   {
+    "en": "The #scales# say I lost a kilo. They're lying.",
+    "ru": "Весы показывают, что я сбросил кило. Врут."
+   }
+  ]
  },
  {
   "id": "2925",
   "word": "principal",
   "transcription": "[ˈprɪnsəpəl]",
   "translation": "главный, основной",
-  "nuance": null,
+  "nuance": "Главный; сущ. — директор школы (амер.). Не путать с principle — принцип!",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/principal.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #principal# reason is money.",
+    "ru": "Главная причина — деньги."
+   },
+   {
+    "en": "She plays the #principal# role.",
+    "ru": "Она исполняет главную роль."
+   },
+   {
+    "en": "Our school #principal# is very strict.",
+    "ru": "Директор нашей школы очень строгий."
+   }
+  ]
  },
  {
   "id": "2926",
   "word": "church",
   "transcription": "[ʧɜːʧ]",
   "translation": "церковь",
-  "nuance": null,
+  "nuance": "Go to church — без артикля (на службу).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/3118/3118_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They got married in a small #church#.",
+    "ru": "Они обвенчались в маленькой церкви."
+   },
+   {
+    "en": "We go to #church# on Sundays.",
+    "ru": "Мы ходим в церковь по воскресеньям."
+   },
+   {
+    "en": "The #church# bells woke us up.",
+    "ru": "Нас разбудили церковные колокола."
+   }
+  ]
  },
  {
   "id": "2927",
   "word": "clothe",
   "transcription": "[kləʊð]",
   "translation": "одевать, покрывать",
-  "nuance": null,
+  "nuance": "Книжное: одевать, покрывать. Dress — одевать (разг.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/clothe.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They #clothe# and feed homeless people.",
+    "ru": "Они одевают и кормят бездомных."
+   },
+   {
+    "en": "The hills were #clothed# in snow.",
+    "ru": "Холмы были покрыты снегом."
+   },
+   {
+    "en": "She #clothes# her dog in sweaters.",
+    "ru": "Она одевает свою собаку в свитера."
+   }
+  ]
  },
  {
   "id": "2928",
   "word": "clothes",
   "transcription": "[kləʊðz]",
   "translation": "одежда",
-  "nuance": null,
+  "nuance": "Одежда (только мн.ч.!). Cloth — ткань.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/7233/7233_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Put your #clothes# in the wardrobe, not on the chair!",
+    "ru": "Клади одежду в шкаф, а не на стул!"
+   },
+   {
+    "en": "I have nothing to wear — my #clothes# are boring.",
+    "ru": "Мне нечего надеть — моя одежда скучная."
+   },
+   {
+    "en": "Kids grow out of #clothes# fast.",
+    "ru": "Дети быстро вырастают из одежды."
+   }
+  ]
  },
  {
   "id": "2929",
   "word": "clothing",
   "transcription": "[ˈkləʊðɪŋ]",
   "translation": "одежда",
-  "nuance": null,
+  "nuance": "Одежда (собирательно, офиц./торговля). Clothes — разг.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/34739/34739_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The shop sells women's #clothing#.",
+    "ru": "Магазин продаёт женскую одежду."
+   },
+   {
+    "en": "Bring warm #clothing# for the trip.",
+    "ru": "Возьми тёплую одежду в поездку."
+   },
+   {
+    "en": "#Clothing# prices went up.",
+    "ru": "Цены на одежду выросли."
+   }
+  ]
  },
  {
   "id": "2930",
   "word": "let off",
   "transcription": "[lɛtɒf]",
   "translation": "отпустить, дать отделаться",
-  "nuance": null,
+  "nuance": "Отпустить без наказания, освободить от. Get off — отделаться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/let_off.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The police #let# him #off# with a warning.",
+    "ru": "Полиция отпустила его с предупреждением."
+   },
+   {
+    "en": "The teacher #let# us #off# homework.",
+    "ru": "Учитель освободил нас от домашки."
+   },
+   {
+    "en": "Mum #let# me #off# the dishes because it was my birthday.",
+    "ru": "Мама освободила меня от посуды, потому что у меня был день рождения."
+   }
+  ]
  },
  {
   "id": "2931",
@@ -66737,7 +67374,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/compete.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Ten teams #compete# for the cup.",
+    "ru": "Десять команд борются за кубок."
+   },
+   {
+    "en": "Small shops can't #compete# with big supermarkets.",
+    "ru": "Маленькие магазины не могут конкурировать с супермаркетами."
+   },
+   {
+    "en": "My kids #compete# for my attention.",
+    "ru": "Мои дети соревнуются за моё внимание."
+   }
+  ]
  },
  {
   "id": "2932",
