@@ -1,0 +1,5 @@
+<rect x="40" y="40" width="120" height="120" rx="8" fill="{F}"/>
+<text x="100" y="80" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">RULE</text>
+<path d="M60 105 H140 M60 125 H140" stroke="#000" stroke-width="3"/>
+<path d="M30 30 L170 170" stroke-width="10"/>
+<text x="165" y="190" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">!!</text>

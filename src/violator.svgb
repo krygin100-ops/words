@@ -1,0 +1,8 @@
+<circle cx="80" cy="70" r="20" fill="{F}"/>
+<rect x="60" y="62" width="40" height="8" fill="#000" stroke="none"/>
+<path d="M50 190 Q50 105 80 105 Q110 105 110 190" fill="{F}"/>
+<rect x="125" y="40" width="60" height="60" fill="{F}"/>
+<path d="M135 50 L175 90 M175 50 L135 90" stroke="#000" stroke-width="5"/>
+<path d="M110 120 L140 105"/>
+<text x="155" y="140" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">rule?</text>
+<text x="155" y="160" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">what rule</text>

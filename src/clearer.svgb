@@ -1,0 +1,6 @@
+<rect x="70" y="60" width="60" height="120" rx="10" fill="{F}"/>
+<rect x="80" y="35" width="40" height="25" fill="{F}"/>
+<path d="M120 45 H150 L160 40" stroke-width="4"/>
+<path d="M165 45 L180 35 M165 50 L185 50 M165 55 L180 65" stroke-width="3"/>
+<g fill="{L}" stroke="none"><path d="M30 110 L33 100 L36 110 L46 113 L36 116 L33 126 L30 116 L20 113 Z"/></g>
+<text x="100" y="125" font-size="16" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">CLEAN</text>

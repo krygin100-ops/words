@@ -1,0 +1,4 @@
+<rect x="40" y="40" width="120" height="120" rx="8" stroke-width="6"/>
+<path d="M60 60 L80 50 M60 80 L100 55" stroke-width="3"/>
+<g fill="{L}" stroke="none"><path d="M140 140 L143 130 L146 140 L156 143 L146 146 L143 156 L140 146 L130 143 Z"/></g>
+<text x="100" y="190" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">crystal clear</text>

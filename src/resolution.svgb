@@ -1,0 +1,4 @@
+<rect x="40" y="30" width="120" height="150" rx="6" fill="{F}"/>
+<text x="100" y="65" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">RESOLVED:</text>
+<path d="M60 90 H140 M60 110 H140 M60 130 H120" stroke="#000" stroke-width="3"/>
+<path d="M95 150 L105 160 L125 140" stroke="#000" stroke-width="5"/>

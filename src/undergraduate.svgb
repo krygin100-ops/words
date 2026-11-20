@@ -1,0 +1,6 @@
+<circle cx="80" cy="60" r="22" fill="{F}"/>
+<path d="M70 62 Q80 70 90 62" stroke-width="3"/>
+<path d="M50 190 Q50 95 80 95 Q110 95 110 190" fill="{F}"/>
+<rect x="110" y="110" width="25" height="40" rx="5" fill="{F}"/>
+<rect x="115" y="110" width="40" height="35" fill="{L}" transform="rotate(15 135 127)"/>
+<text x="155" y="60" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">year 1</text>

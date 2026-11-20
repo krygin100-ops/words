@@ -1,0 +1,7 @@
+<circle cx="100" cy="70" r="25" fill="{F}"/>
+<path d="M88 66 Q93 70 98 66 M102 66 Q107 70 112 66" stroke-width="3"/>
+<path d="M90 85 Q100 80 110 85" stroke-width="3"/>
+<rect x="80" y="45" width="40" height="12" fill="{L}" transform="rotate(-15 100 51)"/>
+<path d="M60 190 Q60 110 100 110 Q140 110 140 190" fill="{F}"/>
+<path d="M60 130 L35 110 M140 130 L165 110"/>
+<text x="100" y="25" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">help!</text>
