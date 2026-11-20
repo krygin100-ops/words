@@ -121444,500 +121444,1150 @@
   "word": "rod",
   "transcription": "[rɒd]",
   "translation": "стержень, прут",
-  "nuance": null,
+  "nuance": "rod — стержень, прут, палка; удочка. Stick — палка, bar — брусок, pole — шест. spare the rod — не наказывать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/rod.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The curtain #rod# fell down. Again.",
+    "ru": "Карниз опять упал."
+   },
+   {
+    "en": "Steel #rods# hold the concrete together.",
+    "ru": "Стальные стержни скрепляют бетон."
+   },
+   {
+    "en": "He rules the family with a #rod# of iron.",
+    "ru": "Он правит семьёй железной рукой."
+   }
+  ]
  },
  {
   "id": "5284",
   "word": "fishing rod",
   "transcription": "[ˈfɪʃɪŋrɒd]",
   "translation": "удочка",
-  "nuance": null,
+  "nuance": "fishing rod — удочка (брит.; амер. тж. fishing pole). Line — леска, hook — крючок, reel — катушка.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/5941/5941_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandpa gave me his old #fishing rod#.",
+    "ru": "Дедушка подарил мне свою старую удочку."
+   },
+   {
+    "en": "I sat with my #fishing rod# all day and caught nothing.",
+    "ru": "Я целый день сидел с удочкой и ничего не поймал."
+   },
+   {
+    "en": "Don't forget the #fishing rod#!",
+    "ru": "Не забудь удочку!"
+   }
+  ]
  },
  {
   "id": "5285",
   "word": "bale",
   "transcription": "[beɪl]",
   "translation": "тюк",
-  "nuance": null,
+  "nuance": "bale — тюк, кипа (сена, хлопка). bail out (часто путают: bale out брит.) — выручить. Bundle — свёрток, pack — пачка.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6163/6163_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The barn was full of #bales# of hay.",
+    "ru": "Амбар был полон тюков сена."
+   },
+   {
+    "en": "Kids jumped on the hay #bales#.",
+    "ru": "Дети прыгали по тюкам сена."
+   },
+   {
+    "en": "A #bale# of cotton fell off the truck.",
+    "ru": "С грузовика упал тюк хлопка."
+   }
+  ]
  },
  {
   "id": "5286",
   "word": "sew",
   "transcription": "[səʊ]",
   "translation": "шить",
-  "nuance": null,
+  "nuance": "sew (сОу; sewed, sewn) — шить. Ловушка: sow (сОу) — сеять, звучит так же! Stitch — шить, делать стежки.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2722/2722_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandma #sews# all her own clothes.",
+    "ru": "Бабушка сама шьёт себе всю одежду."
+   },
+   {
+    "en": "Can you #sew#? I can't even thread a needle.",
+    "ru": "Ты умеешь шить? Я даже нитку в иголку вдеть не могу."
+   },
+   {
+    "en": "She #sewed# a dress for her daughter.",
+    "ru": "Она сшила платье для дочери."
+   }
+  ]
  },
  {
   "id": "5287",
   "word": "sew up",
   "transcription": "[səʊʌp]",
   "translation": "зашить",
-  "nuance": null,
+  "nuance": "sew up — зашить; разг. — обеспечить, уладить (sewn up — решённое дело). Stitch up — зашить (тж. брит. разг. «подставить»).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sew_up.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The doctor #sewed up# the cut.",
+    "ru": "Врач зашил порез."
+   },
+   {
+    "en": "Can you #sew up# the hole in my sock?",
+    "ru": "Можешь зашить дырку в моём носке?"
+   },
+   {
+    "en": "The deal is all #sewn up#.",
+    "ru": "Сделка уже на мази."
+   }
+  ]
  },
  {
   "id": "5288",
   "word": "sew on",
   "transcription": "[səʊɒn]",
   "translation": "пришить",
-  "nuance": null,
+  "nuance": "sew on — пришить. Attach — прикрепить, stitch on — пришить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sew_on.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Sew on# the button before it falls off.",
+    "ru": "Пришей пуговицу, пока не отвалилась."
+   },
+   {
+    "en": "She #sewed# a badge #on# her jacket.",
+    "ru": "Она пришила нашивку на куртку."
+   },
+   {
+    "en": "Can you #sew# this patch #on#?",
+    "ru": "Можешь пришить эту заплатку?"
+   }
+  ]
  },
  {
   "id": "5289",
   "word": "speak up",
   "transcription": "[spiːkʌp]",
   "translation": "говорить громче",
-  "nuance": null,
+  "nuance": "speak up — говорить громче; высказаться открыто; заступиться (speak up for). Speak out — выступить открыто (против).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/speak_up.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Speak up# — I can't hear you!",
+    "ru": "Говори громче — я тебя не слышу!"
+   },
+   {
+    "en": "If you disagree, #speak up#.",
+    "ru": "Если не согласен — выскажись."
+   },
+   {
+    "en": "She #spoke up# for her friend.",
+    "ru": "Она заступилась за подругу."
+   }
+  ]
  },
  {
   "id": "5290",
   "word": "commute",
   "transcription": "[kəˈmjuːt]",
   "translation": "ходить, курсировать",
-  "nuance": null,
+  "nuance": "commute — ездить на работу (регулярно); сущ. — дорога на работу. Travel — путешествовать, go to work — ехать на работу.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/commute.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #commute# two hours a day.",
+    "ru": "Я трачу на дорогу на работу два часа в день."
+   },
+   {
+    "en": "She #commutes# by train.",
+    "ru": "Она ездит на работу на поезде."
+   },
+   {
+    "en": "My #commute# is just five minutes on foot.",
+    "ru": "Моя дорога до работы — всего пять минут пешком."
+   }
+  ]
  },
  {
   "id": "5291",
   "word": "commuter",
   "transcription": "[kəˈmjuːtə]",
   "translation": "пассажир",
-  "nuance": null,
+  "nuance": "commuter — человек, ежедневно ездящий на работу (не просто пассажир!). Passenger — пассажир (общее).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/commuter.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The train is full of #commuters# at 8 a.m.",
+    "ru": "В 8 утра поезд полон едущих на работу."
+   },
+   {
+    "en": "#Commuters# hate strikes.",
+    "ru": "Пассажиры-пригородники ненавидят забастовки."
+   },
+   {
+    "en": "She's a daily #commuter# to London.",
+    "ru": "Она каждый день ездит на работу в Лондон."
+   }
+  ]
  },
  {
   "id": "5292",
   "word": "purse",
   "transcription": "[pɜːs]",
   "translation": "кошелек, сумочка",
-  "nuance": null,
+  "nuance": "purse — брит. кошелёк (женский); амер. — дамская сумочка. Wallet — бумажник, handbag — сумочка (брит.).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/4698/4698_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She keeps everything in her #purse#.",
+    "ru": "Она носит всё в своей сумочке."
+   },
+   {
+    "en": "My #purse# has only coins in it.",
+    "ru": "В моём кошельке одни монеты."
+   },
+   {
+    "en": "He holds the #purse# strings at home.",
+    "ru": "Дома он распоряжается деньгами."
+   }
+  ]
  },
  {
   "id": "5293",
   "word": "relay",
   "transcription": "[riːˈleɪ]",
   "translation": "передавать, ретранслировать",
-  "nuance": null,
+  "nuance": "relay — передавать (информацию), ретранслировать; сущ. — эстафета. Pass on — передать (разг.), broadcast — транслировать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/relay.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Please #relay# the message to your boss.",
+    "ru": "Пожалуйста, передайте сообщение своему начальнику."
+   },
+   {
+    "en": "The match was #relayed# live.",
+    "ru": "Матч транслировали в прямом эфире."
+   },
+   {
+    "en": "We ran in a #relay# race.",
+    "ru": "Мы бежали эстафету."
+   }
+  ]
  },
  {
   "id": "5294",
   "word": "sum up",
   "transcription": "[sʌmʌp]",
   "translation": "подытожить",
-  "nuance": null,
+  "nuance": "sum up — подытожить, кратко изложить; характеризовать. Summarise — резюмировать, conclude — заключить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sum_up.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Let me #sum up# the main points.",
+    "ru": "Позвольте подытожить основные моменты."
+   },
+   {
+    "en": "To #sum up#, the trip was a disaster.",
+    "ru": "Короче говоря, поездка была провалом."
+   },
+   {
+    "en": "One word #sums up# my day: coffee.",
+    "ru": "Одно слово описывает мой день: кофе."
+   }
+  ]
  },
  {
   "id": "5295",
   "word": "censorship",
   "transcription": "[ˈsɛnsəʃɪp]",
   "translation": "цензура",
-  "nuance": null,
+  "nuance": "censorship — цензура. Ban — запрет, restriction — ограничение. Ловушка: censure — порицание (другое слово!).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/censorship.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Censorship# of the internet is growing.",
+    "ru": "Цензура интернета усиливается."
+   },
+   {
+    "en": "The film was cut by #censorship#.",
+    "ru": "Фильм был урезан цензурой."
+   },
+   {
+    "en": "Self-#censorship# is common among journalists.",
+    "ru": "Самоцензура распространена среди журналистов."
+   }
+  ]
  },
  {
   "id": "5296",
   "word": "censor",
   "transcription": "[ˈsɛnsə]",
   "translation": "цензор",
-  "nuance": null,
+  "nuance": "censor — цензор; цензурировать. Ловушка: sensor — датчик (звучит похоже)!",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/censor.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #censor# cut the best scenes.",
+    "ru": "Цензор вырезал лучшие сцены."
+   },
+   {
+    "en": "They #censored# the swear words.",
+    "ru": "Они запикали ругательства."
+   },
+   {
+    "en": "The book was #censored# for years.",
+    "ru": "Книга годами была под цензурой."
+   }
+  ]
  },
  {
   "id": "5297",
   "word": "potent",
   "transcription": "[ˈpəʊtənt]",
   "translation": "мощный, могущественный",
-  "nuance": null,
+  "nuance": "potent — сильный, мощный, сильнодействующий (лекарство, напиток, аргумент). Powerful — мощный, strong — сильный, effective — эффективный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/potent.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "This coffee is very #potent#.",
+    "ru": "Этот кофе очень крепкий."
+   },
+   {
+    "en": "The medicine is #potent# — take only one.",
+    "ru": "Лекарство сильнодействующее — прими только одну."
+   },
+   {
+    "en": "Fear is a #potent# weapon.",
+    "ru": "Страх — мощное оружие."
+   }
+  ]
  },
  {
   "id": "5298",
   "word": "impotent",
   "transcription": "[ˈɪmpətənt]",
   "translation": "бессильный",
-  "nuance": null,
+  "nuance": "impotent — бессильный (книжн.); мед. — импотент. Осторожно с контекстом! Powerless/helpless — бессильный (безопаснее).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/impotent.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I felt #impotent# watching the fire.",
+    "ru": "Я чувствовал себя бессильным, наблюдая за пожаром."
+   },
+   {
+    "en": "The government seems #impotent# against crime.",
+    "ru": "Правительство кажется бессильным перед преступностью."
+   },
+   {
+    "en": "His #impotent# rage made it worse.",
+    "ru": "Его бессильная злость всё ухудшила."
+   }
+  ]
  },
  {
   "id": "5299",
   "word": "dash",
   "transcription": "[dæʃ]",
   "translation": "тире, чёрточка",
-  "nuance": null,
+  "nuance": "dash — тире; капля, щепотка; рывок, бросок; глагол — мчаться, разбить (надежды). Hyphen — дефис. Dashboard — приборная панель.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/3200/3200_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Use a #dash#, not a hyphen.",
+    "ru": "Используй тире, а не дефис."
+   },
+   {
+    "en": "Add a #dash# of milk.",
+    "ru": "Добавь капельку молока."
+   },
+   {
+    "en": "I made a #dash# for the bus.",
+    "ru": "Я рванул к автобусу."
+   }
+  ]
  },
  {
   "id": "5300",
   "word": "dashed",
   "transcription": "[dæʃt]",
   "translation": "пунктирная",
-  "nuance": null,
+  "nuance": "dashed — пунктирный (dashed line); разбитый (о надеждах). Dotted — точечный, пунктир из точек.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dashed.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Cut along the #dashed# line.",
+    "ru": "Режь по пунктирной линии."
+   },
+   {
+    "en": "His hopes were #dashed#.",
+    "ru": "Его надежды рухнули."
+   },
+   {
+    "en": "Draw a #dashed# line on the map.",
+    "ru": "Нарисуй пунктирную линию на карте."
+   }
+  ]
  },
  {
   "id": "5301",
   "word": "timetable",
   "transcription": "[ˈtaɪmˌteɪb(ə)l]",
   "translation": "расписание",
-  "nuance": null,
+  "nuance": "timetable (брит.) — расписание (транспорт, уроки). Амер. — schedule. Agenda — повестка, план.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6012/6012_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Check the bus #timetable#.",
+    "ru": "Проверь расписание автобусов."
+   },
+   {
+    "en": "My #timetable# has maths every day.",
+    "ru": "В моём расписании математика каждый день."
+   },
+   {
+    "en": "The project is behind #timetable#.",
+    "ru": "Проект отстаёт от графика."
+   }
+  ]
  },
  {
   "id": "5302",
   "word": "snarl",
   "transcription": "[snɑːl]",
   "translation": "рычать, огрызаться",
-  "nuance": null,
+  "nuance": "snarl — рычать (оскалив зубы), огрызаться; snarl-up — пробка (брит.). Growl — рычать, snap — огрызнуться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/snarl.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The dog #snarled# at the postman.",
+    "ru": "Собака оскалилась и зарычала на почтальона."
+   },
+   {
+    "en": "\"Leave me alone!\" she #snarled#.",
+    "ru": "«Оставь меня в покое!» — огрызнулась она."
+   },
+   {
+    "en": "Traffic #snarled# the city.",
+    "ru": "Пробки парализовали город."
+   }
+  ]
  },
  {
   "id": "5303",
   "word": "graze",
   "transcription": "[greɪz]",
   "translation": "пасти(сь)",
-  "nuance": null,
+  "nuance": "graze — пастись; ободрать (кожу); разг. — перекусывать понемногу. Feed — кормиться, scratch — поцарапать.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/37006/37006_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Cows #grazed# in the field.",
+    "ru": "Коровы паслись на поле."
+   },
+   {
+    "en": "I #grazed# my knee on the pavement.",
+    "ru": "Я ободрал колено об асфальт."
+   },
+   {
+    "en": "I've been #grazing# on snacks all day.",
+    "ru": "Я весь день перекусывал."
+   }
+  ]
  },
  {
   "id": "5304",
   "word": "chimney",
   "transcription": "[ˈʧɪmni]",
   "translation": "дымовая труба",
-  "nuance": null,
+  "nuance": "chimney — дымовая труба, дымоход. Pipe — труба (водопровод), fireplace — камин. smoke like a chimney — курить как паровоз.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/chimney.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Smoke came out of the #chimney#.",
+    "ru": "Из трубы шёл дым."
+   },
+   {
+    "en": "Santa comes down the #chimney#.",
+    "ru": "Санта спускается через дымоход."
+   },
+   {
+    "en": "He smokes like a #chimney#.",
+    "ru": "Он курит как паровоз."
+   }
+  ]
  },
  {
   "id": "5305",
   "word": "manure",
   "transcription": "[məˈnjʊə]",
   "translation": "навоз",
-  "nuance": null,
+  "nuance": "manure — навоз (удобрение). Dung — навоз (книжн.), fertilizer — удобрение, compost — компост.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/manure.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The farmer spreads #manure# on the field.",
+    "ru": "Фермер разбрасывает навоз по полю."
+   },
+   {
+    "en": "The garden smells of #manure#.",
+    "ru": "Сад пахнет навозом."
+   },
+   {
+    "en": "Horse #manure# is great for roses.",
+    "ru": "Конский навоз отлично подходит для роз."
+   }
+  ]
  },
  {
   "id": "5306",
   "word": "ledge",
   "transcription": "[lɛʤ]",
   "translation": "уступ",
-  "nuance": null,
+  "nuance": "ledge — уступ, выступ, карниз; window ledge — подоконник (снаружи). Shelf — полка, windowsill — подоконник.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/ledge.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A bird sat on the window #ledge#.",
+    "ru": "Птица сидела на подоконнике."
+   },
+   {
+    "en": "The climber stood on a narrow #ledge#.",
+    "ru": "Альпинист стоял на узком уступе."
+   },
+   {
+    "en": "Put the plant on the #ledge#.",
+    "ru": "Поставь растение на выступ."
+   }
+  ]
  },
  {
   "id": "5307",
   "word": "squat",
   "transcription": "[skwɒt]",
   "translation": "приседать, приземистый",
-  "nuance": null,
+  "nuance": "squat — приседать; приземистый; самовольно занять жильё (squatter). squat (амер. сленг) — «ничего» (know squat). Crouch — присесть.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/squat.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Do twenty #squats# every morning.",
+    "ru": "Делай двадцать приседаний каждое утро."
+   },
+   {
+    "en": "The house is small and #squat#.",
+    "ru": "Дом маленький и приземистый."
+   },
+   {
+    "en": "They #squatted# in an empty building.",
+    "ru": "Они самовольно заселились в пустое здание."
+   }
+  ]
  },
  {
   "id": "5308",
   "word": "stalk",
   "transcription": "[stɔːk]",
   "translation": "красться, преследовать",
-  "nuance": null,
+  "nuance": "stalk — подкрадываться (к добыче); преследовать (человека, серьёзно); шагать (сердито). Сущ. — стебель. Follow — следовать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stalk.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The cat #stalked# the bird.",
+    "ru": "Кот подкрадывался к птице."
+   },
+   {
+    "en": "He #stalked# out of the room angrily.",
+    "ru": "Он сердито вышел из комнаты."
+   },
+   {
+    "en": "She was #stalked# by an ex-boyfriend.",
+    "ru": "Её преследовал бывший парень."
+   }
+  ]
  },
  {
   "id": "5309",
   "word": "stalker",
   "transcription": "[ˈstɔːkə]",
   "translation": "преследователь",
-  "nuance": null,
+  "nuance": "stalker — преследователь (серьёзно, криминал); шутл. — «следит за кем-то в соцсетях». Follower — подписчик.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stalker.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Police arrested the #stalker#.",
+    "ru": "Полиция арестовала преследователя."
+   },
+   {
+    "en": "She changed her number because of a #stalker#.",
+    "ru": "Она сменила номер из-за преследователя."
+   },
+   {
+    "en": "I'm a bit of a Facebook #stalker#.",
+    "ru": "Я немного шпионю за людьми в фейсбуке."
+   }
+  ]
  },
  {
   "id": "5310",
   "word": "ditch",
   "transcription": "[dɪʧ]",
   "translation": "ров",
-  "nuance": null,
+  "nuance": "ditch — канава, ров, кювет; разг. глагол — бросить, избавиться. last-ditch — последний (отчаянный). Trench — траншея.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/37129/37129_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The car slid into a #ditch#.",
+    "ru": "Машина съехала в кювет."
+   },
+   {
+    "en": "They dug a #ditch# around the field.",
+    "ru": "Вокруг поля вырыли ров."
+   },
+   {
+    "en": "He #ditched# his girlfriend by text.",
+    "ru": "Он бросил девушку по смс."
+   }
+  ]
  },
  {
   "id": "5311",
   "word": "prophet",
   "transcription": "[ˈprɒfɪt]",
   "translation": "пророк",
-  "nuance": null,
+  "nuance": "prophet — пророк. Ловушка: profit — прибыль (звучит так же!). Seer — провидец, fortune teller — гадалка.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/prophet.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #prophet# predicted the flood.",
+    "ru": "Пророк предсказал потоп."
+   },
+   {
+    "en": "I'm no #prophet#, but it will rain.",
+    "ru": "Я не пророк, но будет дождь."
+   },
+   {
+    "en": "Muslims believe Muhammad was a #prophet#.",
+    "ru": "Мусульмане верят, что Мухаммед был пророком."
+   }
+  ]
  },
  {
   "id": "5312",
   "word": "prophetic",
   "transcription": "[prəˈfɛtɪk]",
   "translation": "пророческий",
-  "nuance": null,
+  "nuance": "prophetic — пророческий, вещий. Predictive — прогностический, visionary — провидческий.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/prophetic.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Her words turned out to be #prophetic#.",
+    "ru": "Её слова оказались пророческими."
+   },
+   {
+    "en": "He had a #prophetic# dream.",
+    "ru": "Ему приснился вещий сон."
+   },
+   {
+    "en": "The book is strangely #prophetic#.",
+    "ru": "Книга странным образом пророческая."
+   }
+  ]
  },
  {
   "id": "5313",
   "word": "prophecy",
   "transcription": "[ˈprɒfɪsi]",
   "translation": "пророчество",
-  "nuance": null,
+  "nuance": "prophecy (сущ., -cy) — пророчество; глагол — prophesy (-sy). Prediction — предсказание, forecast — прогноз.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/prophecy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #prophecy# came true.",
+    "ru": "Пророчество сбылось."
+   },
+   {
+    "en": "It's a self-fulfilling #prophecy#.",
+    "ru": "Это самосбывающееся пророчество."
+   },
+   {
+    "en": "Ancient #prophecies# are often vague.",
+    "ru": "Древние пророчества часто туманны."
+   }
+  ]
  },
  {
   "id": "5314",
   "word": "cellular",
   "transcription": "[ˈsɛljʊlə]",
   "translation": "сотовый",
-  "nuance": null,
+  "nuance": "cellular — сотовый (связь), клеточный (биол.). Mobile — мобильный, cell — клетка; cellular phone — устар. «сотовый».",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2586/2586_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Cellular# networks cover the whole country.",
+    "ru": "Сотовые сети покрывают всю страну."
+   },
+   {
+    "en": "The disease attacks #cellular# structure.",
+    "ru": "Болезнь поражает клеточную структуру."
+   },
+   {
+    "en": "Do you have #cellular# data on your tablet?",
+    "ru": "У тебя на планшете есть мобильный интернет?"
+   }
+  ]
  },
  {
   "id": "5315",
   "word": "cell phone",
   "transcription": "[sɛlfəʊn]",
   "translation": "мобильник",
-  "nuance": null,
+  "nuance": "cell phone (амер.) — мобильный телефон. Брит. — mobile (phone). Smartphone — смартфон.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/cell_phone.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Turn off your #cell phone# in the cinema.",
+    "ru": "Выключи мобильник в кино."
+   },
+   {
+    "en": "My #cell phone# battery is dead.",
+    "ru": "У моего мобильника села батарея."
+   },
+   {
+    "en": "Kids get #cell phones# too early.",
+    "ru": "Дети получают мобильники слишком рано."
+   }
+  ]
  },
  {
   "id": "5316",
   "word": "dawn on",
   "transcription": "[dɔːnɒn]",
   "translation": "осенить",
-  "nuance": null,
+  "nuance": "dawn on smb — осенить, дойти до кого-то (It dawned on me). Occur to — прийти в голову, realise — осознать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dawn_on.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It suddenly #dawned on# me that I'd left the oven on.",
+    "ru": "Меня вдруг осенило, что я не выключил духовку."
+   },
+   {
+    "en": "It never #dawned on# him that she liked him.",
+    "ru": "Ему и в голову не приходило, что он ей нравится."
+   },
+   {
+    "en": "Then it #dawned on# me — it was Sunday!",
+    "ru": "Тут до меня дошло — было воскресенье!"
+   }
+  ]
  },
  {
   "id": "5317",
   "word": "inflame",
   "transcription": "[ɪnˈfleɪm]",
   "translation": "разжигать (в осн. перен.)",
-  "nuance": null,
+  "nuance": "inflame — разжигать (страсти, конфликт); вызывать воспаление. Provoke — провоцировать, worsen — ухудшать. inflamed — воспалённый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/inflame.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His comments #inflamed# the situation.",
+    "ru": "Его комментарии накалили ситуацию."
+   },
+   {
+    "en": "The article #inflamed# public anger.",
+    "ru": "Статья разожгла общественный гнев."
+   },
+   {
+    "en": "My knee is #inflamed#.",
+    "ru": "У меня воспалилось колено."
+   }
+  ]
  },
  {
   "id": "5318",
   "word": "inflammation",
   "transcription": "[ˌɪnfləˈmeɪʃən]",
   "translation": "воспаление, воспламенение",
-  "nuance": null,
+  "nuance": "inflammation — воспаление (мед.). Infection — инфекция, swelling — отёк. Не путать с flammable — горючий!",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/31833/31833_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The cream reduces skin #inflammation#.",
+    "ru": "Крем снимает воспаление кожи."
+   },
+   {
+    "en": "#Inflammation# of the throat is common in winter.",
+    "ru": "Воспаление горла — обычное дело зимой."
+   },
+   {
+    "en": "Ice helps with #inflammation#.",
+    "ru": "Лёд помогает при воспалении."
+   }
+  ]
  },
  {
   "id": "5319",
   "word": "dude",
   "transcription": "[djuːd]",
   "translation": "чувак",
-  "nuance": null,
+  "nuance": "dude — разг. амер. «чувак, парень»; обращение (dude!). Guy — парень, mate — брит. «приятель», bro — братан.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dude.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Hey, #dude#! What's up?",
+    "ru": "Привет, чувак! Как дела?"
+   },
+   {
+    "en": "That #dude# just stole my parking space!",
+    "ru": "Этот тип только что занял моё парковочное место!"
+   },
+   {
+    "en": "#Dude#, that's amazing!",
+    "ru": "Чувак, это потрясающе!"
+   }
+  ]
  },
  {
   "id": "5320",
   "word": "get used to",
   "transcription": "[gɛtjuːzdtuː]",
   "translation": "привыкнуть",
-  "nuance": null,
+  "nuance": "get used to + -ing/сущ. — привыкнуть (процесс). Ловушка: used to + глагол — «раньше (делал)» — другая конструкция!",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/get_used_to.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I can't #get used to# waking up at 6.",
+    "ru": "Не могу привыкнуть вставать в 6."
+   },
+   {
+    "en": "You'll #get used to# the cold.",
+    "ru": "Ты привыкнешь к холоду."
+   },
+   {
+    "en": "She's #getting used to# her new job.",
+    "ru": "Она привыкает к новой работе."
+   }
+  ]
  },
  {
   "id": "5321",
   "word": "be used to",
   "transcription": "[biːjuːzdtuː]",
   "translation": "быть привычным к",
-  "nuance": null,
+  "nuance": "be used to + -ing/сущ. — быть привычным (состояние). Ловушка: I used to cook — «раньше я готовил»; I'm used to cooking — «я привык готовить».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/be_used_to.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I'm #used to# noisy neighbours.",
+    "ru": "Я привык к шумным соседям."
+   },
+   {
+    "en": "He's not #used to# cooking for himself.",
+    "ru": "Он не привык готовить себе сам."
+   },
+   {
+    "en": "Are you #used to# the new phone yet?",
+    "ru": "Ты уже привык к новому телефону?"
+   }
+  ]
  },
  {
   "id": "5322",
   "word": "thereafter",
   "transcription": "[ðeərˈɑːftə]",
   "translation": "впоследствии",
-  "nuance": null,
+  "nuance": "thereafter — впоследствии, после этого (офиц.-книжн.). Afterwards — потом (разг.), later — позже, then — затем.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/thereafter.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They married in 2010 and moved to Spain #thereafter#.",
+    "ru": "Они поженились в 2010 году и вскоре после этого переехали в Испанию."
+   },
+   {
+    "en": "The company grew fast #thereafter#.",
+    "ru": "После этого компания быстро росла."
+   },
+   {
+    "en": "He retired and died soon #thereafter#.",
+    "ru": "Он вышел на пенсию и вскоре после этого умер."
+   }
+  ]
  },
  {
   "id": "5323",
   "word": "stick out",
   "transcription": "[stɪkaʊt]",
   "translation": "торчать, выделяться",
-  "nuance": null,
+  "nuance": "stick out — торчать, высовываться; выделяться; stick it out — разг. «выдержать до конца». Stand out — выделяться, poke out — высовываться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stick_out.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Your label is #sticking out#.",
+    "ru": "У тебя торчит бирка."
+   },
+   {
+    "en": "She #sticks out# in a crowd with her red hair.",
+    "ru": "С её рыжими волосами она выделяется в толпе."
+   },
+   {
+    "en": "Don't #stick# your tongue #out#!",
+    "ru": "Не высовывай язык!"
+   }
+  ]
  },
  {
   "id": "5324",
   "word": "oak",
   "transcription": "[əʊk]",
   "translation": "дуб",
-  "nuance": null,
+  "nuance": "oak — дуб (дерево, древесина). Acorn — жёлудь, pine — сосна, birch — берёза.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/38970/38970_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The old #oak# is 500 years old.",
+    "ru": "Старому дубу 500 лет."
+   },
+   {
+    "en": "The table is made of solid #oak#.",
+    "ru": "Стол из массива дуба."
+   },
+   {
+    "en": "Great #oaks# from little acorns grow.",
+    "ru": "Большие дубы вырастают из маленьких желудей."
+   }
+  ]
  },
  {
   "id": "5325",
   "word": "flight",
   "transcription": "[flaɪt]",
   "translation": "бегство",
-  "nuance": null,
+  "nuance": "flight — бегство (книжн.); также полёт, рейс, лестничный пролёт. take flight — обратиться в бегство. Escape — побег, retreat — отступление.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/flight_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The thief took #flight# when he saw police.",
+    "ru": "Вор обратился в бегство, увидев полицию."
+   },
+   {
+    "en": "Fight or #flight#?",
+    "ru": "Бей или беги?"
+   },
+   {
+    "en": "Thousands joined the #flight# from the war.",
+    "ru": "Тысячи присоединились к бегству от войны."
+   }
+  ]
  },
  {
   "id": "5326",
   "word": "memoirs",
   "transcription": "[ˈmɛmwɑːz]",
   "translation": "мемуары",
-  "nuance": null,
+  "nuance": "memoirs — мемуары, воспоминания (обычно мн. ч.). Autobiography — автобиография, diary — дневник, memories — воспоминания (в голове).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/memoirs.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The singer published her #memoirs#.",
+    "ru": "Певица опубликовала мемуары."
+   },
+   {
+    "en": "Grandpa is writing his #memoirs#.",
+    "ru": "Дедушка пишет мемуары."
+   },
+   {
+    "en": "His #memoirs# are full of funny stories.",
+    "ru": "Его мемуары полны забавных историй."
+   }
+  ]
  },
  {
   "id": "5327",
   "word": "porter",
   "transcription": "[ˈpɔːtə]",
   "translation": "носильщик или порьте",
-  "nuance": null,
+  "nuance": "porter — носильщик; портье, швейцар (брит.). Doorman — швейцар, concierge — консьерж, bellboy — коридорный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/porter.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #porter# carried our bags.",
+    "ru": "Носильщик понёс наши сумки."
+   },
+   {
+    "en": "Ask the hotel #porter# for a taxi.",
+    "ru": "Попроси портье в отеле вызвать такси."
+   },
+   {
+    "en": "The night #porter# let us in.",
+    "ru": "Ночной портье впустил нас."
+   }
+  ]
  },
  {
   "id": "5328",
   "word": "smack",
   "transcription": "[smæk]",
   "translation": "шлёпнуть, хлопнуть",
-  "nuance": null,
+  "nuance": "smack — шлёпнуть, хлопнуть; причмокнуть (smack one's lips); разг. smack — прямо, точно. Slap — шлёпнуть (ладонью), hit — ударить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/smack.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #smacked# the fly with a newspaper.",
+    "ru": "Она прихлопнула муху газетой."
+   },
+   {
+    "en": "He #smacked# his lips after the cake.",
+    "ru": "Он причмокнул губами после торта."
+   },
+   {
+    "en": "The car went #smack# into the wall.",
+    "ru": "Машина врезалась прямо в стену."
+   }
+  ]
  },
  {
   "id": "5329",
   "word": "dismantle",
   "transcription": "[dɪsˈmæntl]",
   "translation": "разобрать, демонтировать",
-  "nuance": null,
+  "nuance": "dismantle — разбирать, демонтировать; ликвидировать (систему). Take apart — разобрать (разг.), destroy — разрушить.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/39275/39275_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #dismantled# the old bed.",
+    "ru": "Мы разобрали старую кровать."
+   },
+   {
+    "en": "They #dismantled# the stage after the concert.",
+    "ru": "После концерта сцену демонтировали."
+   },
+   {
+    "en": "The new boss #dismantled# the old system.",
+    "ru": "Новый начальник разрушил старую систему."
+   }
+  ]
  },
  {
   "id": "5330",
   "word": "frontier",
   "transcription": "[ˈfrʌntɪə]",
   "translation": "граница",
-  "nuance": null,
+  "nuance": "frontier — граница (между странами, книжн.); рубеж, передний край (науки). Border — граница (чаще), boundary — граница (участка).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8483/8483_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They crossed the #frontier# at night.",
+    "ru": "Они пересекли границу ночью."
+   },
+   {
+    "en": "Space is the final #frontier#.",
+    "ru": "Космос — последний рубеж."
+   },
+   {
+    "en": "Science pushes the #frontiers# of knowledge.",
+    "ru": "Наука расширяет границы знания."
+   }
+  ]
  },
  {
   "id": "5331",
   "word": "collide",
   "transcription": "[kəˈlaɪd]",
   "translation": "сталкиваться",
-  "nuance": null,
+  "nuance": "collide — столкнуться (физически или мнениями). Crash — разбиться, bump into — натолкнуться, clash — столкнуться (мнения).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/collide.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Two cars #collided# at the crossroads.",
+    "ru": "Две машины столкнулись на перекрёстке."
+   },
+   {
+    "en": "Their opinions often #collide#.",
+    "ru": "Их мнения часто расходятся."
+   },
+   {
+    "en": "I #collided# with a waiter carrying soup.",
+    "ru": "Я налетел на официанта с супом."
+   }
+  ]
  },
  {
   "id": "5332",
   "word": "collision",
   "transcription": "[kəˈlɪʒən]",
   "translation": "столкновение",
-  "nuance": null,
+  "nuance": "collision — столкновение (транспорта; переносно — культур, интересов). Crash — авария, clash — конфликт.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/collision.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #collision# damaged both cars.",
+    "ru": "Столкновение повредило обе машины."
+   },
+   {
+    "en": "It was a #collision# of cultures.",
+    "ru": "Это было столкновение культур."
+   },
+   {
+    "en": "Avoid a #collision# by keeping your distance.",
+    "ru": "Держите дистанцию, чтобы избежать столкновения."
+   }
+  ]
  },
  {
   "id": "5333",
