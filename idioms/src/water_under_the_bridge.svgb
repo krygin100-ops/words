@@ -1,0 +1,7 @@
+<path d="M10 100 Q100 40 190 100" stroke-width="8"/>
+<path d="M10 100 V120 H190 V100" stroke-width="0"/>
+<path d="M40 90 V130 M160 90 V130" stroke-width="7"/>
+<path d="M10 150 Q50 140 100 150 Q150 160 190 150" stroke-width="5"/>
+<path d="M10 170 Q50 160 100 170 Q150 180 190 170" stroke-width="5"/>
+<path d="M150 160 L175 160 M165 152 L177 160 L165 168" stroke="{L}" stroke-width="3"/>
+<text x="100" y="30" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">it's in the past</text>

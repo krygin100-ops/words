@@ -1,0 +1,11 @@
+<path d="M10 175 H190"/>
+<path d="M120 175 V130 L150 110 L180 130 V175" fill="{F}"/>
+<rect x="140" y="145" width="20" height="30" fill="#000"/>
+<ellipse cx="55" cy="140" rx="35" ry="20" fill="{F}"/>
+<circle cx="95" cy="130" r="13" fill="{F}"/>
+<g fill="#000"><circle cx="45" cy="133" r="6"/><circle cx="65" cy="145" r="5"/></g>
+<path d="M90 120 L85 112 M100 120 L105 112" stroke-width="3"/>
+<path d="M35 160 V175 M75 160 V175" stroke-width="4"/>
+<path d="M110 145 H118" stroke-width="3" stroke-dasharray="2 3"/>
+<text x="80" y="60" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">forever…</text>
+<circle cx="160" cy="45" r="14" fill="{L}" opacity="0.6"/>

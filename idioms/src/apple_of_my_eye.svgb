@@ -1,0 +1,9 @@
+<circle cx="70" cy="100" r="35" fill="{F}"/>
+<path d="M50 90 Q58 84 66 90" stroke-width="0"/>
+<path d="M52 92 Q57 86 62 92 Q57 100 52 92 Z M78 92 Q83 86 88 92 Q83 100 78 92 Z" fill="{L}" stroke="none"/>
+<path d="M58 115 Q70 125 82 115" stroke-width="3"/>
+<path d="M140 100 Q115 95 118 125 Q122 160 145 155 Q168 160 172 125 Q175 95 150 100 Z" fill="{L}"/>
+<path d="M145 100 Q148 85 158 80" stroke-width="4"/>
+<path d="M150 90 Q165 82 172 92 Q160 98 150 90 Z" fill="{F}"/>
+<path d="M105 100 L115 100" stroke-width="0"/>
+<text x="110" y="185" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">my favorite!</text>

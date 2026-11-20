@@ -1,0 +1,7 @@
+<path d="M60 190 V120 Q60 100 80 100 H120 Q140 100 140 120 V190" fill="{F}"/>
+<path d="M80 100 V50 Q80 30 100 30 Q120 30 120 50 V100" fill="{F}"/>
+<ellipse cx="100" cy="50" rx="12" ry="14" fill="{L}" opacity="0.5"/>
+<path d="M150 40 V140" stroke-width="4"/>
+<path d="M150 50 H165 M150 70 H160 M150 90 H165 M150 110 H160 M150 130 H165" stroke-width="3"/>
+<text x="45" y="50" font-size="13" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">roughly</text>
+<text x="45" y="70" font-size="13" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">right!</text>

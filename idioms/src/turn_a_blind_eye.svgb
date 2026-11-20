@@ -1,0 +1,10 @@
+<circle cx="80" cy="90" r="35" fill="{F}"/>
+<path d="M60 85 Q70 92 80 85" stroke-width="0"/>
+<path d="M58 82 H72 M88 82 H102" stroke-width="4"/>
+<path d="M70 108 Q80 104 90 108" stroke-width="3"/>
+<path d="M50 190 Q50 130 80 125 Q110 130 110 190" fill="{F}"/>
+<path d="M60 60 Q55 45 70 40" stroke-width="0"/>
+<g fill="{L}"><rect x="140" y="130" width="25" height="40" transform="rotate(20 152 150)"/></g>
+<circle cx="160" cy="95" r="12" fill="{L}"/>
+<path d="M160 107 V125 L150 140 M160 115 L175 105" stroke-width="4"/>
+<text x="80" y="35" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">I see nothing…</text>

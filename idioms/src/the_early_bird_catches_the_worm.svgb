@@ -1,0 +1,11 @@
+<path d="M10 175 H190"/>
+<path d="M120 175 A40 40 0 0 1 190 175" fill="{L}" opacity="0.6"/>
+<g stroke-width="3"><path d="M155 125 V110 M130 135 L120 125 M180 135 L188 125"/></g>
+<ellipse cx="70" cy="145" rx="28" ry="20" fill="{F}"/>
+<circle cx="95" cy="125" r="14" fill="{F}"/>
+<circle cx="98" cy="122" r="3" fill="{L}" stroke="none"/>
+<path d="M107 128 L120 132 L107 136" fill="{L}"/>
+<path d="M120 132 Q130 140 125 150 Q120 160 130 165" stroke-width="5"/>
+<path d="M60 165 V175 M80 165 V175" stroke-width="3"/>
+<text x="70" y="60" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">5:00 AM</text>
+<text x="70" y="85" font-size="13" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">first wins!</text>

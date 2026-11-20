@@ -1,0 +1,9 @@
+<path d="M20 50 Q15 25 45 28 Q60 10 85 20 Q115 10 130 32 Q165 30 160 55 Q158 70 135 70 H35 Q20 70 20 50 Z" fill="{F}"/>
+<path d="M90 70 L80 95 L95 95 L85 120" stroke="{L}" stroke-width="5"/>
+<g stroke-width="3"><path d="M40 80 L30 100 M60 80 L50 100 M130 80 L120 100 M150 80 L140 100"/></g>
+<path d="M100 130 Q100 105 130 105 Q160 105 160 130 Z" fill="{F}"/>
+<path d="M130 130 V170 Q130 180 120 178" stroke-width="5"/>
+<circle cx="125" cy="150" r="12" fill="{F}"/>
+<path d="M118 152 Q125 158 132 152" stroke-width="2"/>
+<path d="M125 162 V190" stroke-width="5"/>
+<text x="50" y="160" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">we'll survive!</text>

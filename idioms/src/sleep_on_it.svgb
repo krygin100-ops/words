@@ -1,0 +1,8 @@
+<path d="M10 170 H190 V185 H10 Z" fill="{F}"/>
+<path d="M30 170 Q30 135 100 140 Q170 135 170 170 Z" fill="{F}"/>
+<rect x="30" y="125" width="50" height="22" rx="8" fill="{L}"/>
+<circle cx="70" cy="120" r="15" fill="{F}"/>
+<path d="M62 118 Q66 122 70 118 M73 118 Q77 122 81 118" stroke-width="2"/>
+<text x="110" y="100" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">Zzz</text>
+<path d="M140 20 Q170 20 170 50 Q170 65 155 75 V85 H125 V75 Q110 65 110 50 Q110 20 140 20 Z" fill="{L}" opacity="0.6"/>
+<text x="140" y="105" font-size="13" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">decide tomorrow</text>

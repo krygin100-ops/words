@@ -1,0 +1,7 @@
+<path d="M40 80 H110 V120 Q110 145 75 145 Q40 145 40 120 Z" fill="{F}" transform="rotate(-35 75 110)"/>
+<path d="M95 125 Q120 150 115 175 Q140 185 170 180" fill="{L}" stroke-width="0"/>
+<path d="M95 125 Q115 150 130 170" stroke="{L}" stroke-width="6"/>
+<ellipse cx="140" cy="178" rx="40" ry="8" fill="{L}"/>
+<path d="M115 30 H190 V75 H150 L140 88 V75 H115 Z" fill="{F}"/>
+<text x="152" y="50" font-size="12" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">guess what</text>
+<text x="152" y="66" font-size="12" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">I heard…</text>

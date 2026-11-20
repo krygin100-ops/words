@@ -1,0 +1,8 @@
+<circle cx="55" cy="90" r="16" fill="{F}"/>
+<circle cx="145" cy="90" r="16" fill="{F}"/>
+<path d="M48 92 Q55 98 62 92 M138 92 Q145 98 152 92" stroke-width="3"/>
+<path d="M55 106 V150 L45 185 M55 150 L65 185 M145 106 V150 L135 185 M145 150 L155 185 M145 118 L170 100 L172 85"/>
+<path d="M10 30 H95 V60 H55 L45 72 V60 H10 Z" fill="{F}"/>
+<text x="52" y="50" font-size="12" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">it's so hot!</text>
+<path d="M110 30 H190 V60 H160 V72 L150 60 H110 Z" fill="{L}"/>
+<text x="150" y="50" font-size="12" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">SO true!</text>

@@ -1,0 +1,5 @@
+<path d="M20 180 H190 M20 180 V20" stroke-width="3"/>
+<g fill="{F}"><rect x="30" y="150" width="20" height="30"/><rect x="60" y="130" width="20" height="50"/><rect x="90" y="105" width="20" height="75"/><rect x="120" y="75" width="20" height="105"/></g>
+<rect x="150" y="40" width="20" height="140" fill="{L}"/>
+<path d="M160 15 L164 27 L176 28 L167 35 L170 47 L160 40 L150 47 L153 35 L144 28 L156 27 Z" fill="{L}"/>
+<text x="75" y="50" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">again, again…</text>

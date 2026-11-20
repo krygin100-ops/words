@@ -1,0 +1,8 @@
+<path d="M10 175 H190"/>
+<path d="M30 40 Q25 15 55 18 Q70 0 95 10 Q125 0 140 22 Q175 20 170 45 Q168 60 145 60 H45 Q30 60 30 40 Z" fill="{F}"/>
+<g stroke-width="3"><path d="M50 70 L45 85 M80 70 L75 85 M110 70 L105 85 M140 70 L135 85"/></g>
+<g fill="{F}"><circle cx="50" cy="125" r="12"/><circle cx="100" cy="125" r="12"/><circle cx="150" cy="125" r="12"/></g>
+<path d="M50 137 V175 M100 137 V175 M150 137 V175 M50 145 L35 125 M150 145 L165 125 M100 145 L115 110"/>
+<path d="M115 110 V95 L135 100 L115 105" fill="{L}" stroke-width="3"/>
+<path d="M44 128 Q50 123 56 128 M94 128 Q100 123 106 128 M144 128 Q150 123 156 128" stroke-width="2"/>
+<g fill="{L}" stroke="none"><circle cx="30" cy="160" r="3"/><circle cx="170" cy="155" r="3"/></g>
