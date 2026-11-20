@@ -1,0 +1,6 @@
+<circle cx="60" cy="90" r="25" fill="{F}"/>
+<path d="M48 85 H56 M64 85 H72" stroke-width="3"/>
+<path d="M50 105 H70" stroke-width="3"/>
+<path d="M30 190 Q30 125 60 125 Q90 125 90 190" fill="{F}"/>
+<path d="M100 40 H185 V100 H130 L110 120 V100 H100 Z" fill="{F}"/>
+<text x="142" y="78" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">genius!</text>

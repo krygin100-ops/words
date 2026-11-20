@@ -1,0 +1,4 @@
+<rect x="30" y="40" width="140" height="120" rx="6" fill="{F}"/>
+<text x="100" y="80" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">FEE</text>
+<path d="M50 100 H150" stroke="#000" stroke-width="3"/>
+<text x="100" y="140" font-size="30" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">$5</text>

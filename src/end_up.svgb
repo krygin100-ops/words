@@ -1,0 +1,8 @@
+<path d="M20 60 Q60 40 80 80 Q100 120 140 100 Q170 85 165 140" stroke-width="4" stroke-dasharray="6 5"/>
+<circle cx="20" cy="60" r="8" fill="{F}"/>
+<path d="M150 140 H180 L165 165 Z" fill="{F}" opacity="0"/>
+<circle cx="165" cy="155" r="15" fill="{F}"/>
+<circle cx="160" cy="152" r="3" fill="{L}" stroke="none"/>
+<circle cx="170" cy="152" r="3" fill="{L}" stroke="none"/>
+<path d="M160 162 Q165 158 170 162" stroke-width="2"/>
+<text x="80" y="170" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">how?!</text>

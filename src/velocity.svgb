@@ -1,0 +1,4 @@
+<circle cx="140" cy="100" r="35" fill="{F}"/>
+<path d="M20 75 H95 M10 100 H95 M25 125 H95" stroke-width="5"/>
+<text x="140" y="108" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">km/h</text>
+<path d="M150 40 L160 25" stroke-width="3"/>

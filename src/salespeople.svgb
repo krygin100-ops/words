@@ -1,0 +1,5 @@
+<rect x="10" y="120" width="180" height="60" fill="{F}"/>
+<g fill="{F}"><circle cx="50" cy="80" r="16"/><circle cx="100" cy="75" r="16"/><circle cx="150" cy="80" r="16"/></g>
+<path d="M32 120 Q32 100 50 100 Q68 100 68 120 M82 120 Q82 95 100 95 Q118 95 118 120 M132 120 Q132 100 150 100 Q168 100 168 120" fill="{F}"/>
+<text x="100" y="35" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">Buy! Buy! Buy!</text>
+<path d="M60 150 H140" stroke="#000" stroke-width="5"/>

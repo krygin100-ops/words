@@ -1,0 +1,8 @@
+<circle cx="70" cy="60" r="20" fill="{F}"/>
+<rect x="55" y="52" width="30" height="10" rx="5" fill="#000"/>
+<path d="M40 190 Q40 95 70 95 Q100 95 100 190" fill="{F}"/>
+<path d="M100 115 L130 100"/>
+<path d="M135 60 H155 V90 L170 125 Q173 135 160 135 H130 Q117 135 120 125 L135 90 Z" fill="{F}"/>
+<path d="M125 115 H165" stroke="#000" stroke-width="3"/>
+<g fill="{L}" stroke="none"><circle cx="145" cy="50" r="5"/><circle cx="155" cy="38" r="4"/><circle cx="140" cy="30" r="3"/></g>
+<text x="40" y="35" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">H₂O</text>
