@@ -1,0 +1,6 @@
+<circle cx="140" cy="90" r="15" fill="{F}"/>
+<path d="M140 105 L138 140 L125 175 M138 140 L155 175 M140 115 L160 105 M140 115 L120 120"/>
+<circle cx="70" cy="90" r="15" fill="{F}" opacity="0.5"/>
+<path d="M70 105 L68 140 L55 175 M68 140 L85 175 M70 115 L90 105" opacity="0.5"/>
+<text x="140" y="55" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">1st</text>
+<text x="70" y="55" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">2nd</text>

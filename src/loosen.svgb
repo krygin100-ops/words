@@ -1,0 +1,4 @@
+<path d="M10 100 H70 M130 100 H190" stroke-width="7"/>
+<path d="M70 100 Q80 60 100 65 Q120 70 115 100 Q110 135 90 130 Q70 125 80 100 Q90 75 130 100" stroke-width="5"/>
+<path d="M60 70 L45 55 M140 70 L155 55 M60 130 L45 145 M140 130 L155 145" stroke-width="3"/>
+<text x="100" y="185" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">ahh, loose</text>

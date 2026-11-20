@@ -1,0 +1,4 @@
+<rect x="20" y="40" width="160" height="140" fill="{F}"/>
+<path d="M20 85 H180 M20 130 H180 M100 40 V180" stroke="#000" stroke-width="5"/>
+<rect x="100" y="85" width="80" height="45" fill="{L}" opacity="0.6"/>
+<text x="140" y="113" font-size="16" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">HR</text>

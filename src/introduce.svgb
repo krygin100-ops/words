@@ -1,0 +1,6 @@
+<circle cx="40" cy="80" r="16" fill="{F}"/>
+<circle cx="100" cy="70" r="18" fill="{F}"/>
+<circle cx="160" cy="80" r="16" fill="{F}"/>
+<path d="M22 190 Q22 105 40 105 Q58 105 58 190 M80 190 Q80 95 100 95 Q120 95 120 190 M142 190 Q142 105 160 105 Q178 105 178 190" fill="{F}"/>
+<path d="M80 115 L60 105 M120 115 L140 105"/>
+<text x="100" y="35" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">meet Bob!</text>

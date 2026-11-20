@@ -1,0 +1,7 @@
+<circle cx="70" cy="80" r="20" fill="{F}"/>
+<path d="M45 190 Q45 115 70 115 Q95 115 95 190" fill="{F}"/>
+<path d="M95 130 L110 125"/>
+<rect x="110" y="70" width="70" height="90" fill="{F}"/>
+<text x="145" y="105" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">DUTY</text>
+<path d="M120 125 H170 M120 140 H160" stroke="#000" stroke-width="3"/>
+<path d="M60 82 Q70 78 80 82" stroke-width="3"/>

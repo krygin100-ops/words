@@ -1,0 +1,8 @@
+<path d="M10 180 H190"/>
+<rect x="85" y="40" width="30" height="140" fill="{F}"/>
+<path d="M40 120 L80 120 M70 110 L80 120 L70 130" stroke-width="4"/>
+<circle cx="40" cy="100" r="12" fill="{F}"/>
+<path d="M40 112 V150 L30 180 M40 150 L50 180"/>
+<path d="M60 60 L140 160 M140 60 L60 160" stroke-width="0"/>
+<text x="150" y="80" font-size="24" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">NO</text>
+<text x="150" y="110" font-size="24" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">ENTRY</text>

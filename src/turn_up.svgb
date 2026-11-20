@@ -1,0 +1,6 @@
+<rect x="20" y="40" width="70" height="140" fill="{F}"/>
+<rect x="30" y="50" width="50" height="130" fill="#000"/>
+<circle cx="55" cy="100" r="14" fill="{F}"/>
+<path d="M40 180 Q40 120 55 120 Q70 120 70 180" fill="{F}"/>
+<text x="140" y="80" font-size="24" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">surprise!</text>
+<path d="M110 110 L120 100 M150 120 L160 110" stroke-width="3"/>

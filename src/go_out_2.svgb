@@ -1,0 +1,4 @@
+<rect x="80" y="100" width="40" height="80" fill="{F}"/>
+<path d="M100 100 V85"/>
+<path d="M100 80 Q95 60 105 45 Q110 35 102 25" stroke-width="3" stroke-dasharray="4 4"/>
+<text x="150" y="60" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">pfft</text>

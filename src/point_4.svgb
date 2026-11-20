@@ -1,0 +1,4 @@
+<path d="M20 170 L170 40" stroke-width="16"/>
+<path d="M150 50 L185 20 L175 65 Z" fill="{L}"/>
+<circle cx="182" cy="22" r="10" stroke-width="2" stroke-dasharray="3 3"/>
+<text x="60" y="80" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">sharp</text>

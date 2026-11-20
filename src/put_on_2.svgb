@@ -1,0 +1,6 @@
+<path d="M10 60 Q50 80 30 120 L10 120 Z M190 60 Q150 80 170 120 L190 120 Z" fill="{F}"/>
+<path d="M20 170 H180" stroke-width="8"/>
+<circle cx="100" cy="110" r="16" fill="{F}"/>
+<path d="M85 165 Q85 130 100 130 Q115 130 115 165" fill="{F}"/>
+<path d="M100 20 V60 M70 30 L90 70 M130 30 L110 70" stroke-width="2" stroke-dasharray="4 4"/>
+<text x="100" y="20" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">SHOW</text>

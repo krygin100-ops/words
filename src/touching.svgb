@@ -1,0 +1,6 @@
+<circle cx="100" cy="100" r="45" fill="{F}"/>
+<path d="M80 95 Q88 102 96 95 M104 95 Q112 102 120 95" stroke-width="3"/>
+<path d="M85 120 Q100 128 115 120" stroke-width="3"/>
+<path d="M85 103 Q80 120 85 125 Q90 120 85 103 Z M115 103 Q110 120 115 125 Q120 120 115 103 Z" fill="{L}" stroke="none"/>
+<path d="M100 30 C100 20 115 18 115 30 C115 40 100 48 100 48 C100 48 85 40 85 30 C85 18 100 20 100 30 Z" fill="{L}" stroke="none"/>
+<text x="100" y="185" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">*sniff*</text>

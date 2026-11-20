@@ -1,0 +1,5 @@
+<rect x="40" y="70" width="120" height="80" rx="10" fill="{F}"/>
+<text x="100" y="122" font-size="34" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">NEW</text>
+<g fill="{L}" stroke="none"><path d="M40 40 L43 30 L46 40 L56 43 L46 46 L43 56 L40 46 L30 43 Z"/><path d="M160 40 L163 30 L166 40 L176 43 L166 46 L163 56 L160 46 L150 43 Z"/></g>
+<path d="M100 165 V190 M90 180 L100 190 L110 180" stroke-width="0"/>
+<text x="100" y="185" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">launch!</text>
