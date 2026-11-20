@@ -119144,500 +119144,1150 @@
   "word": "mammal",
   "transcription": "[ˈmæməl]",
   "translation": "млекопитающее",
-  "nuance": null,
+  "nuance": "mammal — млекопитающее. Reptile — рептилия, bird — птица, animal — животное (общее).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/7777/7777_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Whales are #mammals#, not fish.",
+    "ru": "Киты — млекопитающие, а не рыбы."
+   },
+   {
+    "en": "Bats are the only flying #mammals#.",
+    "ru": "Летучие мыши — единственные летающие млекопитающие."
+   },
+   {
+    "en": "Humans are #mammals# too.",
+    "ru": "Люди тоже млекопитающие."
+   }
+  ]
  },
  {
   "id": "5184",
   "word": "sting (stung, stung)",
   "transcription": "[stɪŋ]",
   "translation": "жалить, жало",
-  "nuance": null,
+  "nuance": "sting (stung, stung) — жалить; жало; щипать (глаза); задевать. Bite — кусать (комар, собака). sting operation — операция под прикрытием.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/38902/38902_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A bee #stung# me on the nose.",
+    "ru": "Пчела ужалила меня в нос."
+   },
+   {
+    "en": "The smoke made my eyes #sting#.",
+    "ru": "От дыма у меня защипало глаза."
+   },
+   {
+    "en": "His words really #stung#.",
+    "ru": "Его слова сильно задели."
+   }
+  ]
  },
  {
   "id": "5185",
   "word": "vocabulary",
   "transcription": "[vəʊˈkæbjʊləri]",
   "translation": "словарный запас",
-  "nuance": null,
+  "nuance": "vocabulary — словарный запас, лексика (неисч.). Words — слова, lexicon — лексикон (научн.), glossary — глоссарий.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/vocabulary.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Reading improves your #vocabulary#.",
+    "ru": "Чтение расширяет словарный запас."
+   },
+   {
+    "en": "My son's #vocabulary# is mostly \"no\" and \"why\".",
+    "ru": "Словарный запас моего сына — в основном «нет» и «почему»."
+   },
+   {
+    "en": "\"Impossible\" isn't in her #vocabulary#.",
+    "ru": "Слова «невозможно» нет в её лексиконе."
+   }
+  ]
  },
  {
   "id": "5186",
   "word": "beast",
   "transcription": "[biːst]",
   "translation": "зверь, животное, скот",
-  "nuance": null,
+  "nuance": "beast — зверь, чудовище; разг. — зверюга (о мощной вещи); грубиян. Animal — животное, monster — чудовище, creature — существо.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/beast.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #beast# came out of the forest.",
+    "ru": "Из леса вышел зверь."
+   },
+   {
+    "en": "This car is a #beast# on the road.",
+    "ru": "Эта машина — зверь на дороге."
+   },
+   {
+    "en": "Beauty and the #Beast#.",
+    "ru": "«Красавица и чудовище»."
+   }
+  ]
  },
  {
   "id": "5187",
   "word": "beastly",
   "transcription": "[ˈbiːstli]",
   "translation": "зверский",
-  "nuance": null,
+  "nuance": "beastly — брит. устар.-разг. «противный, ужасный». Nasty — противный, horrible — ужасный, mean — подлый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/beastly.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Stop being so #beastly# to your sister!",
+    "ru": "Хватит так ужасно обращаться с сестрой!"
+   },
+   {
+    "en": "It's #beastly# cold today.",
+    "ru": "Сегодня жутко холодно."
+   },
+   {
+    "en": "What a #beastly# thing to say!",
+    "ru": "Как гадко такое говорить!"
+   }
+  ]
  },
  {
   "id": "5188",
   "word": "foil",
   "transcription": "[fɔɪl]",
   "translation": "фольга",
-  "nuance": null,
+  "nuance": "foil — фольга (aluminium/tin foil); также — оттенять (be a foil for); сорвать (план). Wrap — плёнка, обёртка.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8250/8250_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Wrap the fish in #foil#.",
+    "ru": "Заверни рыбу в фольгу."
+   },
+   {
+    "en": "Cover the dish with #foil#.",
+    "ru": "Накрой блюдо фольгой."
+   },
+   {
+    "en": "Kids made hats out of #foil#.",
+    "ru": "Дети сделали шапки из фольги."
+   }
+  ]
  },
  {
   "id": "5189",
   "word": "jump at",
   "transcription": "[ʤʌmpæt]",
   "translation": "ухватиться (за возможность)",
-  "nuance": null,
+  "nuance": "jump at — ухватиться за (возможность), сразу согласиться. Seize — схватить (книжн.), grab — ухватить (разг.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/jump_at.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #jumped at# the chance to work in Paris.",
+    "ru": "Она ухватилась за возможность поработать в Париже."
+   },
+   {
+    "en": "He'd #jump at# a free holiday.",
+    "ru": "Он бы ухватился за бесплатный отпуск."
+   },
+   {
+    "en": "I #jumped at# the offer.",
+    "ru": "Я сразу согласился на предложение."
+   }
+  ]
  },
  {
   "id": "5190",
   "word": "cardboard",
   "transcription": "[ˈkɑːdbɔːd]",
   "translation": "картон",
-  "nuance": null,
+  "nuance": "cardboard — картон; переносно — плоский, картонный (персонаж). Paper — бумага, carton — коробка (для сока, молока).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/7054/7054_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The cat prefers the #cardboard# box to the toy.",
+    "ru": "Коту картонная коробка нравится больше игрушки."
+   },
+   {
+    "en": "We built a #cardboard# castle.",
+    "ru": "Мы построили замок из картона."
+   },
+   {
+    "en": "The characters in the film were #cardboard#.",
+    "ru": "Персонажи в фильме были картонными."
+   }
+  ]
  },
  {
   "id": "5191",
   "word": "ivory",
   "transcription": "[ˈaɪvəri]",
   "translation": "слоновая кость",
-  "nuance": null,
+  "nuance": "ivory — слоновая кость; цвет слоновой кости. ivory tower — башня из слоновой кости (оторванность от жизни).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/ivory.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #ivory# trade is illegal.",
+    "ru": "Торговля слоновой костью запрещена."
+   },
+   {
+    "en": "Old piano keys were made of #ivory#.",
+    "ru": "Старые клавиши пианино делали из слоновой кости."
+   },
+   {
+    "en": "She wore an #ivory# wedding dress.",
+    "ru": "На ней было свадебное платье цвета слоновой кости."
+   }
+  ]
  },
  {
   "id": "5192",
   "word": "lever",
   "transcription": "[ˈliːvə]",
   "translation": "рычаг, ручка",
-  "nuance": null,
+  "nuance": "lever — рычаг, ручка. Handle — ручка, switch — выключатель, button — кнопка.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/lever.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Pull the #lever# to open the door.",
+    "ru": "Потяни рычаг, чтобы открыть дверь."
+   },
+   {
+    "en": "Use a spoon as a #lever# to open the tin.",
+    "ru": "Используй ложку как рычаг, чтобы открыть банку."
+   },
+   {
+    "en": "The #lever# is stuck.",
+    "ru": "Рычаг заело."
+   }
+  ]
  },
  {
   "id": "5193",
   "word": "leverage",
   "transcription": "[ˈliːvərɪʤ]",
   "translation": "действие рычага",
-  "nuance": null,
+  "nuance": "leverage — рычаг давления, влияние (бизнес); действие рычага (физ.); глагол — использовать (с выгодой). Influence — влияние, power — сила.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/leverage.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We have no #leverage# in this negotiation.",
+    "ru": "У нас нет рычагов давления в этих переговорах."
+   },
+   {
+    "en": "Use #leverage# to lift the heavy stone.",
+    "ru": "Используй рычаг, чтобы поднять тяжёлый камень."
+   },
+   {
+    "en": "They #leveraged# their success to raise money.",
+    "ru": "Они использовали свой успех, чтобы привлечь деньги."
+   }
+  ]
  },
  {
   "id": "5194",
   "word": "tuition",
   "transcription": "[tju(ː)ˈɪʃən]",
   "translation": "обучение, плата за обучение",
-  "nuance": null,
+  "nuance": "tuition — обучение (особенно частное); плата за обучение (tuition fees). Lessons — уроки, education — образование, tutoring — репетиторство.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tuition.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "University #tuition# is very expensive here.",
+    "ru": "Обучение в университете здесь очень дорогое."
+   },
+   {
+    "en": "He gets private #tuition# in maths.",
+    "ru": "Он берёт частные уроки математики."
+   },
+   {
+    "en": "#Tuition# fees go up every year.",
+    "ru": "Плата за обучение растёт каждый год."
+   }
+  ]
  },
  {
   "id": "5195",
   "word": "syringe",
   "transcription": "[ˈsɪrɪnʤ]",
   "translation": "шприц",
-  "nuance": null,
+  "nuance": "syringe — шприц. Needle — игла, injection — укол, jab — разг. «укол».",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2960/2960_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The nurse filled the #syringe#.",
+    "ru": "Медсестра наполнила шприц."
+   },
+   {
+    "en": "I'm scared of #syringes#.",
+    "ru": "Я боюсь шприцев."
+   },
+   {
+    "en": "Use a #syringe# to feed the baby bird.",
+    "ru": "Используй шприц, чтобы покормить птенца."
+   }
+  ]
  },
  {
   "id": "5196",
   "word": "whore",
   "transcription": "[hɔː]",
   "translation": "шлюха",
-  "nuance": null,
+  "nuance": "whore — очень грубое оскорбление «шлюха». Нейтр. — sex worker, prostitute. -whore (attention whore) — разг. грубо «помешанный на». Избегать!",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/whore.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He called her a #whore#, and she slapped him.",
+    "ru": "Он назвал её шлюхой, и она дала ему пощёчину."
+   },
+   {
+    "en": "Don't use the word \"#whore#\" — it's very offensive.",
+    "ru": "Не используй слово «шлюха» — оно очень оскорбительное."
+   },
+   {
+    "en": "He's a media #whore# — he loves cameras.",
+    "ru": "Он помешан на внимании прессы."
+   }
+  ]
  },
  {
   "id": "5197",
   "word": "someday",
   "transcription": "[ˈsʌmˌdeɪ]",
   "translation": "когда-нибудь",
-  "nuance": null,
+  "nuance": "someday — когда-нибудь (в будущем, часто мечтательно). Some day — то же (раздельно, брит.), one day — однажды, sometime — когда-нибудь.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/someday.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Someday# I'll visit Japan.",
+    "ru": "Когда-нибудь я побываю в Японии."
+   },
+   {
+    "en": "#Someday# you'll understand.",
+    "ru": "Когда-нибудь ты поймёшь."
+   },
+   {
+    "en": "We'll clean the attic #someday#. Maybe.",
+    "ru": "Когда-нибудь мы разберём чердак. Может быть."
+   }
+  ]
  },
  {
   "id": "5198",
   "word": "rehearse",
   "transcription": "[rɪˈhɜːs]",
   "translation": "репетировать",
-  "nuance": null,
+  "nuance": "rehearse — репетировать. Practise — практиковаться, prepare — готовиться. Ловушка: «репетитор» — tutor, не rehearser.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/rehearse.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #rehearsed# the play every evening.",
+    "ru": "Мы репетировали спектакль каждый вечер."
+   },
+   {
+    "en": "I #rehearsed# my speech in the shower.",
+    "ru": "Я репетировал свою речь в душе."
+   },
+   {
+    "en": "Let's #rehearse# what you'll say to the boss.",
+    "ru": "Давай отрепетируем, что ты скажешь начальнику."
+   }
+  ]
  },
  {
   "id": "5199",
   "word": "rehearsal",
   "transcription": "[rɪˈhɜːsəl]",
   "translation": "репетиция",
-  "nuance": null,
+  "nuance": "rehearsal — репетиция. dress rehearsal — генеральная репетиция. Practice — тренировка, run-through — прогон.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/rehearsal.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The dress #rehearsal# is tomorrow.",
+    "ru": "Генеральная репетиция завтра."
+   },
+   {
+    "en": "We had a #rehearsal# for the wedding.",
+    "ru": "У нас была репетиция свадьбы."
+   },
+   {
+    "en": "Missing #rehearsal# is not an option.",
+    "ru": "Пропускать репетицию нельзя."
+   }
+  ]
  },
  {
   "id": "5200",
   "word": "terrify",
   "transcription": "[ˈtɛrɪfaɪ]",
   "translation": "устрашать",
-  "nuance": null,
+  "nuance": "terrify — ужасать, приводить в ужас (сильнее scare/frighten). terrified — в ужасе. Horrify — ужаснуть (шокировать), petrify — оцепенеть от страха.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/terrify.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Spiders #terrify# me.",
+    "ru": "Пауки приводят меня в ужас."
+   },
+   {
+    "en": "The film #terrified# the kids.",
+    "ru": "Фильм напугал детей до смерти."
+   },
+   {
+    "en": "I was #terrified# of the dentist.",
+    "ru": "Я до ужаса боялся стоматолога."
+   }
+  ]
  },
  {
   "id": "5201",
   "word": "terrific",
   "transcription": "[təˈrɪfɪk]",
   "translation": "ужасающий, потрясающий",
-  "nuance": null,
+  "nuance": "terrific — сейчас обычно «потрясающий, отличный» (позитив!); огромный (скорость, шум). «Ужасающий» — устар., лучше terrifying. Great — отличный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/terrific.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "You look #terrific#!",
+    "ru": "Ты выглядишь потрясающе!"
+   },
+   {
+    "en": "We had a #terrific# time at the party.",
+    "ru": "Мы потрясающе провели время на вечеринке."
+   },
+   {
+    "en": "The car was going at a #terrific# speed.",
+    "ru": "Машина неслась с бешеной скоростью."
+   }
+  ]
  },
  {
   "id": "5202",
   "word": "clash",
   "transcription": "[klæʃ]",
   "translation": "столкновение",
-  "nuance": null,
+  "nuance": "clash — столкновение (людей, мнений); не сочетаться (цвета); совпадать по времени. Conflict — конфликт, fight — драка.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/clash.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There was a #clash# between fans.",
+    "ru": "Между болельщиками произошло столкновение."
+   },
+   {
+    "en": "Your shirt and tie #clash#.",
+    "ru": "Твоя рубашка не сочетается с галстуком."
+   },
+   {
+    "en": "The two meetings #clash#.",
+    "ru": "Две встречи совпадают по времени."
+   }
+  ]
  },
  {
   "id": "5203",
   "word": "tack",
   "transcription": "[tæk]",
   "translation": "канцелярская кнопка, гвоздик",
-  "nuance": null,
+  "nuance": "tack — кнопка (брит. drawing pin, амер. thumbtack), гвоздик; галс; change tack — сменить тактику. Pin — булавка.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tack.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Pin the poster with #tacks#.",
+    "ru": "Прикрепи плакат кнопками."
+   },
+   {
+    "en": "I stepped on a #tack#. Ouch!",
+    "ru": "Я наступил на кнопку. Ай!"
+   },
+   {
+    "en": "Let's change #tack# and try something new.",
+    "ru": "Давай сменим тактику и попробуем что-то новое."
+   }
+  ]
  },
  {
   "id": "5204",
   "word": "maritime",
   "transcription": "[ˈmærɪtaɪm]",
   "translation": "морской",
-  "nuance": null,
+  "nuance": "maritime — морской (о торговле, праве, судоходстве). Marine — морской (о природе, жизни в море), naval — военно-морской.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/maritime.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #maritime# museum is full of old ships.",
+    "ru": "Морской музей полон старых кораблей."
+   },
+   {
+    "en": "#Maritime# law is complex.",
+    "ru": "Морское право сложное."
+   },
+   {
+    "en": "The city has a long #maritime# history.",
+    "ru": "У города долгая морская история."
+   }
+  ]
  },
  {
   "id": "5205",
   "word": "dwindle",
   "transcription": "[ˈdwɪndl]",
   "translation": "постепенно уменьшаться",
-  "nuance": null,
+  "nuance": "dwindle — постепенно уменьшаться, таять. Decrease — уменьшаться, shrink — сокращаться, fade — угасать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dwindle.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Our savings #dwindled# during the holiday.",
+    "ru": "Наши сбережения тают во время отпуска."
+   },
+   {
+    "en": "The number of visitors #dwindled# in winter.",
+    "ru": "Зимой число посетителей постепенно сократилось."
+   },
+   {
+    "en": "Hope was #dwindling#.",
+    "ru": "Надежда угасала."
+   }
+  ]
  },
  {
   "id": "5206",
   "word": "nasty",
   "transcription": "[ˈnɑːsti]",
   "translation": "противный",
-  "nuance": null,
+  "nuance": "nasty — противный, неприятный; злой; серьёзный (о травме). Horrible — ужасный, mean — подлый, unpleasant — неприятный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/nasty.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "This medicine tastes #nasty#.",
+    "ru": "Это лекарство противное на вкус."
+   },
+   {
+    "en": "Don't be #nasty# to your brother.",
+    "ru": "Не будь злым с братом."
+   },
+   {
+    "en": "He had a #nasty# fall on the ice.",
+    "ru": "Он неудачно упал на льду."
+   }
+  ]
  },
  {
   "id": "5207",
   "word": "poultry",
   "transcription": "[ˈpəʊltri]",
   "translation": "домашняя птица",
-  "nuance": null,
+  "nuance": "poultry — домашняя птица (куры, утки; собир.); мясо птицы. Chicken — курица, fowl — птица (книжн.), birds — птицы.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/24865/24865_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They sell fresh #poultry# at the market.",
+    "ru": "На рынке продают свежую птицу."
+   },
+   {
+    "en": "The farm raises #poultry#.",
+    "ru": "На ферме разводят домашнюю птицу."
+   },
+   {
+    "en": "#Poultry# should be cooked well.",
+    "ru": "Птицу нужно хорошо прожаривать."
+   }
+  ]
  },
  {
   "id": "5208",
   "word": "deduct",
   "transcription": "[dɪˈdʌkt]",
   "translation": "вычитать (об. про деньги)",
-  "nuance": null,
+  "nuance": "deduct — вычитать, удерживать (деньги, баллы). Subtract — вычитать (мат.), take off — снять (разг.). Не путать с deduce — делать вывод.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/deduct.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They #deducted# the broken glass from my pay.",
+    "ru": "Стоимость разбитого бокала вычли из моей зарплаты."
+   },
+   {
+    "en": "Tax is #deducted# automatically.",
+    "ru": "Налог удерживается автоматически."
+   },
+   {
+    "en": "Points are #deducted# for spelling mistakes.",
+    "ru": "Баллы снимаются за орфографические ошибки."
+   }
+  ]
  },
  {
   "id": "5209",
   "word": "deduction",
   "transcription": "[dɪˈdʌkʃən]",
   "translation": "вычет",
-  "nuance": null,
+  "nuance": "deduction — вычет, удержание (денег); также умозаключение, дедукция. Discount — скидка, inference — вывод.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/deduction.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "After tax #deductions#, my salary is tiny.",
+    "ru": "После налоговых вычетов зарплата крошечная."
+   },
+   {
+    "en": "Brilliant #deduction#, Sherlock!",
+    "ru": "Блестящий вывод, Шерлок!"
+   },
+   {
+    "en": "You can claim a #deduction# for this.",
+    "ru": "Ты можешь получить за это вычет."
+   }
+  ]
  },
  {
   "id": "5210",
   "word": "tend",
   "transcription": "[tɛnd]",
   "translation": "ухаживать",
-  "nuance": null,
+  "nuance": "tend (to) — ухаживать, присматривать (книжн.). Also tend to do — иметь склонность. Look after — ухаживать (разг.), care for — заботиться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tend_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #tends# her garden every morning.",
+    "ru": "Она каждое утро ухаживает за своим садом."
+   },
+   {
+    "en": "Nurses #tended# the wounded.",
+    "ru": "Медсёстры ухаживали за ранеными."
+   },
+   {
+    "en": "Who's #tending# the bar tonight?",
+    "ru": "Кто сегодня за барной стойкой?"
+   }
+  ]
  },
  {
   "id": "5211",
   "word": "put away",
   "transcription": "[pʊt əˈweɪ]",
   "translation": "посадить в тюрьму",
-  "nuance": null,
+  "nuance": "put away — убрать на место; разг. — посадить в тюрьму; уплести (еду); отложить (деньги). Lock up — запереть, посадить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/put_away.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The judge #put# him #away# for ten years.",
+    "ru": "Судья упрятал его на десять лет."
+   },
+   {
+    "en": "#Put away# your toys!",
+    "ru": "Убери свои игрушки!"
+   },
+   {
+    "en": "He can #put away# three pizzas.",
+    "ru": "Он может умять три пиццы."
+   }
+  ]
  },
  {
   "id": "5212",
   "word": "preclude",
   "transcription": "[prɪˈkluːd]",
   "translation": "исключить, помешать",
-  "nuance": null,
+  "nuance": "preclude — исключать, делать невозможным (офиц.). Prevent — предотвращать, rule out — исключить, prohibit — запрещать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/preclude.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The rain #precluded# a picnic.",
+    "ru": "Дождь исключил возможность пикника."
+   },
+   {
+    "en": "His age doesn't #preclude# him from running.",
+    "ru": "Возраст не мешает ему бегать."
+   },
+   {
+    "en": "This rule #precludes# any changes.",
+    "ru": "Это правило исключает любые изменения."
+   }
+  ]
  },
  {
   "id": "5213",
   "word": "coward",
   "transcription": "[ˈkaʊəd]",
   "translation": "трус",
-  "nuance": null,
+  "nuance": "coward — трус (негатив). Chicken — разг. «трусишка», wimp — слабак. Глагол «трусить» — be scared, chicken out.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/coward.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't be a #coward# — just ask her out!",
+    "ru": "Не трусь — просто пригласи её на свидание!"
+   },
+   {
+    "en": "He ran away like a #coward#.",
+    "ru": "Он сбежал как трус."
+   },
+   {
+    "en": "I'm a #coward# when it comes to spiders.",
+    "ru": "Когда дело касается пауков, я трус."
+   }
+  ]
  },
  {
   "id": "5214",
   "word": "cowardice",
   "transcription": "[ˈkaʊədɪs]",
   "translation": "трусость",
-  "nuance": null,
+  "nuance": "cowardice — трусость. Fear — страх, timidity — робость, weakness — слабость.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/cowardice.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His #cowardice# disappointed everyone.",
+    "ru": "Его трусость всех разочаровала."
+   },
+   {
+    "en": "It was an act of #cowardice#.",
+    "ru": "Это был трусливый поступок."
+   },
+   {
+    "en": "#Cowardice# made him lie.",
+    "ru": "Трусость заставила его солгать."
+   }
+  ]
  },
  {
   "id": "5215",
   "word": "tow",
   "transcription": "[təʊ]",
   "translation": "буксир или эвакуатор, буксировать",
-  "nuance": null,
+  "nuance": "tow — буксировать, эвакуировать; сущ. — буксировка; in tow — следом, на прицепе. Pull — тянуть, drag — волочить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tow.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My car was #towed# away!",
+    "ru": "Мою машину эвакуировали!"
+   },
+   {
+    "en": "The #tow# truck came after two hours.",
+    "ru": "Эвакуатор приехал через два часа."
+   },
+   {
+    "en": "Kids followed in #tow#.",
+    "ru": "Дети шли следом."
+   }
+  ]
  },
  {
   "id": "5216",
   "word": "perpetual",
   "transcription": "[pəˈpɛʧʊəl]",
   "translation": "вечный, постоянный",
-  "nuance": null,
+  "nuance": "perpetual — вечный, постоянный, непрерывный (книжн.). Constant — постоянный, endless — бесконечный, permanent — постоянный (неизменный).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/perpetual.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He lives in #perpetual# fear of the dentist.",
+    "ru": "Он живёт в вечном страхе перед стоматологом."
+   },
+   {
+    "en": "The #perpetual# noise of traffic drives me mad.",
+    "ru": "Непрерывный шум машин сводит меня с ума."
+   },
+   {
+    "en": "It's a #perpetual# problem.",
+    "ru": "Это вечная проблема."
+   }
+  ]
  },
  {
   "id": "5217",
   "word": "resolve",
   "transcription": "[rɪˈzɒlv]",
   "translation": "разрешить (ситуацию)",
-  "nuance": null,
+  "nuance": "resolve — разрешить, уладить (проблему, спор); решить (твёрдо). Solve — решить (задачу), settle — уладить, sort out — разг. «разобраться».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/resolve_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We need to #resolve# this problem today.",
+    "ru": "Нам нужно решить эту проблему сегодня."
+   },
+   {
+    "en": "The argument was #resolved# over pizza.",
+    "ru": "Спор был улажен за пиццей."
+   },
+   {
+    "en": "She #resolved# to stop eating sugar.",
+    "ru": "Она решила отказаться от сахара."
+   }
+  ]
  },
  {
   "id": "5218",
   "word": "unresolved",
   "transcription": "[ˌʌnrɪˈzɒlvd]",
   "translation": "неразрешенный",
-  "nuance": null,
+  "nuance": "unresolved — нерешённый, неразрешённый, открытый. Unsolved — нераскрытый (преступление), pending — на рассмотрении.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unresolved.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The issue is still #unresolved#.",
+    "ru": "Вопрос всё ещё не решён."
+   },
+   {
+    "en": "They have #unresolved# feelings for each other.",
+    "ru": "У них остались неразрешённые чувства друг к другу."
+   },
+   {
+    "en": "The case remains #unresolved#.",
+    "ru": "Дело остаётся нераскрытым."
+   }
+  ]
  },
  {
   "id": "5219",
   "word": "bait",
   "transcription": "[beɪt]",
   "translation": "приманка",
-  "nuance": null,
+  "nuance": "bait — приманка, наживка; глагол — дразнить, провоцировать. take the bait — попасться на удочку. Lure — приманка, trap — ловушка.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/bait.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Worms make good fishing #bait#.",
+    "ru": "Черви — хорошая наживка для рыбалки."
+   },
+   {
+    "en": "Don't take the #bait# — he's just provoking you.",
+    "ru": "Не ведись — он просто тебя провоцирует."
+   },
+   {
+    "en": "The headline is just click#bait#.",
+    "ru": "Этот заголовок — просто кликбейт."
+   }
+  ]
  },
  {
   "id": "5220",
   "word": "spoon-bait",
   "transcription": "[ˈspuːnbeɪt]",
   "translation": "блесна",
-  "nuance": null,
+  "nuance": "spoon-bait — блесна (рыбол.). Чаще говорят spoon или lure. Hook — крючок, float — поплавок.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/spoon_bait.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He caught a pike with a #spoon-bait#.",
+    "ru": "Он поймал щуку на блесну."
+   },
+   {
+    "en": "Silver #spoon-baits# work well in clear water.",
+    "ru": "Серебристые блёсны хорошо работают в чистой воде."
+   },
+   {
+    "en": "I lost my favourite #spoon-bait# in the weeds.",
+    "ru": "Я потерял любимую блесну в траве."
+   }
+  ]
  },
  {
   "id": "5221",
   "word": "calm down",
   "transcription": "[kɑːmdaʊn]",
   "translation": "успокоиться",
-  "nuance": null,
+  "nuance": "calm down — успокоиться, успокоить. Ловушка: говорить злому «Calm down!» часто только хуже. Relax — расслабиться, chill out — разг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/calm_down.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Calm down# — it's just a spider.",
+    "ru": "Успокойся — это просто паук."
+   },
+   {
+    "en": "The baby finally #calmed down#.",
+    "ru": "Малыш наконец успокоился."
+   },
+   {
+    "en": "Things will #calm down# after the holidays.",
+    "ru": "После праздников всё успокоится."
+   }
+  ]
  },
  {
   "id": "5222",
   "word": "quiet down",
   "transcription": "[ˈkwaɪətdaʊn]",
   "translation": "успокоиться",
-  "nuance": null,
+  "nuance": "quiet down (амер.) — утихнуть, вести себя тише. Брит. — quieten down. Calm down — успокоиться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/quiet_down.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Quiet down#, kids — the baby's sleeping!",
+    "ru": "Потише, дети — малыш спит!"
+   },
+   {
+    "en": "The crowd #quieted down# when he spoke.",
+    "ru": "Толпа притихла, когда он заговорил."
+   },
+   {
+    "en": "Things #quieted down# after midnight.",
+    "ru": "После полуночи всё стихло."
+   }
+  ]
  },
  {
   "id": "5223",
   "word": "settle down",
   "transcription": "[ˈsɛtldaʊn]",
   "translation": "успокоится",
-  "nuance": null,
+  "nuance": "settle down — успокоиться; остепениться; обосноваться. Calm down — успокоиться, settle in — освоиться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/settle_down.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Settle down#, everyone — the lesson is starting.",
+    "ru": "Все успокойтесь — урок начинается."
+   },
+   {
+    "en": "He wants to #settle down# and have kids.",
+    "ru": "Он хочет остепениться и завести детей."
+   },
+   {
+    "en": "Let the dust #settle down# first.",
+    "ru": "Сначала пусть всё уляжется."
+   }
+  ]
  },
  {
   "id": "5224",
   "word": "bark",
   "transcription": "[bɑːk]",
   "translation": "кора",
-  "nuance": null,
+  "nuance": "bark — кора (дерева); также лай, лаять. his bark is worse than his bite — он больше пугает, чем делает.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/39651/39651_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #bark# of the old oak is rough.",
+    "ru": "Кора старого дуба шершавая."
+   },
+   {
+    "en": "Deer eat tree #bark# in winter.",
+    "ru": "Зимой олени едят кору деревьев."
+   },
+   {
+    "en": "His #bark# is worse than his bite.",
+    "ru": "Он не такой страшный, каким кажется."
+   }
+  ]
  },
  {
   "id": "5225",
   "word": "clump",
   "transcription": "[klʌmp]",
   "translation": "комок, кучка, клок",
-  "nuance": null,
+  "nuance": "clump — комок, пучок, клок, группа (деревьев); глагол — топать тяжело. Lump — комок, bunch — пучок, cluster — скопление.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/clump.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A #clump# of hair was in the drain.",
+    "ru": "В сливе был клок волос."
+   },
+   {
+    "en": "Daffodils grew in #clumps#.",
+    "ru": "Нарциссы росли кустиками."
+   },
+   {
+    "en": "Mix the flour well — no #clumps#!",
+    "ru": "Хорошо размешай муку — никаких комков!"
+   }
+  ]
  },
  {
   "id": "5226",
   "word": "knock together",
   "transcription": "[nɒktəˈgɛðə]",
   "translation": "слепить, соорудить",
-  "nuance": null,
+  "nuance": "knock together — разг. сколотить, наспех соорудить. Put together — собрать, throw together — сварганить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/knock_together.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #knocked together# a table from old boxes.",
+    "ru": "Мы сколотили стол из старых коробок."
+   },
+   {
+    "en": "He #knocked together# a quick dinner.",
+    "ru": "Он на скорую руку соорудил ужин."
+   },
+   {
+    "en": "They #knocked together# a plan in an hour.",
+    "ru": "Они за час набросали план."
+   }
+  ]
  },
  {
   "id": "5227",
   "word": "aggravate",
   "transcription": "[ˈægrəveɪt]",
   "translation": "обострять",
-  "nuance": null,
+  "nuance": "aggravate — обострять, усугублять; разг. — раздражать. Worsen — ухудшать, annoy — раздражать, irritate — раздражать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/aggravate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Scratching will #aggravate# the rash.",
+    "ru": "Если чесать, сыпь станет хуже."
+   },
+   {
+    "en": "His comments only #aggravated# the situation.",
+    "ru": "Его замечания только обострили ситуацию."
+   },
+   {
+    "en": "Stop #aggravating# me!",
+    "ru": "Перестань меня бесить!"
+   }
+  ]
  },
  {
   "id": "5228",
   "word": "aggravation",
   "transcription": "[ˌægrəˈveɪʃ(ə)n]",
   "translation": "усугубление",
-  "nuance": null,
+  "nuance": "aggravation — обострение, ухудшение; разг. — раздражение, морока. Annoyance — раздражение, hassle — морока.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/aggravation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Stress led to #aggravation# of his illness.",
+    "ru": "Стресс привёл к обострению его болезни."
+   },
+   {
+    "en": "Parking here is too much #aggravation#.",
+    "ru": "Парковаться тут — слишком много мороки."
+   },
+   {
+    "en": "I don't need the #aggravation#.",
+    "ru": "Мне не нужна эта головная боль."
+   }
+  ]
  },
  {
   "id": "5229",
   "word": "splinter",
   "transcription": "[ˈsplɪntə]",
   "translation": "щепка, осколок, заноза",
-  "nuance": null,
+  "nuance": "splinter — заноза, щепка, осколок; splinter group — отколовшаяся группа. Shard — осколок (стекла), chip — щепка.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/splinter.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I've got a #splinter# in my finger.",
+    "ru": "У меня заноза в пальце."
+   },
+   {
+    "en": "#Splinters# of glass were everywhere.",
+    "ru": "Повсюду были осколки стекла."
+   },
+   {
+    "en": "A #splinter# group left the party.",
+    "ru": "Отколовшаяся группа покинула партию."
+   }
+  ]
  },
  {
   "id": "5230",
   "word": "fuss",
   "transcription": "[fʌs]",
   "translation": "суетиться",
-  "nuance": null,
+  "nuance": "fuss — суетиться, хлопотать; сущ. — суета, шум (make a fuss — поднять шум). Bother — беспокоиться, worry — переживать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fuss.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Stop #fussing# — I'm fine!",
+    "ru": "Перестань суетиться — я в порядке!"
+   },
+   {
+    "en": "Grandma #fussed# over the baby all day.",
+    "ru": "Бабушка весь день хлопотала над малышом."
+   },
+   {
+    "en": "What's all the #fuss# about?",
+    "ru": "Из-за чего весь шум?"
+   }
+  ]
  },
  {
   "id": "5231",
   "word": "fussy",
   "transcription": "[ˈfʌsi]",
   "translation": "суетливый",
-  "nuance": null,
+  "nuance": "fussy — привередливый, придирчивый (частое значение!); суетливый; вычурный. Picky — разборчивый (разг.), demanding — требовательный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fussy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's #fussy# about food — no green vegetables.",
+    "ru": "Он привередлив в еде — никаких зелёных овощей."
+   },
+   {
+    "en": "Don't be so #fussy# — it's just a shirt.",
+    "ru": "Не будь таким придирчивым — это просто рубашка."
+   },
+   {
+    "en": "The design is too #fussy#.",
+    "ru": "Дизайн слишком вычурный."
+   }
+  ]
  },
  {
   "id": "5232",
   "word": "sway",
   "transcription": "[sweɪ]",
   "translation": "раскачивать",
-  "nuance": null,
+  "nuance": "sway — раскачиваться, колыхаться; влиять, склонять (мнение). Swing — качаться, rock — качать, influence — влиять.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sway.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The trees #swayed# in the wind.",
+    "ru": "Деревья раскачивались на ветру."
+   },
+   {
+    "en": "We #swayed# to the music.",
+    "ru": "Мы покачивались в такт музыке."
+   },
+   {
+    "en": "Don't let his words #sway# you.",
+    "ru": "Не дай его словам повлиять на тебя."
+   }
+  ]
  },
  {
   "id": "5233",
