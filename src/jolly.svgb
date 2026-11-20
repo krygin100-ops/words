@@ -1,0 +1,5 @@
+<circle cx="100" cy="100" r="50" fill="{F}"/>
+<path d="M75 92 Q83 82 91 92 M109 92 Q117 82 125 92" stroke-width="4"/>
+<path d="M72 112 Q100 145 128 112 Z" fill="#000"/>
+<g fill="{L}" stroke="none" opacity="0.6"><ellipse cx="65" cy="112" rx="8" ry="5"/><ellipse cx="135" cy="112" rx="8" ry="5"/></g>
+<text x="100" y="35" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">ho ho ho!</text>

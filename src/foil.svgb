@@ -1,0 +1,6 @@
+<circle cx="60" cy="80" r="20" fill="{F}"/>
+<path d="M48 72 L58 76 M72 72 L62 76" stroke-width="3"/>
+<path d="M35 190 Q35 115 60 115 Q85 115 85 190" fill="{F}"/>
+<path d="M100 60 L130 100 L120 110 L160 150" stroke-width="5"/>
+<path d="M150 50 L180 80 M180 50 L150 80" stroke-width="6"/>
+<text x="140" y="180" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">ruined!</text>

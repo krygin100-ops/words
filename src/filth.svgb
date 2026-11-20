@@ -1,0 +1,5 @@
+<path d="M10 150 Q100 130 190 150 V190 H10 Z" fill="{F}"/>
+<g fill="#000" stroke="none"><circle cx="50" cy="165" r="8"/><circle cx="110" cy="170" r="10"/><circle cx="160" cy="165" r="7"/></g>
+<path d="M50 120 Q40 100 55 85 M100 110 Q90 90 105 75 M150 120 Q140 100 155 85" stroke-width="4"/>
+<path d="M75 60 L85 50 M125 55 L135 45" stroke-width="3"/>
+<text x="100" y="35" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">EWW!</text>

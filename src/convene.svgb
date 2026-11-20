@@ -1,0 +1,4 @@
+<rect x="40" y="90" width="120" height="50" rx="25" fill="{F}"/>
+<g fill="{F}"><circle cx="40" cy="70" r="11"/><circle cx="100" cy="60" r="11"/><circle cx="160" cy="70" r="11"/><circle cx="40" cy="160" r="11"/><circle cx="100" cy="170" r="11"/><circle cx="160" cy="160" r="11"/></g>
+<path d="M100 25 V40 M85 15 L115 15" stroke-width="3"/>
+<text x="100" y="122" font-size="16" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">MEETING</text>

@@ -1,0 +1,7 @@
+<circle cx="100" cy="70" r="22" fill="{F}"/>
+<path d="M88 70 Q93 66 98 70 M102 70 Q107 66 112 70" stroke-width="3"/>
+<path d="M92 85 Q100 80 108 85" stroke-width="3"/>
+<path d="M100 92 V140 M100 105 L80 125 M100 105 L120 125 M100 140 L90 180 M100 140 L110 180" stroke-width="3"/>
+<ellipse cx="160" cy="160" rx="25" ry="8" fill="{F}"/>
+<ellipse cx="160" cy="157" rx="15" ry="4" fill="#000"/>
+<text x="45" y="50" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">so hungry</text>
