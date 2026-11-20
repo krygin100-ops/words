@@ -1,0 +1,4 @@
+<g fill="{F}"><circle cx="40" cy="70" r="15"/><circle cx="40" cy="110" r="15"/><circle cx="40" cy="150" r="15"/></g>
+<g fill="{F}"><rect x="145" y="55" width="30" height="30"/><rect x="145" y="95" width="30" height="30"/><rect x="145" y="135" width="30" height="30"/></g>
+<path d="M100 40 V180" stroke-width="5" stroke-dasharray="10 6"/>
+<path d="M70 110 H90 M110 110 H130" stroke-width="3"/>

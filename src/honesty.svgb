@@ -1,0 +1,7 @@
+<circle cx="100" cy="85" r="35" fill="{F}"/>
+<circle cx="88" cy="80" r="4" fill="{L}" stroke="none"/>
+<circle cx="112" cy="80" r="4" fill="{L}" stroke="none"/>
+<path d="M88 100 Q100 108 112 100" stroke-width="3"/>
+<path d="M65 190 Q65 125 100 125 Q135 125 135 190" fill="{F}"/>
+<path d="M100 145 C100 135 115 133 115 145 C115 155 100 163 100 163 C100 163 85 155 85 145 C85 133 100 135 100 145 Z" fill="{L}" stroke="none"/>
+<text x="100" y="35" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">the truth</text>

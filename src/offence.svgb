@@ -1,0 +1,7 @@
+<circle cx="70" cy="80" r="20" fill="{F}"/>
+<rect x="50" y="72" width="40" height="8" fill="#000" stroke="none"/>
+<path d="M45 190 Q45 115 70 115 Q95 115 95 190" fill="{F}"/>
+<rect x="120" y="60" width="60" height="60" fill="{F}"/>
+<path d="M130 70 L170 110 M170 70 L130 110" stroke="#000" stroke-width="5"/>
+<path d="M95 130 L120 110"/>
+<text x="150" y="150" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">crime!</text>

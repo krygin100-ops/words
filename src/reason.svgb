@@ -1,0 +1,5 @@
+<path d="M60 130 Q30 125 35 90 Q35 50 75 40 Q100 25 130 40 Q170 50 165 90 Q170 125 140 130 Z" fill="{F}"/>
+<path d="M100 40 V130" stroke="#000" stroke-width="4"/>
+<path d="M60 70 Q75 80 70 95 M140 70 Q125 80 130 95" stroke="#000" stroke-width="4"/>
+<path d="M75 140 H125 V160 H75 Z" fill="{F}"/>
+<text x="100" y="190" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">logic</text>

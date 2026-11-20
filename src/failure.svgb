@@ -1,0 +1,5 @@
+<path d="M20 60 L60 90 L100 70 L140 120 L180 170" stroke-width="6"/>
+<path d="M160 170 H182 V148" stroke-width="6"/>
+<circle cx="70" cy="150" r="20" fill="{F}"/>
+<path d="M62 145 L67 150 L62 155 M75 145 L80 150 L75 155" stroke="#000" stroke-width="2"/>
+<text x="140" y="45" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">FAIL</text>

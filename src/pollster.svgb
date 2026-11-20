@@ -1,0 +1,7 @@
+<circle cx="60" cy="80" r="20" fill="{F}"/>
+<path d="M35 190 Q35 115 60 115 Q85 115 85 190" fill="{F}"/>
+<path d="M85 130 L110 115"/>
+<rect x="105" y="80" width="50" height="65" fill="{F}"/>
+<path d="M115 95 L120 100 L128 90 M115 115 L120 120 L128 110 M115 135 L120 140 L128 130" stroke="#000" stroke-width="3"/>
+<path d="M132 95 H148 M132 115 H148 M132 135 H148" stroke="#000" stroke-width="2"/>
+<text x="140" y="55" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">a quick survey?</text>

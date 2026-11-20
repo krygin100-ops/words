@@ -1,0 +1,6 @@
+<circle cx="60" cy="90" r="22" fill="{F}"/>
+<path d="M48 88 L56 88 M64 86 L72 90" stroke-width="3"/>
+<path d="M50 102 H70" stroke-width="3"/>
+<path d="M30 190 Q30 125 60 125 Q90 125 90 190" fill="{F}"/>
+<path d="M95 50 H185 V100 H130 L115 115 V100 H95 Z" fill="{F}"/>
+<text x="140" y="82" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">I consider...</text>
