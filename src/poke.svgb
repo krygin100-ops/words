@@ -1,0 +1,7 @@
+<path d="M20 110 Q50 100 80 105 L130 100" stroke-width="10"/>
+<circle cx="160" cy="100" r="28" fill="{F}"/>
+<circle cx="155" cy="92" r="3.5" fill="{L}" stroke="none"/>
+<circle cx="170" cy="92" r="3.5" fill="{L}" stroke="none"/>
+<ellipse cx="162" cy="110" rx="5" ry="4" fill="#000"/>
+<path d="M135 75 L125 65 M135 125 L125 135" stroke-width="3"/>
+<text x="70" y="70" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">poke poke</text>

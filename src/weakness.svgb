@@ -1,0 +1,5 @@
+<path d="M40 150 L60 110 Q75 90 85 100 Q95 110 80 125 Q90 135 80 150 Z" fill="{F}"/>
+<path d="M30 150 H90 V175 H30 Z" fill="{F}"/>
+<path d="M100 50 Q105 60 100 65" fill="{L}" stroke="none"/>
+<text x="140" y="110" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">*wobble*</text>
+<path d="M95 115 Q100 110 95 105" stroke-width="3"/>

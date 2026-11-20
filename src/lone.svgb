@@ -1,0 +1,5 @@
+<path d="M10 170 H190"/>
+<path d="M100 170 V100"/>
+<circle cx="100" cy="80" r="35" fill="{F}"/>
+<g fill="{F}" opacity="0.3"><circle cx="30" cy="160" r="0"/></g>
+<text x="100" y="30" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">just one</text>

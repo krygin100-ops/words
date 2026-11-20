@@ -1,0 +1,8 @@
+<circle cx="70" cy="80" r="22" fill="{F}"/>
+<circle cx="62" cy="76" r="7" fill="#000"/>
+<circle cx="78" cy="76" r="7" fill="#000"/>
+<circle cx="64" cy="76" r="3" fill="{L}" stroke="none"/>
+<circle cx="80" cy="76" r="3" fill="{L}" stroke="none"/>
+<path d="M40 190 Q40 115 70 115 Q100 115 100 190" fill="{F}"/>
+<path d="M95 75 L190 60 M95 85 L190 110" stroke-width="2" stroke-dasharray="4 4"/>
+<text x="150" y="160" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">just watching</text>

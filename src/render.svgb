@@ -1,0 +1,5 @@
+<rect x="20" y="70" width="50" height="60" fill="{F}" opacity="0.4"/>
+<path d="M80 100 H120 M110 90 L120 100 L110 110" stroke-width="5"/>
+<rect x="130" y="70" width="50" height="60" fill="{F}"/>
+<g fill="{L}" stroke="none"><path d="M155 50 L158 40 L161 50 L171 53 L161 56 L158 66 L155 56 L145 53 Z"/></g>
+<text x="45" y="105" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">?</text>
