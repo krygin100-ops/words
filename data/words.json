@@ -70844,20 +70844,46 @@
   "word": "immodesty",
   "transcription": "[ɪˈmɒdɪsti]",
   "translation": "нескромность",
-  "nuance": null,
+  "nuance": "Нескромность (хвастовство или откровенность в одежде).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/immodesty.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Forgive my #immodesty#, but I'm a great dancer.",
+    "ru": "Простите за нескромность, но я отлично танцую."
+   },
+   {
+    "en": "His #immodesty# annoyed everyone.",
+    "ru": "Его нескромность всех раздражала."
+   },
+   {
+    "en": "The #immodesty# of her dress shocked Grandma.",
+    "ru": "Откровенность её платья шокировала бабушку."
+   }
+  ]
  },
  {
   "id": "3083",
   "word": "spot",
   "transcription": "[spɒt]",
   "translation": "пятно",
-  "nuance": null,
+  "nuance": "Пятно; брит. — прыщ. Stain — пятно (грязь, которое трудно вывести).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/7151/7151_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's a coffee #spot# on your shirt.",
+    "ru": "У тебя на рубашке пятно от кофе."
+   },
+   {
+    "en": "The dog has black #spots#.",
+    "ru": "У собаки чёрные пятна."
+   },
+   {
+    "en": "I got a #spot# on my nose before the date.",
+    "ru": "Перед свиданием у меня вскочил прыщ на носу."
+   }
+  ]
  },
  {
   "id": "3084",
@@ -70867,57 +70893,135 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/spotted.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A #spotted# dog ran across the park.",
+    "ru": "Через парк пробежала пятнистая собака."
+   },
+   {
+    "en": "She wore a #spotted# dress.",
+    "ru": "На ней было платье в горошек."
+   },
+   {
+    "en": "The #spotted# deer hid in the trees.",
+    "ru": "Пятнистый олень спрятался среди деревьев."
+   }
+  ]
  },
  {
   "id": "3085",
   "word": "spotless",
   "transcription": "[ˈspɒtlɪs]",
   "translation": "незапятнанный",
-  "nuance": null,
+  "nuance": "Безупречно чистый; безупречный (репутация).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/spotless.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Her kitchen is #spotless#.",
+    "ru": "Её кухня безупречно чистая."
+   },
+   {
+    "en": "He has a #spotless# record.",
+    "ru": "У него безупречная репутация."
+   },
+   {
+    "en": "The hotel room was #spotless#.",
+    "ru": "Номер в отеле был идеально чистым."
+   }
+  ]
  },
  {
   "id": "3086",
   "word": "breathe",
   "transcription": "[briːð]",
   "translation": "дышать",
-  "nuance": null,
+  "nuance": "Дышать (глагол, читается «бриз»). Breath — дыхание (сущ.).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/34377/34377_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Breathe# in, #breathe# out.",
+    "ru": "Вдох, выдох."
+   },
+   {
+    "en": "I can't #breathe# in these jeans.",
+    "ru": "Я не могу дышать в этих джинсах."
+   },
+   {
+    "en": "Let me #breathe#!",
+    "ru": "Дай мне вздохнуть!"
+   }
+  ]
  },
  {
   "id": "3087",
   "word": "spare",
   "transcription": "[speə]",
   "translation": "выделить, уделить",
-  "nuance": null,
+  "nuance": "Выделить, уделить (время, деньги); spare me — избавь меня.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/spare_3.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Can you #spare# a minute?",
+    "ru": "Найдётся минутка?"
+   },
+   {
+    "en": "Can you #spare# ten dollars?",
+    "ru": "Не одолжишь десять долларов?"
+   },
+   {
+    "en": "I can't #spare# the time.",
+    "ru": "У меня нет на это времени."
+   }
+  ]
  },
  {
   "id": "3088",
   "word": "sparing",
   "transcription": "[ˈspeərɪŋ]",
   "translation": "скудный, бережливый",
-  "nuance": null,
+  "nuance": "Скупой, бережливый (в использовании чего-то).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sparing.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Be #sparing# with the salt.",
+    "ru": "Не переусердствуй с солью."
+   },
+   {
+    "en": "He was #sparing# with praise.",
+    "ru": "Он был скуп на похвалу."
+   },
+   {
+    "en": "Use the hot sauce #sparingly#.",
+    "ru": "Используй острый соус экономно."
+   }
+  ]
  },
  {
   "id": "3089",
   "word": "trait",
   "transcription": "[treɪt]",
   "translation": "черта, характеристика",
-  "nuance": null,
+  "nuance": "Черта (характера, внешности). Feature — черта лица; quality — качество.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/trait.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Patience is her best #trait#.",
+    "ru": "Терпение — её лучшая черта."
+   },
+   {
+    "en": "Blue eyes are a family #trait#.",
+    "ru": "Голубые глаза — семейная черта."
+   },
+   {
+    "en": "Stubbornness is a common #trait# in our family.",
+    "ru": "Упрямство — частая черта в нашей семье."
+   }
+  ]
  },
  {
   "id": "3090",
@@ -70927,27 +71031,66 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/16107/16107_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #passenger# next to me snored all flight.",
+    "ru": "Пассажир рядом со мной храпел весь полёт."
+   },
+   {
+    "en": "All #passengers# must show their tickets.",
+    "ru": "Все пассажиры должны показать билеты."
+   },
+   {
+    "en": "I'm a nervous #passenger#.",
+    "ru": "Я нервный пассажир."
+   }
+  ]
  },
  {
   "id": "3091",
   "word": "used to",
   "transcription": "[juːzdtuː]",
   "translation": "когда-то бывало",
-  "nuance": null,
+  "nuance": "Used to + глагол — привычка в прошлом (теперь нет). Be used to — привыкнуть (другое!).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/used_to.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #used to# play the guitar.",
+    "ru": "Раньше я играл на гитаре."
+   },
+   {
+    "en": "We #used to# live in Moscow.",
+    "ru": "Мы когда-то жили в Москве."
+   },
+   {
+    "en": "Did you #use to# have long hair?",
+    "ru": "У тебя раньше были длинные волосы?"
+   }
+  ]
  },
  {
   "id": "3092",
   "word": "intimate",
   "transcription": "[ˈɪntɪmɪt]",
   "translation": "близкий",
-  "nuance": null,
+  "nuance": "Близкий, интимный, уютный (камерный); доскональный. Часто подразумевает романтику — осторожно.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/intimate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They're #intimate# friends.",
+    "ru": "Они близкие друзья."
+   },
+   {
+    "en": "It was an #intimate# dinner for two.",
+    "ru": "Это был уютный ужин на двоих."
+   },
+   {
+    "en": "She has an #intimate# knowledge of the city.",
+    "ru": "Она досконально знает город."
+   }
+  ]
  },
  {
   "id": "3093",
@@ -70957,17 +71100,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/intimacy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Intimacy# grows with time.",
+    "ru": "Близость растёт со временем."
+   },
+   {
+    "en": "The #intimacy# of the small café was lovely.",
+    "ru": "Уютная обстановка маленького кафе была прекрасной."
+   },
+   {
+    "en": "Some people fear #intimacy#.",
+    "ru": "Некоторые люди боятся близости."
+   }
+  ]
  },
  {
   "id": "3094",
   "word": "safe",
   "transcription": "[seɪf]",
   "translation": "надёжный, защищённый",
-  "nuance": null,
+  "nuance": "Безопасный, надёжный; также сейф (сущ.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/safe.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Is it #safe# to swim here?",
+    "ru": "Здесь безопасно плавать?"
+   },
+   {
+    "en": "Keep your passport in a #safe# place.",
+    "ru": "Храни паспорт в надёжном месте."
+   },
+   {
+    "en": "Better #safe# than sorry.",
+    "ru": "Лучше перестраховаться."
+   }
+  ]
  },
  {
   "id": "3095",
@@ -70977,37 +71146,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/safety.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Safety# first!",
+    "ru": "Безопасность прежде всего!"
+   },
+   {
+    "en": "Wear a helmet for your #safety#.",
+    "ru": "Надевай шлем для своей безопасности."
+   },
+   {
+    "en": "Read the #safety# instructions.",
+    "ru": "Прочитай инструкцию по технике безопасности."
+   }
+  ]
  },
  {
   "id": "3096",
   "word": "leg",
   "transcription": "[lɛg]",
   "translation": "нога",
-  "nuance": null,
+  "nuance": "Нога (от бедра до стопы). Foot — ступня. Break a leg — удачи (актёрам).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8666/8666_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I broke my #leg# skiing.",
+    "ru": "Я сломал ногу, катаясь на лыжах."
+   },
+   {
+    "en": "The table has a wobbly #leg#.",
+    "ru": "У стола шатается ножка."
+   },
+   {
+    "en": "Break a #leg#!",
+    "ru": "Ни пуха ни пера!"
+   }
+  ]
  },
  {
   "id": "3097",
   "word": "neither",
   "transcription": "[ˈnaɪðə]",
   "translation": "тоже не",
-  "nuance": null,
+  "nuance": "«Тоже не» (Me neither / Neither do I). = me either (амер.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/neither_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "\"I don't like it.\" — \"Me #neither#.\"",
+    "ru": "«Мне не нравится». — «Мне тоже»."
+   },
+   {
+    "en": "She can't swim, and #neither# can I.",
+    "ru": "Она не умеет плавать, и я тоже."
+   },
+   {
+    "en": "#Neither# do I.",
+    "ru": "Я тоже нет."
+   }
+  ]
  },
  {
   "id": "3098",
   "word": "confront",
   "transcription": "[kənˈfrʌnt]",
   "translation": "противостоять, сталкиваться",
-  "nuance": null,
+  "nuance": "Противостоять, столкнуться лицом к лицу; высказать претензию.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/confront.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She finally #confronted# her boss.",
+    "ru": "Она наконец высказала всё начальнику."
+   },
+   {
+    "en": "We need to #confront# the problem.",
+    "ru": "Нам нужно взглянуть проблеме в лицо."
+   },
+   {
+    "en": "He was #confronted# with the evidence.",
+    "ru": "Ему предъявили доказательства."
+   }
+  ]
  },
  {
   "id": "3099",
@@ -71017,17 +71238,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/confrontation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I hate #confrontation#.",
+    "ru": "Ненавижу конфликты."
+   },
+   {
+    "en": "There was a #confrontation# between fans.",
+    "ru": "Произошло столкновение болельщиков."
+   },
+   {
+    "en": "She avoids #confrontation# at all costs.",
+    "ru": "Она любой ценой избегает выяснения отношений."
+   }
+  ]
  },
  {
   "id": "3100",
   "word": "distinct",
   "transcription": "[dɪsˈtɪŋkt]",
   "translation": "чёткий, различимый",
-  "nuance": null,
+  "nuance": "Отчётливый; отдельный, отличный (distinct from). Distinctive — характерный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/distinct.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's a #distinct# smell of fish.",
+    "ru": "Отчётливо пахнет рыбой."
+   },
+   {
+    "en": "The two words have #distinct# meanings.",
+    "ru": "У этих двух слов разные значения."
+   },
+   {
+    "en": "He has a #distinct# accent.",
+    "ru": "У него заметный акцент."
+   }
+  ]
  },
  {
   "id": "3101",
@@ -71037,17 +71284,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/distinction.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "What's the #distinction# between a lake and a pond?",
+    "ru": "В чём различие между озером и прудом?"
+   },
+   {
+    "en": "She graduated with #distinction#.",
+    "ru": "Она окончила с отличием."
+   },
+   {
+    "en": "Kids don't make a #distinction# between work and play.",
+    "ru": "Дети не различают работу и игру."
+   }
+  ]
  },
  {
   "id": "3102",
   "word": "distinctive",
   "transcription": "[dɪsˈtɪŋktɪv]",
   "translation": "отличительный",
-  "nuance": null,
+  "nuance": "Характерный, отличительный (легко узнать). Distinct — отчётливый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/distinctive.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She has a #distinctive# laugh.",
+    "ru": "У неё характерный смех."
+   },
+   {
+    "en": "The bird has #distinctive# red feathers.",
+    "ru": "У птицы характерные красные перья."
+   },
+   {
+    "en": "The cheese has a #distinctive# smell.",
+    "ru": "У сыра специфический запах."
+   }
+  ]
  },
  {
   "id": "3103",
@@ -71057,17 +71330,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/indistinct.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We heard #indistinct# voices behind the wall.",
+    "ru": "Мы слышали невнятные голоса за стеной."
+   },
+   {
+    "en": "The photo is #indistinct#.",
+    "ru": "Фото нечёткое."
+   },
+   {
+    "en": "His speech was #indistinct# after the dentist.",
+    "ru": "После стоматолога его речь была невнятной."
+   }
+  ]
  },
  {
   "id": "3104",
   "word": "impose",
   "transcription": "[ɪmˈpəʊz]",
   "translation": "навязывать, налагать",
-  "nuance": null,
+  "nuance": "Навязывать; вводить (налог, правило); impose on — обременять.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/impose.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #impose# your opinions on others.",
+    "ru": "Не навязывай своё мнение другим."
+   },
+   {
+    "en": "The government #imposed# a new tax.",
+    "ru": "Правительство ввело новый налог."
+   },
+   {
+    "en": "I don't want to #impose#, but can I stay the night?",
+    "ru": "Не хочу навязываться, но можно мне переночевать?"
+   }
+  ]
  },
  {
   "id": "3105",
@@ -71077,17 +71376,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/imposition.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Staying so long would be an #imposition#.",
+    "ru": "Остаться так надолго было бы навязчиво."
+   },
+   {
+    "en": "The #imposition# of a curfew angered people.",
+    "ru": "Введение комендантского часа разозлило людей."
+   },
+   {
+    "en": "Sorry for the #imposition#.",
+    "ru": "Простите за беспокойство."
+   }
+  ]
  },
  {
   "id": "3106",
   "word": "descend from",
   "transcription": "[dɪˈsɛndfrɒm]",
   "translation": "происходить от",
-  "nuance": null,
+  "nuance": "Происходить от (род, вид). Come from — проще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/descend_from.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Dogs #descend from# wolves.",
+    "ru": "Собаки произошли от волков."
+   },
+   {
+    "en": "She #descends from# a noble family.",
+    "ru": "Она из дворянского рода."
+   },
+   {
+    "en": "Many words #descend from# Latin.",
+    "ru": "Многие слова происходят из латыни."
+   }
+  ]
  },
  {
   "id": "3107",
@@ -71097,7 +71422,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/descendant.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's a #descendant# of the king.",
+    "ru": "Он потомок короля."
+   },
+   {
+    "en": "Our #descendants# will judge us.",
+    "ru": "Нас будут судить потомки."
+   },
+   {
+    "en": "She's a direct #descendant# of Pushkin.",
+    "ru": "Она прямой потомок Пушкина."
+   }
+  ]
  },
  {
   "id": "3108",
@@ -71107,7 +71445,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/court.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Life at the royal #court# was full of gossip.",
+    "ru": "Жизнь при королевском дворе была полна сплетен."
+   },
+   {
+    "en": "The king held #court# in the great hall.",
+    "ru": "Король принимал двор в большом зале."
+   },
+   {
+    "en": "She was a lady at the #court# of Queen Victoria.",
+    "ru": "Она была фрейлиной при дворе королевы Виктории."
+   }
+  ]
  },
  {
   "id": "3109",
@@ -71117,37 +71468,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/courtier.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #courtiers# bowed to the queen.",
+    "ru": "Придворные поклонились королеве."
+   },
+   {
+    "en": "A #courtier# whispered to the king.",
+    "ru": "Придворный шепнул что-то королю."
+   },
+   {
+    "en": "He behaves like a #courtier# around his boss.",
+    "ru": "Он ведёт себя с начальником как придворный льстец."
+   }
+  ]
  },
  {
   "id": "3110",
   "word": "slip",
   "transcription": "[slɪp]",
   "translation": "скользнуть",
-  "nuance": null,
+  "nuance": "Скользить, поскользнуться; незаметно ускользнуть.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/slip.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #slipped# on the ice.",
+    "ru": "Я поскользнулся на льду."
+   },
+   {
+    "en": "She #slipped# out of the room quietly.",
+    "ru": "Она тихо выскользнула из комнаты."
+   },
+   {
+    "en": "It #slipped# my mind.",
+    "ru": "Это вылетело у меня из головы."
+   }
+  ]
  },
  {
   "id": "3111",
   "word": "as well as",
   "transcription": "[æzwɛlæz]",
   "translation": "так же как и",
-  "nuance": null,
+  "nuance": "А также, наряду с; also «так же хорошо, как».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/as_well_as.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She speaks French #as well as# English.",
+    "ru": "Она говорит по-французски, а также по-английски."
+   },
+   {
+    "en": "Kids #as well as# adults loved the film.",
+    "ru": "Фильм понравился как детям, так и взрослым."
+   },
+   {
+    "en": "He cooks #as well as# a chef.",
+    "ru": "Он готовит так же хорошо, как повар."
+   }
+  ]
  },
  {
   "id": "3112",
   "word": "look forward",
   "transcription": "[lʊkˈfɔːwəd]",
   "translation": "ожидать, предвкушать",
-  "nuance": null,
+  "nuance": "Look forward to + -ing / сущ. (не инфинитив!). Ждать с радостью.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/look_forward.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I'm #looking forward# to the weekend.",
+    "ru": "С нетерпением жду выходных."
+   },
+   {
+    "en": "We #look forward# to hearing from you.",
+    "ru": "Ждём вашего ответа."
+   },
+   {
+    "en": "The kids #look forward# to Christmas all year.",
+    "ru": "Дети весь год ждут Рождества."
+   }
+  ]
  },
  {
   "id": "3113",
@@ -71157,7 +71560,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/look_back.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "When I #look back#, I was happy.",
+    "ru": "Когда я вспоминаю прошлое, я был счастлив."
+   },
+   {
+    "en": "Don't #look back# — move on.",
+    "ru": "Не оглядывайся назад — двигайся дальше."
+   },
+   {
+    "en": "We #looked back# on our school days.",
+    "ru": "Мы вспоминали школьные годы."
+   }
+  ]
  },
  {
   "id": "3114",
@@ -71167,17 +71583,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/rule.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #rule# is: no phones at dinner.",
+    "ru": "Правило такое: никаких телефонов за ужином."
+   },
+   {
+    "en": "#Rules# are made to be broken. — Not in this house!",
+    "ru": "Правила созданы, чтобы их нарушать. — Не в этом доме!"
+   },
+   {
+    "en": "As a #rule#, I don't eat after six.",
+    "ru": "Как правило, я не ем после шести."
+   }
+  ]
  },
  {
   "id": "3115",
   "word": "unique",
   "transcription": "[juːˈniːk]",
   "translation": "уникальный",
-  "nuance": null,
+  "nuance": "Единственный в своём роде. «Very unique» — не очень правильно (unique уже абсолютно).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unique.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Every snowflake is #unique#.",
+    "ru": "Каждая снежинка уникальна."
+   },
+   {
+    "en": "She has a #unique# style.",
+    "ru": "У неё уникальный стиль."
+   },
+   {
+    "en": "This is a #unique# chance.",
+    "ru": "Это уникальный шанс."
+   }
+  ]
  },
  {
   "id": "3116",
@@ -71187,7 +71629,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/uniqueness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #uniqueness# of the design impressed everyone.",
+    "ru": "Уникальность дизайна всех впечатлила."
+   },
+   {
+    "en": "Celebrate your #uniqueness#.",
+    "ru": "Гордись своей неповторимостью."
+   },
+   {
+    "en": "Its #uniqueness# makes it expensive.",
+    "ru": "Его уникальность делает его дорогим."
+   }
+  ]
  },
  {
   "id": "3117",
@@ -71197,7 +71652,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6238/6238_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The village lies in a green #valley#.",
+    "ru": "Деревня лежит в зелёной долине."
+   },
+   {
+    "en": "A river runs through the #valley#.",
+    "ru": "Через долину течёт река."
+   },
+   {
+    "en": "We hiked down into the #valley#.",
+    "ru": "Мы спустились пешком в долину."
+   }
+  ]
  },
  {
   "id": "3118",
@@ -71207,17 +71675,43 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6186/6186_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They play tennis on the #court# every Sunday.",
+    "ru": "Каждое воскресенье они играют в теннис на корте."
+   },
+   {
+    "en": "The basketball #court# is full of kids.",
+    "ru": "Баскетбольная площадка полна детей."
+   },
+   {
+    "en": "The ball went out of the #court#.",
+    "ru": "Мяч вылетел за пределы площадки."
+   }
+  ]
  },
  {
   "id": "3119",
   "word": "fibre (fiber)",
   "transcription": "[ˈfaɪbə]",
   "translation": "волокно",
-  "nuance": null,
+  "nuance": "Волокно; клетчатка. Брит. fibre, амер. fiber.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fibre.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Eat more #fibre# — fruit and vegetables.",
+    "ru": "Ешь больше клетчатки — фрукты и овощи."
+   },
+   {
+    "en": "This rope is made of natural #fibres#.",
+    "ru": "Эта верёвка из натуральных волокон."
+   },
+   {
+    "en": "#Fiber# optic internet is very fast.",
+    "ru": "Оптоволоконный интернет очень быстрый."
+   }
+  ]
  },
  {
   "id": "3120",
@@ -71227,7 +71721,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fibrous.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The meat was tough and #fibrous#.",
+    "ru": "Мясо было жёстким и волокнистым."
+   },
+   {
+    "en": "Celery is very #fibrous#.",
+    "ru": "Сельдерей очень волокнистый."
+   },
+   {
+    "en": "The plant has #fibrous# roots.",
+    "ru": "У растения мочковатые корни."
+   }
+  ]
  },
  {
   "id": "3121",
@@ -71237,17 +71744,43 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/35223/35223_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #probe# landed on Mars.",
+    "ru": "Зонд приземлился на Марсе."
+   },
+   {
+    "en": "The doctor used a small #probe#.",
+    "ru": "Врач использовал маленький зонд."
+   },
+   {
+    "en": "Put the temperature #probe# in the meat.",
+    "ru": "Вставь термощуп в мясо."
+   }
+  ]
  },
  {
   "id": "3122",
   "word": "prison",
   "transcription": "[ˈprɪzn]",
   "translation": "тюрьма",
-  "nuance": null,
+  "nuance": "Prison = jail (амер. jail — местная, краткосрочная).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/32430/32430_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He spent five years in #prison#.",
+    "ru": "Он провёл пять лет в тюрьме."
+   },
+   {
+    "en": "The old #prison# is now a hotel.",
+    "ru": "Старая тюрьма теперь отель."
+   },
+   {
+    "en": "My job feels like a #prison#.",
+    "ru": "Моя работа ощущается как тюрьма."
+   }
+  ]
  },
  {
   "id": "3123",
@@ -71257,7 +71790,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/4725/4725_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #prisoner# escaped at night.",
+    "ru": "Заключённый сбежал ночью."
+   },
+   {
+    "en": "They took him #prisoner#.",
+    "ru": "Его взяли в плен."
+   },
+   {
+    "en": "I'm a #prisoner# of my own habits.",
+    "ru": "Я пленник собственных привычек."
+   }
+  ]
  },
  {
   "id": "3124",
@@ -71267,7 +71813,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/imprison.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He was #imprisoned# for fraud.",
+    "ru": "Его посадили за мошенничество."
+   },
+   {
+    "en": "They #imprisoned# him without a trial.",
+    "ru": "Его заключили под стражу без суда."
+   },
+   {
+    "en": "She felt #imprisoned# in her small flat.",
+    "ru": "Она чувствовала себя запертой в маленькой квартире."
+   }
+  ]
  },
  {
   "id": "3125",
@@ -71277,17 +71836,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/imprisonment.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He was sentenced to ten years' #imprisonment#.",
+    "ru": "Его приговорили к десяти годам лишения свободы."
+   },
+   {
+    "en": "Life #imprisonment# is the worst punishment here.",
+    "ru": "Пожизненное заключение — самое суровое наказание здесь."
+   },
+   {
+    "en": "#Imprisonment# changed him.",
+    "ru": "Заключение изменило его."
+   }
+  ]
  },
  {
   "id": "3126",
   "word": "except",
   "transcription": "[ɪkˈsɛpt]",
   "translation": "кроме, исключая",
-  "nuance": null,
+  "nuance": "Кроме (исключая). Besides — кроме (в дополнение)!",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/except.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Everyone came #except# Tom.",
+    "ru": "Пришли все, кроме Тома."
+   },
+   {
+    "en": "I eat everything #except# mushrooms.",
+    "ru": "Я ем всё, кроме грибов."
+   },
+   {
+    "en": "The shop is open daily #except# Sunday.",
+    "ru": "Магазин работает ежедневно, кроме воскресенья."
+   }
+  ]
  },
  {
   "id": "3127",
@@ -71297,7 +71882,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/exception.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Every rule has an #exception#.",
+    "ru": "У каждого правила есть исключение."
+   },
+   {
+    "en": "I don't eat sweets, but cake is an #exception#.",
+    "ru": "Я не ем сладкое, но торт — исключение."
+   },
+   {
+    "en": "With the #exception# of Mondays, I love my job.",
+    "ru": "За исключением понедельников, я люблю свою работу."
+   }
+  ]
  },
  {
   "id": "3128",
@@ -71307,37 +71905,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/exceptional.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She's an #exceptional# student.",
+    "ru": "Она исключительная студентка."
+   },
+   {
+    "en": "We only refund in #exceptional# cases.",
+    "ru": "Возврат денег только в исключительных случаях."
+   },
+   {
+    "en": "The food was #exceptional#.",
+    "ru": "Еда была превосходной."
+   }
+  ]
  },
  {
   "id": "3129",
   "word": "cap",
   "transcription": "[ˈkæp]",
   "translation": "кепка, шляпа, колпачок",
-  "nuance": null,
+  "nuance": "Кепка, шапочка; колпачок, крышка. Hat — шляпа (вообще головной убор).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2411/2411_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He always wears a baseball #cap#.",
+    "ru": "Он всегда носит бейсболку."
+   },
+   {
+    "en": "Put the #cap# back on the pen.",
+    "ru": "Надень колпачок обратно на ручку."
+   },
+   {
+    "en": "I can't open the bottle #cap#.",
+    "ru": "Не могу открыть крышку бутылки."
+   }
+  ]
  },
  {
   "id": "3130",
   "word": "evil",
   "transcription": "[ˈiːvl]",
   "translation": "злой, зло",
-  "nuance": null,
+  "nuance": "Злой (очень сильно, зловещий), зло. Angry — сердитый; mean — вредный.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/4690/4690_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #evil# witch cursed the princess.",
+    "ru": "Злая ведьма прокляла принцессу."
+   },
+   {
+    "en": "Good always wins over #evil#.",
+    "ru": "Добро всегда побеждает зло."
+   },
+   {
+    "en": "Money is the root of all #evil#.",
+    "ru": "Деньги — корень всех зол."
+   }
+  ]
  },
  {
   "id": "3131",
   "word": "rest",
   "transcription": "[rɛst]",
   "translation": "отдых, отдыхать",
-  "nuance": null,
+  "nuance": "Отдых, отдыхать (передышка). Relax — расслабиться; holiday — отпуск.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/16643/16643_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "You need a #rest#.",
+    "ru": "Тебе нужен отдых."
+   },
+   {
+    "en": "Let's #rest# for ten minutes.",
+    "ru": "Давай отдохнём десять минут."
+   },
+   {
+    "en": "Get some #rest# — you look tired.",
+    "ru": "Отдохни — ты выглядишь уставшим."
+   }
+  ]
  },
  {
   "id": "3132",
