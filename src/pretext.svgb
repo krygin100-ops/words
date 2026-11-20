@@ -1,0 +1,6 @@
+<circle cx="80" cy="80" r="22" fill="{F}"/>
+<path d="M68 76 L76 80 M92 76 L84 80" stroke-width="3"/>
+<path d="M68 95 Q80 100 92 92" stroke-width="3"/>
+<path d="M50 190 Q50 115 80 115 Q110 115 110 190" fill="{F}"/>
+<path d="M115 45 H185 V90 H140 L125 105 V90 H115 Z" fill="{F}"/>
+<text x="150" y="73" font-size="15" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">the dog ate it</text>
