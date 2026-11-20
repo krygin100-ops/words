@@ -1,0 +1,6 @@
+<rect x="15" y="100" width="45" height="25" rx="5" fill="{F}"/>
+<rect x="75" y="100" width="45" height="25" rx="5" fill="{F}"/>
+<rect x="135" y="100" width="45" height="25" rx="5" fill="{F}"/>
+<path d="M10 140 H190"/>
+<g fill="#000"><circle cx="25" cy="125" r="6"/><circle cx="50" cy="125" r="6"/><circle cx="85" cy="125" r="6"/><circle cx="110" cy="125" r="6"/><circle cx="145" cy="125" r="6"/><circle cx="170" cy="125" r="6"/></g>
+<text x="100" y="60" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">STUCK</text>

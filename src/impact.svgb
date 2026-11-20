@@ -1,0 +1,6 @@
+<circle cx="130" cy="100" r="15" fill="{F}"/>
+<path d="M20 100 H100" stroke-width="5"/>
+<circle cx="110" cy="100" r="0"/>
+<path d="M130 60 L130 40 M160 70 L175 55 M170 100 H190 M160 130 L175 145 M130 140 V160" stroke-width="5"/>
+<path d="M30 80 H80 M40 120 H90" stroke-width="3"/>
+<text x="60" y="170" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">BOOM</text>

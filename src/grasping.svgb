@@ -1,0 +1,9 @@
+<circle cx="100" cy="80" r="30" fill="{F}"/>
+<path d="M85 75 L92 78 M115 75 L108 78" stroke-width="3"/>
+<text x="88" y="88" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">$</text>
+<text x="112" y="88" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">$</text>
+<path d="M88 100 Q100 106 112 100" stroke-width="3"/>
+<path d="M60 190 Q60 120 100 120 Q140 120 140 190" fill="{F}"/>
+<path d="M60 140 L25 120 M140 140 L175 120"/>
+<path d="M25 120 L15 110 M25 120 L15 125 M175 120 L185 110 M175 120 L185 125" stroke-width="4"/>
+<text x="100" y="30" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">gimme!</text>

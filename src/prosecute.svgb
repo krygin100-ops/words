@@ -1,0 +1,5 @@
+<rect x="40" y="40" width="120" height="120" rx="6" fill="{F}"/>
+<path d="M60 70 L68 78 L82 62 M60 100 L68 108 L82 92 M60 130 L68 138 L82 122" stroke="#000" stroke-width="4"/>
+<path d="M95 72 H140 M95 102 H140 M95 132 H130" stroke="#000" stroke-width="3"/>
+<path d="M150 170 L170 190" stroke-width="0"/>
+<text x="100" y="190" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">carry out</text>

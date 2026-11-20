@@ -1,0 +1,6 @@
+<path d="M60 70 H140 L130 180 H70 Z" fill="{F}" opacity="0.8"/>
+<path d="M60 70 H140"/>
+<path d="M120 20 Q130 30 115 45 Q105 55 110 65" stroke-width="3"/>
+<g fill="{L}" stroke="none"><path d="M110 70 Q105 82 110 87 Q115 82 110 70 Z"/></g>
+<path d="M65 110 H135" stroke="{L}" stroke-width="3" stroke-dasharray="6 4"/>
+<text x="40" y="40" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">weak...</text>

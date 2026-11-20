@@ -1,0 +1,7 @@
+<path d="M60 100 Q100 90 140 100 L135 150 Q100 170 65 150 Z" fill="{L}"/>
+<circle cx="100" cy="85" r="22" fill="{F}"/>
+<path d="M92 88 Q96 84 100 88 M100 88 Q104 84 108 88" stroke-width="2"/>
+<circle cx="100" cy="97" r="4" fill="{L}" stroke="none"/>
+<path d="M95 63 Q100 55 106 62" stroke-width="3"/>
+<g fill="{L}" stroke="none"><path d="M40 50 L43 40 L46 50 L56 53 L46 56 L43 66 L40 56 L30 53 Z"/><path d="M160 50 L163 40 L166 50 L176 53 L166 56 L163 66 L160 56 L150 53 Z"/></g>
+<text x="100" y="190" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">it's a baby!</text>

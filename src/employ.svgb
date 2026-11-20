@@ -1,0 +1,4 @@
+<path d="M50 150 L130 70" stroke-width="12"/>
+<path d="M120 50 Q140 30 160 50 Q165 70 150 80 L140 70 L150 60 Q145 50 135 55 L125 65 Z" fill="{F}"/>
+<circle cx="50" cy="150" r="15" fill="{F}"/>
+<text x="60" y="60" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">use it</text>

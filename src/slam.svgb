@@ -1,0 +1,4 @@
+<rect x="40" y="30" width="90" height="150" fill="{F}"/>
+<circle cx="115" cy="105" r="6" fill="#000"/>
+<path d="M135 50 L160 40 M140 100 H175 M135 150 L160 160" stroke-width="5"/>
+<text x="160" y="25" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">BAM!</text>

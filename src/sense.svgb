@@ -1,0 +1,5 @@
+<circle cx="100" cy="100" r="45" fill="{F}"/>
+<path d="M80 92 Q86 86 92 92 M108 92 Q114 86 120 92" stroke-width="3"/>
+<path d="M88 118 Q100 124 112 118" stroke-width="3"/>
+<path d="M150 50 Q165 60 150 75 M160 40 Q185 60 160 85 M50 50 Q35 60 50 75 M40 40 Q15 60 40 85" stroke-width="3"/>
+<text x="100" y="185" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">I feel it</text>
