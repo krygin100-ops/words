@@ -1,0 +1,6 @@
+<circle cx="100" cy="75" r="22" fill="{F}"/>
+<rect x="80" y="68" width="40" height="12" rx="5" fill="#000"/>
+<path d="M90 90 Q100 96 110 90" stroke-width="3"/>
+<path d="M65 190 Q65 105 100 105 Q135 105 135 190" fill="{F}"/>
+<g fill="{L}" stroke="none"><path d="M40 40 L44 28 L48 40 L60 44 L48 48 L44 60 L40 48 L28 44 Z"/><path d="M160 40 L164 28 L168 40 L180 44 L168 48 L164 60 L160 48 L148 44 Z"/><path d="M30 130 L33 122 L36 130 L44 133 L36 136 L33 144 L30 136 L22 133 Z"/><path d="M170 130 L173 122 L176 130 L184 133 L176 136 L173 144 L170 136 L162 133 Z"/></g>
+<text x="100" y="25" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">*flash*</text>

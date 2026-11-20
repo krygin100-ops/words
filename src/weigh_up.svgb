@@ -1,0 +1,4 @@
+<path d="M100 30 V170 M50 50 H150 M70 180 H130" stroke-width="5"/>
+<path d="M50 50 L30 100 H70 Z M150 50 L130 100 H170 Z" fill="{F}"/>
+<text x="50" y="125" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">pros</text>
+<text x="150" y="125" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">cons</text>

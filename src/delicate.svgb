@@ -1,0 +1,5 @@
+<path d="M100 170 V110"/>
+<path d="M100 110 Q80 90 85 70 Q100 85 100 105 Q100 85 115 70 Q120 90 100 110" fill="{F}"/>
+<path d="M100 145 Q85 135 80 140 Q90 150 100 145" fill="{F}"/>
+<text x="100" y="45" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">careful...</text>
+<path d="M60 180 H140" stroke-width="3"/>

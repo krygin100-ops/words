@@ -1,0 +1,4 @@
+<rect x="35" y="25" width="130" height="155" rx="4" fill="{F}"/>
+<text x="100" y="55" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="serif">HEADLINE</text>
+<rect x="50" y="70" width="45" height="40" fill="#000"/>
+<path d="M105 75 H150 M105 90 H150 M105 105 H150 M50 125 H150 M50 140 H150 M50 155 H130" stroke="#000" stroke-width="3"/>

@@ -1,0 +1,7 @@
+<circle cx="60" cy="80" r="20" fill="{F}"/>
+<path d="M48 72 L58 76 M72 72 L62 76" stroke-width="3"/>
+<path d="M35 190 Q35 115 60 115 Q85 115 85 190" fill="{F}"/>
+<path d="M85 125 L130 105" stroke-width="7"/>
+<circle cx="155" cy="100" r="16" fill="{F}"/>
+<path d="M135 190 Q135 125 155 125 Q175 125 175 190" fill="{F}"/>
+<text x="100" y="40" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">GUILTY!</text>

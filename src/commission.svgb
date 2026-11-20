@@ -1,0 +1,6 @@
+<circle cx="60" cy="70" r="20" fill="{F}"/>
+<path d="M35 190 Q35 105 60 105 Q85 105 85 190" fill="{F}"/>
+<path d="M85 120 L115 110"/>
+<rect x="115" y="80" width="60" height="70" fill="{L}"/>
+<path d="M125 100 H165 M125 115 H165 M125 130 H150" stroke="#000" stroke-width="3"/>
+<text x="140" y="60" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">your task:</text>

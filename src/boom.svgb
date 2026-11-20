@@ -1,0 +1,4 @@
+<path d="M10 120 Q50 110 100 120 Q150 130 190 120 V190 H10 Z" fill="{F}" opacity="0.5"/>
+<path d="M20 110 H180" stroke-width="10"/>
+<g fill="{F}"><circle cx="40" cy="110" r="10"/><circle cx="80" cy="110" r="10"/><circle cx="120" cy="110" r="10"/><circle cx="160" cy="110" r="10"/></g>
+<path d="M20 110 V60 M180 110 V60" stroke-width="5"/>
