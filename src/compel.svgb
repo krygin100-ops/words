@@ -1,0 +1,7 @@
+<circle cx="140" cy="80" r="18" fill="{F}"/>
+<path d="M120 190 Q120 110 140 110 Q160 110 160 190" fill="{F}"/>
+<circle cx="55" cy="90" r="16" fill="{F}"/>
+<path d="M40 190 Q40 120 55 120 Q70 120 70 190" fill="{F}"/>
+<path d="M120 130 L75 140" stroke-width="7"/>
+<path d="M50 92 Q55 88 60 92" stroke-width="2"/>
+<text x="140" y="40" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">MUST!</text>

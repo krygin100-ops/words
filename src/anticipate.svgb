@@ -1,0 +1,8 @@
+<circle cx="100" cy="95" r="45" fill="{F}"/>
+<circle cx="83" cy="88" r="10"/>
+<circle cx="117" cy="88" r="10"/>
+<circle cx="86" cy="85" r="4" fill="{L}" stroke="none"/>
+<circle cx="120" cy="85" r="4" fill="{L}" stroke="none"/>
+<path d="M80 115 Q100 130 120 115"/>
+<path d="M55 55 L45 40 M145 55 L155 40" stroke-width="4"/>
+<text x="100" y="185" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">any moment...</text>

@@ -1,0 +1,5 @@
+<path d="M10 140 Q100 120 190 140 V190 H10 Z" fill="{F}" opacity="0.5"/>
+<path d="M20 140 Q100 135 180 140" stroke-width="2"/>
+<circle cx="150" cy="60" r="20" fill="{F}"/>
+<text x="70" y="80" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">shh...</text>
+<path d="M90 160 Q100 155 110 160" stroke="#000" stroke-width="2"/>

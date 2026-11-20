@@ -1,0 +1,5 @@
+<rect x="20" y="130" width="160" height="25" rx="4" fill="{F}"/>
+<g fill="{L}"><rect x="40" y="110" width="15" height="20"/><rect x="60" y="112" width="15" height="18"/><rect x="80" y="110" width="15" height="20"/><rect x="100" y="113" width="15" height="17"/></g>
+<path d="M130 40 L170 110 L150 115 L120 50 Z" fill="{F}"/>
+<path d="M120 50 L110 30" stroke-width="7"/>
+<text x="60" y="70" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">chop chop</text>

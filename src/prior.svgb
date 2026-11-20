@@ -1,0 +1,4 @@
+<rect x="30" y="80" width="40" height="40" fill="{F}"/>
+<rect x="130" y="80" width="40" height="40" fill="{F}" opacity="0.4"/>
+<path d="M75 100 H125 M115 90 L125 100 L115 110" stroke-width="4"/>
+<text x="50" y="65" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">before</text>

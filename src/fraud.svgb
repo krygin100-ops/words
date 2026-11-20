@@ -1,0 +1,10 @@
+<circle cx="80" cy="70" r="22" fill="{F}"/>
+<path d="M65 65 L76 69 M95 65 L84 69" stroke-width="3"/>
+<path d="M68 85 Q80 92 95 80" stroke-width="3"/>
+<path d="M50 190 Q50 105 80 105 Q110 105 110 190" fill="{F}"/>
+<path d="M60 105 L80 125 L100 105" stroke="#000" stroke-width="3"/>
+<rect x="125" y="80" width="55" height="70" fill="{F}"/>
+<text x="152" y="110" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">100%</text>
+<text x="152" y="130" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">REAL</text>
+<path d="M110 125 L125 120"/>
+<text x="150" y="50" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">trust me</text>

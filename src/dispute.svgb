@@ -1,0 +1,7 @@
+<circle cx="50" cy="90" r="20" fill="{F}"/>
+<circle cx="150" cy="90" r="20" fill="{F}"/>
+<path d="M28 190 Q28 125 50 125 Q72 125 72 190 M128 190 Q128 125 150 125 Q172 125 172 190" fill="{F}"/>
+<path d="M40 85 L48 88 M60 85 L52 88 M140 85 L148 88 M160 85 L152 88" stroke-width="3"/>
+<path d="M20 40 H85 V65 H55 L45 75 V65 H20 Z M115 40 H180 V65 H155 L145 75 V65 H115 Z" fill="{F}"/>
+<text x="52" y="58" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">MINE!</text>
+<text x="148" y="58" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">NO, MINE!</text>
