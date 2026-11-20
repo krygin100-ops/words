@@ -57044,10 +57044,23 @@
   "word": "remind",
   "transcription": "[ˈrɪmaɪnd]",
   "translation": "напомнить",
-  "nuance": null,
+  "nuance": "Remind someone to do — напомнить сделать; remind of — напоминать кого-то/что-то. Remember — помнить самому.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/remind.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Remind# me to buy milk.",
+    "ru": "Напомни мне купить молоко."
+   },
+   {
+    "en": "You #remind# me of my grandpa.",
+    "ru": "Ты напоминаешь мне моего дедушку."
+   },
+   {
+    "en": "The smell #reminded# her of childhood.",
+    "ru": "Запах напомнил ей детство."
+   }
+  ]
  },
  {
   "id": "2483",
@@ -57057,17 +57070,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/reminder.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I set a #reminder# for the dentist.",
+    "ru": "Я поставил напоминание о стоматологе."
+   },
+   {
+    "en": "The bill is a #reminder# to spend less.",
+    "ru": "Счёт — напоминание тратить меньше."
+   },
+   {
+    "en": "Just a friendly #reminder#: it's your turn to cook.",
+    "ru": "Дружеское напоминание: сегодня твоя очередь готовить."
+   }
+  ]
  },
  {
   "id": "2484",
   "word": "mine",
   "transcription": "[maɪn]",
   "translation": "шахта, рудник",
-  "nuance": null,
+  "nuance": "Шахта, рудник; перен. — кладезь (a mine of information).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8630/8630_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He worked in a coal #mine# for thirty years.",
+    "ru": "Он тридцать лет проработал в угольной шахте."
+   },
+   {
+    "en": "The old gold #mine# is now a museum.",
+    "ru": "Старый золотой рудник теперь музей."
+   },
+   {
+    "en": "The internet is a #mine# of information.",
+    "ru": "Интернет — кладезь информации."
+   }
+  ]
  },
  {
   "id": "2485",
@@ -57077,17 +57116,43 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8631/8631_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #miners# were trapped underground.",
+    "ru": "Шахтёры оказались в ловушке под землёй."
+   },
+   {
+    "en": "My great-grandfather was a #miner#.",
+    "ru": "Мой прадед был шахтёром."
+   },
+   {
+    "en": "#Miners# work in hard conditions.",
+    "ru": "Шахтёры работают в тяжёлых условиях."
+   }
+  ]
  },
  {
   "id": "2486",
   "word": "sweat",
   "transcription": "[swɛt]",
   "translation": "пот, потеть",
-  "nuance": null,
+  "nuance": "Пот, потеть. Don't sweat it — разг. «не парься». Perspire — вежл. «потеть».",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8469/8469_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I was dripping with #sweat# after the run.",
+    "ru": "После пробежки с меня лил пот."
+   },
+   {
+    "en": "Don't #sweat# it — it's not a big deal.",
+    "ru": "Не парься — ничего страшного."
+   },
+   {
+    "en": "He #sweats# when he's nervous.",
+    "ru": "Он потеет, когда нервничает."
+   }
+  ]
  },
  {
   "id": "2487",
@@ -57097,17 +57162,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sweaty.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My hands get #sweaty# before exams.",
+    "ru": "Перед экзаменами у меня потеют руки."
+   },
+   {
+    "en": "Take off that #sweaty# T-shirt!",
+    "ru": "Сними эту потную футболку!"
+   },
+   {
+    "en": "It was a long, #sweaty# bus ride.",
+    "ru": "Это была долгая, душная поездка на автобусе."
+   }
+  ]
  },
  {
   "id": "2488",
   "word": "ought",
   "transcription": "[ɔːt]",
   "translation": "должен, обязан",
-  "nuance": null,
+  "nuance": "Ought to — следует (моральный долг), ≈ should, но чуть формальнее и реже.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/ought.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "You #ought# to call your mum.",
+    "ru": "Тебе следует позвонить маме."
+   },
+   {
+    "en": "We #ought# to leave now.",
+    "ru": "Нам пора уходить."
+   },
+   {
+    "en": "He #ought# to know better.",
+    "ru": "Ему бы следовало быть умнее."
+   }
+  ]
  },
  {
   "id": "2489",
@@ -57117,17 +57208,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/edit.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #edited# the photo to look thinner.",
+    "ru": "Я отредактировал фото, чтобы выглядеть стройнее."
+   },
+   {
+    "en": "She #edits# videos for YouTube.",
+    "ru": "Она монтирует видео для ютуба."
+   },
+   {
+    "en": "Please #edit# my essay.",
+    "ru": "Пожалуйста, отредактируй моё эссе."
+   }
+  ]
  },
  {
   "id": "2490",
   "word": "edition",
   "transcription": "[ɪˈdɪʃən]",
   "translation": "издание",
-  "nuance": null,
+  "nuance": "Издание, выпуск, версия. Ложный друг: не «эдиция».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/edition.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "This is the first #edition# of the book.",
+    "ru": "Это первое издание книги."
+   },
+   {
+    "en": "The morning #edition# of the paper is sold out.",
+    "ru": "Утренний выпуск газеты распродан."
+   },
+   {
+    "en": "They sell a limited #edition# of the phone.",
+    "ru": "Они продают ограниченную серию телефона."
+   }
+  ]
  },
  {
   "id": "2491",
@@ -57137,7 +57254,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/editor.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #editor# cut half my article.",
+    "ru": "Редактор вырезал половину моей статьи."
+   },
+   {
+    "en": "She's a film #editor#.",
+    "ru": "Она монтажёр фильмов."
+   },
+   {
+    "en": "Write a letter to the #editor#.",
+    "ru": "Напиши письмо в редакцию."
+   }
+  ]
  },
  {
   "id": "2492",
@@ -57147,67 +57277,158 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/editorial.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The newspaper's #editorial# criticised the mayor.",
+    "ru": "В редакционной статье газеты критиковали мэра."
+   },
+   {
+    "en": "She works in the #editorial# department.",
+    "ru": "Она работает в редакционном отделе."
+   },
+   {
+    "en": "It was an #editorial# decision.",
+    "ru": "Это было решение редакции."
+   }
+  ]
  },
  {
   "id": "2493",
   "word": "single",
   "transcription": "[ˈsɪŋgl]",
   "translation": "один, отдельный, единый",
-  "nuance": null,
+  "nuance": "Один, единственный; одноместный; одинокий/свободный (о статусе). Single ticket — билет в одну сторону (брит.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/single.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Not a #single# person came.",
+    "ru": "Не пришёл ни один человек."
+   },
+   {
+    "en": "I'd like a #single# room.",
+    "ru": "Мне одноместный номер."
+   },
+   {
+    "en": "Is she #single#?",
+    "ru": "Она свободна (не замужем)?"
+   }
+  ]
  },
  {
   "id": "2494",
   "word": "advantage",
   "transcription": "[ədˈvɑːntɪʤ]",
   "translation": "преимущество",
-  "nuance": null,
+  "nuance": "Take advantage of — воспользоваться (иногда нечестно).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/advantage.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Speaking English is a big #advantage#.",
+    "ru": "Знание английского — большое преимущество."
+   },
+   {
+    "en": "He took #advantage# of my kindness.",
+    "ru": "Он воспользовался моей добротой."
+   },
+   {
+    "en": "The home team has the #advantage#.",
+    "ru": "У хозяев поля преимущество."
+   }
+  ]
  },
  {
   "id": "2495",
   "word": "disadvantage",
   "transcription": "[ˌdɪsədˈvɑːntɪʤ]",
   "translation": "недостаток",
-  "nuance": null,
+  "nuance": "Недостаток, минус. Drawback — недостаток (синоним).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/disadvantage.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #disadvantage# of a big dog: it eats a lot.",
+    "ru": "Минус большой собаки: она много ест."
+   },
+   {
+    "en": "Kids from poor families are at a #disadvantage#.",
+    "ru": "Дети из бедных семей в невыгодном положении."
+   },
+   {
+    "en": "Every plan has #disadvantages#.",
+    "ru": "У каждого плана есть недостатки."
+   }
+  ]
  },
  {
   "id": "2496",
   "word": "advantageous",
   "transcription": "[ˌædvənˈteɪʤəs]",
   "translation": "выгодный",
-  "nuance": null,
+  "nuance": "Книжное. Разг.: good for, a good deal.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/advantageous.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The deal is #advantageous# for both sides.",
+    "ru": "Сделка выгодна обеим сторонам."
+   },
+   {
+    "en": "It's #advantageous# to book early.",
+    "ru": "Выгодно бронировать заранее."
+   },
+   {
+    "en": "They're in an #advantageous# position.",
+    "ru": "Они в выгодном положении."
+   }
+  ]
  },
  {
   "id": "2497",
   "word": "sink",
   "transcription": "[sɪŋk]",
   "translation": "раковина",
-  "nuance": null,
+  "nuance": "Раковина (кухонная/в ванной). Также глагол sink — тонуть.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2399/2399_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #sink# is full of dirty dishes. Again.",
+    "ru": "Раковина снова полна грязной посуды."
+   },
+   {
+    "en": "Wash your hands in the #sink#.",
+    "ru": "Помой руки в раковине."
+   },
+   {
+    "en": "The kitchen #sink# is blocked.",
+    "ru": "Кухонная раковина засорилась."
+   }
+  ]
  },
  {
   "id": "2498",
   "word": "transmit",
   "transcription": "[trænzˈmɪt]",
   "translation": "передавать, переносить",
-  "nuance": null,
+  "nuance": "Передавать (сигнал, болезнь) — тех./офиц. Send — проще; spread — распространять.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/transmit.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Mosquitoes #transmit# diseases.",
+    "ru": "Комары переносят болезни."
+   },
+   {
+    "en": "The match was #transmitted# live.",
+    "ru": "Матч транслировали в прямом эфире."
+   },
+   {
+    "en": "The data is #transmitted# by Wi-Fi.",
+    "ru": "Данные передаются по вайфаю."
+   }
+  ]
  },
  {
   "id": "2499",
@@ -57217,17 +57438,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/transmission.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #transmission# was cut by the storm.",
+    "ru": "Передачу прервала буря."
+   },
+   {
+    "en": "The car needs a new #transmission#.",
+    "ru": "Машине нужна новая коробка передач."
+   },
+   {
+    "en": "Wash your hands to stop #transmission# of the virus.",
+    "ru": "Мой руки, чтобы остановить передачу вируса."
+   }
+  ]
  },
  {
   "id": "2500",
   "word": "helpful",
   "transcription": "[ˈhɛlpfʊl]",
   "translation": "полезный",
-  "nuance": null,
+  "nuance": "Полезный (совет), услужливый (человек). Useful — полезный (вещь).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/helpful.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Thanks — that was very #helpful#.",
+    "ru": "Спасибо — это очень помогло."
+   },
+   {
+    "en": "The staff were friendly and #helpful#.",
+    "ru": "Персонал был дружелюбным и отзывчивым."
+   },
+   {
+    "en": "My son is #helpful# when he wants money.",
+    "ru": "Мой сын становится услужливым, когда ему нужны деньги."
+   }
+  ]
  },
  {
   "id": "2501",
@@ -57237,17 +57484,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unhelpful.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The shop assistant was rude and #unhelpful#.",
+    "ru": "Продавец был грубым и бесполезным."
+   },
+   {
+    "en": "That comment was #unhelpful#.",
+    "ru": "Это замечание не помогло."
+   },
+   {
+    "en": "The map was totally #unhelpful#.",
+    "ru": "Карта совсем не помогла."
+   }
+  ]
  },
  {
   "id": "2502",
   "word": "cheek",
   "transcription": "[ʧiːk]",
   "translation": "щека",
-  "nuance": null,
+  "nuance": "Щека; брит. разг. cheek — наглость; cheeky — нахальный.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2919/2919_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandma pinched my #cheek#.",
+    "ru": "Бабушка ущипнула меня за щёку."
+   },
+   {
+    "en": "She kissed him on the #cheek#.",
+    "ru": "Она поцеловала его в щёку."
+   },
+   {
+    "en": "What #cheek#! He took my seat!",
+    "ru": "Какая наглость! Он занял моё место!"
+   }
+  ]
  },
  {
   "id": "2503",
@@ -57257,17 +57530,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/swell.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My ankle #swelled# up after the fall.",
+    "ru": "После падения у меня распухла лодыжка."
+   },
+   {
+    "en": "Her eyes were #swollen# from crying.",
+    "ru": "У неё опухли глаза от слёз."
+   },
+   {
+    "en": "The river #swelled# after the rain.",
+    "ru": "Река вздулась после дождя."
+   }
+  ]
  },
  {
   "id": "2504",
   "word": "cause",
   "transcription": "[kɔːz]",
   "translation": "причина, быть причиной",
-  "nuance": null,
+  "nuance": "Причина; вызывать. Также cause — дело, цель (charity cause). Reason — причина-объяснение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/cause.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "What was the #cause# of the fire?",
+    "ru": "Какова была причина пожара?"
+   },
+   {
+    "en": "Ice on the road #caused# the accident.",
+    "ru": "Аварию вызвал лёд на дороге."
+   },
+   {
+    "en": "They support a good #cause#.",
+    "ru": "Они поддерживают доброе дело."
+   }
+  ]
  },
  {
   "id": "2505",
@@ -57277,37 +57576,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/caused.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The damage #caused# by the storm was huge.",
+    "ru": "Ущерб, вызванный бурей, был огромным."
+   },
+   {
+    "en": "Problems #caused# by stress.",
+    "ru": "Проблемы, вызванные стрессом."
+   },
+   {
+    "en": "The traffic jam was #caused# by a cow.",
+    "ru": "Пробку вызвала корова."
+   }
+  ]
  },
  {
   "id": "2506",
   "word": "pad",
   "transcription": "[pæd]",
   "translation": "блокнот",
-  "nuance": null,
+  "nuance": "Блокнот (notepad); также подушечка, прокладка. Notebook — тетрадь.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/pad_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Write it down on the #pad#.",
+    "ru": "Запиши это в блокнот."
+   },
+   {
+    "en": "Keep a #pad# by the phone.",
+    "ru": "Держи блокнот у телефона."
+   },
+   {
+    "en": "She doodles on her note#pad# during meetings.",
+    "ru": "На совещаниях она рисует каракули в блокноте."
+   }
+  ]
  },
  {
   "id": "2507",
   "word": "tap",
   "transcription": "[tæp]",
   "translation": "кран",
-  "nuance": null,
+  "nuance": "Брит. tap; амер. faucet. Tap water — водопроводная вода.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2414/2414_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Turn off the #tap#!",
+    "ru": "Закрой кран!"
+   },
+   {
+    "en": "The #tap# is dripping all night.",
+    "ru": "Кран капает всю ночь."
+   },
+   {
+    "en": "We drink #tap# water.",
+    "ru": "Мы пьём воду из-под крана."
+   }
+  ]
  },
  {
   "id": "2508",
   "word": "persist",
   "transcription": "[pəˈsɪst]",
   "translation": "упорствовать",
-  "nuance": null,
+  "nuance": "Упорствовать (иногда с раздражением). Insist — настаивать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/persist_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #persisted# until she said yes.",
+    "ru": "Он настаивал, пока она не сказала «да»."
+   },
+   {
+    "en": "If you #persist#, you'll succeed.",
+    "ru": "Если будешь упорствовать, добьёшься успеха."
+   },
+   {
+    "en": "The cat #persisted# in waking me at 5.",
+    "ru": "Кот упорно будил меня в пять."
+   }
+  ]
  },
  {
   "id": "2509",
@@ -57317,7 +57668,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/persistent_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She's a #persistent# salesperson.",
+    "ru": "Она настойчивый продавец."
+   },
+   {
+    "en": "I have a #persistent# headache.",
+    "ru": "У меня никак не проходит головная боль."
+   },
+   {
+    "en": "#Persistent# rain ruined the holiday.",
+    "ru": "Непрекращающийся дождь испортил отпуск."
+   }
+  ]
  },
  {
   "id": "2510",
@@ -57327,97 +57691,227 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/persistence_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Her #persistence# finally paid off.",
+    "ru": "Её упорство наконец окупилось."
+   },
+   {
+    "en": "#Persistence# is more important than talent.",
+    "ru": "Упорство важнее таланта."
+   },
+   {
+    "en": "The cat's #persistence# won — it got the fish.",
+    "ru": "Упорство кота победило — он получил рыбу."
+   }
+  ]
  },
  {
   "id": "2511",
   "word": "counsel",
   "transcription": "[ˈkaʊns(ə)l]",
   "translation": "совет, консультация",
-  "nuance": null,
+  "nuance": "Книжное: совет (рекомендация); адвокат. Не путать с council — совет (орган)!",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/counsel.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She gave me wise #counsel#.",
+    "ru": "Она дала мне мудрый совет."
+   },
+   {
+    "en": "He sought legal #counsel#.",
+    "ru": "Он обратился за юридической консультацией."
+   },
+   {
+    "en": "Keep your own #counsel#.",
+    "ru": "Держи свои мысли при себе."
+   }
+  ]
  },
  {
   "id": "2512",
   "word": "counselor",
   "transcription": "[ˈkaʊns(ə)lə]",
   "translation": "консультант",
-  "nuance": null,
+  "nuance": "Консультант, психолог; вожатый (амер.). Брит. counsellor.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/34707/34707_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The school #counselor# helped him choose a university.",
+    "ru": "Школьный консультант помог ему выбрать университет."
+   },
+   {
+    "en": "She sees a marriage #counselor#.",
+    "ru": "Она ходит к семейному психологу."
+   },
+   {
+    "en": "Summer camp #counselors# are mostly students.",
+    "ru": "Вожатые в летнем лагере — в основном студенты."
+   }
+  ]
  },
  {
   "id": "2513",
   "word": "cell",
   "transcription": "[sɛl]",
   "translation": "ячейка, клетка",
-  "nuance": null,
+  "nuance": "Клетка (биол.), ячейка, камера (тюремная).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/36340/36340_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The human body has trillions of #cells#.",
+    "ru": "В теле человека триллионы клеток."
+   },
+   {
+    "en": "Each #cell# in the table has a number.",
+    "ru": "В каждой ячейке таблицы есть число."
+   },
+   {
+    "en": "The prisoner sat in his #cell#.",
+    "ru": "Заключённый сидел в своей камере."
+   }
+  ]
  },
  {
   "id": "2514",
   "word": "cell phone",
   "transcription": "[sɛlfəʊn]",
   "translation": "сотовый телефон",
-  "nuance": null,
+  "nuance": "Амер. cell phone; брит. mobile (phone).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/25269/25269_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My #cell phone# died at the worst moment.",
+    "ru": "Мой мобильник сел в самый неподходящий момент."
+   },
+   {
+    "en": "Turn off your #cell phone# in the cinema.",
+    "ru": "Выключите телефон в кинотеатре."
+   },
+   {
+    "en": "He has two #cell phones#.",
+    "ru": "У него два сотовых."
+   }
+  ]
  },
  {
   "id": "2515",
   "word": "arise (arose, arisen)",
   "transcription": "[əˈraɪz]",
   "translation": "возникать, происходить",
-  "nuance": null,
+  "nuance": "Книжное «возникать». Разг.: come up, happen.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/arise.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Problems #arise# when nobody talks.",
+    "ru": "Проблемы возникают, когда никто не разговаривает."
+   },
+   {
+    "en": "If any questions #arise#, call me.",
+    "ru": "Если возникнут вопросы, звоните."
+   },
+   {
+    "en": "A new opportunity #arose#.",
+    "ru": "Появилась новая возможность."
+   }
+  ]
  },
  {
   "id": "2516",
   "word": "bow",
   "transcription": "[baʊ]",
   "translation": "поклон, наклоняться",
-  "nuance": null,
+  "nuance": "Поклон (произносится «бау»). Bow (лук, бант) читается «боу».",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/39136/39136_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The actors took a #bow#.",
+    "ru": "Актёры поклонились."
+   },
+   {
+    "en": "He #bowed# to the queen.",
+    "ru": "Он поклонился королеве."
+   },
+   {
+    "en": "In Japan, people #bow# instead of shaking hands.",
+    "ru": "В Японии вместо рукопожатия кланяются."
+   }
+  ]
  },
  {
   "id": "2517",
   "word": "point",
   "transcription": "[pɔɪnt]",
   "translation": "очко",
-  "nuance": null,
+  "nuance": "Очко, балл.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/point_3.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Our team won by two #points#.",
+    "ru": "Наша команда выиграла с перевесом в два очка."
+   },
+   {
+    "en": "You get ten #points# for each answer.",
+    "ru": "За каждый ответ — десять очков."
+   },
+   {
+    "en": "I collect #points# on my shopping card.",
+    "ru": "Я коплю баллы на карте покупателя."
+   }
+  ]
  },
  {
   "id": "2518",
   "word": "subject",
   "transcription": "[ˈsʌbʤɪkt]",
   "translation": "подверженный, подвергать",
-  "nuance": null,
+  "nuance": "Be subject to — подлежать, быть подверженным; subject someone to — подвергать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/subject_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Prices are #subject# to change.",
+    "ru": "Цены могут меняться."
+   },
+   {
+    "en": "He's #subject# to colds in winter.",
+    "ru": "Зимой он подвержен простудам."
+   },
+   {
+    "en": "They were #subjected# to long questioning.",
+    "ru": "Их подвергли долгому допросу."
+   }
+  ]
  },
  {
   "id": "2519",
   "word": "cloth",
   "transcription": "[klɒθ]",
   "translation": "ткань, тряпка",
-  "nuance": null,
+  "nuance": "Ткань (материал), тряпка. Clothes — одежда! Fabric — ткань (чаще).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/3402/3402_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Wipe the table with a damp #cloth#.",
+    "ru": "Протри стол влажной тряпкой."
+   },
+   {
+    "en": "The dress is made of fine #cloth#.",
+    "ru": "Платье сшито из тонкой ткани."
+   },
+   {
+    "en": "Put a #cloth# on the table.",
+    "ru": "Постели скатерть на стол."
+   }
+  ]
  },
  {
   "id": "2520",
@@ -57427,17 +57921,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/wear_out.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The kids #wore# me #out#.",
+    "ru": "Дети меня вымотали."
+   },
+   {
+    "en": "My shoes are #worn out#.",
+    "ru": "Моя обувь износилась."
+   },
+   {
+    "en": "Don't #wear out# the carpet!",
+    "ru": "Не протри ковёр!"
+   }
+  ]
  },
  {
   "id": "2521",
   "word": "wear down",
   "transcription": "[weədaʊn]",
   "translation": "изнашиваться",
-  "nuance": null,
+  "nuance": "Стирать(ся), изнашивать(ся); перен. — сломить сопротивление.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/wear_down.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The tyres #wore down# quickly.",
+    "ru": "Шины быстро износились."
+   },
+   {
+    "en": "They #wore# him #down# until he agreed.",
+    "ru": "Они измотали его, пока он не согласился."
+   },
+   {
+    "en": "The steps were #worn down# by centuries.",
+    "ru": "Ступени стёрлись за века."
+   }
+  ]
  },
  {
   "id": "2522",
@@ -57447,7 +57967,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/equal.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "All people are #equal#.",
+    "ru": "Все люди равны."
+   },
+   {
+    "en": "Two plus two #equals# four.",
+    "ru": "Два плюс два равно четырём."
+   },
+   {
+    "en": "Cut the cake into #equal# pieces.",
+    "ru": "Разрежь торт на равные куски."
+   }
+  ]
  },
  {
   "id": "2523",
@@ -57457,7 +57990,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/equality.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They fight for gender #equality#.",
+    "ru": "Они борются за равенство полов."
+   },
+   {
+    "en": "#Equality# before the law.",
+    "ru": "Равенство перед законом."
+   },
+   {
+    "en": "There's no #equality# in our house — the cat rules.",
+    "ru": "В нашем доме нет равенства — правит кот."
+   }
+  ]
  },
  {
   "id": "2524",
@@ -57467,17 +58013,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unequal.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It was an #unequal# fight.",
+    "ru": "Это был неравный бой."
+   },
+   {
+    "en": "The pieces of cake were #unequal#.",
+    "ru": "Куски торта были неравными."
+   },
+   {
+    "en": "Pay is still #unequal#.",
+    "ru": "Оплата труда до сих пор неравная."
+   }
+  ]
  },
  {
   "id": "2525",
   "word": "unequality",
   "transcription": "[ˌʌni(ː)ˈkwɒlɪti]",
   "translation": "неравенство",
-  "nuance": null,
+  "nuance": "Правильно: inequality! Форма «unequality» почти не употребляется.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unequality.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Inequality# between rich and poor is growing.",
+    "ru": "Неравенство между богатыми и бедными растёт."
+   },
+   {
+    "en": "Social #inequality# is a big problem.",
+    "ru": "Социальное неравенство — большая проблема."
+   },
+   {
+    "en": "They study income #inequality#.",
+    "ru": "Они изучают неравенство доходов."
+   }
+  ]
  },
  {
   "id": "2526",
@@ -57487,27 +58059,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/equally.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Both answers are #equally# correct.",
+    "ru": "Оба ответа одинаково правильны."
+   },
+   {
+    "en": "Share the sweets #equally#.",
+    "ru": "Раздели конфеты поровну."
+   },
+   {
+    "en": "I love my kids #equally#.",
+    "ru": "Я люблю своих детей одинаково."
+   }
+  ]
  },
  {
   "id": "2527",
   "word": "equalize",
   "transcription": "[ˈiːkwəlaɪz]",
   "translation": "уравнять",
-  "nuance": null,
+  "nuance": "Уравнять; в футболе — сравнять счёт.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/equalize.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #equalized# in the last minute.",
+    "ru": "Он сравнял счёт на последней минуте."
+   },
+   {
+    "en": "The law aims to #equalize# pay.",
+    "ru": "Закон направлен на выравнивание оплаты."
+   },
+   {
+    "en": "#Equalize# the sound on both speakers.",
+    "ru": "Выровняй звук на обеих колонках."
+   }
+  ]
  },
  {
   "id": "2528",
   "word": "likely",
   "transcription": "[ˈlaɪkli]",
   "translation": "вероятно",
-  "nuance": null,
+  "nuance": "Be likely to — вероятно. Probably — вероятно (наречие, чаще).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/likely.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It's #likely# to rain.",
+    "ru": "Вероятно, пойдёт дождь."
+   },
+   {
+    "en": "He'll #likely# be late. Again.",
+    "ru": "Он, скорее всего, опоздает. Снова."
+   },
+   {
+    "en": "What's the most #likely# reason?",
+    "ru": "Какая самая вероятная причина?"
+   }
+  ]
  },
  {
   "id": "2529",
@@ -57517,27 +58128,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unlikely.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It's #unlikely# that he'll call.",
+    "ru": "Вряд ли он позвонит."
+   },
+   {
+    "en": "An #unlikely# friendship: a cat and a mouse.",
+    "ru": "Невероятная дружба: кошка и мышь."
+   },
+   {
+    "en": "We're #unlikely# to finish today.",
+    "ru": "Вряд ли мы закончим сегодня."
+   }
+  ]
  },
  {
   "id": "2530",
   "word": "joint",
   "transcription": "[ʤɔɪnt]",
   "translation": "сустав, шарнир, стык и т. д.",
-  "nuance": null,
+  "nuance": "Сустав, стык; прил. joint — совместный. Разг. joint — забегаловка; косяк.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/joint.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My knee #joints# hurt when it rains.",
+    "ru": "В дождь у меня болят коленные суставы."
+   },
+   {
+    "en": "Check the #joints# in the pipes.",
+    "ru": "Проверь стыки труб."
+   },
+   {
+    "en": "It was a #joint# decision.",
+    "ru": "Это было совместное решение."
+   }
+  ]
  },
  {
   "id": "2531",
   "word": "floor",
   "transcription": "[flɔː]",
   "translation": "пол",
-  "nuance": null,
+  "nuance": "Пол; этаж. Ground floor (брит.) — первый этаж; first floor — второй!",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2575/2575_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't leave clothes on the #floor#!",
+    "ru": "Не оставляй одежду на полу!"
+   },
+   {
+    "en": "We live on the fifth #floor#.",
+    "ru": "Мы живём на пятом этаже."
+   },
+   {
+    "en": "The baby fell asleep on the #floor#.",
+    "ru": "Малыш уснул на полу."
+   }
+  ]
  },
  {
   "id": "2532",
