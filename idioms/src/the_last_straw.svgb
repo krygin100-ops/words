@@ -1,0 +1,10 @@
+<path d="M70 180 L55 110 H145 L130 180 Z" fill="{F}"/>
+<circle cx="45" cy="80" r="28" fill="{F}"/>
+<path d="M30 72 L42 78 M60 72 L48 78" stroke="#000" stroke-width="4"/>
+<path d="M35 92 Q45 86 55 92" stroke-width="3"/>
+<path d="M60 110 H140 L130 85 L110 90 L95 80 L80 90 Z" fill="{L}"/>
+<path d="M110 40 L112 75" stroke="{L}" stroke-width="3"/>
+<path d="M112 30 V40 M105 35 L112 42 L119 35" stroke-width="0"/>
+<path d="M60 170 L40 185 M140 170 L160 185" stroke-width="4"/>
+<path d="M95 130 L100 145 L105 130" stroke="#000" stroke-width="3"/>
+<text x="150" y="40" font-size="15" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">CRACK!</text>

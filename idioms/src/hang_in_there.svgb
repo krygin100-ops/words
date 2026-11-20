@@ -1,0 +1,9 @@
+<path d="M10 40 H190" stroke-width="8"/>
+<path d="M85 40 V60 M115 40 V60" stroke-width="5"/>
+<circle cx="100" cy="85" r="16" fill="{F}"/>
+<path d="M92 82 L97 85 M108 82 L103 85" stroke-width="3"/>
+<path d="M92 94 H108" stroke-width="3"/>
+<path d="M100 101 V140 L90 175 M100 140 L110 175 M100 108 L85 60 M100 108 L115 60" stroke-width="5"/>
+<path d="M75 80 Q70 90 75 95" stroke-width="2"/>
+<path d="M125 75 Q132 85 125 92 Q118 85 125 75 Z" fill="{L}" stroke="none"/>
+<text x="100" y="195" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">don't give up!</text>

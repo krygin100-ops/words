@@ -1,0 +1,9 @@
+<path d="M10 100 Q60 50 110 100 Q60 150 10 100 Z" fill="{F}"/>
+<circle cx="60" cy="100" r="22" fill="{L}"/>
+<circle cx="68" cy="100" r="10" fill="#000"/>
+<path d="M115 100 L160 80 M115 100 L165 120" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M160 150 Q150 130 165 120 Q175 105 190 120 Q195 140 180 150 Z" fill="{F}"/>
+<circle cx="170" cy="125" r="3" fill="{L}" stroke="none"/>
+<circle cx="182" cy="125" r="3" fill="{L}" stroke="none"/>
+<path d="M140 165 V150 M130 175 H190" stroke-width="0"/>
+<text x="70" y="170" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">watching you</text>

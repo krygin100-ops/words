@@ -1,0 +1,11 @@
+<circle cx="60" cy="100" r="16" fill="{F}"/>
+<circle cx="110" cy="100" r="16" fill="{F}"/>
+<path d="M60 116 V160 M110 116 V160"/>
+<path d="M10 40 H95 V70 H60 L50 85 V70 H10 Z" fill="{F}"/>
+<text x="52" y="60" font-size="13" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">…and Tom said</text>
+<rect x="140" y="60" width="50" height="120" fill="{F}"/>
+<rect x="148" y="70" width="34" height="110" fill="#000"/>
+<circle cx="165" cy="105" r="13" fill="{L}"/>
+<path d="M155 95 L152 85 L160 93 M175 95 L178 85 L170 93" fill="{L}"/>
+<path d="M160 108 Q165 112 170 108" stroke="#000" stroke-width="2"/>
+<text x="165" y="50" font-size="15" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">hi!</text>

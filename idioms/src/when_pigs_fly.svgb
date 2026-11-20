@@ -1,0 +1,12 @@
+<ellipse cx="100" cy="100" rx="45" ry="30" fill="{F}"/>
+<circle cx="140" cy="90" r="20" fill="{F}"/>
+<ellipse cx="155" cy="94" rx="8" ry="6" fill="{L}"/>
+<circle cx="152" cy="94" r="1.5" fill="#000"/>
+<circle cx="158" cy="94" r="1.5" fill="#000"/>
+<circle cx="140" cy="82" r="3" fill="{L}" stroke="none"/>
+<path d="M130 72 L125 62 L138 70" fill="{F}"/>
+<path d="M60 95 Q50 85 55 80" stroke-width="3"/>
+<path d="M85 75 Q60 35 90 40 Q105 50 100 75 M110 75 Q115 40 140 45 Q140 65 120 78" fill="{L}"/>
+<path d="M75 128 V140 M95 130 V142 M110 130 V142 M125 125 V137" stroke-width="5"/>
+<g fill="{L}" stroke="none"><circle cx="30" cy="40" r="3"/><circle cx="170" cy="40" r="3"/></g>
+<text x="100" y="180" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">never gonna happen</text>

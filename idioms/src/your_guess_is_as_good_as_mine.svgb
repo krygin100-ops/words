@@ -1,0 +1,7 @@
+<circle cx="55" cy="90" r="18" fill="{F}"/>
+<circle cx="145" cy="90" r="18" fill="{F}"/>
+<path d="M47 98 Q55 94 63 98 M137 98 Q145 94 153 98" stroke-width="3"/>
+<path d="M55 108 V150 L45 185 M55 150 L65 185 M55 118 L30 100 L25 85 M55 118 L80 100 L85 85 M145 108 V150 L135 185 M145 150 L155 185 M145 118 L120 100 L115 85 M145 118 L170 100 L175 85"/>
+<text x="55" y="55" font-size="30" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">?</text>
+<text x="145" y="55" font-size="30" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">?</text>
+<text x="100" y="22" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">no idea either</text>

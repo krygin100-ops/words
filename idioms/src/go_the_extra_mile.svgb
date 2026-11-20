@@ -1,0 +1,10 @@
+<path d="M10 170 H190"/>
+<path d="M30 170 V120 H70 V170" stroke-width="0"/>
+<path d="M120 170 V100" stroke-width="4"/>
+<path d="M105 100 H135 V80 H105 Z" fill="{L}"/>
+<text x="120" y="95" font-size="12" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">FINISH</text>
+<circle cx="165" cy="100" r="13" fill="{F}"/>
+<path d="M163 113 L158 140 L145 168 M158 140 L175 165 M160 122 L180 115 M160 122 L145 130" stroke-width="5"/>
+<path d="M130 135 H140 M128 150 H138" stroke-width="3"/>
+<text x="60" y="80" font-size="15" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">+1 more mile!</text>
+<path d="M30 110 H95 M85 102 L97 110 L85 118" stroke-width="3"/>

@@ -1,0 +1,15 @@
+<path d="M10 185 H190"/>
+<path d="M40 185 V110" stroke-width="10"/>
+<circle cx="40" cy="85" r="30" fill="{F}"/>
+<path d="M160 185 V110" stroke-width="10"/>
+<circle cx="160" cy="85" r="30" fill="{F}"/>
+<circle cx="160" cy="80" r="10" fill="{L}"/>
+<path d="M152 72 L150 64 L157 70 M168 72 L170 64 L163 70" fill="{L}"/>
+<circle cx="157" cy="80" r="1.5" fill="#000"/>
+<circle cx="163" cy="80" r="1.5" fill="#000"/>
+<ellipse cx="85" cy="165" rx="25" ry="12" fill="{F}"/>
+<circle cx="62" cy="152" r="12" fill="{F}"/>
+<path d="M68 142 L75 130" stroke-width="4"/>
+<path d="M75 177 V185 M100 177 V185" stroke-width="4"/>
+<text x="55" y="35" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">WOOF!</text>
+<text x="135" y="140" font-size="13" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">wrong one!</text>

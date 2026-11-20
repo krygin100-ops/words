@@ -1,0 +1,13 @@
+<path d="M10 175 H190"/>
+<path d="M40 175 Q30 140 70 135 H130 Q160 135 160 175 Z" fill="{F}"/>
+<circle cx="150" cy="135" r="22" fill="{F}"/>
+<path d="M135 125 Q125 135 132 150" fill="{F}" stroke-width="5"/>
+<path d="M145 135 Q150 139 155 135 M158 133 Q162 137 166 133" stroke-width="3"/>
+<ellipse cx="170" cy="145" rx="4" ry="3" fill="#000"/>
+<path d="M40 165 Q20 155 25 145" stroke-width="5"/>
+<text x="165" y="100" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">Zzz</text>
+<circle cx="50" cy="70" r="13" fill="{F}"/>
+<path d="M50 83 V115 M50 90 L70 85 M50 90 L35 105" stroke-width="4"/>
+<path d="M70 85 L75 80" stroke-width="4"/>
+<path d="M65 60 L72 55" stroke-width="0"/>
+<text x="90" y="40" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">shh… don't!</text>

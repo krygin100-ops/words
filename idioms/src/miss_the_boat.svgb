@@ -1,0 +1,11 @@
+<path d="M10 130 Q60 120 100 130 Q150 140 190 130 V190 H10 Z" fill="{F}"/>
+<path d="M120 115 H185 L175 130 H130 Z" fill="{L}"/>
+<path d="M155 115 V70 L180 108 Z" fill="{L}"/>
+<path d="M10 115 H70 V130 H10 Z" fill="{F}"/>
+<circle cx="55" cy="75" r="13" fill="{F}"/>
+<circle cx="51" cy="73" r="3" fill="{L}"/>
+<circle cx="59" cy="73" r="3" fill="{L}"/>
+<ellipse cx="55" cy="81" rx="4" ry="3" fill="#000"/>
+<path d="M55 88 V115 M55 95 L85 85 M55 95 L40 108"/>
+<path d="M100 110 H115 M95 120 H112" stroke-width="3"/>
+<text x="70" y="40" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">wait for me!</text>
