@@ -1,0 +1,5 @@
+<circle cx="100" cy="95" r="50" fill="{F}"/>
+<path d="M72 85 Q80 75 88 85 M112 85 Q120 75 128 85" stroke-width="4"/>
+<path d="M68 105 Q100 145 132 105 Z" fill="{L}"/>
+<g fill="{L}" stroke="none"><circle cx="30" cy="30" r="5"/><circle cx="170" cy="35" r="5"/><circle cx="25" cy="160" r="5"/><circle cx="175" cy="165" r="5"/></g>
+<text x="100" y="185" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">ho ho ho!</text>

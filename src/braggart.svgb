@@ -1,0 +1,8 @@
+<circle cx="100" cy="60" r="25" fill="{F}"/>
+<path d="M85 55 H95 M105 55 H115" stroke-width="4"/>
+<path d="M85 72 Q100 82 115 72" stroke-width="4"/>
+<path d="M80 30 L100 50 L90 30" stroke-width="0"/>
+<path d="M70 190 L75 95 H125 L130 190" fill="{F}"/>
+<path d="M75 105 L45 75 M125 105 L155 75" stroke-width="7"/>
+<circle cx="100" cy="130" r="12" fill="{L}"/>
+<text x="100" y="22" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">I'm the BEST!</text>

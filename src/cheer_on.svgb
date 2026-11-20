@@ -1,0 +1,6 @@
+<circle cx="70" cy="80" r="18" fill="{F}"/>
+<path d="M60 76 Q70 92 80 76 Z" fill="{L}"/>
+<path d="M70 98 V140 L55 180 M70 140 L85 180 M70 108 L40 70 M70 108 L100 70"/>
+<path d="M100 70 V30 L140 40 L100 50" fill="{L}" stroke-width="4"/>
+<text x="140" y="120" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">GO!</text>
+<text x="150" y="150" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">GO!</text>

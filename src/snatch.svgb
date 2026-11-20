@@ -1,0 +1,6 @@
+<circle cx="45" cy="120" r="30" fill="{L}"/>
+<path d="M45 90 Q50 75 60 80" stroke-width="3"/>
+<path d="M190 70 L120 95 Q100 100 85 110" stroke-width="10"/>
+<path d="M85 110 L72 95 M85 110 L70 115 M85 110 L78 128" stroke-width="6"/>
+<path d="M30 70 L20 60 M60 70 L70 55" stroke-width="3"/>
+<text x="140" y="160" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">MINE!</text>
