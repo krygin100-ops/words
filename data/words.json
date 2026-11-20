@@ -52444,30 +52444,69 @@
   "word": "prospect",
   "transcription": "[ˈprɒspɛkt]",
   "translation": "перспектива, вид будущего",
-  "nuance": null,
+  "nuance": "Перспектива, виды на будущее (часто мн.ч. prospects). Opportunity — конкретная возможность.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/prospect.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #prospect# of a long weekend makes me happy.",
+    "ru": "Перспектива длинных выходных меня радует."
+   },
+   {
+    "en": "Job #prospects# are good in IT.",
+    "ru": "В IT хорошие перспективы трудоустройства."
+   },
+   {
+    "en": "There's little #prospect# of rain.",
+    "ru": "Дождя, скорее всего, не будет."
+   }
+  ]
  },
  {
   "id": "2283",
   "word": "prospective",
   "transcription": "[prəsˈpɛktɪv]",
   "translation": "перспективный",
-  "nuance": null,
+  "nuance": "Ловушка: prospective = потенциальный, будущий (не «перспективный» в смысле многообещающий — это promising).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/prospective.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We showed the flat to a #prospective# buyer.",
+    "ru": "Мы показали квартиру потенциальному покупателю."
+   },
+   {
+    "en": "#Prospective# students can visit the campus.",
+    "ru": "Будущие студенты могут посетить кампус."
+   },
+   {
+    "en": "She met her #prospective# in-laws.",
+    "ru": "Она познакомилась с будущими родственниками мужа."
+   }
+  ]
  },
  {
   "id": "2284",
   "word": "success",
   "transcription": "[səkˈsɛs]",
   "translation": "успех",
-  "nuance": null,
+  "nuance": "Успех. Ложный друг: success НЕ «успеть» (make it, be on time).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/success.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The party was a big #success#.",
+    "ru": "Вечеринка удалась на славу."
+   },
+   {
+    "en": "Hard work is the key to #success#.",
+    "ru": "Упорный труд — ключ к успеху."
+   },
+   {
+    "en": "I wish you #success# in your exams.",
+    "ru": "Желаю успехов на экзаменах."
+   }
+  ]
  },
  {
   "id": "2285",
@@ -52477,7 +52516,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/successful.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She's a #successful# lawyer.",
+    "ru": "Она успешный юрист."
+   },
+   {
+    "en": "The operation was #successful#.",
+    "ru": "Операция прошла успешно."
+   },
+   {
+    "en": "Our #successful# attempt to bathe the cat.",
+    "ru": "Наша успешная попытка искупать кота."
+   }
+  ]
  },
  {
   "id": "2286",
@@ -52487,87 +52539,204 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unsuccessful.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My #unsuccessful# attempt to cook ended with pizza delivery.",
+    "ru": "Моя неудачная попытка приготовить ужин закончилась доставкой пиццы."
+   },
+   {
+    "en": "He was #unsuccessful# in the interview.",
+    "ru": "Собеседование у него не удалось."
+   },
+   {
+    "en": "After three #unsuccessful# tries, she gave up.",
+    "ru": "После трёх неудачных попыток она сдалась."
+   }
+  ]
  },
  {
   "id": "2287",
   "word": "liable",
   "transcription": "[ˈlaɪəbl]",
   "translation": "подлежащий",
-  "nuance": null,
+  "nuance": "Юридическое: подлежащий (штрафу), несущий ответственность; разг. — склонный к чему-то плохому.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/liable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "You're #liable# for any damage to the car.",
+    "ru": "Вы несёте ответственность за любой ущерб машине."
+   },
+   {
+    "en": "Drivers who speed are #liable# to a fine.",
+    "ru": "Водители, превышающие скорость, подлежат штрафу."
+   },
+   {
+    "en": "He's #liable# to forget things when he's tired.",
+    "ru": "Когда он устаёт, он склонен всё забывать."
+   }
+  ]
  },
  {
   "id": "2288",
   "word": "liability",
   "transcription": "[ˌlaɪəˈbɪlɪti]",
   "translation": "ответственность, подверженность",
-  "nuance": null,
+  "nuance": "Юр. ответственность; разг. — обуза, слабое звено.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/liability.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The company denied #liability# for the accident.",
+    "ru": "Компания отрицала ответственность за аварию."
+   },
+   {
+    "en": "Our old car is a #liability# — it breaks every week.",
+    "ru": "Наша старая машина — обуза, ломается каждую неделю."
+   },
+   {
+    "en": "Get #liability# insurance.",
+    "ru": "Оформи страховку гражданской ответственности."
+   }
+  ]
  },
  {
   "id": "2289",
   "word": "contend",
   "transcription": "[kənˈtɛnd]",
   "translation": "бороться, соперничать",
-  "nuance": null,
+  "nuance": "Книжное: бороться, соперничать; contend with — справляться с; также утверждать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/contend.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Three teams #contend# for the cup.",
+    "ru": "Три команды борются за кубок."
+   },
+   {
+    "en": "Parents have to #contend# with tantrums.",
+    "ru": "Родителям приходится справляться с истериками."
+   },
+   {
+    "en": "He #contends# that he's innocent.",
+    "ru": "Он утверждает, что невиновен."
+   }
+  ]
  },
  {
   "id": "2290",
   "word": "contention",
   "transcription": "[kənˈtɛnʃən]",
   "translation": "раздор",
-  "nuance": null,
+  "nuance": "Раздор, спор. Bone of contention — яблоко раздора. In contention — в борьбе за.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/contention.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The TV remote is a constant source of #contention#.",
+    "ru": "Пульт — постоянный источник раздора."
+   },
+   {
+    "en": "The last cookie became a bone of #contention#.",
+    "ru": "Последнее печенье стало яблоком раздора."
+   },
+   {
+    "en": "She's in #contention# for the prize.",
+    "ru": "Она претендует на приз."
+   }
+  ]
  },
  {
   "id": "2291",
   "word": "contentious",
   "transcription": "[kənˈtɛnʃəs]",
   "translation": "сварливый",
-  "nuance": null,
+  "nuance": "Чаще — спорный, вызывающий споры; о человеке — сварливый, любящий спорить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/contentious.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Pineapple on pizza is a #contentious# topic.",
+    "ru": "Ананас на пицце — спорная тема."
+   },
+   {
+    "en": "It was a #contentious# decision.",
+    "ru": "Это было спорное решение."
+   },
+   {
+    "en": "He's a #contentious# old man who argues with everyone.",
+    "ru": "Он сварливый старик, который со всеми спорит."
+   }
+  ]
  },
  {
   "id": "2292",
   "word": "dream",
   "transcription": "[driːm]",
   "translation": "сон (видение)",
-  "nuance": null,
+  "nuance": "Сон (видение) и мечта. Sleep — сон как процесс (I need sleep).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/5590/5590_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I had a strange #dream# about a talking cat.",
+    "ru": "Мне приснился странный сон про говорящего кота."
+   },
+   {
+    "en": "Sweet #dreams#!",
+    "ru": "Сладких снов!"
+   },
+   {
+    "en": "In my #dream#, I could fly.",
+    "ru": "Во сне я умел летать."
+   }
+  ]
  },
  {
   "id": "2293",
   "word": "daydream",
   "transcription": "[ˈdeɪˌdriːm]",
   "translation": "грезы",
-  "nuance": null,
+  "nuance": "Мечтать наяву, витать в облаках.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/daydream.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Stop #daydreaming# and do your homework!",
+    "ru": "Хватит витать в облаках, делай домашку!"
+   },
+   {
+    "en": "He spent the meeting #daydreaming# about pizza.",
+    "ru": "Всё совещание он грезил о пицце."
+   },
+   {
+    "en": "It's just a #daydream#.",
+    "ru": "Это просто мечты."
+   }
+  ]
  },
  {
   "id": "2294",
   "word": "whereas",
   "transcription": "[weərˈæz]",
   "translation": "тогда как",
-  "nuance": null,
+  "nuance": "Книжное противопоставление; разг. — while, but.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/whereas.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I love winter, #whereas# my wife loves summer.",
+    "ru": "Я люблю зиму, тогда как жена любит лето."
+   },
+   {
+    "en": "Cats sleep a lot, #whereas# dogs need walks.",
+    "ru": "Кошки много спят, тогда как собакам нужны прогулки."
+   },
+   {
+    "en": "He's quiet, #whereas# his brother never stops talking.",
+    "ru": "Он тихий, а его брат болтает без умолку."
+   }
+  ]
  },
  {
   "id": "2295",
@@ -52577,67 +52746,158 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/4747/4747_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Blow out# the candles and make a wish!",
+    "ru": "Задуй свечи и загадай желание!"
+   },
+   {
+    "en": "The wind #blew out# the match.",
+    "ru": "Ветер задул спичку."
+   },
+   {
+    "en": "Grandpa needed three tries to #blow out# all 80 candles.",
+    "ru": "Дедушке понадобилось три попытки, чтобы задуть все 80 свечей."
+   }
+  ]
  },
  {
   "id": "2296",
   "word": "regard",
   "transcription": "[rɪˈgɑːd]",
   "translation": "считать, рассматривать",
-  "nuance": null,
+  "nuance": "Regard as — считать (кем-то), книжнее, чем consider / think of.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/regard_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #regard# him as my best friend.",
+    "ru": "Я считаю его своим лучшим другом."
+   },
+   {
+    "en": "She's #regarded# as the best chef in town.",
+    "ru": "Её считают лучшим поваром в городе."
+   },
+   {
+    "en": "How do you #regard# the new rules?",
+    "ru": "Как ты относишься к новым правилам?"
+   }
+  ]
  },
  {
   "id": "2297",
   "word": "disregard",
   "transcription": "[ˌdɪsrɪˈgɑːd]",
   "translation": "пренебрегать",
-  "nuance": null,
+  "nuance": "Официальное «игнорировать». Ignore — проще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/disregard.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #disregarded# the doctor's advice.",
+    "ru": "Он пренебрёг советом врача."
+   },
+   {
+    "en": "Please #disregard# my previous email.",
+    "ru": "Пожалуйста, не обращайте внимания на моё предыдущее письмо."
+   },
+   {
+    "en": "The kids #disregarded# the \"no running\" sign.",
+    "ru": "Дети проигнорировали табличку «не бегать»."
+   }
+  ]
  },
  {
   "id": "2298",
   "word": "regardless",
   "transcription": "[rɪˈgɑːdlɪs]",
   "translation": "несмотря на",
-  "nuance": null,
+  "nuance": "Regardless of — независимо от; в конце фразы — «всё равно». «Irregardless» — ошибка!",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/regardless.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We'll go #regardless# of the weather.",
+    "ru": "Мы поедем, несмотря на погоду."
+   },
+   {
+    "en": "He eats chocolate #regardless# of his diet.",
+    "ru": "Он ест шоколад, невзирая на диету."
+   },
+   {
+    "en": "It was raining, but we went #regardless#.",
+    "ru": "Шёл дождь, но мы всё равно пошли."
+   }
+  ]
  },
  {
   "id": "2299",
   "word": "suggest",
   "transcription": "[səˈʤɛst]",
   "translation": "предлагать",
-  "nuance": null,
+  "nuance": "Suggest that we do / suggest doing (не «suggest to do»!). Также намекать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/suggest.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #suggest# we order pizza.",
+    "ru": "Предлагаю заказать пиццу."
+   },
+   {
+    "en": "Can you #suggest# a good book?",
+    "ru": "Можешь посоветовать хорошую книгу?"
+   },
+   {
+    "en": "Are you #suggesting# I'm fat?",
+    "ru": "Ты намекаешь, что я толстый?"
+   }
+  ]
  },
  {
   "id": "2300",
   "word": "suggestion",
   "transcription": "[səˈʤɛsʧən]",
   "translation": "предложение",
-  "nuance": null,
+  "nuance": "Предложение, совет (не «предложение» в грамматике — sentence!).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/suggestion.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Any #suggestions# for dinner?",
+    "ru": "Есть предложения насчёт ужина?"
+   },
+   {
+    "en": "Thanks for the #suggestion#.",
+    "ru": "Спасибо за предложение."
+   },
+   {
+    "en": "At my wife's #suggestion#, we got a dog.",
+    "ru": "По предложению жены мы завели собаку."
+   }
+  ]
  },
  {
   "id": "2301",
   "word": "solve",
   "transcription": "[sɒlv]",
   "translation": "решить",
-  "nuance": null,
+  "nuance": "Решить (задачу, проблему), раскрыть (преступление). Decide — принять решение (другое!).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/solve.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Can you #solve# this puzzle?",
+    "ru": "Можешь решить эту головоломку?"
+   },
+   {
+    "en": "Money doesn't #solve# everything.",
+    "ru": "Деньги не решают всё."
+   },
+   {
+    "en": "Police #solved# the crime in a week.",
+    "ru": "Полиция раскрыла преступление за неделю."
+   }
+  ]
  },
  {
   "id": "2302",
@@ -52647,17 +52907,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unsolved.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The case remains #unsolved#.",
+    "ru": "Дело остаётся нераскрытым."
+   },
+   {
+    "en": "Some maths problems are still #unsolved#.",
+    "ru": "Некоторые математические задачи до сих пор не решены."
+   },
+   {
+    "en": "The mystery of the missing socks is #unsolved#.",
+    "ru": "Тайна пропавших носков не раскрыта."
+   }
+  ]
  },
  {
   "id": "2303",
   "word": "confuse",
   "transcription": "[kənˈfjuːz]",
   "translation": "путать",
-  "nuance": null,
+  "nuance": "Путать, сбивать с толку. Mix up — разг. перепутать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/confuse.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #confuse# me with my brother.",
+    "ru": "Не путай меня с братом."
+   },
+   {
+    "en": "The new rules #confused# everyone.",
+    "ru": "Новые правила всех запутали."
+   },
+   {
+    "en": "I always #confuse# left and right.",
+    "ru": "Я всегда путаю лево и право."
+   }
+  ]
  },
  {
   "id": "2304",
@@ -52667,37 +52953,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/confusion.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There was some #confusion# about the time.",
+    "ru": "Была путаница со временем."
+   },
+   {
+    "en": "In the #confusion#, I lost my bag.",
+    "ru": "В суматохе я потерял сумку."
+   },
+   {
+    "en": "Sorry for the #confusion#.",
+    "ru": "Извините за путаницу."
+   }
+  ]
  },
  {
   "id": "2305",
   "word": "join",
   "transcription": "[ʤɔɪn]",
   "translation": "присоединить (ся)",
-  "nuance": null,
+  "nuance": "Присоединиться (join us — БЕЗ to!), вступить, соединить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/join.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Do you want to #join# us for dinner?",
+    "ru": "Хочешь поужинать с нами?"
+   },
+   {
+    "en": "She #joined# the gym in January. And left in February.",
+    "ru": "Она записалась в спортзал в январе. И ушла в феврале."
+   },
+   {
+    "en": "#Join# the two pieces together.",
+    "ru": "Соедини две части."
+   }
+  ]
  },
  {
   "id": "2306",
   "word": "horrible",
   "transcription": "[ˈhɒrəbl]",
   "translation": "ужасный, отвратительный",
-  "nuance": null,
+  "nuance": "Разг. «ужасный, противный». Terrible — синоним; horrific — ужасающий (сильнее, о трагедиях).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/horrible.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The weather was #horrible#.",
+    "ru": "Погода была ужасной."
+   },
+   {
+    "en": "What a #horrible# smell!",
+    "ru": "Какой отвратительный запах!"
+   },
+   {
+    "en": "Don't be #horrible# to your sister.",
+    "ru": "Не будь вредным с сестрой."
+   }
+  ]
  },
  {
   "id": "2307",
   "word": "take off",
   "transcription": "[teɪkɒf]",
   "translation": "взлететь",
-  "nuance": null,
+  "nuance": "Взлететь; перен. — резко пойти в гору. Также take off — снять (одежду).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/take_off_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The plane #took off# on time. For once.",
+    "ru": "Самолёт взлетел вовремя. Хоть раз."
+   },
+   {
+    "en": "Her career #took off# after the film.",
+    "ru": "Её карьера резко пошла вверх после фильма."
+   },
+   {
+    "en": "We #take off# in ten minutes.",
+    "ru": "Мы взлетаем через десять минут."
+   }
+  ]
  },
  {
   "id": "2308",
@@ -52707,17 +53045,43 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/5984/5984_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Turn off your phones during #takeoff#.",
+    "ru": "Выключите телефоны во время взлёта."
+   },
+   {
+    "en": "I hate #takeoff# — my ears hurt.",
+    "ru": "Ненавижу взлёт — у меня болят уши."
+   },
+   {
+    "en": "#Takeoff# was delayed by fog.",
+    "ru": "Взлёт задержали из-за тумана."
+   }
+  ]
  },
  {
   "id": "2309",
   "word": "grow up",
   "transcription": "[grəʊʌp]",
   "translation": "вырастать",
-  "nuance": null,
+  "nuance": "Вырасти, взрослеть (о людях). Grow — расти (о растениях, числах).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/grow_up.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "What do you want to be when you #grow up#?",
+    "ru": "Кем ты хочешь стать, когда вырастешь?"
+   },
+   {
+    "en": "I #grew up# in a small village.",
+    "ru": "Я вырос в маленькой деревне."
+   },
+   {
+    "en": "#Grow up#!",
+    "ru": "Повзрослей!"
+   }
+  ]
  },
  {
   "id": "2310",
@@ -52727,17 +53091,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/express.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #expresses# his love with pancakes.",
+    "ru": "Он выражает любовь блинами."
+   },
+   {
+    "en": "It's hard to #express# feelings in a foreign language.",
+    "ru": "Трудно выражать чувства на иностранном языке."
+   },
+   {
+    "en": "She #expressed# her thanks.",
+    "ru": "Она выразила благодарность."
+   }
+  ]
  },
  {
   "id": "2311",
   "word": "expression",
   "transcription": "[ɪksˈprɛʃən]",
   "translation": "выражение",
-  "nuance": null,
+  "nuance": "Выражение (лица, фраза), самовыражение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/expression.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Her #expression# changed when she saw the bill.",
+    "ru": "Выражение её лица изменилось, когда она увидела счёт."
+   },
+   {
+    "en": "\"Break a leg\" is an English #expression#.",
+    "ru": "«Break a leg» — английское выражение."
+   },
+   {
+    "en": "Music is a form of self-#expression#.",
+    "ru": "Музыка — форма самовыражения."
+   }
+  ]
  },
  {
   "id": "2312",
@@ -52747,37 +53137,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/expressive.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She has very #expressive# eyes.",
+    "ru": "У неё очень выразительные глаза."
+   },
+   {
+    "en": "His #expressive# face shows every emotion.",
+    "ru": "Его выразительное лицо показывает каждую эмоцию."
+   },
+   {
+    "en": "Italian is an #expressive# language.",
+    "ru": "Итальянский — выразительный язык."
+   }
+  ]
  },
  {
   "id": "2313",
   "word": "take a look",
   "transcription": "[teɪkəlʊk]",
   "translation": "взглянуть",
-  "nuance": null,
+  "nuance": "Разг. «взглянуть, глянуть». Look at — смотреть на; have a look — брит. синоним.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/take_a_look.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Take a look# at this funny video.",
+    "ru": "Глянь на это смешное видео."
+   },
+   {
+    "en": "Can you #take a look# at my car?",
+    "ru": "Можешь посмотреть мою машину?"
+   },
+   {
+    "en": "Let me #take a look#.",
+    "ru": "Дай-ка я гляну."
+   }
+  ]
  },
  {
   "id": "2314",
   "word": "series",
   "transcription": "[ˈsɪəriːz]",
   "translation": "сериал",
-  "nuance": null,
+  "nuance": "Сериал; серия, ряд. Ед. и мн.ч. одинаковы: one series, two series.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/series.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We watched a whole #series# in one weekend.",
+    "ru": "Мы посмотрели целый сериал за одни выходные."
+   },
+   {
+    "en": "It's a TV #series# about doctors.",
+    "ru": "Это сериал про врачей."
+   },
+   {
+    "en": "A #series# of accidents happened that day.",
+    "ru": "В тот день произошла серия аварий."
+   }
+  ]
  },
  {
   "id": "2315",
   "word": "conserve",
   "transcription": "[kənˈsɜːv]",
   "translation": "беречь, экономить",
-  "nuance": null,
+  "nuance": "Беречь, экономить (ресурсы). Save — проще. Ложный друг: не «консервировать» (preserve, can).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/conserve.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Conserve# water — turn off the tap!",
+    "ru": "Береги воду — закрой кран!"
+   },
+   {
+    "en": "We need to #conserve# energy.",
+    "ru": "Нам нужно экономить энергию."
+   },
+   {
+    "en": "I'm #conserving# my energy for the weekend.",
+    "ru": "Берегу силы на выходные."
+   }
+  ]
  },
  {
   "id": "2316",
@@ -52787,37 +53229,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/conservation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Wildlife #conservation# is important.",
+    "ru": "Охрана дикой природы важна."
+   },
+   {
+    "en": "Energy #conservation# saves money.",
+    "ru": "Экономия энергии экономит деньги."
+   },
+   {
+    "en": "She works in nature #conservation#.",
+    "ru": "Она работает в сфере охраны природы."
+   }
+  ]
  },
  {
   "id": "2317",
   "word": "plot",
   "transcription": "[plɒt]",
   "translation": "план, чертёж",
-  "nuance": null,
+  "nuance": "Участок, план/чертёж; также сюжет и заговор (plot against).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/plot.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We bought a #plot# of land.",
+    "ru": "Мы купили участок земли."
+   },
+   {
+    "en": "The architect drew a #plot# of the house.",
+    "ru": "Архитектор начертил план дома."
+   },
+   {
+    "en": "They're #plotting# something — they're too quiet.",
+    "ru": "Они что-то замышляют — слишком тихо."
+   }
+  ]
  },
  {
   "id": "2318",
   "word": "tube",
   "transcription": "[tjuːb]",
   "translation": "труба",
-  "nuance": null,
+  "nuance": "Трубка, труба (тонкая); the Tube — лондонское метро. Pipe — труба (водопровод).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tube_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Water flows through a #tube#.",
+    "ru": "Вода течёт по трубке."
+   },
+   {
+    "en": "In London, we took the #Tube#.",
+    "ru": "В Лондоне мы ездили на метро."
+   },
+   {
+    "en": "The doctor put a #tube# down his throat.",
+    "ru": "Врач ввёл ему трубку в горло."
+   }
+  ]
  },
  {
   "id": "2319",
   "word": "minor",
   "transcription": "[ˈmaɪnə]",
   "translation": "второстепенный, незначительный",
-  "nuance": null,
+  "nuance": "Незначительный (противоп. major). Также minor — несовершеннолетний; минор в музыке.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/minor.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It's just a #minor# problem.",
+    "ru": "Это мелкая проблема."
+   },
+   {
+    "en": "He had a #minor# role in the film.",
+    "ru": "У него была второстепенная роль в фильме."
+   },
+   {
+    "en": "Only #minor# injuries, luckily.",
+    "ru": "К счастью, только лёгкие травмы."
+   }
+  ]
  },
  {
   "id": "2320",
@@ -52827,7 +53321,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/minority.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Only a #minority# of people read the rules.",
+    "ru": "Лишь меньшинство читает правила."
+   },
+   {
+    "en": "The law protects ethnic #minorities#.",
+    "ru": "Закон защищает этнические меньшинства."
+   },
+   {
+    "en": "I'm in the #minority# — I don't like coffee.",
+    "ru": "Я в меньшинстве — не люблю кофе."
+   }
+  ]
  },
  {
   "id": "2321",
@@ -52837,7 +53344,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/30954/30954_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The egg #exploded# in the microwave.",
+    "ru": "Яйцо взорвалось в микроволновке."
+   },
+   {
+    "en": "Mum #exploded# when she saw the mess.",
+    "ru": "Мама взорвалась, увидев бардак."
+   },
+   {
+    "en": "The population #exploded# after the war.",
+    "ru": "Население резко выросло после войны."
+   }
+  ]
  },
  {
   "id": "2322",
@@ -52847,7 +53367,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/4791/4791_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We heard a loud #explosion#.",
+    "ru": "Мы услышали громкий взрыв."
+   },
+   {
+    "en": "The #explosion# broke windows on the street.",
+    "ru": "Взрыв выбил окна на улице."
+   },
+   {
+    "en": "There was an #explosion# of laughter.",
+    "ru": "Раздался взрыв смеха."
+   }
+  ]
  },
  {
   "id": "2323",
@@ -52857,17 +53390,43 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/16721/16721_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Keep away — it's #explosive#!",
+    "ru": "Держись подальше — это взрывоопасно!"
+   },
+   {
+    "en": "He has an #explosive# temper.",
+    "ru": "У него взрывной характер."
+   },
+   {
+    "en": "Police found #explosives# in the car.",
+    "ru": "Полиция нашла взрывчатку в машине."
+   }
+  ]
  },
  {
   "id": "2324",
   "word": "honest",
   "transcription": "[ˈɒnɪst]",
   "translation": "честный",
-  "nuance": null,
+  "nuance": "Честный. Frank — откровенный; sincere — искренний.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/honest.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "To be #honest#, I hate this song.",
+    "ru": "Честно говоря, я ненавижу эту песню."
+   },
+   {
+    "en": "He's an #honest# man.",
+    "ru": "Он честный человек."
+   },
+   {
+    "en": "Be #honest# — do I look old?",
+    "ru": "Скажи честно — я выгляжу старым?"
+   }
+  ]
  },
  {
   "id": "2325",
@@ -52877,17 +53436,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/honesty.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Honesty# is the best policy.",
+    "ru": "Честность — лучшая политика."
+   },
+   {
+    "en": "I appreciate your #honesty#.",
+    "ru": "Ценю твою честность."
+   },
+   {
+    "en": "Kids say things with brutal #honesty#.",
+    "ru": "Дети говорят с беспощадной честностью."
+   }
+  ]
  },
  {
   "id": "2326",
   "word": "honestly",
   "transcription": "[ˈɒnɪstli]",
   "translation": "честно говоря",
-  "nuance": null,
+  "nuance": "Честно говоря; разг. «ну знаешь!» (раздражение).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/honestly.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Honestly#, I don't remember.",
+    "ru": "Честно, не помню."
+   },
+   {
+    "en": "#Honestly#! Who eats pizza for breakfast?",
+    "ru": "Ну правда! Кто ест пиццу на завтрак?"
+   },
+   {
+    "en": "I #honestly# thought you were joking.",
+    "ru": "Я и правда думал, что ты шутишь."
+   }
+  ]
  },
  {
   "id": "2327",
@@ -52897,27 +53482,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dishonest.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It was #dishonest# to hide the bill.",
+    "ru": "Скрывать счёт было нечестно."
+   },
+   {
+    "en": "He's #dishonest# with his boss.",
+    "ru": "Он нечестен с начальником."
+   },
+   {
+    "en": "#Dishonest# sellers trick tourists.",
+    "ru": "Нечестные продавцы обманывают туристов."
+   }
+  ]
  },
  {
   "id": "2328",
   "word": "track",
   "transcription": "[træk]",
   "translation": "след, выслеживать",
-  "nuance": null,
+  "nuance": "След; отслеживать. Keep track of — следить за; lose track — сбиться со счёта. Также трек, колея.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/track.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The hunter followed the #tracks# of the fox.",
+    "ru": "Охотник шёл по следам лисы."
+   },
+   {
+    "en": "The app #tracks# my steps.",
+    "ru": "Приложение отслеживает мои шаги."
+   },
+   {
+    "en": "Keep #track# of your spending.",
+    "ru": "Следи за своими расходами."
+   }
+  ]
  },
  {
   "id": "2329",
   "word": "odd",
   "transcription": "[ɒd]",
   "translation": "необычный, неправильный",
-  "nuance": null,
+  "nuance": "Странный (мягче, чем strange); непарный; нечётный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/odd.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "That's #odd# — my keys were here a minute ago.",
+    "ru": "Странно — ключи только что были здесь."
+   },
+   {
+    "en": "He wears #odd# socks on purpose.",
+    "ru": "Он нарочно носит разные носки."
+   },
+   {
+    "en": "3 and 5 are #odd# numbers.",
+    "ru": "3 и 5 — нечётные числа."
+   }
+  ]
  },
  {
   "id": "2330",
@@ -52927,17 +53551,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/oddity.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The cat's love for cucumbers is an #oddity#.",
+    "ru": "Любовь кота к огурцам — странность."
+   },
+   {
+    "en": "The museum is full of #oddities#.",
+    "ru": "Музей полон диковинок."
+   },
+   {
+    "en": "Her #oddities# make her fun.",
+    "ru": "Её странности делают её забавной."
+   }
+  ]
  },
  {
   "id": "2331",
   "word": "guide",
   "transcription": "[gaɪd]",
   "translation": "вести, направлять",
-  "nuance": null,
+  "nuance": "Направлять, вести (помогая). Lead — вести (впереди, руководить).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8994/8994_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A local #guided# us through the old town.",
+    "ru": "Местный житель провёл нас по старому городу."
+   },
+   {
+    "en": "Let your heart #guide# you.",
+    "ru": "Пусть сердце ведёт тебя."
+   },
+   {
+    "en": "The teacher #guided# the students through the exam.",
+    "ru": "Учитель провёл студентов через экзамен."
+   }
+  ]
  },
  {
   "id": "2332",
