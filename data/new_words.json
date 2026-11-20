@@ -27106,452 +27106,992 @@
  {
   "id": "tiresome",
   "word": "tiresome",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈtaɪəsəm/",
+  "translation": "утомительный, надоедливый",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Filling in forms is #tiresome#, but someone has to do it.",
+    "ru": "Заполнять анкеты утомительно, но кто-то должен это делать."
+   },
+   {
+    "en": "My neighbour's #tiresome# jokes start every morning at 7 a.m.",
+    "ru": "Надоедливые шутки соседа начинаются каждое утро в 7 утра."
+   },
+   {
+    "en": "The trip was long and #tiresome#, so we slept all day.",
+    "ru": "Поездка была долгой и утомительной, так что мы проспали весь день."
+   }
+  ]
  },
  {
   "id": "unmistakable",
   "word": "unmistakable",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˌʌnmɪˈsteɪkəbl/",
+  "translation": "безошибочный, явный",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The smell of burnt toast was #unmistakable#.",
+    "ru": "Запах подгоревшего тоста ни с чем не спутаешь."
+   },
+   {
+    "en": "Her laugh is #unmistakable# — you can hear it from the street.",
+    "ru": "Её смех ни с чем не спутаешь — его слышно с улицы."
+   },
+   {
+    "en": "There was an #unmistakable# look of guilt on the dog's face.",
+    "ru": "На морде собаки была явная вина."
+   }
+  ]
  },
  {
   "id": "unify",
   "word": "unify",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈjuːnɪfaɪ/",
+  "translation": "объединять",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Nothing #unifies# a family like a broken Wi-Fi router.",
+    "ru": "Ничто так не объединяет семью, как сломанный роутер."
+   },
+   {
+    "en": "The new leader promised to #unify# the country.",
+    "ru": "Новый лидер пообещал объединить страну."
+   },
+   {
+    "en": "Football can #unify# people who agree on nothing else.",
+    "ru": "Футбол может объединить людей, которые больше ни в чём не согласны."
+   }
+  ]
  },
  {
   "id": "motorist",
   "word": "motorist",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈməʊtərɪst/",
+  "translation": "автомобилист",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Every #motorist# in the city hates this roundabout.",
+    "ru": "Каждый автомобилист в городе ненавидит эту развязку."
+   },
+   {
+    "en": "A kind #motorist# stopped to help us change the tyre.",
+    "ru": "Добрый водитель остановился и помог нам поменять колесо."
+   },
+   {
+    "en": "#Motorists# are advised to avoid the bridge today.",
+    "ru": "Автомобилистам советуют сегодня объезжать мост."
+   }
+  ]
  },
  {
   "id": "emphasise",
   "word": "emphasise",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈemfəsaɪz/",
+  "translation": "подчёркивать, делать акцент",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "My mum always #emphasises# that she was right.",
+    "ru": "Мама всегда подчёркивает, что она была права."
+   },
+   {
+    "en": "The teacher #emphasised# that the test is on Monday.",
+    "ru": "Учитель особо подчеркнул, что тест в понедельник."
+   },
+   {
+    "en": "I want to #emphasise# one thing: don't touch my coffee.",
+    "ru": "Хочу подчеркнуть одно: не трогайте мой кофе."
+   }
+  ]
  },
  {
   "id": "callous",
   "word": "callous",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈkæləs/",
+  "translation": "бессердечный, чёрствый",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "It was #callous# of him to laugh when she fell.",
+    "ru": "Было бессердечно с его стороны смеяться, когда она упала."
+   },
+   {
+    "en": "The boss made a #callous# joke about the layoffs.",
+    "ru": "Начальник отпустил чёрствую шутку про увольнения."
+   },
+   {
+    "en": "Don't be so #callous# — he's really upset.",
+    "ru": "Не будь таким чёрствым — он правда расстроен."
+   }
+  ]
  },
  {
   "id": "circuitry",
   "word": "circuitry",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈsɜːkɪtri/",
+  "translation": "электрические схемы, начинка",
   "level": "B2",
   "image": null,
-  "examples": null
- },
- {
-  "id": "comptroller",
-  "word": "comptroller",
-  "transcription": null,
-  "translation": null,
-  "level": "B2",
-  "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Coffee got into the laptop's #circuitry#. Goodbye, laptop.",
+    "ru": "Кофе попал в схемы ноутбука. Прощай, ноутбук."
+   },
+   {
+    "en": "The #circuitry# inside a phone is incredibly small.",
+    "ru": "Схемы внутри телефона невероятно маленькие."
+   },
+   {
+    "en": "My brain's #circuitry# doesn't work before breakfast.",
+    "ru": "Мои мозговые схемы не работают до завтрака."
+   }
+  ]
  },
  {
   "id": "deliverance",
   "word": "deliverance",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/dɪˈlɪvərəns/",
+  "translation": "избавление, спасение",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Friday evening felt like #deliverance# after that week.",
+    "ru": "Вечер пятницы после такой недели был как избавление."
+   },
+   {
+    "en": "They prayed for #deliverance# from the storm.",
+    "ru": "Они молились о спасении от бури."
+   },
+   {
+    "en": "The end of the meeting came as sweet #deliverance#.",
+    "ru": "Конец совещания стал сладким избавлением."
+   }
+  ]
  },
  {
   "id": "emphatically",
   "word": "emphatically",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ɪmˈfætɪkli/",
+  "translation": "решительно, категорически",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "\"No,\" said the cat #emphatically#, and walked away.",
+    "ru": "«Нет», — решительно сказал кот и ушёл."
+   },
+   {
+    "en": "She #emphatically# denied eating the last cookie.",
+    "ru": "Она категорически отрицала, что съела последнее печенье."
+   },
+   {
+    "en": "He nodded #emphatically# when I mentioned pizza.",
+    "ru": "Он энергично закивал, когда я упомянул пиццу."
+   }
+  ]
  },
  {
   "id": "humanist",
   "word": "humanist",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈhjuːmənɪst/",
+  "translation": "гуманист",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "As a #humanist#, she believes people can solve their own problems.",
+    "ru": "Как гуманист, она верит, что люди сами решают свои проблемы."
+   },
+   {
+    "en": "Erasmus was a famous Renaissance #humanist#.",
+    "ru": "Эразм был известным гуманистом эпохи Возрождения."
+   },
+   {
+    "en": "The book has a warm, #humanist# message.",
+    "ru": "У книги тёплый, гуманистический посыл."
+   }
+  ]
  },
  {
   "id": "lifeguard",
   "word": "lifeguard",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈlaɪfɡɑːd/",
+  "translation": "спасатель (на пляже, в бассейне)",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The #lifeguard# whistled at the kids for running.",
+    "ru": "Спасатель свистнул детям, чтобы не бегали."
+   },
+   {
+    "en": "Swim only where there's a #lifeguard#.",
+    "ru": "Купайтесь только там, где есть спасатель."
+   },
+   {
+    "en": "He worked as a #lifeguard# every summer at university.",
+    "ru": "Каждое лето в университете он работал спасателем."
+   }
+  ]
  },
  {
   "id": "mogul",
   "word": "mogul",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈməʊɡl/",
+  "translation": "магнат",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "A media #mogul# bought the newspaper last year.",
+    "ru": "В прошлом году газету купил медиамагнат."
+   },
+   {
+    "en": "My nephew sells lemonade and calls himself a business #mogul#.",
+    "ru": "Мой племянник продаёт лимонад и называет себя бизнес-магнатом."
+   },
+   {
+    "en": "The film #mogul# owns three islands.",
+    "ru": "Киномагнату принадлежат три острова."
+   }
+  ]
  },
  {
   "id": "nomad",
   "word": "nomad",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈnəʊmæd/",
+  "translation": "кочевник",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "With a laptop and Wi-Fi, I'm a digital #nomad#.",
+    "ru": "С ноутбуком и вайфаем я цифровой кочевник."
+   },
+   {
+    "en": "#Nomads# move with their animals from place to place.",
+    "ru": "Кочевники переходят с места на место вместе со скотом."
+   },
+   {
+    "en": "After five moves in three years, I feel like a #nomad#.",
+    "ru": "После пяти переездов за три года я чувствую себя кочевником."
+   }
+  ]
  },
  {
   "id": "objectionable",
   "word": "objectionable",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/əbˈdʒekʃənəbl/",
+  "translation": "неприемлемый, оскорбительный",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Some viewers found the joke #objectionable#.",
+    "ru": "Некоторые зрители сочли шутку оскорбительной."
+   },
+   {
+    "en": "The smell from the fridge was deeply #objectionable#.",
+    "ru": "Запах из холодильника был совершенно невыносим."
+   },
+   {
+    "en": "Remove any #objectionable# comments from the page.",
+    "ru": "Удалите все неприемлемые комментарии со страницы."
+   }
+  ]
  },
  {
   "id": "obtainable",
   "word": "obtainable",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/əbˈteɪnəbl/",
+  "translation": "доступный, достижимый",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Tickets are still #obtainable#, but they're expensive.",
+    "ru": "Билеты ещё можно достать, но они дорогие."
+   },
+   {
+    "en": "Set goals that are hard but #obtainable#.",
+    "ru": "Ставь цели трудные, но достижимые."
+   },
+   {
+    "en": "The form is #obtainable# at any post office.",
+    "ru": "Бланк можно получить в любом почтовом отделении."
+   }
+  ]
  },
  {
   "id": "pacifist",
   "word": "pacifist",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈpæsɪfɪst/",
+  "translation": "пацифист",
   "level": "B2",
   "image": null,
-  "examples": null
- },
- {
-  "id": "pubic",
-  "word": "pubic",
-  "transcription": null,
-  "translation": null,
-  "level": "B1",
-  "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "He's a #pacifist# — except when someone takes his parking spot.",
+    "ru": "Он пацифист — кроме случаев, когда занимают его парковку."
+   },
+   {
+    "en": "As a #pacifist#, she refused to join the army.",
+    "ru": "Как пацифистка, она отказалась идти в армию."
+   },
+   {
+    "en": "My cat is a #pacifist#; the dog is not.",
+    "ru": "Мой кот пацифист, а собака — нет."
+   }
+  ]
  },
  {
   "id": "telecast",
   "word": "telecast",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈtelɪkɑːst/",
+  "translation": "телетрансляция",
   "level": "B2",
   "image": null,
-  "examples": null
- },
- {
-  "id": "transponder",
-  "word": "transponder",
-  "transcription": null,
-  "translation": null,
-  "level": "B1",
-  "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The match will be #telecast# live tonight.",
+    "ru": "Матч покажут в прямом эфире сегодня вечером."
+   },
+   {
+    "en": "Millions watched the #telecast# of the royal wedding.",
+    "ru": "Миллионы смотрели трансляцию королевской свадьбы."
+   },
+   {
+    "en": "The concert #telecast# was delayed by rain.",
+    "ru": "Трансляцию концерта задержали из-за дождя."
+   }
+  ]
  },
  {
   "id": "unfaithful",
   "word": "unfaithful",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ʌnˈfeɪθfl/",
+  "translation": "неверный, изменяющий",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "He was #unfaithful# to his diet within an hour.",
+    "ru": "Он изменил своей диете через час."
+   },
+   {
+    "en": "She found out her husband had been #unfaithful#.",
+    "ru": "Она узнала, что муж ей изменял."
+   },
+   {
+    "en": "The film is about an #unfaithful# wife and a very patient dog.",
+    "ru": "Фильм про неверную жену и очень терпеливую собаку."
+   }
+  ]
  },
  {
   "id": "unregulated",
   "word": "unregulated",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ʌnˈreɡjuleɪtɪd/",
+  "translation": "нерегулируемый, бесконтрольный",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The market for supplements is mostly #unregulated#.",
+    "ru": "Рынок БАДов почти не регулируется."
+   },
+   {
+    "en": "#Unregulated# screen time turned my son into a zombie.",
+    "ru": "Бесконтрольное время у экрана превратило сына в зомби."
+   },
+   {
+    "en": "Some crypto exchanges are completely #unregulated#.",
+    "ru": "Некоторые криптобиржи вообще никем не регулируются."
+   }
+  ]
  },
  {
   "id": "unwittingly",
   "word": "unwittingly",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ʌnˈwɪtɪŋli/",
+  "translation": "невольно, по незнанию",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "I #unwittingly# sat in the boss's chair at lunch.",
+    "ru": "За обедом я невольно сел на место начальника."
+   },
+   {
+    "en": "She #unwittingly# told the surprise to the birthday girl.",
+    "ru": "Она по незнанию выдала сюрприз имениннице."
+   },
+   {
+    "en": "Many people #unwittingly# share fake news.",
+    "ru": "Многие невольно распространяют фейки."
+   }
+  ]
  },
  {
   "id": "clipper",
   "word": "clipper",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈklɪpə/",
+  "translation": "машинка для стрижки; кусачки",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Dad cut his own hair with a #clipper#. We don't talk about it.",
+    "ru": "Папа подстригся машинкой сам. Мы об этом не говорим."
+   },
+   {
+    "en": "Where are the nail #clippers#?",
+    "ru": "Где кусачки для ногтей?"
+   },
+   {
+    "en": "The barber switched on the #clipper# and smiled.",
+    "ru": "Парикмахер включил машинку и улыбнулся."
+   }
+  ]
  },
  {
   "id": "vibrate",
   "word": "vibrate",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/vaɪˈbreɪt/",
+  "translation": "вибрировать",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "My phone #vibrated# all through the meeting.",
+    "ru": "Телефон вибрировал всё совещание."
+   },
+   {
+    "en": "The whole house #vibrates# when the train goes by.",
+    "ru": "Когда проезжает поезд, весь дом вибрирует."
+   },
+   {
+    "en": "Put your phone on #vibrate#, please.",
+    "ru": "Поставьте, пожалуйста, телефон на вибрацию."
+   }
+  ]
  },
  {
   "id": "conductive",
   "word": "conductive",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/kənˈdʌktɪv/",
+  "translation": "проводящий (ток, тепло)",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Copper is highly #conductive#.",
+    "ru": "Медь отлично проводит ток."
+   },
+   {
+    "en": "Water is #conductive#, so keep the hairdryer away from the bath.",
+    "ru": "Вода проводит ток, так что держи фен подальше от ванны."
+   },
+   {
+    "en": "Touchscreen gloves have #conductive# fingertips.",
+    "ru": "У перчаток для сенсорных экранов токопроводящие кончики пальцев."
+   }
+  ]
  },
  {
   "id": "detonation",
   "word": "detonation",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˌdetəˈneɪʃn/",
+  "translation": "взрыв, детонация",
   "level": "B2",
   "image": null,
-  "examples": null
- },
- {
-  "id": "ester",
-  "word": "ester",
-  "transcription": null,
-  "translation": null,
-  "level": "B2",
-  "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The controlled #detonation# of the old building drew a crowd.",
+    "ru": "Плановый подрыв старого здания собрал толпу."
+   },
+   {
+    "en": "Police closed the street before the #detonation#.",
+    "ru": "Полиция перекрыла улицу перед взрывом."
+   },
+   {
+    "en": "The microwave egg ended in a small #detonation#.",
+    "ru": "Яйцо в микроволновке закончилось небольшим взрывом."
+   }
+  ]
  },
  {
   "id": "excitedly",
   "word": "excitedly",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ɪkˈsaɪtɪdli/",
+  "translation": "взволнованно, радостно",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The dog jumped #excitedly# when I picked up the leash.",
+    "ru": "Собака радостно запрыгала, когда я взял поводок."
+   },
+   {
+    "en": "The kids talked #excitedly# about the trip.",
+    "ru": "Дети взволнованно говорили о поездке."
+   },
+   {
+    "en": "She #excitedly# opened the box — it was socks.",
+    "ru": "Она радостно открыла коробку — там были носки."
+   }
+  ]
  },
  {
   "id": "masterful",
   "word": "masterful",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈmɑːstəfl/",
+  "translation": "мастерский",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "It was a #masterful# performance by the young pianist.",
+    "ru": "Это было мастерское выступление юного пианиста."
+   },
+   {
+    "en": "Grandma has a #masterful# way of changing the subject.",
+    "ru": "У бабушки мастерский способ сменить тему."
+   },
+   {
+    "en": "The goalkeeper made a #masterful# save.",
+    "ru": "Вратарь мастерски отбил мяч."
+   }
+  ]
  },
  {
   "id": "needlessly",
   "word": "needlessly",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈniːdləsli/",
+  "translation": "без надобности, зря",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "We waited #needlessly# for an hour — the shop was closed.",
+    "ru": "Мы зря прождали час — магазин был закрыт."
+   },
+   {
+    "en": "Don't worry #needlessly#; the test will be fine.",
+    "ru": "Не волнуйся понапрасну — тест пройдёт нормально."
+   },
+   {
+    "en": "The form is #needlessly# complicated.",
+    "ru": "Бланк без надобности сложный."
+   }
+  ]
  },
  {
   "id": "polarity",
   "word": "polarity",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/pəˈlærəti/",
+  "translation": "полярность",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Check the #polarity# before you put in the batteries.",
+    "ru": "Проверь полярность, прежде чем вставлять батарейки."
+   },
+   {
+    "en": "The #polarity# of opinions online is getting worse.",
+    "ru": "Поляризация мнений в интернете усиливается."
+   },
+   {
+    "en": "Magnets have two #polarities#: north and south.",
+    "ru": "У магнитов две полярности: север и юг."
+   }
+  ]
  },
  {
   "id": "stimulant",
   "word": "stimulant",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈstɪmjələnt/",
+  "translation": "стимулятор, возбуждающее средство",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Coffee is my favourite legal #stimulant#.",
+    "ru": "Кофе — мой любимый легальный стимулятор."
+   },
+   {
+    "en": "Some energy drinks contain strong #stimulants#.",
+    "ru": "Некоторые энергетики содержат сильные стимуляторы."
+   },
+   {
+    "en": "A deadline is the best #stimulant# for students.",
+    "ru": "Дедлайн — лучший стимулятор для студентов."
+   }
+  ]
  },
  {
   "id": "thirdly",
   "word": "thirdly",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈθɜːdli/",
+  "translation": "в-третьих",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Firstly, I'm tired. Secondly, it's raining. #Thirdly#, the sofa is comfy.",
+    "ru": "Во-первых, я устал. Во-вторых, идёт дождь. В-третьих, диван удобный."
+   },
+   {
+    "en": "#Thirdly#, we need to talk about the budget.",
+    "ru": "В-третьих, нам нужно обсудить бюджет."
+   },
+   {
+    "en": "And #thirdly#, who ate my yoghurt?",
+    "ru": "И в-третьих, кто съел мой йогурт?"
+   }
+  ]
  },
  {
   "id": "transferable",
   "word": "transferable",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/trænsˈfɜːrəbl/",
+  "translation": "передаваемый, переносимый",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The ticket is not #transferable# to another person.",
+    "ru": "Билет нельзя передать другому человеку."
+   },
+   {
+    "en": "Teamwork is a #transferable# skill for any job.",
+    "ru": "Умение работать в команде пригодится на любой работе."
+   },
+   {
+    "en": "Points are #transferable# between family accounts.",
+    "ru": "Баллы можно переводить между семейными аккаунтами."
+   }
+  ]
  },
  {
   "id": "acreage",
   "word": "acreage",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈeɪkərɪdʒ/",
+  "translation": "площадь (земли)",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The farm's #acreage# doubled in ten years.",
+    "ru": "Площадь фермы удвоилась за десять лет."
+   },
+   {
+    "en": "They grow wheat on a huge #acreage#.",
+    "ru": "Они выращивают пшеницу на огромных площадях."
+   },
+   {
+    "en": "Our garden's #acreage# is enough for one tomato.",
+    "ru": "Площади нашего огорода хватает на один помидор."
+   }
+  ]
  },
  {
   "id": "confessional",
   "word": "confessional",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/kənˈfeʃənl/",
+  "translation": "исповедальня; исповедальный",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Her blog is very #confessional# — she shares everything.",
+    "ru": "Её блог очень откровенный — она делится всем."
+   },
+   {
+    "en": "The priest sat in the #confessional# all afternoon.",
+    "ru": "Священник весь день просидел в исповедальне."
+   },
+   {
+    "en": "The taxi became a #confessional# — the driver told me his life story.",
+    "ru": "Такси превратилось в исповедальню — водитель рассказал мне всю жизнь."
+   }
+  ]
  },
  {
   "id": "contentment",
   "word": "contentment",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/kənˈtentmənt/",
+  "translation": "удовлетворённость, довольство",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The cat purred with #contentment# on the warm laptop.",
+    "ru": "Кот мурлыкал от довольства на тёплом ноутбуке."
+   },
+   {
+    "en": "True #contentment# is a hot bath after a long day.",
+    "ru": "Настоящее счастье — горячая ванна после долгого дня."
+   },
+   {
+    "en": "She sighed with #contentment# and closed her eyes.",
+    "ru": "Она довольно вздохнула и закрыла глаза."
+   }
+  ]
  },
  {
   "id": "desist",
   "word": "desist",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/dɪˈzɪst/",
+  "translation": "прекращать (официально)",
   "level": "B2",
   "image": null,
-  "examples": null
- },
- {
-  "id": "extracellular",
-  "word": "extracellular",
-  "transcription": null,
-  "translation": null,
-  "level": "B2",
-  "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The company told him to cease and #desist# using its logo.",
+    "ru": "Компания потребовала, чтобы он прекратил использовать её логотип."
+   },
+   {
+    "en": "Please #desist# from singing in the office.",
+    "ru": "Просьба воздерживаться от пения в офисе."
+   },
+   {
+    "en": "He refused to #desist#, so they called the police.",
+    "ru": "Он отказался прекращать, поэтому вызвали полицию."
+   }
+  ]
  },
  {
   "id": "fearsome",
   "word": "fearsome",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈfɪəsəm/",
+  "translation": "грозный, устрашающий",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The teacher had a #fearsome# reputation but a soft heart.",
+    "ru": "У учительницы была грозная репутация, но мягкое сердце."
+   },
+   {
+    "en": "The tiny dog gave a #fearsome# bark.",
+    "ru": "Крошечная собачка грозно гавкнула."
+   },
+   {
+    "en": "Monday morning traffic is a #fearsome# thing.",
+    "ru": "Пробки в понедельник утром — страшное дело."
+   }
+  ]
  },
  {
   "id": "flax",
   "word": "flax",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/flæks/",
+  "translation": "лён",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "This shirt is made of #flax# — that's linen.",
+    "ru": "Эта рубашка из льна."
+   },
+   {
+    "en": "#Flax# seeds are good in porridge.",
+    "ru": "Семена льна хороши в каше."
+   },
+   {
+    "en": "Fields of blue #flax# flowers covered the hills.",
+    "ru": "Поля голубого льна покрывали холмы."
+   }
+  ]
  },
  {
   "id": "freighter",
   "word": "freighter",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈfreɪtə/",
+  "translation": "грузовое судно",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "A huge #freighter# blocked the canal for a week.",
+    "ru": "Огромный грузовой корабль неделю перекрывал канал."
+   },
+   {
+    "en": "He crossed the ocean on a cargo #freighter#.",
+    "ru": "Он пересёк океан на грузовом судне."
+   },
+   {
+    "en": "#Freighters# bring most of our clothes from Asia.",
+    "ru": "Большую часть нашей одежды привозят из Азии грузовые суда."
+   }
+  ]
  },
  {
   "id": "heartwarming",
   "word": "heartwarming",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈhɑːtwɔːmɪŋ/",
+  "translation": "трогательный, согревающий душу",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "It's a #heartwarming# story about a dog who found his way home.",
+    "ru": "Это трогательная история о собаке, которая нашла дорогу домой."
+   },
+   {
+    "en": "Seeing old friends again was #heartwarming#.",
+    "ru": "Встреча со старыми друзьями согрела душу."
+   },
+   {
+    "en": "The video of the grandpa dancing is so #heartwarming#.",
+    "ru": "Видео с танцующим дедушкой такое трогательное."
+   }
+  ]
  },
  {
   "id": "importation",
   "word": "importation",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˌɪmpɔːˈteɪʃn/",
+  "translation": "ввоз, импорт",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The #importation# of fresh meat is banned.",
+    "ru": "Ввоз свежего мяса запрещён."
+   },
+   {
+    "en": "Halloween is a recent #importation# from America.",
+    "ru": "Хэллоуин — недавнее заимствование из Америки."
+   },
+   {
+    "en": "They pay high taxes on the #importation# of cars.",
+    "ru": "Они платят высокие пошлины за ввоз машин."
+   }
+  ]
  },
  {
   "id": "motherland",
   "word": "motherland",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈmʌðəlænd/",
+  "translation": "родина",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "He returned to his #motherland# after twenty years.",
+    "ru": "Он вернулся на родину через двадцать лет."
+   },
+   {
+    "en": "The song is about love for the #motherland#.",
+    "ru": "Песня о любви к родине."
+   },
+   {
+    "en": "Italy is the #motherland# of pizza.",
+    "ru": "Италия — родина пиццы."
+   }
+  ]
  },
  {
   "id": "overcast",
   "word": "overcast",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈəʊvəkɑːst/",
+  "translation": "пасмурный, облачный",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "It's #overcast# again — perfect for staying in bed.",
+    "ru": "Опять пасмурно — идеально, чтобы остаться в кровати."
+   },
+   {
+    "en": "The sky was #overcast# all weekend.",
+    "ru": "Все выходные небо было затянуто тучами."
+   },
+   {
+    "en": "Even on #overcast# days you can get sunburnt.",
+    "ru": "Даже в пасмурные дни можно обгореть."
+   }
+  ]
  },
  {
   "id": "respiration",
   "word": "respiration",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˌrespəˈreɪʃn/",
+  "translation": "дыхание",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The doctor checked his pulse and #respiration#.",
+    "ru": "Врач проверил его пульс и дыхание."
+   },
+   {
+    "en": "Plants release oxygen, but #respiration# uses it.",
+    "ru": "Растения выделяют кислород, но при дыхании расходуют его."
+   },
+   {
+    "en": "Artificial #respiration# saved the swimmer's life.",
+    "ru": "Искусственное дыхание спасло пловцу жизнь."
+   }
+  ]
  },
  {
   "id": "suffix",
   "word": "suffix",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈsʌfɪks/",
+  "translation": "суффикс",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Add the #suffix# \"-ness\" to make \"happiness\".",
+    "ru": "Добавь суффикс «-ness», чтобы получилось «happiness»."
+   },
+   {
+    "en": "In Russian, a #suffix# can make any word cute.",
+    "ru": "В русском суффикс может сделать любое слово милым."
+   },
+   {
+    "en": "The #suffix# \"-less\" means \"without\".",
+    "ru": "Суффикс «-less» означает «без»."
+   }
+  ]
  },
  {
   "id": "twister",
   "word": "twister",
-  "transcription": null,
-  "translation": null,
+  "transcription": "/ˈtwɪstə/",
+  "translation": "торнадо, смерч; скороговорка",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "\"She sells seashells\" is a hard tongue #twister#.",
+    "ru": "«She sells seashells» — сложная скороговорка."
+   },
+   {
+    "en": "A #twister# lifted the farmer's car into a tree.",
+    "ru": "Смерч закинул машину фермера на дерево."
+   },
+   {
+    "en": "We played #Twister# and nobody could stand up afterwards.",
+    "ru": "Мы играли в «Твистер», и потом никто не мог встать."
+   }
+  ]
  },
  {
   "id": "unsatisfactory",
