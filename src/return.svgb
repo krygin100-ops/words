@@ -1,0 +1,7 @@
+<path d="M160 60 H70 Q30 60 30 100 Q30 140 70 140 H120" stroke-width="10"/>
+<path d="M140 40 L170 60 L140 80" stroke-width="0"/>
+<path d="M90 120 L120 140 L90 160" stroke-width="0"/>
+<path d="M110 120 L135 140 L110 160" stroke-width="9"/>
+<rect x="150" y="110" width="40" height="45" fill="{F}"/>
+<path d="M150 110 L170 95 L190 110" fill="{F}"/>
+<text x="90" y="40" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">back home</text>

@@ -1,0 +1,4 @@
+<text x="80" y="110" font-size="34" text-anchor="middle" fill="{L}" stroke="none" font-family="serif">The end</text>
+<circle cx="160" cy="100" r="16" fill="{L}"/>
+<path d="M160 130 V160 M150 150 L160 162 L170 150" stroke-width="0"/>
+<circle cx="160" cy="100" r="28" stroke-width="3" stroke-dasharray="5 5"/>

@@ -1,0 +1,6 @@
+<circle cx="100" cy="100" r="60" stroke-width="5"/>
+<g fill="{F}"><circle cx="80" cy="80" r="12"/><circle cx="120" cy="85" r="12"/><circle cx="100" cy="120" r="12"/></g>
+<circle cx="175" cy="160" r="12" fill="{L}"/>
+<path d="M165 145 L155 135 M185 145 L190 135" stroke-width="3"/>
+<path d="M140 140 L160 155" stroke-width="3"/>
+<text x="40" y="185" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">not you</text>

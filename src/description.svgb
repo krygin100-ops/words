@@ -1,0 +1,6 @@
+<rect x="20" y="50" width="70" height="70" fill="{F}"/>
+<circle cx="55" cy="85" r="18" fill="{L}"/>
+<path d="M100 85 H115 M108 78 L117 85 L108 92" stroke-width="3"/>
+<rect x="120" y="30" width="65" height="120" rx="4" fill="{F}"/>
+<path d="M130 50 H175 M130 65 H175 M130 80 H175 M130 95 H170 M130 110 H175 M130 125 H160" stroke="#000" stroke-width="3"/>
+<text x="55" y="160" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">round, big…</text>

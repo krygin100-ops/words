@@ -1,0 +1,6 @@
+<circle cx="60" cy="70" r="16" fill="{F}"/>
+<path d="M60 86 V135 L45 175 M60 135 L75 175 M60 100 L40 90 M60 100 L60 50"/>
+<path d="M60 50 V20 L90 30 L60 40" fill="{L}" stroke-width="3"/>
+<g fill="{F}"><circle cx="115" cy="95" r="12"/><circle cx="160" cy="100" r="12"/></g>
+<path d="M115 107 V140 L105 175 M115 140 L125 175 M160 112 V145 L150 178 M160 145 L170 178"/>
+<text x="140" y="45" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">follow me!</text>
