@@ -1,0 +1,8 @@
+<circle cx="50" cy="140" r="14" fill="{F}"/>
+<path d="M50 154 V175 M50 160 L38 172 M50 160 L62 172" stroke-width="4"/>
+<circle cx="45" cy="137" r="3" fill="{L}" stroke="none"/>
+<circle cx="55" cy="137" r="3" fill="{L}" stroke="none"/>
+<path d="M40 110 Q50 100 60 110" stroke-width="0"/>
+<path d="M90 180 L150 20 L190 180 Z" fill="{F}"/>
+<path d="M130 70 L150 20 L165 70" fill="{L}"/>
+<text x="50" y="100" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">gulp</text>

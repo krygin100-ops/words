@@ -1,0 +1,4 @@
+<rect x="45" y="20" width="110" height="160" rx="5" fill="{F}"/>
+<text x="100" y="55" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">POLICY</text>
+<path d="M60 75 H140 M60 95 H140 M60 115 H140 M60 135 H120" stroke="#000" stroke-width="4"/>
+<circle cx="130" cy="160" r="14" fill="{L}"/>

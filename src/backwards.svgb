@@ -1,0 +1,5 @@
+<circle cx="120" cy="60" r="16" fill="{F}"/>
+<circle cx="113" cy="58" r="3.5" fill="{L}" stroke="none"/>
+<path d="M120 76 V130 L105 175 M120 130 L135 175 M120 95 L95 110 M120 95 L145 110"/>
+<path d="M85 140 H20 M40 125 L18 140 L40 155" stroke-width="6"/>
+<text x="140" y="30" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">beep beep</text>

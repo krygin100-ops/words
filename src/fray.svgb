@@ -1,0 +1,4 @@
+<circle cx="100" cy="100" r="50" fill="{F}"/>
+<g fill="{L}" stroke="none"><path d="M60 50 L66 64 L80 66 L68 74 L72 88 L60 80 L48 88 L52 74 L40 66 L54 64 Z"/><path d="M145 60 L150 72 L162 74 L152 80 L156 92 L145 85 L134 92 L138 80 L128 74 L140 72 Z"/></g>
+<path d="M30 120 L55 115 M170 130 L145 125 M90 160 L80 185 M120 160 L130 185 M40 70 L25 55 M160 150 L180 165" stroke-width="7"/>
+<text x="100" y="110" font-size="20" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">POW!</text>

@@ -1,0 +1,4 @@
+<circle cx="100" cy="100" r="65" fill="{F}"/>
+<path d="M100 100 V55 M100 100 L135 115" stroke="{L}" stroke-width="7"/>
+<circle cx="100" cy="100" r="6" fill="{L}"/>
+<text x="100" y="192" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">NOW</text>

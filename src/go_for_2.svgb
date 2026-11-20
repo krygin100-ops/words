@@ -1,0 +1,6 @@
+<rect x="20" y="60" width="45" height="45" rx="6" fill="{F}"/>
+<rect x="78" y="60" width="45" height="45" rx="6" fill="{L}"/>
+<rect x="136" y="60" width="45" height="45" rx="6" fill="{F}"/>
+<path d="M100 175 V125 M88 138 L100 122 L112 138" stroke-width="6"/>
+<path d="M90 82 L97 90 L112 74" stroke="#000" stroke-width="5"/>
+<text x="100" y="40" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">this one!</text>

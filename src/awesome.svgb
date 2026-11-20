@@ -1,0 +1,7 @@
+<circle cx="100" cy="90" r="50" fill="{F}"/>
+<rect x="65" y="75" width="30" height="16" rx="4" fill="#000"/>
+<rect x="105" y="75" width="30" height="16" rx="4" fill="#000"/>
+<path d="M95 82 H105" stroke="#000" stroke-width="4"/>
+<path d="M75 108 Q100 130 125 108" stroke-width="5"/>
+<path d="M150 150 V120 Q150 110 160 112 L165 130 H180 Q188 130 186 140 L182 165 Q180 172 170 172 H150 Z" fill="{L}"/>
+<text x="65" y="180" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">COOL!</text>

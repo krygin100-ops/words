@@ -1,0 +1,7 @@
+<g fill="{F}"><circle cx="40" cy="80" r="13"/><circle cx="75" cy="75" r="13"/><circle cx="110" cy="80" r="13"/></g>
+<path d="M40 93 V140 M75 88 V140 M110 93 V140 M40 140 L32 175 M40 140 L48 175 M75 140 L67 175 M75 140 L83 175 M110 140 L102 175 M110 140 L118 175"/>
+<circle cx="170" cy="100" r="13" fill="{F}"/>
+<path d="M170 113 V150 L162 180 M170 150 L178 180"/>
+<path d="M165 102 Q170 98 175 102" stroke-width="3"/>
+<path d="M140 60 V180" stroke-width="3" stroke-dasharray="6 6"/>
+<text x="170" y="70" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">…</text>

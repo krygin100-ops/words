@@ -1,0 +1,8 @@
+<circle cx="100" cy="90" r="40" fill="{F}"/>
+<circle cx="85" cy="82" r="4" fill="{L}" stroke="none"/>
+<circle cx="115" cy="82" r="4" fill="{L}" stroke="none"/>
+<path d="M80 108 L87 102 L94 108 L101 102 L108 108 L115 102 L122 108" stroke-width="4"/>
+<path d="M45 70 L35 80 L45 90 L35 100 M155 70 L165 80 L155 90 L165 100" stroke-width="4"/>
+<path d="M60 135 L65 170 H135 L140 135" fill="{F}"/>
+<g fill="{L}" stroke="none"><path d="M30 30 L33 22 L36 30 L44 33 L36 36 L33 44 L30 36 L22 33 Z"/><path d="M170 30 L173 22 L176 30 L184 33 L176 36 L173 44 L170 36 L162 33 Z"/></g>
+<text x="100" y="192" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">brrr!</text>
