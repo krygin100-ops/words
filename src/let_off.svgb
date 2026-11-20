@@ -1,0 +1,8 @@
+<circle cx="60" cy="80" r="20" fill="{F}"/>
+<path d="M50 82 Q60 90 70 82" stroke-width="3"/>
+<path d="M35 190 Q35 115 60 115 Q85 115 85 190" fill="{F}"/>
+<path d="M85 130 L115 115"/>
+<circle cx="150" cy="90" r="16" fill="{F}"/>
+<path d="M140 90 Q150 98 160 90" stroke-width="2"/>
+<path d="M130 190 Q130 115 150 115 Q170 115 170 190" fill="{F}"/>
+<text x="90" y="40" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">just this once</text>

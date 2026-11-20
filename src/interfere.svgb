@@ -1,0 +1,7 @@
+<circle cx="45" cy="90" r="16" fill="{F}"/>
+<circle cx="155" cy="90" r="16" fill="{F}"/>
+<path d="M28 180 Q28 115 45 115 Q62 115 62 180 M138 180 Q138 115 155 115 Q172 115 172 180" fill="{F}"/>
+<path d="M60 130 H140" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="100" cy="85" r="14" fill="{F}"/>
+<path d="M100 99 V140 M100 110 L80 125 M100 110 L120 125 M100 140 L90 170 M100 140 L110 170"/>
+<text x="100" y="40" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">hey, wait!</text>

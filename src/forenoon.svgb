@@ -1,0 +1,5 @@
+<path d="M10 150 H190"/>
+<circle cx="60" cy="100" r="25" fill="{F}"/>
+<path d="M60 65 V55 M30 80 L22 72 M90 80 L98 72" stroke-width="3"/>
+<path d="M30 140 Q100 30 170 140" stroke-width="2" stroke-dasharray="5 5"/>
+<text x="140" y="185" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">9 AM</text>

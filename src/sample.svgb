@@ -1,0 +1,5 @@
+<path d="M80 30 H120 V80 L160 160 Q165 180 145 180 H55 Q35 180 40 160 L80 80 Z" stroke-width="5"/>
+<path d="M58 130 H142 L155 160 Q155 170 145 170 H55 Q45 170 45 160 Z" fill="{F}"/>
+<path d="M70 30 H130"/>
+<rect x="140" y="30" width="45" height="25" rx="3" fill="{L}"/>
+<text x="162" y="48" font-size="14" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">#1</text>
