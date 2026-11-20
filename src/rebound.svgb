@@ -1,0 +1,6 @@
+<path d="M20 170 H180"/>
+<circle cx="160" cy="45" r="15" fill="{F}"/>
+<path d="M30 40 L95 165 L150 55" stroke-width="3" stroke-dasharray="6 6"/>
+<path d="M85 160 L95 168 L105 160" stroke-width="3"/>
+<path d="M80 180 L75 190 M110 180 L115 190" stroke-width="3"/>
+<text x="40" y="30" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">boing</text>

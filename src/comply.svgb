@@ -1,0 +1,4 @@
+<rect x="40" y="30" width="120" height="150" rx="6" fill="{F}"/>
+<text x="100" y="65" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">RULES</text>
+<path d="M60 90 L67 97 L80 83 M60 120 L67 127 L80 113 M60 150 L67 157 L80 143" stroke="#000" stroke-width="4"/>
+<path d="M90 92 H140 M90 122 H140 M90 152 H140" stroke="#000" stroke-width="3"/>

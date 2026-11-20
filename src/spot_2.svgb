@@ -1,0 +1,9 @@
+<circle cx="60" cy="90" r="25" fill="{F}"/>
+<circle cx="52" cy="85" r="6"/>
+<circle cx="68" cy="85" r="6"/>
+<circle cx="54" cy="85" r="3" fill="{L}" stroke="none"/>
+<circle cx="70" cy="85" r="3" fill="{L}" stroke="none"/>
+<path d="M30 190 Q30 130 60 130 Q90 130 90 190" fill="{F}"/>
+<path d="M85 80 L150 60" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="160" cy="55" r="10" fill="{L}"/>
+<text x="130" y="130" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">there!</text>

@@ -1,0 +1,7 @@
+<circle cx="70" cy="80" r="30" fill="{F}"/>
+<circle cx="60" cy="72" r="3.5" fill="{L}" stroke="none"/>
+<path d="M95 90 L120 95" stroke-width="3"/>
+<path d="M115 80 H165 L155 150 H125 Z" fill="{F}"/>
+<path d="M118 100 H162" stroke="#000" stroke-width="3"/>
+<path d="M165 95 Q185 100 180 120 Q175 130 160 128"/>
+<text x="140" y="180" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">slurp</text>

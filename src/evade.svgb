@@ -1,0 +1,6 @@
+<circle cx="110" cy="60" r="16" fill="{F}"/>
+<path d="M108 76 Q90 110 110 125 L95 170 M110 125 L135 165 M100 90 L130 80 M100 90 L80 75" stroke-width="7"/>
+<path d="M20 80 H60 M50 70 L62 80 L50 90" stroke-width="4"/>
+<circle cx="20" cy="80" r="8" fill="{L}" stroke="none"/>
+<path d="M140 40 L155 30 M145 60 L165 60" stroke-width="3"/>
+<text x="160" y="190" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">missed!</text>

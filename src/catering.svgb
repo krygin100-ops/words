@@ -1,0 +1,6 @@
+<ellipse cx="100" cy="140" rx="80" ry="15" fill="{F}"/>
+<path d="M40 140 Q40 70 100 70 Q160 70 160 140 Z" fill="{F}"/>
+<circle cx="100" cy="62" r="8" fill="{F}"/>
+<path d="M60 110 Q80 90 100 95" stroke="#000" stroke-width="3"/>
+<path d="M30 60 Q25 45 35 35 M170 60 Q175 45 165 35" stroke-width="3"/>
+<text x="100" y="185" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">served!</text>
