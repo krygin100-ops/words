@@ -55894,40 +55894,92 @@
   "word": "bond",
   "transcription": "[bɒnd]",
   "translation": "обязательство, облигация",
-  "nuance": null,
+  "nuance": "Обязательство, облигация; также связь, узы (family bond).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/bond_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Their friendship is a #bond# for life.",
+    "ru": "Их дружба — союз на всю жизнь."
+   },
+   {
+    "en": "He invested in government #bonds#.",
+    "ru": "Он вложился в государственные облигации."
+   },
+   {
+    "en": "My word is my #bond#.",
+    "ru": "Моё слово — гарантия."
+   }
+  ]
  },
  {
   "id": "2433",
   "word": "trunk",
   "transcription": "[trʌŋk]",
   "translation": "багажник",
-  "nuance": null,
+  "nuance": "Амер. — багажник (брит. boot). Также ствол дерева, хобот, сундук.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/10332/10332_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Put the bags in the #trunk#.",
+    "ru": "Положи сумки в багажник."
+   },
+   {
+    "en": "The #trunk# is full of beach toys.",
+    "ru": "Багажник забит пляжными игрушками."
+   },
+   {
+    "en": "An elephant uses its #trunk# to drink.",
+    "ru": "Слон пьёт с помощью хобота."
+   }
+  ]
  },
  {
   "id": "2434",
   "word": "item",
   "transcription": "[ˈaɪtəm]",
   "translation": "пункт, номер, предмет",
-  "nuance": null,
+  "nuance": "Предмет, пункт списка, товар. Thing — вещь (разг.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/item.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The first #item# on the agenda is lunch.",
+    "ru": "Первый пункт повестки — обед."
+   },
+   {
+    "en": "I bought ten #items# and forgot the milk.",
+    "ru": "Я купил десять вещей и забыл молоко."
+   },
+   {
+    "en": "Each #item# costs one dollar.",
+    "ru": "Каждый товар стоит доллар."
+   }
+  ]
  },
  {
   "id": "2435",
   "word": "garden",
   "transcription": "[ˈgɑːdn]",
   "translation": "сад",
-  "nuance": null,
+  "nuance": "Брит. garden — двор/сад у дома; амер. — yard.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2974/2974_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We grow tomatoes in our #garden#.",
+    "ru": "Мы выращиваем помидоры в саду."
+   },
+   {
+    "en": "The kids play in the #garden# all day.",
+    "ru": "Дети весь день играют в саду."
+   },
+   {
+    "en": "Our #garden# is the size of a towel.",
+    "ru": "Наш сад размером с полотенце."
+   }
+  ]
  },
  {
   "id": "2436",
@@ -55937,7 +55989,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6533/6533_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #gardener# cuts the hedges every month.",
+    "ru": "Садовник подстригает изгородь каждый месяц."
+   },
+   {
+    "en": "Grandma is a passionate #gardener#.",
+    "ru": "Бабушка — увлечённая садовница."
+   },
+   {
+    "en": "We hired a #gardener#.",
+    "ru": "Мы наняли садовника."
+   }
+  ]
  },
  {
   "id": "2437",
@@ -55947,17 +56012,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/gardening.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Gardening# relaxes my mum.",
+    "ru": "Садоводство успокаивает маму."
+   },
+   {
+    "en": "He spends his weekends #gardening#.",
+    "ru": "Он проводит выходные за работой в саду."
+   },
+   {
+    "en": "#Gardening# is good exercise.",
+    "ru": "Работа в саду — хорошая физкультура."
+   }
+  ]
  },
  {
   "id": "2438",
   "word": "dust",
   "transcription": "[dʌst]",
   "translation": "пыль",
-  "nuance": null,
+  "nuance": "Пыль; глагол dust — вытирать пыль.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/4878/4878_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The shelves are covered in #dust#.",
+    "ru": "Полки покрыты пылью."
+   },
+   {
+    "en": "I'm allergic to #dust#.",
+    "ru": "У меня аллергия на пыль."
+   },
+   {
+    "en": "Wait for the #dust# to settle.",
+    "ru": "Подожди, пока всё уляжется."
+   }
+  ]
  },
  {
   "id": "2439",
@@ -55967,27 +56058,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dusty.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We found a #dusty# box in the attic.",
+    "ru": "Мы нашли пыльную коробку на чердаке."
+   },
+   {
+    "en": "The road was hot and #dusty#.",
+    "ru": "Дорога была жаркой и пыльной."
+   },
+   {
+    "en": "My English is a bit #dusty#.",
+    "ru": "Мой английский немного подзабыт."
+   }
+  ]
  },
  {
   "id": "2440",
   "word": "attend",
   "transcription": "[əˈtɛnd]",
   "translation": "уделить внимание, посетить",
-  "nuance": null,
+  "nuance": "Посещать (офиц.); attend to — уделить внимание, заняться. Ложный друг: не «ожидать».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/attend.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Please #attend# to the customer.",
+    "ru": "Пожалуйста, займитесь клиентом."
+   },
+   {
+    "en": "Many people #attended# the concert.",
+    "ru": "Концерт посетило много людей."
+   },
+   {
+    "en": "She #attends# a yoga class.",
+    "ru": "Она ходит на йогу."
+   }
+  ]
  },
  {
   "id": "2441",
   "word": "attention",
   "transcription": "[əˈtɛnʃ(ə)n]",
   "translation": "внимание",
-  "nuance": null,
+  "nuance": "Pay attention to — обращать внимание на.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/attention.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Pay #attention#!",
+    "ru": "Будь внимателен!"
+   },
+   {
+    "en": "Kids need a lot of #attention#.",
+    "ru": "Детям нужно много внимания."
+   },
+   {
+    "en": "Thank you for your #attention#.",
+    "ru": "Спасибо за внимание."
+   }
+  ]
  },
  {
   "id": "2442",
@@ -55997,17 +56127,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/attendance.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Attendance# at school is compulsory.",
+    "ru": "Посещение школы обязательно."
+   },
+   {
+    "en": "Our #attendance# dropped on Fridays.",
+    "ru": "По пятницам посещаемость падает."
+   },
+   {
+    "en": "The teacher took #attendance#.",
+    "ru": "Учитель отметил присутствующих."
+   }
+  ]
  },
  {
   "id": "2443",
   "word": "attentive",
   "transcription": "[əˈtɛntɪv]",
   "translation": "внимательный",
-  "nuance": null,
+  "nuance": "Внимательный, заботливый (к людям). Careful — аккуратный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/attentive.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The waiter was very #attentive#.",
+    "ru": "Официант был очень внимательным."
+   },
+   {
+    "en": "He's an #attentive# husband.",
+    "ru": "Он заботливый муж."
+   },
+   {
+    "en": "The students were #attentive#.",
+    "ru": "Студенты были внимательны."
+   }
+  ]
  },
  {
   "id": "2444",
@@ -56017,17 +56173,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/spread.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The news #spread# quickly.",
+    "ru": "Новость быстро распространилась."
+   },
+   {
+    "en": "#Spread# butter on the bread.",
+    "ru": "Намажь масло на хлеб."
+   },
+   {
+    "en": "The fire #spread# to the next house.",
+    "ru": "Огонь перекинулся на соседний дом."
+   }
+  ]
  },
  {
   "id": "2445",
   "word": "bound",
   "transcription": "[baʊnd]",
   "translation": "обязан",
-  "nuance": null,
+  "nuance": "Bound to — обязательно, наверняка (it's bound to rain); legally bound — обязан.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/bound.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "You're not #bound# to help me.",
+    "ru": "Ты не обязан мне помогать."
+   },
+   {
+    "en": "It was #bound# to happen.",
+    "ru": "Это должно было случиться."
+   },
+   {
+    "en": "We're legally #bound# to report it.",
+    "ru": "Мы обязаны по закону сообщить об этом."
+   }
+  ]
  },
  {
   "id": "2446",
@@ -56037,17 +56219,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/acid.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Lemon juice is an #acid#.",
+    "ru": "Лимонный сок — кислота."
+   },
+   {
+    "en": "Don't touch the battery #acid#!",
+    "ru": "Не трогай кислоту из аккумулятора!"
+   },
+   {
+    "en": "#Acid# rain damages forests.",
+    "ru": "Кислотные дожди вредят лесам."
+   }
+  ]
  },
  {
   "id": "2447",
   "word": "acidic",
   "transcription": "[əˈsɪdɪk]",
   "translation": "кислотный",
-  "nuance": null,
+  "nuance": "Кислотный, кислый (науч.). Sour — кислый на вкус (разг.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/acidic.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Coffee is quite #acidic#.",
+    "ru": "Кофе довольно кислый."
+   },
+   {
+    "en": "#Acidic# food hurts my stomach.",
+    "ru": "От кислой еды у меня болит желудок."
+   },
+   {
+    "en": "The soil here is too #acidic#.",
+    "ru": "Почва здесь слишком кислая."
+   }
+  ]
  },
  {
   "id": "2448",
@@ -56057,17 +56265,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/acidity.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #acidity# of the wine is perfect.",
+    "ru": "Кислотность вина идеальна."
+   },
+   {
+    "en": "Check the #acidity# of the soil.",
+    "ru": "Проверь кислотность почвы."
+   },
+   {
+    "en": "Stomach #acidity# causes heartburn.",
+    "ru": "Кислотность желудка вызывает изжогу."
+   }
+  ]
  },
  {
   "id": "2449",
   "word": "appear",
   "transcription": "[əˈpɪə]",
   "translation": "появиться",
-  "nuance": null,
+  "nuance": "Появиться; казаться (appear to be = seem).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/appear.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A cat #appeared# out of nowhere.",
+    "ru": "Откуда ни возьмись появился кот."
+   },
+   {
+    "en": "He #appears# to be asleep.",
+    "ru": "Похоже, он спит."
+   },
+   {
+    "en": "She #appeared# in a TV show.",
+    "ru": "Она появилась в телешоу."
+   }
+  ]
  },
  {
   "id": "2450",
@@ -56077,17 +56311,43 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6493/6493_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My keys #disappeared# again.",
+    "ru": "Мои ключи снова исчезли."
+   },
+   {
+    "en": "The cookies #disappeared# in minutes.",
+    "ru": "Печенье исчезло за минуты."
+   },
+   {
+    "en": "He #disappeared# when it was time to wash up.",
+    "ru": "Он исчез, когда пришло время мыть посуду."
+   }
+  ]
  },
  {
   "id": "2451",
   "word": "appearance",
   "transcription": "[əˈpɪərəns]",
   "translation": "появление",
-  "nuance": null,
+  "nuance": "Появление; внешность (look — разг.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/appearance.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His #appearance# at the party surprised everyone.",
+    "ru": "Его появление на вечеринке всех удивило."
+   },
+   {
+    "en": "Don't judge by #appearance#.",
+    "ru": "Не суди по внешности."
+   },
+   {
+    "en": "She changed her #appearance# completely.",
+    "ru": "Она полностью изменила внешность."
+   }
+  ]
  },
  {
   "id": "2452",
@@ -56097,27 +56357,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/disappearance.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #disappearance# of the cake is a mystery.",
+    "ru": "Исчезновение торта — загадка."
+   },
+   {
+    "en": "Police are investigating his #disappearance#.",
+    "ru": "Полиция расследует его исчезновение."
+   },
+   {
+    "en": "The #disappearance# of bees worries scientists.",
+    "ru": "Исчезновение пчёл беспокоит учёных."
+   }
+  ]
  },
  {
   "id": "2453",
   "word": "bury",
   "transcription": "[ˈbɛri]",
   "translation": "хоронить",
-  "nuance": null,
+  "nuance": "Хоронить, закапывать. Bury the hatchet — помириться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/bury.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The dog #buried# a bone in the garden.",
+    "ru": "Собака закопала кость в саду."
+   },
+   {
+    "en": "He was #buried# next to his wife.",
+    "ru": "Его похоронили рядом с женой."
+   },
+   {
+    "en": "She #buried# her face in her hands.",
+    "ru": "Она закрыла лицо руками."
+   }
+  ]
  },
  {
   "id": "2454",
   "word": "burial",
   "transcription": "[ˈbɛrɪəl]",
   "translation": "захоронение",
-  "nuance": null,
+  "nuance": "Захоронение (сам процесс). Funeral — похороны (церемония).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/burial.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #burial# took place on Monday.",
+    "ru": "Похороны состоялись в понедельник."
+   },
+   {
+    "en": "They found an ancient #burial# site.",
+    "ru": "Нашли древнее захоронение."
+   },
+   {
+    "en": "Grandpa wanted a simple #burial#.",
+    "ru": "Дедушка хотел простых похорон."
+   }
+  ]
  },
  {
   "id": "2455",
@@ -56127,17 +56426,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/generation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My #generation# grew up without phones.",
+    "ru": "Моё поколение выросло без телефонов."
+   },
+   {
+    "en": "The recipe passed down through #generations#.",
+    "ru": "Рецепт передавался из поколения в поколение."
+   },
+   {
+    "en": "The new #generation# of iPhones is out.",
+    "ru": "Вышло новое поколение айфонов."
+   }
+  ]
  },
  {
   "id": "2456",
   "word": "stare",
   "transcription": "[steə]",
   "translation": "пялиться, пристальный взгляд",
-  "nuance": null,
+  "nuance": "Пристально смотреть (часто невежливо). Gaze — долго смотреть (мечтательно); glance — мельком.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stare.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #stare# — it's rude.",
+    "ru": "Не пялься — это невежливо."
+   },
+   {
+    "en": "The cat #stared# at me until I fed it.",
+    "ru": "Кот смотрел на меня, пока я его не покормил."
+   },
+   {
+    "en": "He gave me a long #stare#.",
+    "ru": "Он долго на меня смотрел."
+   }
+  ]
  },
  {
   "id": "2457",
@@ -56147,27 +56472,66 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2957/2957_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #judge# me — I'm on holiday.",
+    "ru": "Не суди меня — я в отпуске."
+   },
+   {
+    "en": "The #judge# gave him a fine.",
+    "ru": "Судья выписал ему штраф."
+   },
+   {
+    "en": "You can't #judge# a book by its cover.",
+    "ru": "Не суди книгу по обложке."
+   }
+  ]
  },
  {
   "id": "2458",
   "word": "judgment",
   "transcription": "[ˈʤʌʤmənt]",
   "translation": "суждение",
-  "nuance": null,
+  "nuance": "Суждение, здравый смысл; также судебное решение. Брит. judgement.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/judgment.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Use your best #judgment#.",
+    "ru": "Положись на своё здравое суждение."
+   },
+   {
+    "en": "In my #judgment#, it's too risky.",
+    "ru": "По-моему, это слишком рискованно."
+   },
+   {
+    "en": "Against my better #judgment#, I ate the cake.",
+    "ru": "Вопреки здравому смыслу я съел торт."
+   }
+  ]
  },
  {
   "id": "2459",
   "word": "arms",
   "transcription": "[ɑːmz]",
   "translation": "оружие",
-  "nuance": null,
+  "nuance": "Оружие (только мн.ч.). Weapons — оружие (чаще).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/arms.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The rebels laid down their #arms#.",
+    "ru": "Повстанцы сложили оружие."
+   },
+   {
+    "en": "The #arms# trade is huge.",
+    "ru": "Торговля оружием огромная."
+   },
+   {
+    "en": "Call to #arms#!",
+    "ru": "К оружию!"
+   }
+  ]
  },
  {
   "id": "2460",
@@ -56177,7 +56541,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/armament.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The country spends billions on #armament#.",
+    "ru": "Страна тратит миллиарды на вооружение."
+   },
+   {
+    "en": "Nuclear #armament# is dangerous.",
+    "ru": "Ядерное вооружение опасно."
+   },
+   {
+    "en": "The ship's #armament# was impressive.",
+    "ru": "Вооружение корабля впечатляло."
+   }
+  ]
  },
  {
   "id": "2461",
@@ -56187,7 +56564,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/armed.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Armed# police surrounded the bank.",
+    "ru": "Вооружённая полиция окружила банк."
+   },
+   {
+    "en": "He was #armed# with a knife.",
+    "ru": "Он был вооружён ножом."
+   },
+   {
+    "en": "I came #armed# with snacks.",
+    "ru": "Я пришёл, вооружившись снеками."
+   }
+  ]
  },
  {
   "id": "2462",
@@ -56197,17 +56587,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/disarm.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The police #disarmed# the robber.",
+    "ru": "Полиция обезоружила грабителя."
+   },
+   {
+    "en": "Her smile #disarmed# him.",
+    "ru": "Её улыбка его обезоружила."
+   },
+   {
+    "en": "Countries agreed to #disarm#.",
+    "ru": "Страны договорились разоружиться."
+   }
+  ]
  },
  {
   "id": "2463",
   "word": "firearm",
   "transcription": "[ˈfaɪərɑːm]",
   "translation": "огнестрельное оружие",
-  "nuance": null,
+  "nuance": "Официальное. Gun — разг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/firearm.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Firearms# are illegal here.",
+    "ru": "Огнестрельное оружие здесь запрещено."
+   },
+   {
+    "en": "He has a #firearm# licence.",
+    "ru": "У него лицензия на огнестрельное оружие."
+   },
+   {
+    "en": "Never point a #firearm# at anyone.",
+    "ru": "Никогда не направляй оружие на людей."
+   }
+  ]
  },
  {
   "id": "2464",
@@ -56217,7 +56633,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/plain_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The village lies on a flat #plain#.",
+    "ru": "Деревня лежит на равнине."
+   },
+   {
+    "en": "Cows grazed on the #plain#.",
+    "ru": "Коровы паслись на равнине."
+   },
+   {
+    "en": "The #plains# stretch for miles.",
+    "ru": "Равнины тянутся на многие мили."
+   }
+  ]
  },
  {
   "id": "2465",
@@ -56227,17 +56656,43 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6646/6646_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Can I have a #slice# of pizza?",
+    "ru": "Можно кусочек пиццы?"
+   },
+   {
+    "en": "#Slice# the bread thinly.",
+    "ru": "Нарежь хлеб тонко."
+   },
+   {
+    "en": "It's a #slice# of real life.",
+    "ru": "Это кусочек настоящей жизни."
+   }
+  ]
  },
  {
   "id": "2466",
   "word": "feel (felt, felt)",
   "transcription": "[fiːl]",
   "translation": "трогать, щупать",
-  "nuance": null,
+  "nuance": "Трогать, щупать (также чувствовать). Touch — касаться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/feel.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Feel# the fabric — it's so soft.",
+    "ru": "Потрогай ткань — она такая мягкая."
+   },
+   {
+    "en": "The doctor #felt# my stomach.",
+    "ru": "Врач прощупал мой живот."
+   },
+   {
+    "en": "I #felt# for the light switch in the dark.",
+    "ru": "Я нащупывал выключатель в темноте."
+   }
+  ]
  },
  {
   "id": "2467",
@@ -56247,17 +56702,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/valid.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Your passport is no longer #valid#.",
+    "ru": "Ваш паспорт больше не действителен."
+   },
+   {
+    "en": "That's a #valid# point.",
+    "ru": "Это обоснованный довод."
+   },
+   {
+    "en": "The ticket is #valid# for one day.",
+    "ru": "Билет действует один день."
+   }
+  ]
  },
  {
   "id": "2468",
   "word": "validate",
   "transcription": "[ˈvælɪdeɪt]",
   "translation": "утверждать",
-  "nuance": null,
+  "nuance": "Подтвердить, утвердить; признать (чувства) правомерными.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/validate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Please #validate# your ticket.",
+    "ru": "Пожалуйста, прокомпостируйте билет."
+   },
+   {
+    "en": "The results were #validated# by experts.",
+    "ru": "Результаты подтвердили эксперты."
+   },
+   {
+    "en": "Kids need you to #validate# their feelings.",
+    "ru": "Детям нужно, чтобы их чувства признавали."
+   }
+  ]
  },
  {
   "id": "2469",
@@ -56267,17 +56748,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/invalidate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A mistake can #invalidate# the contract.",
+    "ru": "Ошибка может аннулировать договор."
+   },
+   {
+    "en": "Drawing on your passport #invalidates# it.",
+    "ru": "Если рисовать в паспорте, он станет недействительным."
+   },
+   {
+    "en": "New evidence #invalidated# his theory.",
+    "ru": "Новые доказательства опровергли его теорию."
+   }
+  ]
  },
  {
   "id": "2470",
   "word": "validation",
   "transcription": "[ˌvælɪˈdeɪʃən]",
   "translation": "проверка, утверждение",
-  "nuance": null,
+  "nuance": "Проверка; также одобрение, признание.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/validation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The software needs #validation#.",
+    "ru": "Программа нуждается в проверке."
+   },
+   {
+    "en": "She seeks #validation# on Instagram.",
+    "ru": "Она ищет одобрения в инстаграме."
+   },
+   {
+    "en": "Data #validation# takes time.",
+    "ru": "Проверка данных требует времени."
+   }
+  ]
  },
  {
   "id": "2471",
@@ -56287,7 +56794,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/validity.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Check the #validity# of your visa.",
+    "ru": "Проверь срок действия визы."
+   },
+   {
+    "en": "I question the #validity# of his argument.",
+    "ru": "Я сомневаюсь в обоснованности его довода."
+   },
+   {
+    "en": "The contract's #validity# is one year.",
+    "ru": "Срок действия договора — год."
+   }
+  ]
  },
  {
   "id": "2472",
@@ -56297,37 +56817,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/inevitable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Taxes and Mondays are #inevitable#.",
+    "ru": "Налоги и понедельники неизбежны."
+   },
+   {
+    "en": "The argument was #inevitable#.",
+    "ru": "Ссора была неизбежна."
+   },
+   {
+    "en": "Delay the #inevitable#.",
+    "ru": "Отсрочить неизбежное."
+   }
+  ]
  },
  {
   "id": "2473",
   "word": "stress",
   "transcription": "[strɛs]",
   "translation": "подчеркнуть, заострить внимание",
-  "nuance": null,
+  "nuance": "Подчеркнуть, сделать акцент. Также стресс (сущ.) и ударение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stress.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I must #stress# that this is a secret.",
+    "ru": "Должен подчеркнуть, что это секрет."
+   },
+   {
+    "en": "The teacher #stressed# the importance of reading.",
+    "ru": "Учитель подчеркнул важность чтения."
+   },
+   {
+    "en": "#Stress# the first syllable.",
+    "ru": "Делай ударение на первый слог."
+   }
+  ]
  },
  {
   "id": "2474",
   "word": "fee",
   "transcription": "[fiː]",
   "translation": "плата или гонорар",
-  "nuance": null,
+  "nuance": "Плата за услугу, комиссия, гонорар. Price — цена товара.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fee.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The bank charges a #fee# for everything.",
+    "ru": "Банк берёт комиссию за всё."
+   },
+   {
+    "en": "School #fees# are expensive.",
+    "ru": "Плата за обучение высокая."
+   },
+   {
+    "en": "The lawyer's #fee# was huge.",
+    "ru": "Гонорар адвоката был огромным."
+   }
+  ]
  },
  {
   "id": "2475",
   "word": "put through",
   "transcription": "[pʊtθruː]",
   "translation": "подвергнуть",
-  "nuance": null,
+  "nuance": "Подвергнуть (испытанию, страданиям); также соединить по телефону.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/put_through.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They #put# him #through# a hard test.",
+    "ru": "Его подвергли тяжёлому испытанию."
+   },
+   {
+    "en": "She #put# her parents #through# a lot.",
+    "ru": "Она доставила родителям много переживаний."
+   },
+   {
+    "en": "Please #put# me #through# to the manager.",
+    "ru": "Пожалуйста, соедините меня с менеджером."
+   }
+  ]
  },
  {
   "id": "2476",
@@ -56337,27 +56909,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/worry.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #worry# — I'll be fine.",
+    "ru": "Не волнуйся — я буду в порядке."
+   },
+   {
+    "en": "Mum #worries# when I don't call.",
+    "ru": "Мама волнуется, когда я не звоню."
+   },
+   {
+    "en": "It #worries# me that he never eats.",
+    "ru": "Меня беспокоит, что он никогда не ест."
+   }
+  ]
  },
  {
   "id": "2477",
   "word": "essential",
   "transcription": "[ɪˈsɛnʃəl]",
   "translation": "необходимый, существенный",
-  "nuance": null,
+  "nuance": "Необходимый, ключевой (сильнее, чем important).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/essential.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Water is #essential# for life.",
+    "ru": "Вода необходима для жизни."
+   },
+   {
+    "en": "Coffee is #essential# in the morning.",
+    "ru": "Кофе утром — самое необходимое."
+   },
+   {
+    "en": "Pack only the #essentials#.",
+    "ru": "Возьми только самое необходимое."
+   }
+  ]
  },
  {
   "id": "2478",
   "word": "essentially",
   "transcription": "[ɪˈsɛnʃəli]",
   "translation": "в сущности",
-  "nuance": null,
+  "nuance": "По сути (формальнее, чем basically).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/essentially.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Essentially#, we need more money.",
+    "ru": "По сути, нам нужно больше денег."
+   },
+   {
+    "en": "The two phones are #essentially# the same.",
+    "ru": "Два телефона по сути одинаковы."
+   },
+   {
+    "en": "He's #essentially# a good man.",
+    "ru": "В сущности он хороший человек."
+   }
+  ]
  },
  {
   "id": "2479",
@@ -56367,7 +56978,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/7042/7042_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The cat chewed the #wire#.",
+    "ru": "Кот погрыз провод."
+   },
+   {
+    "en": "A #wire# fence surrounds the farm.",
+    "ru": "Ферму окружает проволочный забор."
+   },
+   {
+    "en": "Don't touch the #wires#!",
+    "ru": "Не трогай провода!"
+   }
+  ]
  },
  {
   "id": "2480",
@@ -56377,17 +57001,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/wireless.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Wireless# headphones are great until you lose one.",
+    "ru": "Беспроводные наушники отличные, пока не потеряешь один."
+   },
+   {
+    "en": "The café has free #wireless# internet.",
+    "ru": "В кафе бесплатный беспроводной интернет."
+   },
+   {
+    "en": "We bought a #wireless# speaker.",
+    "ru": "Мы купили беспроводную колонку."
+   }
+  ]
  },
  {
   "id": "2481",
   "word": "commitment",
   "transcription": "[kəˈmɪtmənt]",
   "translation": "обязательство",
-  "nuance": null,
+  "nuance": "Обязательство (взятое на себя); преданность делу.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/commitment_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Paying off the mortgage is a big #commitment#.",
+    "ru": "Выплата ипотеки — большое обязательство."
+   },
+   {
+    "en": "I have family #commitments# this weekend.",
+    "ru": "У меня семейные обязательства на этих выходных."
+   },
+   {
+    "en": "He's afraid of #commitment#.",
+    "ru": "Он боится серьёзных обязательств."
+   }
+  ]
  },
  {
   "id": "2482",
