@@ -1,0 +1,8 @@
+<ellipse cx="90" cy="120" rx="50" ry="35" fill="{F}"/>
+<circle cx="140" cy="95" r="25" fill="{F}"/>
+<circle cx="148" cy="88" r="3.5" fill="{L}" stroke="none"/>
+<rect x="150" y="108" width="12" height="14" fill="{L}"/>
+<path d="M156 108 V122" stroke="#000" stroke-width="2"/>
+<ellipse cx="35" cy="150" rx="30" ry="12" fill="{F}" transform="rotate(-25 35 150)"/>
+<path d="M20 145 L40 155 M25 155 L45 140" stroke="#000" stroke-width="2"/>
+<path d="M70 152 V175 M110 152 V175"/>

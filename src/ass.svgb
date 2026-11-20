@@ -1,0 +1,7 @@
+<ellipse cx="90" cy="120" rx="55" ry="32" fill="{F}"/>
+<path d="M135 105 L155 70 Q170 55 185 70 L180 95 Q175 105 160 100 Z" fill="{F}"/>
+<path d="M155 70 L148 35 L162 62 M168 62 L170 30 L175 62" fill="{F}"/>
+<circle cx="168" cy="75" r="3.5" fill="{L}" stroke="none"/>
+<path d="M50 150 V180 M75 152 V180 M110 152 V180 M130 148 V180"/>
+<path d="M35 115 Q20 120 25 140"/>
+<text x="60" y="60" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">HEE-HAW</text>

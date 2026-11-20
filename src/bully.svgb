@@ -1,0 +1,10 @@
+<circle cx="80" cy="60" r="25" fill="{F}"/>
+<path d="M65 52 L76 58 M95 52 L84 58" stroke-width="4"/>
+<path d="M68 75 Q80 70 95 74" stroke-width="3"/>
+<path d="M40 190 Q35 95 80 90 Q125 95 120 190" fill="{F}"/>
+<path d="M120 120 L150 110"/>
+<circle cx="155" cy="110" r="10" fill="{F}"/>
+<circle cx="160" cy="160" r="12" fill="{F}"/>
+<path d="M148 190 Q148 175 160 175 Q172 175 172 190" fill="{F}"/>
+<path d="M154 158 Q160 154 166 158" stroke-width="2"/>
+<text x="80" y="25" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">lunch money!</text>

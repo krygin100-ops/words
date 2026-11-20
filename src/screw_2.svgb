@@ -1,0 +1,7 @@
+<circle cx="80" cy="80" r="22" fill="{F}"/>
+<path d="M68 75 L76 79 M92 75 L84 79" stroke-width="3"/>
+<path d="M70 95 H90" stroke-width="3"/>
+<path d="M50 190 Q50 115 80 115 Q110 115 110 190" fill="{F}"/>
+<path d="M105 120 L140 70"/>
+<g fill="{L}"><rect x="130" y="40" width="20" height="25" transform="rotate(20 140 52)"/><rect x="160" y="60" width="18" height="22" transform="rotate(-25 169 71)"/><rect x="150" y="20" width="16" height="20" transform="rotate(40 158 30)"/></g>
+<text x="60" y="40" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">screw it!</text>

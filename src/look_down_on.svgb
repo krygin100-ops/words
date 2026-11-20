@@ -1,0 +1,8 @@
+<path d="M10 70 H90 V190"/>
+<circle cx="50" cy="40" r="18" fill="{F}"/>
+<path d="M50 58 V70" stroke-width="5"/>
+<path d="M40 40 H48 M55 38 L62 40" stroke-width="3"/>
+<path d="M60 50 L130 140" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="140" cy="160" r="12" fill="{F}"/>
+<path d="M128 190 Q128 175 140 175 Q152 175 152 190" fill="{F}"/>
+<text x="140" y="80" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">pfft</text>

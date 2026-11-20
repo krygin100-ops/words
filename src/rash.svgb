@@ -1,0 +1,5 @@
+<circle cx="80" cy="60" r="15" fill="{F}"/>
+<path d="M80 75 L90 110 L75 150 M90 110 L115 140 M85 90 L115 75 M85 90 L60 100" stroke-width="7"/>
+<path d="M130 160 L190 160 V190 H130 Z" fill="#000" stroke-width="3"/>
+<path d="M120 150 L130 160" stroke-width="3"/>
+<text x="150" y="50" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">YOLO!</text>

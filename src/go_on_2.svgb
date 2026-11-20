@@ -1,0 +1,4 @@
+<path d="M20 100 H160" stroke-width="7"/>
+<path d="M145 80 L170 100 L145 120" stroke-width="7"/>
+<g fill="{F}"><circle cx="40" cy="100" r="10"/><circle cx="75" cy="100" r="10"/><circle cx="110" cy="100" r="10"/></g>
+<text x="100" y="160" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">and on...</text>
