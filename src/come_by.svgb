@@ -1,0 +1,7 @@
+<circle cx="60" cy="70" r="16" fill="{F}"/>
+<path d="M60 86 V130 L50 170 M60 130 L70 170 M60 100 L100 125"/>
+<path d="M10 175 H190"/>
+<circle cx="115" cy="160" r="14" fill="{L}"/>
+<text x="115" y="166" font-size="14" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">$</text>
+<path d="M115 135 V125 M100 140 L92 132 M130 140 L138 132" stroke-width="3"/>
+<text x="140" y="70" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">lucky!</text>

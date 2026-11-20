@@ -1,0 +1,7 @@
+<path d="M10 180 H190"/>
+<path d="M60 175 Q60 90 100 70 Q140 90 140 175 Z" fill="{F}" transform="rotate(-10 100 175)"/>
+<circle cx="90" cy="110" r="4" fill="{L}" stroke="none"/>
+<circle cx="110" cy="108" r="4" fill="{L}" stroke="none"/>
+<path d="M90 130 Q100 125 110 132" stroke-width="3"/>
+<path d="M40 100 Q30 120 40 140 M160 90 Q170 110 160 130" stroke-width="4"/>
+<text x="100" y="40" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">wibble wobble</text>

@@ -1,0 +1,7 @@
+<rect x="40" y="70" width="120" height="100" fill="{F}"/>
+<path d="M30 70 H170 L150 50 H50 Z" fill="{F}"/>
+<path d="M100 70 V170" stroke="#000" stroke-width="3"/>
+<text x="100" y="130" font-size="24" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">GIFT</text>
+<path d="M150 150 L175 180 M170 140 L185 165" stroke-width="0"/>
+<path d="M110 30 Q130 10 150 30 L145 40 Q130 25 115 40 Z" fill="{L}"/>
+<text x="50" y="40" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">trick!</text>

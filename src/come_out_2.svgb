@@ -1,0 +1,6 @@
+<circle cx="100" cy="100" r="55" fill="{F}"/>
+<circle cx="100" cy="100" r="12" fill="#000"/>
+<circle cx="100" cy="100" r="35" stroke="#000" stroke-width="2"/>
+<path d="M30 30 L40 45 M170 30 L160 45 M20 100 H35 M180 100 H165" stroke-width="4"/>
+<rect x="55" y="165" width="90" height="28" rx="4" fill="{L}"/>
+<text x="100" y="185" font-size="16" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">NEW!</text>

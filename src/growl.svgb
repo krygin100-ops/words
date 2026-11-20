@@ -1,0 +1,5 @@
+<circle cx="100" cy="100" r="50" fill="{F}"/>
+<path d="M60 60 L50 30 L80 50 M140 60 L150 30 L120 50" fill="{F}"/>
+<path d="M72 80 L92 90 M128 80 L108 90" stroke-width="5"/>
+<path d="M70 125 L80 115 L90 125 L100 115 L110 125 L120 115 L130 125" stroke="{L}" stroke-width="5"/>
+<text x="100" y="185" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">grrrr…</text>

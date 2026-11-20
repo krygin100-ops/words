@@ -1,0 +1,6 @@
+<circle cx="55" cy="70" r="18" fill="{F}"/>
+<circle cx="145" cy="70" r="18" fill="{F}"/>
+<path d="M45 75 Q55 85 65 75 M135 75 Q145 85 155 75" stroke-width="3"/>
+<path d="M55 88 V135 L40 180 M55 135 L70 180 M55 100 L30 70 M55 100 L85 120 M145 88 V135 L130 180 M145 135 L160 180 M145 100 L170 70 M145 100 L115 120"/>
+<path d="M100 40 V170" stroke-width="2" stroke-dasharray="6 6"/>
+<text x="145" y="30" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">copycat</text>
