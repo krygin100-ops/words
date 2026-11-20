@@ -1,0 +1,9 @@
+<circle cx="80" cy="90" r="30" fill="{F}"/>
+<circle cx="70" cy="85" r="8"/>
+<circle cx="92" cy="85" r="8"/>
+<circle cx="70" cy="85" r="4" fill="{L}" stroke="none"/>
+<circle cx="92" cy="85" r="4" fill="{L}" stroke="none"/>
+<path d="M65 105 Q80 118 95 105"/>
+<path d="M50 190 Q50 130 80 130 Q110 130 110 190" fill="{F}"/>
+<path d="M110 140 L150 100 L145 80" />
+<text x="150" y="55" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">me! me!</text>

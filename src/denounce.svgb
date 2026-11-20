@@ -1,0 +1,8 @@
+<circle cx="60" cy="80" r="20" fill="{F}"/>
+<path d="M48 72 L58 76 M72 72 L62 76" stroke-width="3"/>
+<ellipse cx="60" cy="92" rx="6" ry="4" fill="#000"/>
+<path d="M35 190 Q35 115 60 115 Q85 115 85 190" fill="{F}"/>
+<path d="M85 125 L130 105" stroke-width="7"/>
+<rect x="135" y="80" width="50" height="50" fill="{F}"/>
+<text x="160" y="110" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">LIAR</text>
+<text x="80" y="40" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">EXPOSED!</text>

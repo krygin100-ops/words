@@ -1,0 +1,8 @@
+<circle cx="60" cy="80" r="20" fill="{F}"/>
+<path d="M48 72 L58 76 M72 72 L62 76" stroke-width="3"/>
+<path d="M35 190 Q35 115 60 115 Q85 115 85 190" fill="{F}"/>
+<path d="M85 125 L120 125" stroke-width="7"/>
+<circle cx="150" cy="80" r="18" fill="{F}"/>
+<path d="M130 190 Q130 115 150 115 Q170 115 170 190" fill="{F}"/>
+<path d="M140 82 Q150 76 160 82" stroke-width="2"/>
+<text x="100" y="40" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">NO you don't</text>

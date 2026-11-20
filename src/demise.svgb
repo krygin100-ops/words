@@ -1,0 +1,5 @@
+<path d="M100 190 V110"/>
+<path d="M100 110 Q130 90 140 120 Q125 125 100 115" fill="{F}" opacity="0.5"/>
+<path d="M100 110 Q80 70 90 60 Q105 70 100 105" fill="{F}" opacity="0.5"/>
+<path d="M60 190 H140" stroke-width="3"/>
+<text x="100" y="45" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">THE END</text>

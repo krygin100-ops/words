@@ -1,0 +1,7 @@
+<circle cx="80" cy="80" r="25" fill="{F}"/>
+<path d="M68 76 Q73 72 78 76 M82 76 Q87 72 92 76" stroke-width="3"/>
+<ellipse cx="85" cy="95" rx="7" ry="5" fill="#000"/>
+<path d="M50 190 Q50 120 80 120 Q110 120 110 190" fill="{F}"/>
+<path d="M120 40 L130 60 M140 35 L145 55" stroke-width="3"/>
+<text x="150" y="90" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="serif">To be,</text>
+<text x="150" y="110" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="serif">or not...</text>

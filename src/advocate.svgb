@@ -1,0 +1,6 @@
+<circle cx="70" cy="70" r="20" fill="{F}"/>
+<path d="M40 190 Q40 105 70 105 Q100 105 100 190" fill="{F}"/>
+<path d="M100 125 L130 95 L128 75" />
+<circle cx="150" cy="140" r="14" fill="{F}"/>
+<path d="M135 190 Q135 160 150 160 Q165 160 165 190" fill="{F}"/>
+<text x="130" y="55" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">he's right!</text>

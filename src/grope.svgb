@@ -1,0 +1,6 @@
+<rect x="10" y="10" width="180" height="180" fill="{F}" opacity="0.3" stroke="none"/>
+<circle cx="100" cy="70" r="20" fill="{F}"/>
+<rect x="80" y="62" width="40" height="10" fill="#000"/>
+<path d="M100 90 V140 L85 180 M100 140 L115 180 M100 100 L50 95 M100 100 L150 95"/>
+<path d="M45 85 L40 75 M45 100 L35 100 M155 85 L160 75 M155 100 L165 100" stroke-width="3"/>
+<text x="100" y="35" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">where...</text>
