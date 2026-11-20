@@ -1,0 +1,8 @@
+<rect x="30" y="140" width="140" height="40" rx="10" fill="{F}"/>
+<circle cx="100" cy="160" r="12" fill="#000"/>
+<path d="M100 160 L110 152" stroke-width="3"/>
+<ellipse cx="100" cy="95" rx="50" ry="40" fill="{F}"/>
+<circle cx="100" cy="45" r="18" fill="{F}"/>
+<circle cx="94" cy="43" r="3" fill="{L}" stroke="none"/>
+<circle cx="106" cy="43" r="3" fill="{L}" stroke="none"/>
+<text x="170" y="40" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">!!</text>

@@ -1,0 +1,9 @@
+<circle cx="70" cy="80" r="20" fill="{F}"/>
+<path d="M60 75 L68 78 M80 75 L72 78" stroke-width="3"/>
+<path d="M60 95 Q70 90 80 95" stroke-width="3"/>
+<path d="M45 190 Q45 115 70 115 Q95 115 95 190" fill="{F}"/>
+<g fill="{F}"><rect x="40" y="25" width="60" height="25"/></g>
+<text x="70" y="44" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">bother</text>
+<circle cx="150" cy="90" r="16" fill="{F}"/>
+<path d="M130 190 Q130 115 150 115 Q170 115 170 190" fill="{F}"/>
+<text x="150" y="55" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">sorry!</text>

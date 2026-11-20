@@ -1,0 +1,7 @@
+<circle cx="90" cy="70" r="35" fill="{F}"/>
+<circle cx="80" cy="60" r="3.5" fill="{L}" stroke="none"/>
+<ellipse cx="110" cy="80" rx="8" ry="10" fill="#000"/>
+<path d="M90 105 V180" stroke-width="16"/>
+<circle cx="90" cy="135" r="10" fill="{L}"/>
+<path d="M75 125 L70 135 L75 145 M105 125 L110 135 L105 145" stroke-width="2"/>
+<text x="150" y="150" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">gulp</text>

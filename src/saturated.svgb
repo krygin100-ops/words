@@ -1,0 +1,4 @@
+<path d="M40 50 H160 V170 H40 Z" stroke-width="5"/>
+<rect x="45" y="55" width="110" height="110" fill="{F}"/>
+<g fill="#000"><circle cx="70" cy="80" r="6"/><circle cx="100" cy="90" r="6"/><circle cx="130" cy="75" r="6"/><circle cx="80" cy="115" r="6"/><circle cx="115" cy="120" r="6"/><circle cx="70" cy="145" r="6"/><circle cx="105" cy="150" r="6"/><circle cx="135" cy="145" r="6"/></g>
+<text x="100" y="35" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">FULL</text>

@@ -1,0 +1,8 @@
+<circle cx="60" cy="90" r="20" fill="{F}"/>
+<path d="M50 85 L58 88 M70 88 L62 85" stroke-width="3"/>
+<path d="M50 102 Q60 96 70 104" stroke-width="3"/>
+<path d="M35 190 Q35 125 60 125 Q85 125 85 190" fill="{F}"/>
+<path d="M85 140 L110 120 L108 100"/>
+<circle cx="150" cy="80" r="16" fill="{F}"/>
+<path d="M130 190 Q130 105 150 105 Q170 105 170 190" fill="{F}"/>
+<text x="110" y="40" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">now!</text>
