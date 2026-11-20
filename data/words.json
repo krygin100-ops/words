@@ -89244,500 +89244,1150 @@
   "word": "direction",
   "transcription": "[dɪˈrɛkʃən]",
   "translation": "направление",
-  "nuance": null,
+  "nuance": "direction — направление; directions (мн.) — указания, как пройти; инструкция. in the direction of — в сторону. Way — путь, дорога (разг.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/direction.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I have no sense of #direction#. I get lost in shops.",
+    "ru": "У меня нет чувства направления. Я теряюсь в магазинах."
+   },
+   {
+    "en": "Which #direction# is the beach?",
+    "ru": "В какой стороне пляж?"
+   },
+   {
+    "en": "Read the #directions# before you use it.",
+    "ru": "Прочитай инструкцию перед использованием."
+   }
+  ]
  },
  {
   "id": "3883",
   "word": "misdirect",
   "transcription": "[ˌmɪsdɪˈrɛkt]",
   "translation": "неправильно направлять",
-  "nuance": null,
+  "nuance": "misdirect — направить не туда, по ошибке; отвлечь внимание (misdirection — приём фокусников). Mislead — ввести в заблуждение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/misdirect.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The sign #misdirected# us to the wrong car park.",
+    "ru": "Знак направил нас не на ту парковку."
+   },
+   {
+    "en": "My letter was #misdirected# to my neighbour.",
+    "ru": "Моё письмо по ошибке отправили соседу."
+   },
+   {
+    "en": "The magician #misdirects# your attention.",
+    "ru": "Фокусник отвлекает ваше внимание."
+   }
+  ]
  },
  {
   "id": "3884",
   "word": "inflate",
   "transcription": "[ɪnˈfleɪt]",
   "translation": "надувать",
-  "nuance": null,
+  "nuance": "inflate — надувать, накачивать; завышать (цены, цифры). Blow up — разг. «надуть» (шарик), pump up — накачать насосом.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/37699/37699_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Can you help me #inflate# the balloons?",
+    "ru": "Поможешь надуть шарики?"
+   },
+   {
+    "en": "#Inflate# the tyres before the trip.",
+    "ru": "Подкачай шины перед поездкой."
+   },
+   {
+    "en": "He likes to #inflate# his salary when he talks about it.",
+    "ru": "Он любит преувеличивать свою зарплату."
+   }
+  ]
  },
  {
   "id": "3885",
   "word": "inflation",
   "transcription": "[ɪnˈfleɪʃən]",
   "translation": "надувание",
-  "nuance": null,
+  "nuance": "inflation — чаще всего экономическая инфляция! «Надувание» — редкое техн. значение. grade inflation — завышение оценок.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/inflation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #inflation# of the bouncy castle took ten minutes.",
+    "ru": "Надувание батута-замка заняло десять минут."
+   },
+   {
+    "en": "#Inflation# made bread twice as expensive.",
+    "ru": "Из-за инфляции хлеб подорожал вдвое."
+   },
+   {
+    "en": "Grade #inflation# means everyone gets an A.",
+    "ru": "Завышение оценок — это когда всем ставят пятёрки."
+   }
+  ]
  },
  {
   "id": "3886",
   "word": "inflatable",
   "transcription": "[ɪnˈfleɪtəbl]",
   "translation": "надувной",
-  "nuance": null,
+  "nuance": "inflatable — надувной. Сущ. inflatable — надувная игрушка/лодка. Blow-up — разг. «надувной».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/inflatable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We slept on an #inflatable# mattress. It went flat.",
+    "ru": "Мы спали на надувном матрасе. Он сдулся."
+   },
+   {
+    "en": "The kids love the #inflatable# pool.",
+    "ru": "Дети обожают надувной бассейн."
+   },
+   {
+    "en": "He bought a giant #inflatable# flamingo.",
+    "ru": "Он купил гигантского надувного фламинго."
+   }
+  ]
  },
  {
   "id": "3887",
   "word": "deflate",
   "transcription": "[dɪˈfleɪt]",
   "translation": "выкачивать",
-  "nuance": null,
+  "nuance": "deflate — выпустить воздух, сдуть; переносно — сбить спесь, расстроить. deflated — подавленный. Let down — разг. «спустить» (шину).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/deflate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Someone #deflated# my bike tyres!",
+    "ru": "Кто-то спустил шины у моего велосипеда!"
+   },
+   {
+    "en": "#Deflate# the mattress before packing it.",
+    "ru": "Сдуй матрас, прежде чем упаковывать."
+   },
+   {
+    "en": "His bad review #deflated# me.",
+    "ru": "Его плохой отзыв меня расстроил."
+   }
+  ]
  },
  {
   "id": "3888",
   "word": "moron",
   "transcription": "[ˈmɔːrɒn]",
   "translation": "дебил",
-  "nuance": null,
+  "nuance": "moron — грубое оскорбление «придурок, дебил» (разг., сильнее idiot). Мягче — fool, silly; ещё грубее — не стоит. В вежливой речи избегать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/moron.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I felt like a #moron# when I locked myself out.",
+    "ru": "Я почувствовал себя полным идиотом, когда захлопнул дверь без ключей."
+   },
+   {
+    "en": "Only a #moron# would drive like that!",
+    "ru": "Только придурок так водит!"
+   },
+   {
+    "en": "Don't call your brother a #moron#.",
+    "ru": "Не называй брата дебилом."
+   }
+  ]
  },
  {
   "id": "3889",
   "word": "fare",
   "transcription": "[feə]",
   "translation": "плата за проезд",
-  "nuance": null,
+  "nuance": "fare — стоимость проезда, билета (bus/air fare). Fee — плата за услугу, price — цена товара. Ловушка: fair — честный/ярмарка (звучит так же).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fare.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The bus #fare# went up again.",
+    "ru": "Плата за проезд в автобусе опять выросла."
+   },
+   {
+    "en": "Have your #fare# ready, please.",
+    "ru": "Приготовьте плату за проезд, пожалуйста."
+   },
+   {
+    "en": "The taxi driver took the long way to raise the #fare#.",
+    "ru": "Таксист поехал длинным путём, чтобы накрутить стоимость."
+   }
+  ]
  },
  {
   "id": "3890",
   "word": "virtual",
   "transcription": "[ˈvɜːtjʊəl]",
   "translation": "действительный, фактический",
-  "nuance": null,
+  "nuance": "virtual — фактический, практически полный (книжн.); чаще сейчас — виртуальный, онлайн (virtual reality/meeting). Ловушка: не «действительный» в смысле real!",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/virtual.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's the #virtual# boss — the real boss is always golfing.",
+    "ru": "Фактически начальник — он: настоящий всё время играет в гольф."
+   },
+   {
+    "en": "The deal is a #virtual# certainty.",
+    "ru": "Сделка — практически решённое дело."
+   },
+   {
+    "en": "We had a #virtual# meeting from our kitchens.",
+    "ru": "У нас была онлайн-встреча из наших кухонь."
+   }
+  ]
  },
  {
   "id": "3891",
   "word": "virtually",
   "transcription": "[ˈvɜːtjʊəli]",
   "translation": "фактически",
-  "nuance": null,
+  "nuance": "virtually — фактически, практически (= almost, nearly; нейтр.). Также «виртуально, онлайн». Practically — разг. синоним.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/virtually.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The town was #virtually# empty in August.",
+    "ru": "В августе город был практически пуст."
+   },
+   {
+    "en": "I've #virtually# finished. Just one more page.",
+    "ru": "Я почти закончил. Ещё одна страница."
+   },
+   {
+    "en": "It's #virtually# impossible to park here.",
+    "ru": "Здесь практически невозможно припарковаться."
+   }
+  ]
  },
  {
   "id": "3892",
   "word": "erect",
   "transcription": "[ɪˈrɛkt]",
   "translation": "воздвигнуть, соорудить",
-  "nuance": null,
+  "nuance": "erect — воздвигать, сооружать (офиц.). Build — строить (нейтр.), put up — разг. «поставить». Прил. erect — прямой, выпрямленный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/erect.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They #erected# a statue of the town's famous cat.",
+    "ru": "Они воздвигли памятник знаменитому коту города."
+   },
+   {
+    "en": "Workers #erected# a tent for the festival.",
+    "ru": "Рабочие поставили шатёр для фестиваля."
+   },
+   {
+    "en": "A new wall was #erected# overnight.",
+    "ru": "За ночь возвели новую стену."
+   }
+  ]
  },
  {
   "id": "3893",
   "word": "erection",
   "transcription": "[ɪˈrɛkʃən]",
   "translation": "сооружение, монтаж",
-  "nuance": null,
+  "nuance": "erection — возведение, монтаж (офиц./техн.). Осторожно: в быту чаще понимается как физиологический термин — лучше говорить construction, building.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/erection.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #erection# of the new bridge took two years.",
+    "ru": "Возведение нового моста заняло два года."
+   },
+   {
+    "en": "The #erection# of the stage started at dawn.",
+    "ru": "Монтаж сцены начался на рассвете."
+   },
+   {
+    "en": "The city approved the #erection# of a monument.",
+    "ru": "Город одобрил установку памятника."
+   }
+  ]
  },
  {
   "id": "3894",
   "word": "about",
   "transcription": "[əˈbaʊt]",
   "translation": "примерно",
-  "nuance": null,
+  "nuance": "about — примерно, около (разг.-нейтр.). Around — то же (чаще амер.), approximately — формальное, roughly — грубо, приблизительно.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/about.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It takes #about# an hour to get there.",
+    "ru": "Добираться туда примерно час."
+   },
+   {
+    "en": "He's #about# fifty, but acts like fifteen.",
+    "ru": "Ему около пятидесяти, но ведёт себя как в пятнадцать."
+   },
+   {
+    "en": "There were #about# twenty people at the party.",
+    "ru": "На вечеринке было человек двадцать."
+   }
+  ]
  },
  {
   "id": "3895",
   "word": "farm",
   "transcription": "[fɑːm]",
   "translation": "ферма",
-  "nuance": null,
+  "nuance": "farm — ферма, хозяйство; глагол farm — заниматься сельским хозяйством. Ranch — ранчо (скот, амер.), estate — поместье.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/32482/32482_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We spent the summer on Grandpa's #farm#.",
+    "ru": "Мы провели лето на дедушкиной ферме."
+   },
+   {
+    "en": "The #farm# has cows, chickens and one angry goose.",
+    "ru": "На ферме есть коровы, куры и один злой гусь."
+   },
+   {
+    "en": "They buy eggs directly from the #farm#.",
+    "ru": "Они покупают яйца прямо с фермы."
+   }
+  ]
  },
  {
   "id": "3896",
   "word": "farmer",
   "transcription": "[ˈfɑːmə]",
   "translation": "фермер",
-  "nuance": null,
+  "nuance": "farmer — фермер; farmers' market — фермерский рынок. Peasant — крестьянин (историч.), grower — производитель (фруктов и т. п.).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2982/2982_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #farmer# gets up at 4 a.m. Every day.",
+    "ru": "Фермер встаёт в 4 утра. Каждый день."
+   },
+   {
+    "en": "Buy vegetables at the #farmers'# market.",
+    "ru": "Покупай овощи на фермерском рынке."
+   },
+   {
+    "en": "My uncle is a #farmer# with 200 sheep.",
+    "ru": "Мой дядя — фермер с 200 овцами."
+   }
+  ]
  },
  {
   "id": "3897",
   "word": "situate",
   "transcription": "[ˈsɪtjʊˌeɪt]",
   "translation": "располагать",
-  "nuance": null,
+  "nuance": "situate — располагать; почти всегда в пассиве be situated (офиц., рекламное). Разг. — be located, be.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/situate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The hotel is #situated# right on the beach.",
+    "ru": "Отель расположен прямо на пляже."
+   },
+   {
+    "en": "Our office is #situated# near the station.",
+    "ru": "Наш офис находится рядом с вокзалом."
+   },
+   {
+    "en": "Where is the castle #situated#?",
+    "ru": "Где расположен замок?"
+   }
+  ]
  },
  {
   "id": "3898",
   "word": "situation",
   "transcription": "[ˌsɪtjʊˈeɪʃən]",
   "translation": "положение",
-  "nuance": null,
+  "nuance": "situation — ситуация, положение (дел). Position — положение (физ., в обществе), circumstances — обстоятельства (мн.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/situation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "This is an awkward #situation#.",
+    "ru": "Это неловкая ситуация."
+   },
+   {
+    "en": "The #situation# on the roads is bad today.",
+    "ru": "Ситуация на дорогах сегодня плохая."
+   },
+   {
+    "en": "In this #situation#, chocolate is the only answer.",
+    "ru": "В такой ситуации единственный выход — шоколад."
+   }
+  ]
  },
  {
   "id": "3899",
   "word": "sentiment",
   "transcription": "[ˈsɛntɪmənt]",
   "translation": "настроение, чувство",
-  "nuance": null,
+  "nuance": "sentiment — чувство, отношение, настроение (книжн.); также сентиментальность. Feeling — чувство (разг.), opinion — мнение, mood — настроение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sentiment.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I share your #sentiment# about Mondays.",
+    "ru": "Я разделяю твои чувства насчёт понедельников."
+   },
+   {
+    "en": "Public #sentiment# is against the new tax.",
+    "ru": "Общественное настроение против нового налога."
+   },
+   {
+    "en": "Thank you — a lovely #sentiment#.",
+    "ru": "Спасибо — очень трогательно."
+   }
+  ]
  },
  {
   "id": "3900",
   "word": "sentimental",
   "transcription": "[ˌsɛntɪˈmɛntl]",
   "translation": "сентиментальный",
-  "nuance": null,
+  "nuance": "sentimental — сентиментальный; sentimental value — ценность как память. Иногда с негативом «слащавый». Emotional — эмоциональный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sentimental.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't be so #sentimental# — it's just an old sock.",
+    "ru": "Не будь таким сентиментальным — это просто старый носок."
+   },
+   {
+    "en": "The film is too #sentimental# for me.",
+    "ru": "Фильм для меня слишком слащавый."
+   },
+   {
+    "en": "This ring has #sentimental# value.",
+    "ru": "Это кольцо дорого как память."
+   }
+  ]
  },
  {
   "id": "3901",
   "word": "prevail",
   "transcription": "[prɪˈveɪl]",
   "translation": "преобладать, возобладать",
-  "nuance": null,
+  "nuance": "prevail — возобладать, победить (книжн.); преобладать. Win — победить (разг.), dominate — доминировать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/prevail.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "In the end, common sense #prevailed#.",
+    "ru": "В итоге победил здравый смысл."
+   },
+   {
+    "en": "Cold weather will #prevail# this week.",
+    "ru": "На этой неделе будет преобладать холодная погода."
+   },
+   {
+    "en": "Justice will #prevail#!",
+    "ru": "Справедливость восторжествует!"
+   }
+  ]
  },
  {
   "id": "3902",
   "word": "prevalent",
   "transcription": "[ˈprɛvələnt]",
   "translation": "преобладающий",
-  "nuance": null,
+  "nuance": "prevalent — распространённый, преобладающий (книжн., научн.). Common — частый (разг.), widespread — широко распространённый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/prevalent.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Back pain is #prevalent# among office workers.",
+    "ru": "Боли в спине распространены среди офисных работников."
+   },
+   {
+    "en": "This view is #prevalent# among young people.",
+    "ru": "Эта точка зрения преобладает среди молодёжи."
+   },
+   {
+    "en": "Mosquitoes are #prevalent# here in summer.",
+    "ru": "Летом здесь полно комаров."
+   }
+  ]
  },
  {
   "id": "3903",
   "word": "glow",
   "transcription": "[gləʊ]",
   "translation": "сияние, свечение",
-  "nuance": null,
+  "nuance": "glow — мягкое ровное свечение, сияние; румянец. Shine — блеск, яркое сияние; glare — слепящий свет; sparkle — искры, блеск.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/glow.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #glow# of the fire kept us warm.",
+    "ru": "Отблеск огня согревал нас."
+   },
+   {
+    "en": "Her face had a healthy #glow# after the holiday.",
+    "ru": "После отпуска у неё был здоровый румянец."
+   },
+   {
+    "en": "The phone's #glow# lit up the dark room.",
+    "ru": "Свечение телефона освещало тёмную комнату."
+   }
+  ]
  },
  {
   "id": "3904",
   "word": "stage",
   "transcription": "[steɪʤ]",
   "translation": "стадия, ступень",
-  "nuance": null,
+  "nuance": "stage — стадия, этап; также сцена (on stage). Phase — фаза (чуть научнее), step — шаг, period — период.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stage.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The project is at an early #stage#.",
+    "ru": "Проект на ранней стадии."
+   },
+   {
+    "en": "At this #stage#, I just want to sleep.",
+    "ru": "На данном этапе я просто хочу спать."
+   },
+   {
+    "en": "Teenagers go through a \"difficult #stage#\".",
+    "ru": "Подростки проходят «трудный период»."
+   }
+  ]
  },
  {
   "id": "3905",
   "word": "accurate",
   "transcription": "[ˈækjʊrɪt]",
   "translation": "точный",
-  "nuance": null,
+  "nuance": "accurate — точный, верный (без ошибок). Precise — точный до деталей, exact — абсолютно точный (о числах), correct — правильный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/accurate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Is this clock #accurate#? I'm always late.",
+    "ru": "Эти часы точные? Я вечно опаздываю."
+   },
+   {
+    "en": "Her description of him was very #accurate#.",
+    "ru": "Её описание его было очень точным."
+   },
+   {
+    "en": "The weather forecast is rarely #accurate#.",
+    "ru": "Прогноз погоды редко бывает точным."
+   }
+  ]
  },
  {
   "id": "3906",
   "word": "accuracy",
   "transcription": "[ˈækjʊrəsi]",
   "translation": "точность",
-  "nuance": null,
+  "nuance": "accuracy — точность, безошибочность. Precision — точность (детализация, техника), correctness — правильность.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/accuracy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Speed is important, but #accuracy# matters more.",
+    "ru": "Скорость важна, но точность важнее."
+   },
+   {
+    "en": "The #accuracy# of the map is questionable.",
+    "ru": "Точность карты под вопросом."
+   },
+   {
+    "en": "She throws darts with amazing #accuracy#.",
+    "ru": "Она бросает дротики с поразительной точностью."
+   }
+  ]
  },
  {
   "id": "3907",
   "word": "inaccurate",
   "transcription": "[ɪnˈækjʊrɪt]",
   "translation": "неточный",
-  "nuance": null,
+  "nuance": "inaccurate — неточный, ошибочный. Wrong — неправильный (разг.), imprecise — расплывчатый, incorrect — некорректный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/inaccurate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The news report was #inaccurate#.",
+    "ru": "Новостной репортаж был неточным."
+   },
+   {
+    "en": "My bathroom scales are #inaccurate#. I hope.",
+    "ru": "Мои весы врут. Надеюсь."
+   },
+   {
+    "en": "The translation is #inaccurate# in places.",
+    "ru": "Перевод местами неточен."
+   }
+  ]
  },
  {
   "id": "3908",
   "word": "inaccuracy",
   "transcription": "[ɪnˈækjʊrəsi]",
   "translation": "неточность",
-  "nuance": null,
+  "nuance": "inaccuracy — неточность, ошибка (часто мн. ч.). Error — ошибка (формальнее), mistake — ошибка (разг.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/inaccuracy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The article is full of #inaccuracies#.",
+    "ru": "Статья полна неточностей."
+   },
+   {
+    "en": "Forgive any #inaccuracy# — I wrote it at midnight.",
+    "ru": "Простите за неточности — я писал в полночь."
+   },
+   {
+    "en": "The #inaccuracy# of the test worried doctors.",
+    "ru": "Неточность теста встревожила врачей."
+   }
+  ]
  },
  {
   "id": "3909",
   "word": "drop",
   "transcription": "[drɒp]",
   "translation": "падать, ронять",
-  "nuance": null,
+  "nuance": "drop — уронить, упасть; снизиться; подбросить (drop off). Fall — падать (самому), decrease — уменьшаться. Сущ. drop — капля.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2675/2675_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #drop# the cake!",
+    "ru": "Не урони торт!"
+   },
+   {
+    "en": "Prices #dropped# after Christmas.",
+    "ru": "После Рождества цены упали."
+   },
+   {
+    "en": "I'll #drop# you at the station.",
+    "ru": "Я подброшу тебя до вокзала."
+   }
+  ]
  },
  {
   "id": "3910",
   "word": "fertile",
   "transcription": "[ˈfɜːtaɪl]",
   "translation": "плодородный",
-  "nuance": null,
+  "nuance": "fertile — плодородный (почва), способный к зачатию; переносно — богатый (воображение). Rich — богатый (почва), productive — продуктивный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fertile.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The soil here is very #fertile# — even my plants grow.",
+    "ru": "Почва здесь очень плодородная — даже мои растения растут."
+   },
+   {
+    "en": "She has a #fertile# imagination.",
+    "ru": "У неё богатое воображение."
+   },
+   {
+    "en": "The valley is #fertile# and green.",
+    "ru": "Долина плодородная и зелёная."
+   }
+  ]
  },
  {
   "id": "3911",
   "word": "infertile",
   "transcription": "[ɪnˈfɜːtaɪl]",
   "translation": "бесплодный",
-  "nuance": null,
+  "nuance": "infertile — бесплодный (почва; мед. — неспособный к зачатию). Barren — бесплодный (о земле, книжн.), sterile — стерильный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/infertile.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "This land is #infertile# — nothing grows.",
+    "ru": "Эта земля бесплодная — ничего не растёт."
+   },
+   {
+    "en": "Many couples who are #infertile# use IVF.",
+    "ru": "Многие пары, которые не могут иметь детей, прибегают к ЭКО."
+   },
+   {
+    "en": "The desert soil is dry and #infertile#.",
+    "ru": "Почва в пустыне сухая и неплодородная."
+   }
+  ]
  },
  {
   "id": "3912",
   "word": "fertility",
   "transcription": "[fə(ː)ˈtɪlɪti]",
   "translation": "плодородность, плодовитость",
-  "nuance": null,
+  "nuance": "fertility — плодородие, плодовитость, фертильность (мед.). fertility rate — рождаемость.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fertility.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #fertility# of the soil depends on the rain.",
+    "ru": "Плодородие почвы зависит от дождей."
+   },
+   {
+    "en": "Rabbits are famous for their #fertility#.",
+    "ru": "Кролики знамениты своей плодовитостью."
+   },
+   {
+    "en": "She visited a #fertility# clinic.",
+    "ru": "Она обратилась в клинику репродукции."
+   }
+  ]
  },
  {
   "id": "3913",
   "word": "infertility",
   "transcription": "[ˌɪnfɜːˈtɪlɪti]",
   "translation": "бесплодие",
-  "nuance": null,
+  "nuance": "infertility — бесплодие (мед.). Серьёзная тема; в разговоре деликатно: trouble conceiving.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/infertility.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Infertility# affects many couples.",
+    "ru": "Бесплодие затрагивает многие пары."
+   },
+   {
+    "en": "The doctor specialises in #infertility# treatment.",
+    "ru": "Врач специализируется на лечении бесплодия."
+   },
+   {
+    "en": "They talked openly about their #infertility#.",
+    "ru": "Они открыто говорили о своём бесплодии."
+   }
+  ]
  },
  {
   "id": "3914",
   "word": "fertilize",
   "transcription": "[ˈfɜːtɪlaɪz]",
   "translation": "удобрять",
-  "nuance": null,
+  "nuance": "fertilize (брит. fertilise) — удобрять; в биологии — оплодотворять. Feed — разг. «подкормить» (растения).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/13020/13020_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandma #fertilizes# her tomatoes with coffee grounds.",
+    "ru": "Бабушка удобряет помидоры кофейной гущей."
+   },
+   {
+    "en": "#Fertilize# the lawn in spring.",
+    "ru": "Удобряй газон весной."
+   },
+   {
+    "en": "Bees help #fertilize# flowers.",
+    "ru": "Пчёлы помогают опылять цветы."
+   }
+  ]
  },
  {
   "id": "3915",
   "word": "fertilizer",
   "transcription": "[ˈfɜːtɪlaɪzə]",
   "translation": "удобрение",
-  "nuance": null,
+  "nuance": "fertilizer — удобрение (в т. ч. химическое). Manure — навоз, compost — компост.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6872/6872_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Too much #fertilizer# can kill plants.",
+    "ru": "Слишком много удобрений может погубить растения."
+   },
+   {
+    "en": "We use natural #fertilizer# from our chickens.",
+    "ru": "Мы используем натуральное удобрение от наших кур."
+   },
+   {
+    "en": "Buy #fertilizer# at the garden centre.",
+    "ru": "Купи удобрение в садовом центре."
+   }
+  ]
  },
  {
   "id": "3916",
   "word": "indicate",
   "transcription": "[ˈɪndɪkeɪt]",
   "translation": "указывать, означать",
-  "nuance": null,
+  "nuance": "indicate — указывать, означать, свидетельствовать (офиц.); также включать поворотник. Show — показывать (разг.), suggest — наводить на мысль.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/indicate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The arrow #indicates# the exit.",
+    "ru": "Стрелка указывает на выход."
+   },
+   {
+    "en": "His silence #indicated# he was angry.",
+    "ru": "Его молчание говорило о том, что он злится."
+   },
+   {
+    "en": "Please #indicate# your size on the form.",
+    "ru": "Пожалуйста, укажите свой размер в анкете."
+   }
+  ]
  },
  {
   "id": "3917",
   "word": "indication",
   "transcription": "[ˌɪndɪˈkeɪʃən]",
   "translation": "признак",
-  "nuance": null,
+  "nuance": "indication — признак, указание (офиц.-нейтр.). Sign — знак, признак (разг.), symptom — симптом, hint — намёк.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/indication.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's no #indication# that it'll stop raining.",
+    "ru": "Нет никаких признаков, что дождь прекратится."
+   },
+   {
+    "en": "A fever is an #indication# of infection.",
+    "ru": "Температура — признак инфекции."
+   },
+   {
+    "en": "Did he give any #indication# of his plans?",
+    "ru": "Он как-то намекнул на свои планы?"
+   }
+  ]
  },
  {
   "id": "3918",
   "word": "elect",
   "transcription": "[ɪˈlɛkt]",
   "translation": "избирать",
-  "nuance": null,
+  "nuance": "elect — избирать (голосованием); книжн. elect to do — «предпочесть». Choose — выбирать (общее), vote — голосовать, appoint — назначать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/elect.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They #elected# a new mayor. He's a cat lover.",
+    "ru": "Они избрали нового мэра. Он любит кошек."
+   },
+   {
+    "en": "She was #elected# class president.",
+    "ru": "Её выбрали старостой класса."
+   },
+   {
+    "en": "He #elected# to stay at home.",
+    "ru": "Он предпочёл остаться дома."
+   }
+  ]
  },
  {
   "id": "3919",
   "word": "elections",
   "transcription": "[ɪˈlɛkʃənz]",
   "translation": "выборы",
-  "nuance": null,
+  "nuance": "election(s) — выборы (ед. ч. для одних конкретных выборов: the presidential election). Vote — голосование, poll — опрос/голосование.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/11580/11580_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #elections# are next Sunday.",
+    "ru": "Выборы в следующее воскресенье."
+   },
+   {
+    "en": "Who won the #elections#?",
+    "ru": "Кто победил на выборах?"
+   },
+   {
+    "en": "Everyone talks about politics before #elections#.",
+    "ru": "Перед выборами все говорят о политике."
+   }
+  ]
  },
  {
   "id": "3920",
   "word": "evidence",
   "transcription": "[ˈɛvɪdəns]",
   "translation": "доказательство (неисчисл.)",
-  "nuance": null,
+  "nuance": "evidence — доказательства, улики (неисч.: a piece of evidence, не evidences). Proof — неопровержимое доказательство, sign — признак.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/evidence.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's no #evidence# that cats can read minds.",
+    "ru": "Нет доказательств, что кошки читают мысли."
+   },
+   {
+    "en": "The police found new #evidence#.",
+    "ru": "Полиция нашла новые улики."
+   },
+   {
+    "en": "Crumbs on your shirt — that's #evidence#!",
+    "ru": "Крошки на рубашке — вот доказательство!"
+   }
+  ]
  },
  {
   "id": "3921",
   "word": "evidential",
   "transcription": "[ˌɛvɪˈdɛnʃəl]",
   "translation": "доказательный",
-  "nuance": null,
+  "nuance": "evidential — доказательный, относящийся к доказательствам (юр., книжн.). В быту не используется; evidence-based — «основанный на доказательствах».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/evidential.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The court needs more #evidential# material.",
+    "ru": "Суду нужно больше доказательного материала."
+   },
+   {
+    "en": "The photo had no #evidential# value.",
+    "ru": "Фото не имело доказательной силы."
+   },
+   {
+    "en": "The #evidential# standard is very high.",
+    "ru": "Стандарт доказывания очень высок."
+   }
+  ]
  },
  {
   "id": "3922",
   "word": "be over",
   "transcription": "[biːˈəʊvə]",
   "translation": "закончиться",
-  "nuance": null,
+  "nuance": "be over — закончиться (разг.-нейтр.). End/finish — заканчиваться (глаголы). It's over — «всё кончено» (о отношениях, конфликте).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/be_over.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The party #is over# — go home!",
+    "ru": "Вечеринка окончена — расходитесь!"
+   },
+   {
+    "en": "When the film #was over#, everyone cried.",
+    "ru": "Когда фильм закончился, все плакали."
+   },
+   {
+    "en": "It's #over# between us.",
+    "ru": "Между нами всё кончено."
+   }
+  ]
  },
  {
   "id": "3923",
   "word": "legitimate",
   "transcription": "[lɪˈʤɪtɪmɪt]",
   "translation": "законный, обоснованный",
-  "nuance": null,
+  "nuance": "legitimate — законный, обоснованный, уважительный. Legal — законный (по закону), valid — действительный, обоснованный; разг. legit — «настоящий, честный».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/legitimate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Is this a #legitimate# website or a scam?",
+    "ru": "Это настоящий сайт или мошенники?"
+   },
+   {
+    "en": "He had a #legitimate# reason to be late — a flat tyre.",
+    "ru": "У него была уважительная причина опоздать — спустило колесо."
+   },
+   {
+    "en": "That's a #legitimate# question.",
+    "ru": "Это обоснованный вопрос."
+   }
+  ]
  },
  {
   "id": "3924",
   "word": "illegitimate",
   "transcription": "[ˌɪlɪˈʤɪtɪmɪt]",
   "translation": "незаконный",
-  "nuance": null,
+  "nuance": "illegitimate — незаконный, нелегитимный (офиц.); устар. — внебрачный (ребёнок). Illegal — противозаконный (нарушает закон, чаще).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/illegitimate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The court called the contract #illegitimate#.",
+    "ru": "Суд признал договор незаконным."
+   },
+   {
+    "en": "Many saw the new government as #illegitimate#.",
+    "ru": "Многие считали новое правительство нелегитимным."
+   },
+   {
+    "en": "That's an #illegitimate# excuse.",
+    "ru": "Это неуважительная причина."
+   }
+  ]
  },
  {
   "id": "3925",
   "word": "legitimacy",
   "transcription": "[lɪˈʤɪtɪməsi]",
   "translation": "законность",
-  "nuance": null,
+  "nuance": "legitimacy — законность, легитимность, признание (полит./офиц.). Legality — законность (юридическая), authority — авторитет.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/legitimacy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #legitimacy# of the election was questioned.",
+    "ru": "Законность выборов поставили под сомнение."
+   },
+   {
+    "en": "The new manager has no #legitimacy# with the team.",
+    "ru": "У нового менеджера нет авторитета в команде."
+   },
+   {
+    "en": "They worked hard to gain #legitimacy#.",
+    "ru": "Они много работали, чтобы получить признание."
+   }
+  ]
  },
  {
   "id": "3926",
   "word": "regular",
   "transcription": "[ˈrɛgjʊlə]",
   "translation": "обычный",
-  "nuance": null,
+  "nuance": "regular — обычный, стандартный (амер.); регулярный; сущ. — постоянный клиент. Ordinary — заурядный, usual — привычный, normal — нормальный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/regular.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I'll have a #regular# coffee, please. Nothing fancy.",
+    "ru": "Мне обычный кофе, пожалуйста. Без изысков."
+   },
+   {
+    "en": "He's a #regular# at this pub.",
+    "ru": "Он завсегдатай этого паба."
+   },
+   {
+    "en": "Exercise #regularly#, they say.",
+    "ru": "Говорят, надо регулярно заниматься спортом."
+   }
+  ]
  },
  {
   "id": "3927",
   "word": "at once",
   "transcription": "[ætwʌns]",
   "translation": "сразу",
-  "nuance": null,
+  "nuance": "at once — сразу, немедленно; одновременно (all at once). Immediately — немедленно (нейтр.), right away — разг. «сразу же».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/at_once.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Come here #at once#!",
+    "ru": "Иди сюда немедленно!"
+   },
+   {
+    "en": "I can't do everything #at once#!",
+    "ru": "Я не могу делать всё сразу!"
+   },
+   {
+    "en": "Everyone started talking #at once#.",
+    "ru": "Все заговорили одновременно."
+   }
+  ]
  },
  {
   "id": "3928",
   "word": "cheat on",
   "transcription": "[ʧiːtɒn]",
   "translation": "изменять",
-  "nuance": null,
+  "nuance": "cheat on smb — изменять партнёру (разг.). cheat on a test — списывать. Be unfaithful — формальнее, have an affair — завести роман.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/cheat_on.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #cheated on# his girlfriend and lost everything.",
+    "ru": "Он изменил своей девушке и всё потерял."
+   },
+   {
+    "en": "I would never #cheat on# you.",
+    "ru": "Я бы никогда тебе не изменил."
+   },
+   {
+    "en": "She found out he was #cheating on# her.",
+    "ru": "Она узнала, что он ей изменяет."
+   }
+  ]
  },
  {
   "id": "3929",
   "word": "excess",
   "transcription": "[ɪkˈsɛs]",
   "translation": "избыток, чрезмерный",
-  "nuance": null,
+  "nuance": "excess — избыток; прил. — лишний, избыточный (excess baggage). to excess — чрезмерно. Surplus — излишек (эконом.), too much — разг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/excess.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Excess# sugar is bad for your teeth.",
+    "ru": "Избыток сахара вреден для зубов."
+   },
+   {
+    "en": "Cut off the #excess# fat from the meat.",
+    "ru": "Срежь лишний жир с мяса."
+   },
+   {
+    "en": "He eats chocolate to #excess#.",
+    "ru": "Он ест шоколад сверх всякой меры."
+   }
+  ]
  },
  {
   "id": "3930",
   "word": "excessive",
   "transcription": "[ɪkˈsɛsɪv]",
   "translation": "чрезмерный",
-  "nuance": null,
+  "nuance": "excessive — чрезмерный (часто с упрёком). Extreme — крайний, too much — разг. «слишком», over the top — разг. «перебор».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/excessive.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The noise from the party was #excessive#.",
+    "ru": "Шум с вечеринки был чрезмерным."
+   },
+   {
+    "en": "Five alarms in the morning is #excessive#.",
+    "ru": "Пять будильников утром — это перебор."
+   },
+   {
+    "en": "Avoid #excessive# use of salt.",
+    "ru": "Избегайте чрезмерного употребления соли."
+   }
+  ]
  },
  {
   "id": "3931",
   "word": "define",
   "transcription": "[dɪˈfaɪn]",
   "translation": "определять",
-  "nuance": null,
+  "nuance": "define — давать определение, определять, очерчивать. Determine — определять (выяснять, влиять на исход), describe — описывать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/define.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "How do you #define# happiness? — Pizza.",
+    "ru": "Как ты определяешь счастье? — Пицца."
+   },
+   {
+    "en": "Your choices #define# you.",
+    "ru": "Тебя определяют твои решения."
+   },
+   {
+    "en": "The dictionary #defines# \"cat\" as a small animal. Clearly wrong.",
+    "ru": "Словарь определяет «кошку» как маленькое животное. Явно ошибка."
+   }
+  ]
  },
  {
   "id": "3932",
