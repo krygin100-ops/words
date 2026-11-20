@@ -1,0 +1,7 @@
+<circle cx="100" cy="100" r="50" fill="{F}"/>
+<path d="M70 75 L95 90 M130 75 L105 90" stroke-width="7"/>
+<circle cx="85" cy="98" r="4" fill="{L}" stroke="none"/>
+<circle cx="115" cy="98" r="4" fill="{L}" stroke="none"/>
+<path d="M70 125 L80 115 L90 130 L100 115 L110 130 L120 115 L130 125" stroke-width="4"/>
+<path d="M60 55 L50 30 M100 50 V25 M140 55 L150 30 M45 80 L25 75 M155 80 L175 75" stroke-width="5"/>
+<text x="100" y="185" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">RAWR</text>

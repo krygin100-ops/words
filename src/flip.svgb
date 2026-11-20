@@ -1,0 +1,4 @@
+<rect x="60" y="80" width="80" height="50" rx="6" fill="{F}"/>
+<path d="M40 100 A60 60 0 0 1 160 100" stroke-width="4" stroke-dasharray="6 5"/>
+<path d="M150 90 L160 105 L170 90" stroke-width="4"/>
+<text x="100" y="112" font-size="22" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif" transform="rotate(180 100 105)">ABC</text>

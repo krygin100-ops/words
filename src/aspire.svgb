@@ -1,0 +1,6 @@
+<circle cx="50" cy="150" r="16" fill="{F}"/>
+<path d="M50 166 V185"/>
+<path d="M50 135 L60 120" stroke-width="5"/>
+<path d="M70 120 L160 40" stroke-width="2" stroke-dasharray="5 5"/>
+<path d="M160 20 L166 35 L182 36 L170 46 L174 62 L160 53 L146 62 L150 46 L138 36 L154 35 Z" fill="{L}"/>
+<text x="110" y="130" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">one day!</text>

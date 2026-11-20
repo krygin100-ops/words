@@ -1,0 +1,5 @@
+<path d="M20 70 H120 M100 50 L120 70 L100 90" stroke-width="7"/>
+<path d="M180 130 H80 M100 110 L80 130 L100 150" stroke-width="7"/>
+<path d="M130 70 H150 M50 130 H70" stroke-width="7" stroke-dasharray="1 0"/>
+<rect x="135" y="55" width="10" height="90" fill="{F}" opacity="0"/>
+<text x="100" y="185" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">versus</text>

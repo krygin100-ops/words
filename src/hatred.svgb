@@ -1,0 +1,7 @@
+<circle cx="100" cy="100" r="45" fill="{F}"/>
+<path d="M72 80 L95 92 M128 80 L105 92" stroke-width="7"/>
+<circle cx="86" cy="98" r="3.5" fill="{L}" stroke="none"/>
+<circle cx="114" cy="98" r="3.5" fill="{L}" stroke="none"/>
+<path d="M80 130 L88 122 L96 130 L104 122 L112 130 L120 122"/>
+<path d="M60 50 Q55 35 65 30 M140 50 Q145 35 135 30 M100 45 V25" stroke-width="4"/>
+<text x="100" y="185" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">GRRR</text>

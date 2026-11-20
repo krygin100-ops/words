@@ -1,0 +1,5 @@
+<path d="M20 180 H180"/>
+<path d="M30 180 V90 H170 V180" fill="{F}"/>
+<path d="M20 90 L100 40 L180 90 Z" fill="{F}"/>
+<path d="M50 100 V170 M80 100 V170 M120 100 V170 M150 100 V170" stroke="#000" stroke-width="7"/>
+<text x="100" y="78" font-size="14" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">INSTITUTE</text>

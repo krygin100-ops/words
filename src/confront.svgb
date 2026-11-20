@@ -1,0 +1,7 @@
+<circle cx="50" cy="80" r="20" fill="{F}"/>
+<circle cx="150" cy="80" r="20" fill="{F}"/>
+<path d="M40 74 L48 78 M60 74 L52 78 M140 74 L148 78 M160 74 L152 78" stroke-width="3"/>
+<path d="M28 190 Q28 115 50 115 Q72 115 72 190 M128 190 Q128 115 150 115 Q172 115 172 190" fill="{F}"/>
+<path d="M75 80 H125" stroke-width="3" stroke-dasharray="4 4"/>
+<path d="M95 70 L100 80 L105 70" stroke-width="3"/>
+<text x="100" y="40" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">face to face</text>

@@ -1,0 +1,8 @@
+<circle cx="80" cy="90" r="30" fill="{F}"/>
+<circle cx="70" cy="85" r="4" fill="{L}" stroke="none"/>
+<circle cx="90" cy="85" r="4" fill="{L}" stroke="none"/>
+<path d="M65 100 Q80 115 95 100"/>
+<path d="M50 190 Q50 130 80 130 Q110 130 110 190" fill="{F}"/>
+<path d="M120 90 H170 M160 80 L170 90 L160 100" stroke-width="4"/>
+<g fill="{L}" stroke="none"><path d="M170 50 L173 40 L176 50 L186 53 L176 56 L173 66 L170 56 L160 53 Z"/></g>
+<text x="80" y="40" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">can't wait!</text>

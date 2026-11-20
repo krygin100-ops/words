@@ -1,0 +1,6 @@
+<circle cx="70" cy="90" r="22" fill="{F}"/>
+<path d="M58 86 L66 89 M78 88 L84 84" stroke-width="3"/>
+<path d="M60 102 Q70 108 82 98" stroke-width="3"/>
+<path d="M40 190 Q40 125 70 125 Q100 125 100 190" fill="{F}"/>
+<path d="M110 50 H180 V90 H140 L125 105 V90 H110 Z" fill="{F}"/>
+<text x="145" y="77" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">*wink wink*</text>
