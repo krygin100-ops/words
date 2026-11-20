@@ -39606,7 +39606,20 @@
   "translation": "главным образом",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/chiefly.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The city is #chiefly# famous for its coffee.",
+    "ru": "Город известен главным образом своим кофе."
+   },
+   {
+    "en": "Our diet consists #chiefly# of pasta.",
+    "ru": "Наш рацион состоит главным образом из пасты."
+   },
+   {
+    "en": "The audience was #chiefly# students.",
+    "ru": "Публика состояла в основном из студентов."
+   }
+  ]
  },
  {
   "id": "1803",
@@ -39615,7 +39628,20 @@
   "translation": "инвалид (прил.)",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/disabled.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The building has a ramp for #disabled# people.",
+    "ru": "В здании есть пандус для людей с инвалидностью."
+   },
+   {
+    "en": "He's been #disabled# since the accident.",
+    "ru": "После аварии он стал инвалидом."
+   },
+   {
+    "en": "#Disabled# parking is near the entrance.",
+    "ru": "Парковка для инвалидов у входа."
+   }
+  ]
  },
  {
   "id": "1804",
@@ -39624,7 +39650,20 @@
   "translation": "инвалидность",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/disability.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She lives a full life despite her #disability#.",
+    "ru": "Она живёт полной жизнью, несмотря на инвалидность."
+   },
+   {
+    "en": "He gets a #disability# pension.",
+    "ru": "Он получает пенсию по инвалидности."
+   },
+   {
+    "en": "The school supports kids with #disabilities#.",
+    "ru": "Школа поддерживает детей с инвалидностью."
+   }
+  ]
  },
  {
   "id": "1805",
@@ -39633,7 +39672,20 @@
   "translation": "душ",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2370/2370_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I sing in the #shower#. The neighbours suffer.",
+    "ru": "Я пою в душе. Соседи страдают."
+   },
+   {
+    "en": "Take a quick #shower# before dinner.",
+    "ru": "Быстро прими душ перед ужином."
+   },
+   {
+    "en": "We got caught in a #shower# on the way home.",
+    "ru": "По дороге домой мы попали под ливень."
+   }
+  ]
  },
  {
   "id": "1806",
@@ -39642,7 +39694,20 @@
   "translation": "показ(ывать), демонстрировать",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/display.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The shop #displays# new dresses in the window.",
+    "ru": "Магазин выставляет новые платья в витрине."
+   },
+   {
+    "en": "The phone #displays# the time.",
+    "ru": "Телефон показывает время."
+   },
+   {
+    "en": "The kids #displayed# their drawings proudly.",
+    "ru": "Дети гордо показывали свои рисунки."
+   }
+  ]
  },
  {
   "id": "1807",
@@ -39651,7 +39716,20 @@
   "translation": "крайний",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/extreme.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They live in #extreme# poverty.",
+    "ru": "Они живут в крайней бедности."
+   },
+   {
+    "en": "#Extreme# sports aren't for me.",
+    "ru": "Экстремальные виды спорта не для меня."
+   },
+   {
+    "en": "Isn't that a bit #extreme#?",
+    "ru": "Не слишком ли это?"
+   }
+  ]
  },
  {
   "id": "1808",
@@ -39660,7 +39738,20 @@
   "translation": "крайность",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/extremity.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She goes from one #extremity# to another.",
+    "ru": "Она бросается из одной крайности в другую."
+   },
+   {
+    "en": "In #extremity#, people help each other.",
+    "ru": "В крайних обстоятельствах люди помогают друг другу."
+   },
+   {
+    "en": "The cold hurt my #extremities#.",
+    "ru": "От холода у меня болели руки и ноги."
+   }
+  ]
  },
  {
   "id": "1809",
@@ -39669,7 +39760,20 @@
   "translation": "произносить (писать) по буквам",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/spell_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Can you #spell# your surname, please?",
+    "ru": "Можете продиктовать фамилию по буквам?"
+   },
+   {
+    "en": "My son can't #spell# \"necessary\". Neither can I.",
+    "ru": "Сын не может написать «necessary» без ошибок. Я тоже."
+   },
+   {
+    "en": "How do you #spell# that?",
+    "ru": "Как это пишется?"
+   }
+  ]
  },
  {
   "id": "1810",
@@ -39678,7 +39782,20 @@
   "translation": "клятва, присяга",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/oath.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The president took the #oath# of office.",
+    "ru": "Президент принёс присягу."
+   },
+   {
+    "en": "Witnesses speak under #oath#.",
+    "ru": "Свидетели дают показания под присягой."
+   },
+   {
+    "en": "He took an #oath# never to eat fast food again.",
+    "ru": "Он поклялся больше никогда не есть фастфуд."
+   }
+  ]
  },
  {
   "id": "1811",
@@ -39687,7 +39804,20 @@
   "translation": "защищать",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6192/6192_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Sun cream #protects# your skin.",
+    "ru": "Солнцезащитный крем защищает кожу."
+   },
+   {
+    "en": "The dog #protects# the house.",
+    "ru": "Собака охраняет дом."
+   },
+   {
+    "en": "Parents always want to #protect# their kids.",
+    "ru": "Родители всегда хотят защитить детей."
+   }
+  ]
  },
  {
   "id": "1812",
@@ -39696,7 +39826,20 @@
   "translation": "защита",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/12260/12260_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Wear a helmet for #protection#.",
+    "ru": "Надевай шлем для защиты."
+   },
+   {
+    "en": "The witness is under police #protection#.",
+    "ru": "Свидетель под защитой полиции."
+   },
+   {
+    "en": "This app offers virus #protection#.",
+    "ru": "Это приложение защищает от вирусов."
+   }
+  ]
  },
  {
   "id": "1813",
@@ -39705,7 +39848,20 @@
   "translation": "защитный",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/protective.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Wear #protective# glasses in the lab.",
+    "ru": "В лаборатории надевай защитные очки."
+   },
+   {
+    "en": "My mum is very #protective# of me.",
+    "ru": "Мама очень меня опекает."
+   },
+   {
+    "en": "The phone came in a #protective# case.",
+    "ru": "Телефон был в защитном чехле."
+   }
+  ]
  },
  {
   "id": "1814",
@@ -39714,7 +39870,20 @@
   "translation": "хранить, хранилище",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/store.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Store# in a cool, dry place.",
+    "ru": "Хранить в прохладном сухом месте."
+   },
+   {
+    "en": "We #store# old toys in the attic.",
+    "ru": "Мы храним старые игрушки на чердаке."
+   },
+   {
+    "en": "The squirrel #stores# nuts for winter.",
+    "ru": "Белка запасает орехи на зиму."
+   }
+  ]
  },
  {
   "id": "1815",
@@ -39723,7 +39892,20 @@
   "translation": "место хранения",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/storage.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We rented a #storage# unit for our furniture.",
+    "ru": "Мы арендовали склад для мебели."
+   },
+   {
+    "en": "My phone has no more #storage#.",
+    "ru": "В телефоне закончилась память."
+   },
+   {
+    "en": "The garage is used for #storage#.",
+    "ru": "Гараж используется для хранения вещей."
+   }
+  ]
  },
  {
   "id": "1816",
@@ -39732,7 +39914,20 @@
   "translation": "современный, современник",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/contemporary.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I like #contemporary# art — well, some of it.",
+    "ru": "Мне нравится современное искусство — ну, кое-что."
+   },
+   {
+    "en": "He was a #contemporary# of Mozart.",
+    "ru": "Он был современником Моцарта."
+   },
+   {
+    "en": "The hotel has a #contemporary# design.",
+    "ru": "У отеля современный дизайн."
+   }
+  ]
  },
  {
   "id": "1817",
@@ -39741,7 +39936,20 @@
   "translation": "персонал, личный состав",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/personnel.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Only authorized #personnel# beyond this point.",
+    "ru": "Дальше — только для персонала."
+   },
+   {
+    "en": "Military #personnel# were sent to help.",
+    "ru": "На помощь отправили военных."
+   },
+   {
+    "en": "The hospital needs more #personnel#.",
+    "ru": "Больнице нужно больше персонала."
+   }
+  ]
  },
  {
   "id": "1818",
@@ -39750,7 +39958,20 @@
   "translation": "гражданин",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/citizen.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Every #citizen# has the right to vote.",
+    "ru": "Каждый гражданин имеет право голосовать."
+   },
+   {
+    "en": "She's a British #citizen#.",
+    "ru": "Она гражданка Великобритании."
+   },
+   {
+    "en": "Senior #citizens# travel free.",
+    "ru": "Пожилые граждане ездят бесплатно."
+   }
+  ]
  },
  {
   "id": "1819",
@@ -39759,7 +39980,20 @@
   "translation": "гражданство",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/citizenship.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He applied for Spanish #citizenship#.",
+    "ru": "Он подал заявление на испанское гражданство."
+   },
+   {
+    "en": "She has dual #citizenship#.",
+    "ru": "У неё двойное гражданство."
+   },
+   {
+    "en": "#Citizenship# took five years to get.",
+    "ru": "Получение гражданства заняло пять лет."
+   }
+  ]
  },
  {
   "id": "1820",
@@ -39768,7 +40002,20 @@
   "translation": "схватить, нахапать и т.д.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/34185/34185_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Grab# a coffee and let's go.",
+    "ru": "Захвати кофе — и пойдём."
+   },
+   {
+    "en": "The kid #grabbed# the last cookie.",
+    "ru": "Ребёнок схватил последнее печенье."
+   },
+   {
+    "en": "Can I #grab# you for a minute?",
+    "ru": "Можно тебя на минутку?"
+   }
+  ]
  },
  {
   "id": "1821",
@@ -39777,7 +40024,20 @@
   "translation": "исчерпать запас",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/run_out_of.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We've #run out of# milk. Again.",
+    "ru": "У нас опять кончилось молоко."
+   },
+   {
+    "en": "I'm #running out of# patience.",
+    "ru": "У меня кончается терпение."
+   },
+   {
+    "en": "The car #ran out of# petrol on the highway.",
+    "ru": "На трассе у машины кончился бензин."
+   }
+  ]
  },
  {
   "id": "1822",
@@ -39786,7 +40046,20 @@
   "translation": "не иметь больше запаса",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/be_out_of.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Sorry, we're #out of# pizza.",
+    "ru": "Извините, пицца закончилась."
+   },
+   {
+    "en": "I'm #out of# ideas.",
+    "ru": "У меня закончились идеи."
+   },
+   {
+    "en": "We're #out of# toilet paper — emergency!",
+    "ru": "У нас кончилась туалетная бумага — чрезвычайная ситуация!"
+   }
+  ]
  },
  {
   "id": "1823",
@@ -39795,7 +40068,20 @@
   "translation": "пещера",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2729/2729_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We explored a #cave# by the sea.",
+    "ru": "Мы исследовали пещеру у моря."
+   },
+   {
+    "en": "Bats live in the #cave#.",
+    "ru": "В пещере живут летучие мыши."
+   },
+   {
+    "en": "My son's room looks like a #cave#.",
+    "ru": "Комната сына похожа на пещеру."
+   }
+  ]
  },
  {
   "id": "1824",
@@ -39804,7 +40090,20 @@
   "translation": "выбранный наугад",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/random.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He picked a #random# number.",
+    "ru": "Он выбрал случайное число."
+   },
+   {
+    "en": "A #random# man started talking to me on the bus.",
+    "ru": "В автобусе со мной заговорил какой-то случайный мужчина."
+   },
+   {
+    "en": "The questions were chosen at #random#.",
+    "ru": "Вопросы были выбраны наугад."
+   }
+  ]
  },
  {
   "id": "1825",
@@ -39813,7 +40112,20 @@
   "translation": "случайный, перемешанный",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/randomized.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The playlist is #randomized#.",
+    "ru": "Плейлист перемешан."
+   },
+   {
+    "en": "Participants were split into #randomized# groups.",
+    "ru": "Участников разделили на случайные группы."
+   },
+   {
+    "en": "The order of questions is #randomized#.",
+    "ru": "Порядок вопросов случайный."
+   }
+  ]
  },
  {
   "id": "1826",
@@ -39822,7 +40134,20 @@
   "translation": "жениться, выйти замуж",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6965/6965_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Will you #marry# me?",
+    "ru": "Ты выйдешь за меня замуж?"
+   },
+   {
+    "en": "They #married# on a beach in Thailand.",
+    "ru": "Они поженились на пляже в Таиланде."
+   },
+   {
+    "en": "He #married# his school sweetheart.",
+    "ru": "Он женился на своей школьной любви."
+   }
+  ]
  },
  {
   "id": "1827",
@@ -39831,7 +40156,20 @@
   "translation": "брак",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/34207/34207_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Their #marriage# lasted fifty years.",
+    "ru": "Их брак продлился пятьдесят лет."
+   },
+   {
+    "en": "#Marriage# is about compromise — and remote control.",
+    "ru": "Брак — это компромисс. И пульт от телевизора."
+   },
+   {
+    "en": "It was a happy #marriage#.",
+    "ru": "Это был счастливый брак."
+   }
+  ]
  },
  {
   "id": "1828",
@@ -39840,7 +40178,20 @@
   "translation": "женат или замужем",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/married.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Are you #married#?",
+    "ru": "Вы женаты?"
+   },
+   {
+    "en": "They've been #married# for ten years.",
+    "ru": "Они женаты десять лет."
+   },
+   {
+    "en": "She got #married# last summer.",
+    "ru": "Она вышла замуж прошлым летом."
+   }
+  ]
  },
  {
   "id": "1829",
@@ -39849,7 +40200,20 @@
   "translation": "озадачить",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/puzzle.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His strange answer #puzzled# me.",
+    "ru": "Его странный ответ меня озадачил."
+   },
+   {
+    "en": "I'm #puzzled# why the cat hates the new sofa.",
+    "ru": "Меня озадачивает, почему кот ненавидит новый диван."
+   },
+   {
+    "en": "The question #puzzled# even the teacher.",
+    "ru": "Вопрос озадачил даже учителя."
+   }
+  ]
  },
  {
   "id": "1830",
@@ -39858,7 +40222,20 @@
   "translation": "замешательство",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/puzzlement.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She looked at the bill in #puzzlement#.",
+    "ru": "Она в замешательстве смотрела на счёт."
+   },
+   {
+    "en": "To my #puzzlement#, the shop was empty.",
+    "ru": "К моему недоумению, магазин был пуст."
+   },
+   {
+    "en": "His #puzzlement# was clear from his face.",
+    "ru": "Его замешательство было видно по лицу."
+   }
+  ]
  },
  {
   "id": "1831",
@@ -39867,7 +40244,20 @@
   "translation": "остатки, останки",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/remains.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #remains# of the pizza were in the fridge.",
+    "ru": "Остатки пиццы были в холодильнике."
+   },
+   {
+    "en": "They found #remains# of an old castle.",
+    "ru": "Они нашли развалины старого замка."
+   },
+   {
+    "en": "Human #remains# were found in the forest.",
+    "ru": "В лесу нашли человеческие останки."
+   }
+  ]
  },
  {
   "id": "1832",
@@ -39876,7 +40266,20 @@
   "translation": "принадлежать",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/belong_to.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Who does this phone #belong to#?",
+    "ru": "Чей это телефон?"
+   },
+   {
+    "en": "The house #belongs to# my grandma.",
+    "ru": "Дом принадлежит моей бабушке."
+   },
+   {
+    "en": "I don't feel like I #belong# here.",
+    "ru": "Я чувствую себя здесь чужим."
+   }
+  ]
  },
  {
   "id": "1833",
@@ -39885,7 +40288,20 @@
   "translation": "вещи, пожитки",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/belongings.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't leave your #belongings# unattended.",
+    "ru": "Не оставляйте свои вещи без присмотра."
+   },
+   {
+    "en": "All my #belongings# fit in one suitcase.",
+    "ru": "Все мои пожитки помещаются в один чемодан."
+   },
+   {
+    "en": "Please take your #belongings# when you leave the train.",
+    "ru": "Не забывайте свои вещи, выходя из поезда."
+   }
+  ]
  },
  {
   "id": "1834",
@@ -39894,7 +40310,20 @@
   "translation": "препятствие",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/obstacle.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The main #obstacle# is money.",
+    "ru": "Главное препятствие — деньги."
+   },
+   {
+    "en": "The cat is an #obstacle# on the stairs.",
+    "ru": "Кот — препятствие на лестнице."
+   },
+   {
+    "en": "She overcame many #obstacles#.",
+    "ru": "Она преодолела много препятствий."
+   }
+  ]
  },
  {
   "id": "1835",
@@ -39903,7 +40332,20 @@
   "translation": "лебедь",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2337/2337_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Two #swans# swam on the lake.",
+    "ru": "По озеру плыли два лебедя."
+   },
+   {
+    "en": "The ugly duckling became a #swan#.",
+    "ru": "Гадкий утёнок превратился в лебедя."
+   },
+   {
+    "en": "#Swans# can be aggressive — don't get close.",
+    "ru": "Лебеди бывают агрессивными — не подходи близко."
+   }
+  ]
  },
  {
   "id": "1836",
@@ -39912,7 +40354,20 @@
   "translation": "худой",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/lean.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's tall and #lean#.",
+    "ru": "Он высокий и поджарый."
+   },
+   {
+    "en": "Buy #lean# meat — less fat.",
+    "ru": "Покупай постное мясо — меньше жира."
+   },
+   {
+    "en": "After the marathon training, he became very #lean#.",
+    "ru": "После подготовки к марафону он очень похудел."
+   }
+  ]
  },
  {
   "id": "1837",
@@ -39921,7 +40376,20 @@
   "translation": "рано, ранний",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/early.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I get up #early# — the cat insists.",
+    "ru": "Я встаю рано — кот настаивает."
+   },
+   {
+    "en": "We had an #early# dinner.",
+    "ru": "Мы рано поужинали."
+   },
+   {
+    "en": "The bus came #early# for once.",
+    "ru": "Автобус хоть раз пришёл раньше."
+   }
+  ]
  },
  {
   "id": "1838",
@@ -39930,7 +40398,20 @@
   "translation": "возражать",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/object.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #object# to working on Sundays.",
+    "ru": "Я возражаю против работы по воскресеньям."
+   },
+   {
+    "en": "Does anyone #object#?",
+    "ru": "Кто-нибудь против?"
+   },
+   {
+    "en": "The kids #objected# to going to bed.",
+    "ru": "Дети возражали против того, чтобы идти спать."
+   }
+  ]
  },
  {
   "id": "1839",
@@ -39939,7 +40420,20 @@
   "translation": "возражение",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/objection.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Any #objections#?",
+    "ru": "Есть возражения?"
+   },
+   {
+    "en": "My only #objection# is the price.",
+    "ru": "Моё единственное возражение — цена."
+   },
+   {
+    "en": "He raised an #objection# at the meeting.",
+    "ru": "Он выдвинул возражение на совещании."
+   }
+  ]
  },
  {
   "id": "1840",
@@ -39948,7 +40442,20 @@
   "translation": "память",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/memory.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I have a terrible #memory# for names.",
+    "ru": "У меня ужасная память на имена."
+   },
+   {
+    "en": "This song brings back #memories#.",
+    "ru": "Эта песня навевает воспоминания."
+   },
+   {
+    "en": "The phone's #memory# is full.",
+    "ru": "Память телефона заполнена."
+   }
+  ]
  },
  {
   "id": "1841",
@@ -39957,7 +40464,20 @@
   "translation": "выучить наизусть",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/memorize.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Actors #memorize# hundreds of lines.",
+    "ru": "Актёры заучивают сотни реплик."
+   },
+   {
+    "en": "I can't #memorize# my own phone number.",
+    "ru": "Я не могу запомнить свой собственный номер телефона."
+   },
+   {
+    "en": "#Memorize# these ten words by Friday.",
+    "ru": "Выучи эти десять слов наизусть к пятнице."
+   }
+  ]
  },
  {
   "id": "1842",
@@ -39966,7 +40486,20 @@
   "translation": "памятный",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/memorable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Our wedding day was very #memorable#.",
+    "ru": "День нашей свадьбы был незабываемым."
+   },
+   {
+    "en": "It was a #memorable# trip — we got lost three times.",
+    "ru": "Это была памятная поездка — мы трижды заблудились."
+   },
+   {
+    "en": "Make your password #memorable# but safe.",
+    "ru": "Сделай пароль запоминающимся, но надёжным."
+   }
+  ]
  },
  {
   "id": "1843",
@@ -39975,7 +40508,20 @@
   "translation": "плыть",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/float.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A rubber duck #floated# in the bath.",
+    "ru": "В ванне плавала резиновая уточка."
+   },
+   {
+    "en": "Wood #floats# on water.",
+    "ru": "Дерево держится на воде."
+   },
+   {
+    "en": "Clouds #floated# across the sky.",
+    "ru": "По небу плыли облака."
+   }
+  ]
  },
  {
   "id": "1844",
@@ -39984,7 +40530,20 @@
   "translation": "преступление",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/crime.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Crime# is rising in the city.",
+    "ru": "Преступность в городе растёт."
+   },
+   {
+    "en": "Stealing my lunch is a #crime#!",
+    "ru": "Красть мой обед — это преступление!"
+   },
+   {
+    "en": "He committed a serious #crime#.",
+    "ru": "Он совершил тяжкое преступление."
+   }
+  ]
  },
  {
   "id": "1845",
@@ -39993,7 +40552,20 @@
   "translation": "сочувствовать",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/feel_for.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I really #feel for# you.",
+    "ru": "Я тебе очень сочувствую."
+   },
+   {
+    "en": "We #feel for# the families who lost their homes.",
+    "ru": "Мы сочувствуем семьям, потерявшим дома."
+   },
+   {
+    "en": "I #feel for# parents of teenagers.",
+    "ru": "Сочувствую родителям подростков."
+   }
+  ]
  },
  {
   "id": "1846",
@@ -40002,7 +40574,20 @@
   "translation": "в любом случае",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/anyway.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It's raining, but let's go #anyway#.",
+    "ru": "Идёт дождь, но давай всё равно пойдём."
+   },
+   {
+    "en": "#Anyway#, what was I saying?",
+    "ru": "В общем, о чём я говорил?"
+   },
+   {
+    "en": "I don't like him, but I'll invite him #anyway#.",
+    "ru": "Он мне не нравится, но я его всё равно приглашу."
+   }
+  ]
  },
  {
   "id": "1847",
@@ -40011,7 +40596,20 @@
   "translation": "горький",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/30928/30928_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "This coffee is too #bitter#.",
+    "ru": "Этот кофе слишком горький."
+   },
+   {
+    "en": "She's still #bitter# about the divorce.",
+    "ru": "Ей до сих пор горько из-за развода."
+   },
+   {
+    "en": "A #bitter# wind blew from the north.",
+    "ru": "С севера дул пронизывающий ветер."
+   }
+  ]
  },
  {
   "id": "1848",
@@ -40020,7 +40618,20 @@
   "translation": "горечь",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/bitterness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He spoke with #bitterness# about his old job.",
+    "ru": "Он с горечью говорил о старой работе."
+   },
+   {
+    "en": "The #bitterness# of the medicine made the kid cry.",
+    "ru": "Горечь лекарства довела ребёнка до слёз."
+   },
+   {
+    "en": "Let go of #bitterness#.",
+    "ru": "Отпусти обиду."
+   }
+  ]
  },
  {
   "id": "1849",
@@ -40029,7 +40640,20 @@
   "translation": "совершенный",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/perfect.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Nobody's #perfect#.",
+    "ru": "Никто не идеален."
+   },
+   {
+    "en": "It's the #perfect# day for a picnic.",
+    "ru": "Идеальный день для пикника."
+   },
+   {
+    "en": "Her English is almost #perfect#.",
+    "ru": "Её английский почти безупречен."
+   }
+  ]
  },
  {
   "id": "1850",
@@ -40038,7 +40662,20 @@
   "translation": "совершенство",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/perfection.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The steak was cooked to #perfection#.",
+    "ru": "Стейк был приготовлен идеально."
+   },
+   {
+    "en": "She's always chasing #perfection#.",
+    "ru": "Она всегда гонится за совершенством."
+   },
+   {
+    "en": "#Perfection# is boring.",
+    "ru": "Совершенство — это скучно."
+   }
+  ]
  },
  {
   "id": "1851",
@@ -40047,7 +40684,20 @@
   "translation": "несовершенство",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/imperfection.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Every handmade cup has small #imperfections#.",
+    "ru": "У каждой чашки ручной работы есть небольшие изъяны."
+   },
+   {
+    "en": "Love your #imperfections#.",
+    "ru": "Люби свои несовершенства."
+   },
+   {
+    "en": "The #imperfection# in the diamond lowered its price.",
+    "ru": "Изъян в бриллианте снизил его цену."
+   }
+  ]
  },
  {
   "id": "1852",
@@ -40056,7 +40706,20 @@
   "translation": "слив, водосток",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/drain.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Hair blocked the shower #drain#.",
+    "ru": "Волосы забили слив в душе."
+   },
+   {
+    "en": "All my money went down the #drain#.",
+    "ru": "Все мои деньги пошли насмарку."
+   },
+   {
+    "en": "Don't pour oil down the #drain#.",
+    "ru": "Не выливай масло в слив."
+   }
+  ]
  },
  {
   "id": "1853",
@@ -40065,7 +40728,20 @@
   "translation": "дренаж",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/drainage.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Poor #drainage# flooded the garden.",
+    "ru": "Из-за плохого дренажа затопило сад."
+   },
+   {
+    "en": "The city is fixing the #drainage# system.",
+    "ru": "Город ремонтирует дренажную систему."
+   },
+   {
+    "en": "Pots need holes for #drainage#.",
+    "ru": "В горшках нужны отверстия для дренажа."
+   }
+  ]
  },
  {
   "id": "1854",
@@ -40074,7 +40750,20 @@
   "translation": "главный, большой",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/major.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It's a #major# problem.",
+    "ru": "Это серьёзная проблема."
+   },
+   {
+    "en": "She plays a #major# role in the company.",
+    "ru": "Она играет главную роль в компании."
+   },
+   {
+    "en": "The #major# roads were closed.",
+    "ru": "Главные дороги были закрыты."
+   }
+  ]
  },
  {
   "id": "1855",
@@ -40083,7 +40772,20 @@
   "translation": "большинство",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/majority.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #majority# voted for pizza.",
+    "ru": "Большинство проголосовало за пиццу."
+   },
+   {
+    "en": "The #majority# of people hate Mondays.",
+    "ru": "Большинство людей ненавидит понедельники."
+   },
+   {
+    "en": "They won by a small #majority#.",
+    "ru": "Они победили с небольшим перевесом."
+   }
+  ]
  },
  {
   "id": "1856",
@@ -40092,7 +40794,20 @@
   "translation": "скорлупа, раковина, гильза",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/34625/34625_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The kids collected #shells# on the beach.",
+    "ru": "Дети собирали ракушки на пляже."
+   },
+   {
+    "en": "Remove the egg #shell# from the omelette.",
+    "ru": "Убери скорлупу из омлета."
+   },
+   {
+    "en": "The turtle hid in its #shell#.",
+    "ru": "Черепаха спряталась в панцирь."
+   }
+  ]
  },
  {
   "id": "1857",
@@ -40101,7 +40816,20 @@
   "translation": "общее правило, принцип",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/guideline.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Follow the safety #guidelines#.",
+    "ru": "Соблюдайте правила безопасности."
+   },
+   {
+    "en": "The #guidelines# say kids need ten hours of sleep.",
+    "ru": "По рекомендациям детям нужно десять часов сна."
+   },
+   {
+    "en": "These are only #guidelines#, not strict rules.",
+    "ru": "Это лишь рекомендации, а не строгие правила."
+   }
+  ]
  },
  {
   "id": "1858",
@@ -40110,7 +40838,20 @@
   "translation": "спящий",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/asleep.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The baby is finally #asleep#. Whisper!",
+    "ru": "Малыш наконец спит. Шёпотом!"
+   },
+   {
+    "en": "He fell #asleep# on the sofa.",
+    "ru": "Он уснул на диване."
+   },
+   {
+    "en": "My leg is #asleep#.",
+    "ru": "У меня затекла нога."
+   }
+  ]
  },
  {
   "id": "1859",
@@ -40119,7 +40860,20 @@
   "translation": "вздох",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sigh.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She gave a deep #sigh#.",
+    "ru": "Она глубоко вздохнула."
+   },
+   {
+    "en": "He #sighed# when he saw the bill.",
+    "ru": "Он вздохнул, увидев счёт."
+   },
+   {
+    "en": "We all breathed a #sigh# of relief.",
+    "ru": "Мы все вздохнули с облегчением."
+   }
+  ]
  },
  {
   "id": "1860",
@@ -40128,7 +40882,20 @@
   "translation": "разный, отличающийся",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/different.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My sister and I are completely #different#.",
+    "ru": "Мы с сестрой совершенно разные."
+   },
+   {
+    "en": "Try something #different# this time.",
+    "ru": "Попробуй в этот раз что-то другое."
+   },
+   {
+    "en": "Each cat has a #different# personality.",
+    "ru": "У каждой кошки свой характер."
+   }
+  ]
  },
  {
   "id": "1861",
@@ -40137,7 +40904,20 @@
   "translation": "разница",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/difference.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "What's the #difference# between a lake and a pond?",
+    "ru": "В чём разница между озером и прудом?"
+   },
+   {
+    "en": "It makes no #difference# to me.",
+    "ru": "Мне без разницы."
+   },
+   {
+    "en": "You can make a #difference#.",
+    "ru": "Ты можешь что-то изменить."
+   }
+  ]
  },
  {
   "id": "1862",
