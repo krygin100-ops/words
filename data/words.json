@@ -50144,70 +50144,161 @@
   "word": "plain",
   "transcription": "[pleɪn]",
   "translation": "ясный, очевидный",
-  "nuance": null,
+  "nuance": "Ясный, очевидный; также простой, без украшений (plain T-shirt). Obvious — очевидный (сильнее).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/plain.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It's #plain# that he's lying.",
+    "ru": "Ясно, что он врёт."
+   },
+   {
+    "en": "Explain it in #plain# English, please.",
+    "ru": "Объясни простым языком, пожалуйста."
+   },
+   {
+    "en": "I like #plain# food — no sauces.",
+    "ru": "Я люблю простую еду — без соусов."
+   }
+  ]
  },
  {
   "id": "2183",
   "word": "plainly",
   "transcription": "[ˈpleɪnli]",
   "translation": "понятно, открыто",
-  "nuance": null,
+  "nuance": "Явно, открыто, прямо. Clearly — ясно (чаще).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/plainly.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #plainly# didn't want to go.",
+    "ru": "Она явно не хотела идти."
+   },
+   {
+    "en": "Speak #plainly# — what do you want?",
+    "ru": "Говори прямо — чего ты хочешь?"
+   },
+   {
+    "en": "The mountains were #plainly# visible.",
+    "ru": "Горы были отчётливо видны."
+   }
+  ]
  },
  {
   "id": "2184",
   "word": "involve",
   "transcription": "[ɪnˈvɒlv]",
   "translation": "вовлекать, увлекать",
-  "nuance": null,
+  "nuance": "Включать в себя; вовлекать. Get involved — ввязаться, принять участие.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/involve.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The job #involves# a lot of travel.",
+    "ru": "Работа связана с большим количеством поездок."
+   },
+   {
+    "en": "Don't #involve# me in your argument!",
+    "ru": "Не втягивай меня в ваш спор!"
+   },
+   {
+    "en": "Try to #involve# the kids in cooking.",
+    "ru": "Старайся привлекать детей к готовке."
+   }
+  ]
  },
  {
   "id": "2185",
   "word": "involvement",
   "transcription": "[ɪnˈvɒlvmənt]",
   "translation": "вовлечение",
-  "nuance": null,
+  "nuance": "Участие, причастность.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/involvement.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Parents' #involvement# helps kids at school.",
+    "ru": "Участие родителей помогает детям в школе."
+   },
+   {
+    "en": "He denied any #involvement# in the crime.",
+    "ru": "Он отрицал какую-либо причастность к преступлению."
+   },
+   {
+    "en": "Her #involvement# in the project was huge.",
+    "ru": "Её вклад в проект был огромным."
+   }
+  ]
  },
  {
   "id": "2186",
   "word": "flash",
   "transcription": "[flæʃ]",
   "translation": "вспышка, вспыхнуть",
-  "nuance": null,
+  "nuance": "Вспышка, мелькнуть. In a flash — мгновенно. Flash drive — флешка.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/38381/38381_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A #flash# of lightning lit up the sky.",
+    "ru": "Вспышка молнии осветила небо."
+   },
+   {
+    "en": "The camera #flashed#.",
+    "ru": "Сверкнула вспышка камеры."
+   },
+   {
+    "en": "It happened in a #flash#.",
+    "ru": "Всё произошло в мгновение ока."
+   }
+  ]
  },
  {
   "id": "2187",
   "word": "flashy",
   "transcription": "[ˈflæʃi]",
   "translation": "кричащий, яркий, показной",
-  "nuance": null,
+  "nuance": "С неодобрением: броский, показной, «напоказ». Bright — просто яркий (без оценки).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/flashy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He drives a #flashy# red sports car.",
+    "ru": "Он ездит на кричащей красной спортивной машине."
+   },
+   {
+    "en": "She wears #flashy# jewellery.",
+    "ru": "Она носит броские украшения."
+   },
+   {
+    "en": "The hotel is #flashy# but uncomfortable.",
+    "ru": "Отель показушный, но неуютный."
+   }
+  ]
  },
  {
   "id": "2188",
   "word": "assess",
   "transcription": "[əˈsɛs]",
   "translation": "оценить",
-  "nuance": null,
+  "nuance": "Официальная оценка (профессиональная). Evaluate — близко; judge — судить (субъективнее).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/assess.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The doctor #assessed# the injury.",
+    "ru": "Врач оценил травму."
+   },
+   {
+    "en": "It's hard to #assess# the damage.",
+    "ru": "Трудно оценить ущерб."
+   },
+   {
+    "en": "Teachers #assess# students every term.",
+    "ru": "Учителя оценивают учеников каждую четверть."
+   }
+  ]
  },
  {
   "id": "2189",
@@ -50217,7 +50308,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/assessment.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #assessment# of the house took a day.",
+    "ru": "Оценка дома заняла день."
+   },
+   {
+    "en": "My #assessment# is that we need more time.",
+    "ru": "По моей оценке, нам нужно больше времени."
+   },
+   {
+    "en": "Students have a final #assessment# in June.",
+    "ru": "У студентов итоговая аттестация в июне."
+   }
+  ]
  },
  {
   "id": "2190",
@@ -50227,17 +50331,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/reassessment.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The bank did a #reassessment# of our loan.",
+    "ru": "Банк провёл переоценку нашего кредита."
+   },
+   {
+    "en": "After the storm, a #reassessment# of the damage was needed.",
+    "ru": "После шторма потребовалась переоценка ущерба."
+   },
+   {
+    "en": "I made a #reassessment# of my priorities.",
+    "ru": "Я пересмотрел свои приоритеты."
+   }
+  ]
  },
  {
   "id": "2191",
   "word": "patient",
   "transcription": "[ˈpeɪʃənt]",
   "translation": "терпеливый",
-  "nuance": null,
+  "nuance": "Прил. — терпеливый; сущ. — пациент.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/patient.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Be #patient# — the pizza is coming.",
+    "ru": "Потерпи — пицца уже едет."
+   },
+   {
+    "en": "She's very #patient# with kids.",
+    "ru": "Она очень терпелива с детьми."
+   },
+   {
+    "en": "The doctor saw ten #patients# today.",
+    "ru": "Сегодня врач принял десять пациентов."
+   }
+  ]
  },
  {
   "id": "2192",
@@ -50247,7 +50377,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/patience.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My #patience# is running out.",
+    "ru": "Моё терпение кончается."
+   },
+   {
+    "en": "Teaching needs a lot of #patience#.",
+    "ru": "Преподавание требует большого терпения."
+   },
+   {
+    "en": "#Patience# is a virtue.",
+    "ru": "Терпение — добродетель."
+   }
+  ]
  },
  {
   "id": "2193",
@@ -50257,77 +50400,181 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/impatient.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't be so #impatient# — the cake needs ten more minutes.",
+    "ru": "Не будь таким нетерпеливым — торту нужно ещё десять минут."
+   },
+   {
+    "en": "The kids got #impatient# in the car.",
+    "ru": "Дети заскучали в машине."
+   },
+   {
+    "en": "He's #impatient# to start his new job.",
+    "ru": "Ему не терпится начать новую работу."
+   }
+  ]
  },
  {
   "id": "2194",
   "word": "support",
   "transcription": "[səˈpɔːt]",
   "translation": "поддерживать",
-  "nuance": null,
+  "nuance": "Поддерживать (морально, финансово), болеть за команду (брит.). Ложный друг: не «поддерживать разговор» (keep up).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/support.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My parents #support# my decision.",
+    "ru": "Родители поддерживают моё решение."
+   },
+   {
+    "en": "Which team do you #support#?",
+    "ru": "За какую команду ты болеешь?"
+   },
+   {
+    "en": "Thanks for #supporting# me.",
+    "ru": "Спасибо, что поддерживаешь меня."
+   }
+  ]
  },
  {
   "id": "2195",
   "word": "supporter",
   "transcription": "[səˈpɔːtə]",
   "translation": "сторонник, болельщик",
-  "nuance": null,
+  "nuance": "Сторонник; болельщик (брит.); амер. — fan.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/supporter.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's a huge Liverpool #supporter#.",
+    "ru": "Он ярый болельщик «Ливерпуля»."
+   },
+   {
+    "en": "#Supporters# of the plan waved flags.",
+    "ru": "Сторонники плана размахивали флагами."
+   },
+   {
+    "en": "My wife is my biggest #supporter#.",
+    "ru": "Моя жена — моя главная поддержка."
+   }
+  ]
  },
  {
   "id": "2196",
   "word": "rock",
   "transcription": "[rɒk]",
   "translation": "качать, трясти",
-  "nuance": null,
+  "nuance": "Качать мягко; потрясти. Разг.: You rock! — Ты крут!",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6883/6883_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #rocked# the baby to sleep.",
+    "ru": "Она укачала малыша."
+   },
+   {
+    "en": "The boat #rocked# in the waves.",
+    "ru": "Лодка качалась на волнах."
+   },
+   {
+    "en": "The news #rocked# the whole town.",
+    "ru": "Новость потрясла весь город."
+   }
+  ]
  },
  {
   "id": "2197",
   "word": "toe",
   "transcription": "[təʊ]",
   "translation": "палец (ноги)",
-  "nuance": null,
+  "nuance": "Палец ноги (палец руки — finger). Step on someone's toes — задеть, влезть в чужое.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/toe.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I stubbed my #toe# on the bed.",
+    "ru": "Я ударился пальцем ноги о кровать."
+   },
+   {
+    "en": "The baby loves playing with his #toes#.",
+    "ru": "Малыш любит играть со своими пальчиками на ногах."
+   },
+   {
+    "en": "Don't step on my #toes#.",
+    "ru": "Не лезь в мои дела."
+   }
+  ]
  },
  {
   "id": "2198",
   "word": "tiptoes",
   "transcription": "[ˈtɪptəʊz]",
   "translation": "цыпочки",
-  "nuance": null,
+  "nuance": "On tiptoe(s) — на цыпочках; глагол tiptoe — красться на цыпочках.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tiptoes.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She walked on #tiptoes# so as not to wake the baby.",
+    "ru": "Она шла на цыпочках, чтобы не разбудить малыша."
+   },
+   {
+    "en": "He stood on #tiptoes# to reach the shelf.",
+    "ru": "Он встал на цыпочки, чтобы дотянуться до полки."
+   },
+   {
+    "en": "The kids crept on #tiptoes# to the Christmas tree.",
+    "ru": "Дети на цыпочках прокрались к ёлке."
+   }
+  ]
  },
  {
   "id": "2199",
   "word": "common",
   "transcription": "[ˈkɒmən]",
   "translation": "общий",
-  "nuance": null,
+  "nuance": "Общий; распространённый. Common sense — здравый смысл. Ложный друг: не «коммунальный».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/common.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We have a lot in #common#.",
+    "ru": "У нас много общего."
+   },
+   {
+    "en": "It's a #common# mistake.",
+    "ru": "Это распространённая ошибка."
+   },
+   {
+    "en": "Use your #common# sense!",
+    "ru": "Включи здравый смысл!"
+   }
+  ]
  },
  {
   "id": "2200",
   "word": "engaged",
   "transcription": "[ɪnˈgeɪʤd]",
   "translation": "помолвленный (ая)",
-  "nuance": null,
+  "nuance": "Get engaged — обручиться. Также engaged — занято (о телефоне, брит.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/engaged.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They got #engaged# on the beach.",
+    "ru": "Они обручились на пляже."
+   },
+   {
+    "en": "Is she #engaged#? I see a ring.",
+    "ru": "Она помолвлена? Я вижу кольцо."
+   },
+   {
+    "en": "My sister is #engaged# to a chef.",
+    "ru": "Моя сестра помолвлена с поваром."
+   }
+  ]
  },
  {
   "id": "2201",
@@ -50337,127 +50584,296 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/engagement_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They announced their #engagement# at dinner.",
+    "ru": "Они объявили о помолвке за ужином."
+   },
+   {
+    "en": "He bought an #engagement# ring.",
+    "ru": "Он купил помолвочное кольцо."
+   },
+   {
+    "en": "Their #engagement# lasted five years.",
+    "ru": "Их помолвка длилась пять лет."
+   }
+  ]
  },
  {
   "id": "2202",
   "word": "famous",
   "transcription": "[ˈfeɪməs]",
   "translation": "знаменитый",
-  "nuance": null,
+  "nuance": "Famous — известный (хорошо). Infamous — печально известный (плохо!). Well-known — нейтрально.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/37802/37802_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She wants to be #famous# on TikTok.",
+    "ru": "Она хочет стать знаменитой в тиктоке."
+   },
+   {
+    "en": "Paris is #famous# for its cafés.",
+    "ru": "Париж славится своими кафе."
+   },
+   {
+    "en": "My grandma's pie is #famous# in the village.",
+    "ru": "Бабушкин пирог знаменит на всю деревню."
+   }
+  ]
  },
  {
   "id": "2203",
   "word": "gear",
   "transcription": "[gɪə]",
   "translation": "механизм, привод, передача",
-  "nuance": null,
+  "nuance": "Передача, механизм; также «снаряжение» (camping gear). Get into gear — взяться за дело.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/gear.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Change #gear# before the hill.",
+    "ru": "Переключи передачу перед подъёмом."
+   },
+   {
+    "en": "The bike has 21 #gears#.",
+    "ru": "У велосипеда 21 скорость."
+   },
+   {
+    "en": "Pack your camping #gear#.",
+    "ru": "Собери своё туристическое снаряжение."
+   }
+  ]
  },
  {
   "id": "2204",
   "word": "discriminate",
   "transcription": "[dɪsˈkrɪmɪnɪt]",
   "translation": "различать, разделять",
-  "nuance": null,
+  "nuance": "Два значения: различать (книжн.) и дискриминировать (discriminate against).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/discriminate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Babies can #discriminate# between voices.",
+    "ru": "Малыши умеют различать голоса."
+   },
+   {
+    "en": "It's illegal to #discriminate# against women.",
+    "ru": "Дискриминировать женщин незаконно."
+   },
+   {
+    "en": "He can't #discriminate# good wine from bad.",
+    "ru": "Он не отличает хорошее вино от плохого."
+   }
+  ]
  },
  {
   "id": "2205",
   "word": "discrimination",
   "transcription": "[dɪsˌkrɪmɪˈneɪʃən]",
   "translation": "различение",
-  "nuance": null,
+  "nuance": "Чаще = дискриминация; в науке — различение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/discrimination.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Dogs have amazing #discrimination# of smells.",
+    "ru": "У собак удивительная способность различать запахи."
+   },
+   {
+    "en": "Age #discrimination# is a problem.",
+    "ru": "Дискриминация по возрасту — проблема."
+   },
+   {
+    "en": "Colour #discrimination# helps animals find food.",
+    "ru": "Различение цветов помогает животным находить еду."
+   }
+  ]
  },
  {
   "id": "2206",
   "word": "mortgage",
   "transcription": "[ˈmɔːgɪʤ]",
   "translation": "ипотека",
-  "nuance": null,
+  "nuance": "Произношение: «мо́гидж», t не читается.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/mortgage.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We'll pay off our #mortgage# in thirty years.",
+    "ru": "Мы выплатим ипотеку через тридцать лет."
+   },
+   {
+    "en": "They got a #mortgage# for a small flat.",
+    "ru": "Они взяли ипотеку на маленькую квартиру."
+   },
+   {
+    "en": "Half my salary goes on the #mortgage#.",
+    "ru": "Половина зарплаты уходит на ипотеку."
+   }
+  ]
  },
  {
   "id": "2207",
   "word": "solar",
   "transcription": "[ˈsəʊlə]",
   "translation": "солнечный",
-  "nuance": null,
+  "nuance": "Научное/техническое. В быту — sun (sunlight, sunny).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/solar.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We put #solar# panels on the roof.",
+    "ru": "Мы установили на крыше солнечные панели."
+   },
+   {
+    "en": "A #solar# eclipse happens rarely.",
+    "ru": "Солнечное затмение бывает редко."
+   },
+   {
+    "en": "My calculator is #solar#-powered.",
+    "ru": "Мой калькулятор на солнечной батарее."
+   }
+  ]
  },
  {
   "id": "2208",
   "word": "apart",
   "transcription": "[əˈpɑːt]",
   "translation": "отдельно, врозь",
-  "nuance": null,
+  "nuance": "Врозь, отдельно; take apart — разобрать; apart from — кроме.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/apart.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They've been living #apart# for a year.",
+    "ru": "Они живут раздельно уже год."
+   },
+   {
+    "en": "Take the toy #apart#.",
+    "ru": "Разбери игрушку."
+   },
+   {
+    "en": "Joking #apart#, we need to talk.",
+    "ru": "Шутки в сторону, нам нужно поговорить."
+   }
+  ]
  },
  {
   "id": "2209",
   "word": "opinion",
   "transcription": "[əˈpɪnjən]",
   "translation": "мнение",
-  "nuance": null,
+  "nuance": "Мнение. In my opinion (не «on my opinion»!). View — взгляд, чуть официальнее.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/opinion.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "In my #opinion#, pizza is a vegetable.",
+    "ru": "По-моему, пицца — это овощ."
+   },
+   {
+    "en": "Nobody asked your #opinion#.",
+    "ru": "Никто не спрашивал твоего мнения."
+   },
+   {
+    "en": "We have different #opinions# on politics.",
+    "ru": "У нас разные мнения о политике."
+   }
+  ]
  },
  {
   "id": "2210",
   "word": "opinionated",
   "transcription": "[əˈpɪnjəneɪtəd]",
   "translation": "упрямый",
-  "nuance": null,
+  "nuance": "С неодобрением: уверен в своей правоте, навязывает мнение. Stubborn — упрямый в поступках.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/opinionated.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My uncle is very #opinionated# about football.",
+    "ru": "Мой дядя очень категоричен насчёт футбола."
+   },
+   {
+    "en": "She's smart but #opinionated#.",
+    "ru": "Она умная, но упрямо стоит на своём."
+   },
+   {
+    "en": "Don't be so #opinionated#!",
+    "ru": "Не будь таким категоричным!"
+   }
+  ]
  },
  {
   "id": "2211",
   "word": "accommodate",
   "transcription": "[əˈkɒmədeɪt]",
   "translation": "размещать, вмещать",
-  "nuance": null,
+  "nuance": "Официальное: вместить, разместить; пойти навстречу. Fit — проще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/accommodate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The hotel can #accommodate# 200 guests.",
+    "ru": "Отель может разместить 200 гостей."
+   },
+   {
+    "en": "We'll try to #accommodate# your wishes.",
+    "ru": "Мы постараемся учесть ваши пожелания."
+   },
+   {
+    "en": "The car #accommodates# five people.",
+    "ru": "Машина вмещает пять человек."
+   }
+  ]
  },
  {
   "id": "2212",
   "word": "accommodation",
   "transcription": "[əˌkɒməˈdeɪʃ(ə)n]",
   "translation": "жильё, размещение",
-  "nuance": null,
+  "nuance": "Брит. — неисчисляемое; амер. — accommodations. Правописание: двойные c и m!",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/accommodation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The price includes #accommodation#.",
+    "ru": "В цену входит проживание."
+   },
+   {
+    "en": "Finding #accommodation# in London is hard.",
+    "ru": "Найти жильё в Лондоне трудно."
+   },
+   {
+    "en": "Student #accommodation# is cheap but noisy.",
+    "ru": "Студенческое жильё дешёвое, но шумное."
+   }
+  ]
  },
  {
   "id": "2213",
   "word": "satisfy",
   "transcription": "[ˈsætɪsfaɪ]",
   "translation": "удовлетворять",
-  "nuance": null,
+  "nuance": "Удовлетворить (желание, требования); утолить (голод). Please — порадовать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/satisfy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Nothing #satisfies# my cat.",
+    "ru": "Ничто не удовлетворяет моего кота."
+   },
+   {
+    "en": "The answer didn't #satisfy# the teacher.",
+    "ru": "Ответ не устроил учителя."
+   },
+   {
+    "en": "A big lunch #satisfied# my hunger.",
+    "ru": "Плотный обед утолил голод."
+   }
+  ]
  },
  {
   "id": "2214",
@@ -50467,57 +50883,135 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/satisfaction.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Customer #satisfaction# is our priority.",
+    "ru": "Удовлетворённость клиентов — наш приоритет."
+   },
+   {
+    "en": "He finished the puzzle with great #satisfaction#.",
+    "ru": "Он с большим удовлетворением закончил пазл."
+   },
+   {
+    "en": "There's no #satisfaction# like a clean kitchen.",
+    "ru": "Нет ничего приятнее чистой кухни."
+   }
+  ]
  },
  {
   "id": "2215",
   "word": "dissatisfy",
   "transcription": "[ˌdɪsˈsætɪsfaɪ]",
   "translation": "не удовлетворять",
-  "nuance": null,
+  "nuance": "Чаще в форме dissatisfied (недовольный). Unhappy — разг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dissatisfy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The new menu #dissatisfied# many customers.",
+    "ru": "Новое меню не устроило многих клиентов."
+   },
+   {
+    "en": "Workers were #dissatisfied# with the pay.",
+    "ru": "Работники были недовольны зарплатой."
+   },
+   {
+    "en": "The answer #dissatisfied# him.",
+    "ru": "Ответ его не удовлетворил."
+   }
+  ]
  },
  {
   "id": "2216",
   "word": "mankind",
   "transcription": "[mænˈkaɪnd]",
   "translation": "человечество",
-  "nuance": null,
+  "nuance": "Человечество (торжественно). Нейтр./гендерно-нейтр. — humanity, humankind.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/mankind.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The internet changed #mankind# forever.",
+    "ru": "Интернет навсегда изменил человечество."
+   },
+   {
+    "en": "One small step for man, one giant leap for #mankind#.",
+    "ru": "Маленький шаг для человека, огромный скачок для человечества."
+   },
+   {
+    "en": "War is the shame of #mankind#.",
+    "ru": "Война — позор человечества."
+   }
+  ]
  },
  {
   "id": "2217",
   "word": "midnight",
   "transcription": "[ˈmɪdnaɪt]",
   "translation": "полночь",
-  "nuance": null,
+  "nuance": "Полночь — 12 ночи. Midnight snack — ночной перекус.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/midnight.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The party ended at #midnight#.",
+    "ru": "Вечеринка закончилась в полночь."
+   },
+   {
+    "en": "Cinderella had to leave at #midnight#.",
+    "ru": "Золушка должна была уйти в полночь."
+   },
+   {
+    "en": "Why are you eating cake at #midnight#?",
+    "ru": "Почему ты ешь торт в полночь?"
+   }
+  ]
  },
  {
   "id": "2218",
   "word": "midday",
   "transcription": "[ˈmɪddeɪ]",
   "translation": "полдень",
-  "nuance": null,
+  "nuance": "= noon (амер. чаще noon).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/32708/32708_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The sun is hottest at #midday#.",
+    "ru": "В полдень солнце жарче всего."
+   },
+   {
+    "en": "We have lunch at #midday#.",
+    "ru": "Мы обедаем в полдень."
+   },
+   {
+    "en": "Don't go to the beach at #midday#.",
+    "ru": "Не ходи на пляж в полдень."
+   }
+  ]
  },
  {
   "id": "2219",
   "word": "accompany",
   "transcription": "[əˈkʌmpəni]",
   "translation": "сопровождать",
-  "nuance": null,
+  "nuance": "Официальное «сопровождать»; разг. — go with, come with. Также аккомпанировать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/accompany.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Children must be #accompanied# by an adult.",
+    "ru": "Дети должны находиться в сопровождении взрослых."
+   },
+   {
+    "en": "Can you #accompany# me to the doctor?",
+    "ru": "Можешь сходить со мной к врачу?"
+   },
+   {
+    "en": "She #accompanied# him on the piano.",
+    "ru": "Она аккомпанировала ему на пианино."
+   }
+  ]
  },
  {
   "id": "2220",
@@ -50527,17 +51021,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/accompaniment.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Wine is the perfect #accompaniment# to cheese.",
+    "ru": "Вино — идеальное дополнение к сыру."
+   },
+   {
+    "en": "He sang without #accompaniment#.",
+    "ru": "Он пел без аккомпанемента."
+   },
+   {
+    "en": "Salad is served as an #accompaniment#.",
+    "ru": "Салат подаётся как гарнир."
+   }
+  ]
  },
  {
   "id": "2221",
   "word": "refuse",
   "transcription": "[ˌriːˈfjuːz]",
   "translation": "отказаться",
-  "nuance": null,
+  "nuance": "Refuse to do — отказаться сделать. Decline — вежливо отклонить; reject — отвергнуть резко.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/refuse.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The kid #refused# to eat his vegetables.",
+    "ru": "Ребёнок отказался есть овощи."
+   },
+   {
+    "en": "She #refused# the job offer.",
+    "ru": "Она отклонила предложение о работе."
+   },
+   {
+    "en": "I can't #refuse# a free coffee.",
+    "ru": "Не могу отказаться от бесплатного кофе."
+   }
+  ]
  },
  {
   "id": "2222",
@@ -50547,27 +51067,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/refusal.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His #refusal# to help surprised us.",
+    "ru": "Его отказ помочь нас удивил."
+   },
+   {
+    "en": "We got a polite #refusal#.",
+    "ru": "Мы получили вежливый отказ."
+   },
+   {
+    "en": "The bank's #refusal# ruined our plans.",
+    "ru": "Отказ банка разрушил наши планы."
+   }
+  ]
  },
  {
   "id": "2223",
   "word": "curriculum vitae (CV)",
   "transcription": "[kəˈrɪkjʊləmˈviːtaɪ]",
   "translation": "резюме, биография",
-  "nuance": null,
+  "nuance": "Брит. CV; амер. — résumé. В США CV — подробная академическая биография.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/39177/39177_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Send your #CV# by Friday.",
+    "ru": "Отправьте резюме до пятницы."
+   },
+   {
+    "en": "His #curriculum vitae# is ten pages long.",
+    "ru": "Его резюме — десять страниц."
+   },
+   {
+    "en": "Don't lie in your #CV#.",
+    "ru": "Не ври в резюме."
+   }
+  ]
  },
  {
   "id": "2224",
   "word": "cheerful",
   "transcription": "[ˈʧɪəfʊl]",
   "translation": "весёлый, неунывающий",
-  "nuance": null,
+  "nuance": "Жизнерадостный (характер или вид). Happy — счастливый (чувство).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/35533/35533_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She's always #cheerful#, even on Mondays.",
+    "ru": "Она всегда весёлая, даже по понедельникам."
+   },
+   {
+    "en": "The room has #cheerful# yellow walls.",
+    "ru": "В комнате весёлые жёлтые стены."
+   },
+   {
+    "en": "He gave a #cheerful# wave.",
+    "ru": "Он бодро помахал."
+   }
+  ]
  },
  {
   "id": "2225",
@@ -50577,67 +51136,158 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/cheerfulness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Her #cheerfulness# lifts everyone's mood.",
+    "ru": "Её жизнерадостность поднимает всем настроение."
+   },
+   {
+    "en": "His fake #cheerfulness# didn't fool anyone.",
+    "ru": "Его наигранная бодрость никого не обманула."
+   },
+   {
+    "en": "I envy her morning #cheerfulness#.",
+    "ru": "Я завидую её утренней бодрости."
+   }
+  ]
  },
  {
   "id": "2226",
   "word": "cheerless",
   "transcription": "[ˈʧɪəlɪs]",
   "translation": "унылый",
-  "nuance": null,
+  "nuance": "Книжное: унылый, безрадостный (о месте, погоде). Gloomy — мрачный, чаще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/cheerless.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It was a #cheerless# grey November day.",
+    "ru": "Был унылый серый ноябрьский день."
+   },
+   {
+    "en": "The hotel room was cold and #cheerless#.",
+    "ru": "Номер в отеле был холодным и неуютным."
+   },
+   {
+    "en": "He gave a #cheerless# laugh.",
+    "ru": "Он невесело рассмеялся."
+   }
+  ]
  },
  {
   "id": "2227",
   "word": "post",
   "transcription": "[pəʊst]",
   "translation": "почта, почтовый",
-  "nuance": null,
+  "nuance": "Брит. post; амер. mail. Также post — пост в соцсетях; столб; должность.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/32540/32540_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Did the #post# come today?",
+    "ru": "Почта сегодня была?"
+   },
+   {
+    "en": "I'll send it by #post#.",
+    "ru": "Я отправлю это по почте."
+   },
+   {
+    "en": "The #post# office closes at five.",
+    "ru": "Почтовое отделение закрывается в пять."
+   }
+  ]
  },
  {
   "id": "2228",
   "word": "postcard",
   "transcription": "[ˈpəʊstkɑːd]",
   "translation": "открытка",
-  "nuance": null,
+  "nuance": "Открытка (почтовая, с картинкой). Поздравительная — card (birthday card).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/7215/7215_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandma still sends us #postcards# from her trips.",
+    "ru": "Бабушка до сих пор шлёт нам открытки из поездок."
+   },
+   {
+    "en": "Nobody sends #postcards# anymore.",
+    "ru": "Никто больше не отправляет открыток."
+   },
+   {
+    "en": "The village looks like a #postcard#.",
+    "ru": "Деревня выглядит как с открытки."
+   }
+  ]
  },
  {
   "id": "2229",
   "word": "derive",
   "transcription": "[dɪˈraɪv]",
   "translation": "выводить, извлекать",
-  "nuance": null,
+  "nuance": "Книжное: происходить от (derive from); извлекать (пользу, удовольствие).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/derive.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Many English words #derive# from Latin.",
+    "ru": "Многие английские слова происходят из латыни."
+   },
+   {
+    "en": "She #derives# pleasure from gardening.",
+    "ru": "Ей доставляет удовольствие садоводство."
+   },
+   {
+    "en": "Oil is #derived# from plants and animals.",
+    "ru": "Нефть образовалась из растений и животных."
+   }
+  ]
  },
  {
   "id": "2230",
   "word": "derivation",
   "transcription": "[ˌdɛrɪˈveɪʃən]",
   "translation": "вывод, происхождение",
-  "nuance": null,
+  "nuance": "Научное: происхождение (слова), вывод (формулы).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/derivation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "What's the #derivation# of this word?",
+    "ru": "Каково происхождение этого слова?"
+   },
+   {
+    "en": "The #derivation# of the formula took a page.",
+    "ru": "Вывод формулы занял страницу."
+   },
+   {
+    "en": "The name's #derivation# is unclear.",
+    "ru": "Происхождение имени неясно."
+   }
+  ]
  },
  {
   "id": "2231",
   "word": "derivative",
   "transcription": "[dɪˈrɪvətɪv]",
   "translation": "производный",
-  "nuance": null,
+  "nuance": "Производный; о творчестве — вторичный, подражательный (неодобрение). В финансах — дериватив.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/derivative.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "\"Happiness\" is a #derivative# of \"happy\".",
+    "ru": "«Happiness» — производное от «happy»."
+   },
+   {
+    "en": "The film is too #derivative# — nothing new.",
+    "ru": "Фильм слишком вторичен — ничего нового."
+   },
+   {
+    "en": "Plastics are oil #derivatives#.",
+    "ru": "Пластмассы — производные нефти."
+   }
+  ]
  },
  {
   "id": "2232",
