@@ -1,0 +1,6 @@
+<rect x="20" y="50" width="70" height="110" fill="{F}"/>
+<path d="M35 50 V160 M55 50 V160 M75 50 V160" stroke="#000" stroke-width="6"/>
+<path d="M90 50 L130 30 V140 L90 160" stroke-width="5"/>
+<path d="M140 80 Q155 60 170 70 Q185 55 190 75" stroke-width="5"/>
+<path d="M140 100 Q160 85 180 100" stroke-width="5"/>
+<text x="150" y="160" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">fly free!</text>

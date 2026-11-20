@@ -1,0 +1,6 @@
+<rect x="20" y="80" width="50" height="50" rx="6" fill="{F}"/>
+<path d="M25 85 L65 125 M65 85 L25 125" stroke="#000" stroke-width="5"/>
+<path d="M80 105 H120 M108 93 L122 105 L108 117" stroke-width="6"/>
+<rect x="130" y="80" width="50" height="50" rx="6" fill="{L}"/>
+<path d="M140 105 L152 117 L172 92" stroke="#000" stroke-width="5"/>
+<text x="100" y="170" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">old → new</text>

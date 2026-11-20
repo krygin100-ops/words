@@ -1,0 +1,10 @@
+<circle cx="80" cy="110" r="35" fill="{F}"/>
+<circle cx="70" cy="105" r="10" fill="{L}"/>
+<circle cx="94" cy="105" r="10" fill="{L}"/>
+<path d="M65 100 Q70 95 75 100 Q70 110 65 100 M89 100 Q94 95 99 100 Q94 110 89 100" stroke="#000" stroke-width="2"/>
+<path d="M70 128 Q80 134 90 128" stroke-width="3"/>
+<path d="M45 190 Q45 155 80 155 Q115 155 115 190" fill="{F}"/>
+<rect x="130" y="40" width="50" height="40" rx="4" fill="{L}"/>
+<path d="M155 40 V80" stroke="#000" stroke-width="3"/>
+<path d="M118 100 L135 82" stroke-width="2" stroke-dasharray="3 3"/>
+<text x="155" y="125" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">must… have…</text>

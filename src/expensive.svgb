@@ -1,0 +1,7 @@
+<rect x="40" y="60" width="120" height="80" rx="8" fill="{F}"/>
+<text x="100" y="112" font-size="30" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">$9999</text>
+<circle cx="160" cy="160" r="20" fill="{F}"/>
+<circle cx="153" cy="155" r="5" fill="{L}"/>
+<circle cx="167" cy="155" r="5" fill="{L}"/>
+<ellipse cx="160" cy="170" rx="5" ry="4" fill="#000"/>
+<text x="60" y="40" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">yikes!</text>

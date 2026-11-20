@@ -1,0 +1,7 @@
+<path d="M20 120 H180" stroke-width="4"/>
+<path d="M20 110 V130 M180 110 V130" stroke-width="3"/>
+<circle cx="100" cy="120" r="18" fill="{L}"/>
+<path d="M100 95 V70" stroke-width="4"/>
+<text x="100" y="60" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">NOW</text>
+<text x="40" y="160" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">past</text>
+<text x="160" y="160" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">future</text>

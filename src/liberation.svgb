@@ -1,0 +1,7 @@
+<path d="M50 120 L80 60 L120 60 L150 120" stroke-width="0"/>
+<path d="M60 110 Q60 80 80 80 L85 100 M140 110 Q140 80 120 80 L115 100" stroke-width="7"/>
+<path d="M40 130 H80 L90 120 M160 130 H120 L110 120" stroke-width="7"/>
+<path d="M95 100 L90 125 M105 100 L110 125" stroke-width="5" stroke-dasharray="6 4"/>
+<circle cx="100" cy="50" r="18" fill="{L}"/>
+<path d="M100 30 V15 M80 40 L70 30 M120 40 L130 30" stroke-width="4"/>
+<text x="100" y="175" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">FREEDOM</text>

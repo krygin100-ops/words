@@ -1,0 +1,6 @@
+<rect x="20" y="70" width="60" height="60" rx="6" fill="{L}"/>
+<text x="50" y="112" font-size="28" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">?</text>
+<path d="M85 100 H120 M108 90 L122 100 L108 110" stroke-width="5"/>
+<circle cx="155" cy="100" r="30" fill="{F}"/>
+<text x="155" y="108" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">why</text>
+<text x="100" y="170" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">because…</text>

@@ -1,0 +1,5 @@
+<rect x="40" y="30" width="120" height="150" rx="5" fill="{F}"/>
+<text x="100" y="65" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">PERMIT</text>
+<path d="M55 85 H145 M55 105 H145" stroke="#000" stroke-width="3"/>
+<circle cx="100" cy="145" r="22" fill="{L}"/>
+<path d="M88 145 L97 154 L113 136" stroke="#000" stroke-width="5"/>

@@ -1,0 +1,7 @@
+<circle cx="100" cy="140" r="18" fill="{F}"/>
+<path d="M92 145 Q100 140 108 145" stroke-width="3"/>
+<path d="M100 120 L50 70 M100 120 V60 M100 120 L150 70" stroke-width="4" stroke-dasharray="6 5"/>
+<rect x="25" y="40" width="40" height="35" rx="5" fill="{F}"/>
+<rect x="80" y="25" width="40" height="35" rx="5" fill="{L}"/>
+<rect x="135" y="40" width="40" height="35" rx="5" fill="{F}"/>
+<g font-size="18" text-anchor="middle" stroke="none" font-family="sans-serif"><text x="45" y="64" fill="{L}">A</text><text x="100" y="49" fill="#000">B</text><text x="155" y="64" fill="{L}">C</text></g>
