@@ -1,0 +1,6 @@
+<circle cx="100" cy="90" r="45" fill="{F}"/>
+<path d="M75 85 Q83 92 91 85 M109 85 Q117 92 125 85" stroke-width="4"/>
+<path d="M85 115 Q100 125 115 115" stroke-width="4"/>
+<path d="M140 120 Q160 110 175 125 Q160 130 150 130" stroke-width="3"/>
+<path d="M150 130 Q170 140 185 135" stroke-width="3"/>
+<text x="100" y="175" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">phew!</text>

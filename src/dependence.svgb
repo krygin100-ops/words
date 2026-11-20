@@ -1,0 +1,6 @@
+<rect x="20" y="70" width="60" height="60" rx="6" fill="{F}"/>
+<rect x="120" y="70" width="60" height="60" rx="6" fill="{F}"/>
+<path d="M80 100 H120" stroke-width="6"/>
+<path d="M80 90 Q100 75 120 90 M80 110 Q100 125 120 110" stroke-width="3"/>
+<path d="M45 140 V170 M155 140 V170" stroke-width="0"/>
+<text x="100" y="170" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">A ↔ B</text>

@@ -1,0 +1,5 @@
+<rect x="40" y="30" width="120" height="150" rx="6" fill="{F}"/>
+<text x="100" y="65" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">WARRANTY</text>
+<path d="M55 85 H145 M55 100 H145" stroke="#000" stroke-width="3"/>
+<circle cx="100" cy="140" r="25" fill="{L}"/>
+<text x="100" y="148" font-size="20" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">2 yr</text>

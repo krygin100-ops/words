@@ -1,0 +1,5 @@
+<circle cx="70" cy="100" r="50" fill="{F}"/>
+<circle cx="70" cy="100" r="18" fill="#000"/>
+<circle cx="70" cy="100" r="35" stroke="#000" stroke-width="2"/>
+<circle cx="155" cy="100" r="20" fill="{L}"/>
+<text x="155" y="160" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">REC</text>

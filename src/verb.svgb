@@ -1,0 +1,5 @@
+<rect x="30" y="50" width="140" height="70" rx="8" fill="{F}"/>
+<text x="100" y="97" font-size="32" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">RUN</text>
+<circle cx="70" cy="150" r="10" fill="{L}"/>
+<path d="M70 160 L80 175 L70 190 M80 175 L95 185 M75 165 L95 158" stroke-width="5"/>
+<path d="M110 165 H170 M160 157 L172 165 L160 173" stroke-width="4"/>

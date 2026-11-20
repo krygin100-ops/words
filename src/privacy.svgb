@@ -1,0 +1,6 @@
+<path d="M40 180 V90 L100 45 L160 90 V180 Z" fill="{F}"/>
+<rect x="70" y="110" width="60" height="45" rx="4" fill="#000"/>
+<path d="M82 110 V95 Q82 78 100 78 Q118 78 118 95 V110" stroke="{L}" stroke-width="6"/>
+<circle cx="100" cy="128" r="6" fill="{L}"/>
+<path d="M100 132 V145" stroke="{L}" stroke-width="4"/>
+<text x="100" y="30" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">keep out</text>
