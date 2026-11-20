@@ -1,0 +1,8 @@
+<circle cx="80" cy="120" r="35" fill="{F}"/>
+<circle cx="68" cy="112" r="6" fill="{L}"/>
+<circle cx="92" cy="112" r="6" fill="{L}"/>
+<ellipse cx="80" cy="135" rx="8" ry="7" fill="#000"/>
+<path d="M45 190 Q45 160 80 160 Q115 160 115 190" fill="{F}"/>
+<path d="M140 20 Q170 20 170 50 Q170 65 155 75 V85 H125 V75 Q110 65 110 50 Q110 20 140 20 Z" fill="{L}"/>
+<path d="M128 92 H152" stroke-width="4"/>
+<text x="140" y="125" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">AHA!</text>

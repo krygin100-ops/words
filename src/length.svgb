@@ -1,0 +1,5 @@
+<rect x="20" y="80" width="160" height="40" fill="{F}"/>
+<path d="M20 140 H180" stroke-width="4"/>
+<path d="M30 130 L20 140 L30 150 M170 130 L180 140 L170 150" stroke-width="4"/>
+<path d="M20 60 V80 M180 60 V80" stroke-width="3"/>
+<text x="100" y="180" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">2 m</text>

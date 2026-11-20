@@ -1,0 +1,7 @@
+<path d="M20 100 H180" stroke-width="10"/>
+<rect x="25" y="65" width="20" height="70" rx="4" fill="{F}"/>
+<rect x="155" y="65" width="20" height="70" rx="4" fill="{F}"/>
+<rect x="45" y="75" width="15" height="50" rx="3" fill="{F}"/>
+<rect x="140" y="75" width="15" height="50" rx="3" fill="{F}"/>
+<text x="100" y="170" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">100 kg</text>
+<path d="M90 50 L100 35 L110 50" stroke-width="0"/>

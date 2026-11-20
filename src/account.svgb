@@ -1,0 +1,5 @@
+<path d="M20 75 L100 30 L180 75 Z" fill="{F}"/>
+<path d="M35 85 V150 M65 85 V150 M95 85 V150" stroke-width="10"/>
+<rect x="20" y="155" width="160" height="15" fill="{F}"/>
+<rect x="115" y="90" width="70" height="45" rx="4" fill="{L}"/>
+<text x="150" y="119" font-size="16" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">$1,250</text>

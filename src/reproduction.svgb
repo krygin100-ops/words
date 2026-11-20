@@ -1,0 +1,6 @@
+<rect x="20" y="50" width="70" height="90" fill="{F}"/>
+<circle cx="55" cy="85" r="18" fill="{L}"/>
+<rect x="110" y="50" width="70" height="90" fill="{F}"/>
+<circle cx="145" cy="85" r="18" fill="{L}"/>
+<path d="M95 95 H105 M100 90 L106 95 L100 100" stroke-width="3"/>
+<text x="100" y="175" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">copy</text>

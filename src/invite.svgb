@@ -1,0 +1,6 @@
+<circle cx="60" cy="70" r="18" fill="{F}"/>
+<path d="M52 72 Q60 78 68 72" stroke-width="3"/>
+<path d="M60 88 V140 L45 180 M60 140 L75 180 M60 100 L95 85 L105 95 M60 100 L40 120"/>
+<rect x="120" y="70" width="60" height="110" fill="{F}"/>
+<rect x="128" y="80" width="44" height="100" fill="#000"/>
+<text x="110" y="40" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">come in!</text>

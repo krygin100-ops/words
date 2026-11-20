@@ -1,0 +1,9 @@
+<circle cx="50" cy="70" r="18" fill="{F}"/>
+<path d="M42 66 L50 70 M58 66 L50 70" stroke="#000" stroke-width="3"/>
+<path d="M50 88 V140 L35 180 M50 140 L65 180 M50 100 L110 95"/>
+<path d="M110 95 L125 90" stroke-width="4"/>
+<circle cx="155" cy="90" r="16" fill="{F}"/>
+<path d="M148 92 Q155 88 162 92" stroke-width="3"/>
+<path d="M155 106 V145 L145 180 M155 145 L165 180"/>
+<text x="60" y="35" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">YOUR fault!</text>
+<text x="160" y="60" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">me?!</text>

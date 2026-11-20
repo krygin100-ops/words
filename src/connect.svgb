@@ -1,0 +1,7 @@
+<path d="M20 100 H70" stroke-width="8"/>
+<rect x="70" y="80" width="30" height="40" rx="4" fill="{F}"/>
+<path d="M100 90 H115 M100 110 H115" stroke-width="5"/>
+<rect x="120" y="80" width="30" height="40" rx="4" fill="{L}"/>
+<path d="M150 100 H185" stroke-width="8"/>
+<path d="M110 60 L105 70 M115 55 V40 M120 60 L125 70" stroke-width="3"/>
+<text x="110" y="160" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">click!</text>

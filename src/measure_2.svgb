@@ -1,0 +1,5 @@
+<rect x="20" y="80" width="160" height="40" fill="{F}"/>
+<path d="M35 80 V95 M50 80 V105 M65 80 V95 M80 80 V105 M95 80 V95 M110 80 V105 M125 80 V95 M140 80 V105 M155 80 V95 M170 80 V105" stroke="#000" stroke-width="3"/>
+<path d="M30 150 H170" stroke-width="4"/>
+<path d="M40 140 L30 150 L40 160 M160 140 L170 150 L160 160" stroke-width="4"/>
+<text x="100" y="50" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">how long?</text>
