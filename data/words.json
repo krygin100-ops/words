@@ -48994,90 +48994,207 @@
   "word": "prime",
   "transcription": "[praɪm]",
   "translation": "важный, главный, первый",
-  "nuance": null,
+  "nuance": "Книжное «главный, первоклассный». Prime location — лучшее место; in one's prime — в расцвете. Main — нейтральное.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/prime.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Safety is our #prime# concern.",
+    "ru": "Безопасность — наша главная забота."
+   },
+   {
+    "en": "He's in the #prime# of his life.",
+    "ru": "Он в расцвете сил."
+   },
+   {
+    "en": "The hotel is in a #prime# location.",
+    "ru": "Отель в лучшем месте."
+   }
+  ]
  },
  {
   "id": "2133",
   "word": "prime-minister",
   "transcription": "[praɪm-ˈmɪnɪstə]",
   "translation": "премьер",
-  "nuance": null,
+  "nuance": "Обычно пишется раздельно: prime minister (PM).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/prime_minister.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #prime minister# visited our town.",
+    "ru": "Премьер-министр посетил наш город."
+   },
+   {
+    "en": "The #prime minister# gave a speech on TV.",
+    "ru": "Премьер-министр выступил по телевизору."
+   },
+   {
+    "en": "Who is the #prime minister# now?",
+    "ru": "Кто сейчас премьер-министр?"
+   }
+  ]
  },
  {
   "id": "2134",
   "word": "knock out",
   "transcription": "[nɒkaʊt]",
   "translation": "вырубить (ударом)",
-  "nuance": null,
+  "nuance": "Разг.: вырубить (ударом, лекарством), вывести из строя. Knockout — нокаут; перен. «сногсшибательный человек».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/knock_out.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The boxer #knocked out# his opponent in round one.",
+    "ru": "Боксёр нокаутировал соперника в первом раунде."
+   },
+   {
+    "en": "The sleeping pill #knocked# me #out#.",
+    "ru": "Снотворное меня вырубило."
+   },
+   {
+    "en": "The storm #knocked out# the power.",
+    "ru": "Буря вырубила электричество."
+   }
+  ]
  },
  {
   "id": "2135",
   "word": "serve",
   "transcription": "[sɜːv]",
   "translation": "сидеть (в тюрьме)",
-  "nuance": null,
+  "nuance": "Serve time / a sentence — отбывать срок. Разг.: do time.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/serve_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #served# five years for robbery.",
+    "ru": "Он отсидел пять лет за грабёж."
+   },
+   {
+    "en": "She's #serving# a life sentence.",
+    "ru": "Она отбывает пожизненный срок."
+   },
+   {
+    "en": "After #serving# his time, he became a cook.",
+    "ru": "Отсидев срок, он стал поваром."
+   }
+  ]
  },
  {
   "id": "2136",
   "word": "previous",
   "transcription": "[ˈpriːviəs]",
   "translation": "предшествующий",
-  "nuance": null,
+  "nuance": "Предыдущий (по порядку). Last — последний/прошлый (last week); former — бывший.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/previous.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My #previous# job was boring.",
+    "ru": "Моя прошлая работа была скучной."
+   },
+   {
+    "en": "The #previous# owner left a cat in the house.",
+    "ru": "Предыдущий хозяин оставил в доме кота."
+   },
+   {
+    "en": "No #previous# experience needed.",
+    "ru": "Опыт не требуется."
+   }
+  ]
  },
  {
   "id": "2137",
   "word": "previously",
   "transcription": "[ˈpriːviəsli]",
   "translation": "ранее, предварительно",
-  "nuance": null,
+  "nuance": "Формальнее, чем before / earlier.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/previously.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I've #previously# lived in Berlin.",
+    "ru": "Раньше я жил в Берлине."
+   },
+   {
+    "en": "As #previously# mentioned, the meeting is cancelled.",
+    "ru": "Как упоминалось ранее, совещание отменено."
+   },
+   {
+    "en": "The house was #previously# a bakery.",
+    "ru": "Раньше в этом доме была пекарня."
+   }
+  ]
  },
  {
   "id": "2138",
   "word": "deputy",
   "transcription": "[ˈdɛpjʊti]",
   "translation": "депутат, представитель",
-  "nuance": null,
+  "nuance": "Чаще всего «заместитель» (deputy manager). Депутат — обычно MP / member of parliament.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/deputy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #deputy# director signed the papers.",
+    "ru": "Документы подписал заместитель директора."
+   },
+   {
+    "en": "He's a #deputy# in parliament.",
+    "ru": "Он депутат парламента."
+   },
+   {
+    "en": "The sheriff's #deputy# arrived first.",
+    "ru": "Первым прибыл помощник шерифа."
+   }
+  ]
  },
  {
   "id": "2139",
   "word": "fortnight",
   "transcription": "[ˈfɔːtnaɪt]",
   "translation": "две недели (брит.)",
-  "nuance": null,
+  "nuance": "Британское. Американцы говорят two weeks.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fortnight.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We're going to Spain for a #fortnight#.",
+    "ru": "Мы едем в Испанию на две недели."
+   },
+   {
+    "en": "I'll see you in a #fortnight#.",
+    "ru": "Увидимся через две недели."
+   },
+   {
+    "en": "He gets paid every #fortnight#.",
+    "ru": "Ему платят раз в две недели."
+   }
+  ]
  },
  {
   "id": "2140",
   "word": "poll",
   "transcription": "[pəʊl]",
   "translation": "опрос или голосование",
-  "nuance": null,
+  "nuance": "Опрос (общественного мнения); the polls — выборы/участки. Survey — более подробное исследование.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/poll.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The latest #poll# shows a close race.",
+    "ru": "Последний опрос показывает равную борьбу."
+   },
+   {
+    "en": "We did a #poll# in the office: tea or coffee?",
+    "ru": "Мы провели опрос в офисе: чай или кофе?"
+   },
+   {
+    "en": "The #polls# close at 8 p.m.",
+    "ru": "Избирательные участки закрываются в 8 вечера."
+   }
+  ]
  },
  {
   "id": "2141",
@@ -49087,107 +49204,250 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/pollster.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Pollsters# got the election result wrong.",
+    "ru": "Социологи ошиблись с результатом выборов."
+   },
+   {
+    "en": "A #pollster# called and asked about my coffee habits.",
+    "ru": "Позвонил интервьюер и спросил про мои кофейные привычки."
+   },
+   {
+    "en": "#Pollsters# predict a close vote.",
+    "ru": "Социологи предсказывают равное голосование."
+   }
+  ]
  },
  {
   "id": "2142",
   "word": "operate",
   "transcription": "[ˈɒpəreɪt]",
   "translation": "управлять, работать с",
-  "nuance": null,
+  "nuance": "Управлять (машиной), работать (о бизнесе), оперировать. Use — проще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/operate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Can you #operate# this machine?",
+    "ru": "Ты умеешь работать с этой машиной?"
+   },
+   {
+    "en": "The company #operates# in ten countries.",
+    "ru": "Компания работает в десяти странах."
+   },
+   {
+    "en": "Doctors had to #operate# on his knee.",
+    "ru": "Врачам пришлось оперировать ему колено."
+   }
+  ]
  },
  {
   "id": "2143",
   "word": "operation",
   "transcription": "[ˌɒpəˈreɪʃən]",
   "translation": "управление, работа с",
-  "nuance": null,
+  "nuance": "Работа/функционирование, операция (медицинская, военная).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/operation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #operation# of the machine is simple.",
+    "ru": "Управление машиной простое."
+   },
+   {
+    "en": "The shop is in #operation# 24 hours.",
+    "ru": "Магазин работает круглосуточно."
+   },
+   {
+    "en": "Grandpa's knee #operation# went well.",
+    "ru": "Операция на колене у дедушки прошла хорошо."
+   }
+  ]
  },
  {
   "id": "2144",
   "word": "cast (cast, cast)",
   "transcription": "[kɑːst]",
   "translation": "бросать, метать",
-  "nuance": null,
+  "nuance": "Книжное «бросать» (cast a glance, cast a vote, cast a shadow). Также cast — актёрский состав; гипс.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/cast.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #cast# a stone into the lake.",
+    "ru": "Он бросил камень в озеро."
+   },
+   {
+    "en": "The fisherman #cast# his net.",
+    "ru": "Рыбак забросил сеть."
+   },
+   {
+    "en": "The witch #cast# a spell.",
+    "ru": "Ведьма наложила заклятие."
+   }
+  ]
  },
  {
   "id": "2145",
   "word": "may",
   "transcription": "[meɪ]",
   "translation": "пусть",
-  "nuance": null,
+  "nuance": "Торжественное пожелание в начале фразы (тосты, открытки). Также may = можно/возможно.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/may.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#May# you live a long and happy life!",
+    "ru": "Желаю тебе долгой и счастливой жизни!"
+   },
+   {
+    "en": "#May# the best team win.",
+    "ru": "Пусть победит сильнейший."
+   },
+   {
+    "en": "#May# all your wishes come true.",
+    "ru": "Пусть сбудутся все твои желания."
+   }
+  ]
  },
  {
   "id": "2146",
   "word": "temple",
   "transcription": "[ˈtɛmpl]",
   "translation": "храм",
-  "nuance": null,
+  "nuance": "Храм (не христианский; для церкви — church). Также висок (анатомия).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/3118/3118_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We visited an old Buddhist #temple#.",
+    "ru": "Мы посетили старый буддийский храм."
+   },
+   {
+    "en": "My body is my #temple# — except on weekends.",
+    "ru": "Моё тело — мой храм. Кроме выходных."
+   },
+   {
+    "en": "Take off your shoes in the #temple#.",
+    "ru": "Сними обувь в храме."
+   }
+  ]
  },
  {
   "id": "2147",
   "word": "beside",
   "transcription": "[bɪˈsaɪd]",
   "translation": "рядом",
-  "nuance": null,
+  "nuance": "Beside — рядом (= next to). Besides — кроме того! Частая путаница.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/beside.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Sit #beside# me.",
+    "ru": "Сядь рядом со мной."
+   },
+   {
+    "en": "The cat sleeps #beside# my bed.",
+    "ru": "Кот спит рядом с моей кроватью."
+   },
+   {
+    "en": "That's #beside# the point.",
+    "ru": "Это к делу не относится."
+   }
+  ]
  },
  {
   "id": "2148",
   "word": "effort",
   "transcription": "[ˈɛfət]",
   "translation": "усилие, старание",
-  "nuance": null,
+  "nuance": "Make an effort — постараться. Attempt — попытка (одна).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/effort.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Learning English takes #effort#.",
+    "ru": "Изучение английского требует усилий."
+   },
+   {
+    "en": "Thanks for the #effort# — even if the cake burned.",
+    "ru": "Спасибо за старание, даже если торт сгорел."
+   },
+   {
+    "en": "Make an #effort# to be on time.",
+    "ru": "Постарайся прийти вовремя."
+   }
+  ]
  },
  {
   "id": "2149",
   "word": "effortlessly",
   "transcription": "[ˈɛfətlɪsli]",
   "translation": "без особых усилий",
-  "nuance": null,
+  "nuance": "Легко, без видимых усилий (часто с восхищением). Easily — проще, нейтрально.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/effortlessly.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She speaks five languages #effortlessly#.",
+    "ru": "Она без труда говорит на пяти языках."
+   },
+   {
+    "en": "The cat jumped #effortlessly# onto the fridge.",
+    "ru": "Кот легко запрыгнул на холодильник."
+   },
+   {
+    "en": "He #effortlessly# won the race.",
+    "ru": "Он без особых усилий выиграл гонку."
+   }
+  ]
  },
  {
   "id": "2150",
   "word": "west",
   "transcription": "[wɛst]",
   "translation": "запад",
-  "nuance": null,
+  "nuance": "The West — Запад (страны Европы и США).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8179/8179_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The sun sets in the #west#.",
+    "ru": "Солнце садится на западе."
+   },
+   {
+    "en": "They moved to the #west# of the country.",
+    "ru": "Они переехали на запад страны."
+   },
+   {
+    "en": "The wind is from the #west#.",
+    "ru": "Ветер западный."
+   }
+  ]
  },
  {
   "id": "2151",
   "word": "western",
   "transcription": "[ˈwɛstən]",
   "translation": "западный",
-  "nuance": null,
+  "nuance": "Western — западный; a western — вестерн (фильм).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/western.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We love #western# films with cowboys.",
+    "ru": "Мы обожаем вестерны с ковбоями."
+   },
+   {
+    "en": "#Western# Europe is expensive.",
+    "ru": "Западная Европа дорогая."
+   },
+   {
+    "en": "He's not used to #western# food.",
+    "ru": "Он не привык к западной еде."
+   }
+  ]
  },
  {
   "id": "2152",
@@ -49197,167 +49457,388 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/westward.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The pioneers moved #westward#.",
+    "ru": "Первопроходцы двигались на запад."
+   },
+   {
+    "en": "The storm is heading #westward#.",
+    "ru": "Шторм движется на запад."
+   },
+   {
+    "en": "We drove #westward# into the sunset.",
+    "ru": "Мы ехали на запад, навстречу закату."
+   }
+  ]
  },
  {
   "id": "2153",
   "word": "furniture",
   "transcription": "[ˈfɜːnɪʧə]",
   "translation": "мебель",
-  "nuance": null,
+  "nuance": "Неисчисляемое! Нельзя «a furniture / furnitures». Один предмет — a piece of furniture.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/32594/32594_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We bought new #furniture# for the living room.",
+    "ru": "Мы купили новую мебель в гостиную."
+   },
+   {
+    "en": "The cat destroys all our #furniture#.",
+    "ru": "Кот портит всю нашу мебель."
+   },
+   {
+    "en": "A sofa is a piece of #furniture#.",
+    "ru": "Диван — это предмет мебели."
+   }
+  ]
  },
  {
   "id": "2154",
   "word": "stroke",
   "transcription": "[strəʊk]",
   "translation": "гладить",
-  "nuance": null,
+  "nuance": "Гладить рукой (ласково). Pet — гладить животное (амер.). Iron — гладить утюгом! Также stroke — инсульт.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/37195/37195_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The cat purrs when you #stroke# it.",
+    "ru": "Кот мурлычет, когда его гладишь."
+   },
+   {
+    "en": "She #stroked# the baby's hair.",
+    "ru": "Она гладила малыша по волосам."
+   },
+   {
+    "en": "He #stroked# his beard and thought.",
+    "ru": "Он погладил бороду и задумался."
+   }
+  ]
  },
  {
   "id": "2155",
   "word": "facilitate",
   "transcription": "[fəˈsɪlɪteɪt]",
   "translation": "облегчать, способствовать",
-  "nuance": null,
+  "nuance": "Официальное/деловое «облегчать, содействовать». Разг.: help, make easier.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/facilitate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Good lighting #facilitates# reading.",
+    "ru": "Хорошее освещение облегчает чтение."
+   },
+   {
+    "en": "The app #facilitates# communication.",
+    "ru": "Приложение облегчает общение."
+   },
+   {
+    "en": "Her job is to #facilitate# meetings.",
+    "ru": "Её задача — модерировать встречи."
+   }
+  ]
  },
  {
   "id": "2156",
   "word": "facilitation",
   "transcription": "[fəˈsɪlɪˈteɪʃən]",
   "translation": "облегчение",
-  "nuance": null,
+  "nuance": "Деловое, редкое слово.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/facilitation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #facilitation# of trade is the main goal.",
+    "ru": "Главная цель — облегчение торговли."
+   },
+   {
+    "en": "Group #facilitation# is her job.",
+    "ru": "Её работа — ведение групп."
+   },
+   {
+    "en": "The new rules aim at the #facilitation# of travel.",
+    "ru": "Новые правила направлены на упрощение поездок."
+   }
+  ]
  },
  {
   "id": "2157",
   "word": "elbow",
   "transcription": "[ˈɛlbəʊ]",
   "translation": "локоть",
-  "nuance": null,
+  "nuance": "Также глагол: elbow one's way — проталкиваться. Elbow grease — разг. «усердный физический труд».",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2707/2707_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He hit his #elbow# on the table.",
+    "ru": "Он ударился локтем о стол."
+   },
+   {
+    "en": "Don't put your #elbows# on the table!",
+    "ru": "Не ставь локти на стол!"
+   },
+   {
+    "en": "She pushed through the crowd with her #elbows#.",
+    "ru": "Она проталкивалась сквозь толпу локтями."
+   }
+  ]
  },
  {
   "id": "2158",
   "word": "testify",
   "transcription": "[ˈtɛstɪfaɪ]",
   "translation": "свидетельствовать",
-  "nuance": null,
+  "nuance": "Давать показания (юр.), свидетельствовать (книжн.). Prove — доказать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/testify.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #testified# against his boss.",
+    "ru": "Он дал показания против своего начальника."
+   },
+   {
+    "en": "She was called to #testify# in court.",
+    "ru": "Её вызвали дать показания в суде."
+   },
+   {
+    "en": "His smile #testifies# to his good mood.",
+    "ru": "Его улыбка свидетельствует о хорошем настроении."
+   }
+  ]
  },
  {
   "id": "2159",
   "word": "match",
   "transcription": "[mæʧ]",
   "translation": "спичка",
-  "nuance": null,
+  "nuance": "Спичка (также match — матч, пара/подходящий человек). A box of matches — коробок спичек.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8342/8342_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Do you have a #match#?",
+    "ru": "У тебя есть спичка?"
+   },
+   {
+    "en": "He lit the candle with a #match#.",
+    "ru": "Он зажёг свечу спичкой."
+   },
+   {
+    "en": "Keep #matches# away from children.",
+    "ru": "Храните спички в недоступном для детей месте."
+   }
+  ]
  },
  {
   "id": "2160",
   "word": "butt in (on)",
   "transcription": "[bʌtɪn]",
   "translation": "встревать, вмешиваться",
-  "nuance": null,
+  "nuance": "Разговорное, слегка грубоватое: встревать без спроса. Interrupt — нейтральнее.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/butt_in.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Sorry to #butt in#, but your car is on fire.",
+    "ru": "Извините, что встреваю, но ваша машина горит."
+   },
+   {
+    "en": "Stop #butting in on# our conversation!",
+    "ru": "Перестань встревать в наш разговор!"
+   },
+   {
+    "en": "My mum always #butts in#.",
+    "ru": "Мама всегда вмешивается."
+   }
+  ]
  },
  {
   "id": "2161",
   "word": "break in",
   "transcription": "[breɪkɪn]",
   "translation": "вмешиваться",
-  "nuance": null,
+  "nuance": "Вклиниться в разговор (нейтральнее, чем butt in). Также break in — вломиться (о воре)!",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/break_in.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "\"Wait!\" he #broke in#.",
+    "ru": "«Подожди!» — вмешался он."
+   },
+   {
+    "en": "She #broke in# with a question.",
+    "ru": "Она вклинилась с вопросом."
+   },
+   {
+    "en": "Sorry to #break in#, but dinner is ready.",
+    "ru": "Извините, что перебиваю, но ужин готов."
+   }
+  ]
  },
  {
   "id": "2162",
   "word": "circle",
   "transcription": "[ˈsɜːkl]",
   "translation": "круг, окружность",
-  "nuance": null,
+  "nuance": "Круг (фигура), окружность; круг людей. Round — круглый (прил.).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/4603/4603_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Sit in a #circle# on the floor.",
+    "ru": "Сядьте в круг на полу."
+   },
+   {
+    "en": "Draw a #circle#.",
+    "ru": "Нарисуй круг."
+   },
+   {
+    "en": "She has a small #circle# of friends.",
+    "ru": "У неё узкий круг друзей."
+   }
+  ]
  },
  {
   "id": "2163",
   "word": "circular",
   "transcription": "[ˈsɜːkjʊlə]",
   "translation": "круговой",
-  "nuance": null,
+  "nuance": "Книжнее, чем round. Circular argument — довод «по кругу».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/circular.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We took a #circular# walk around the lake.",
+    "ru": "Мы совершили круговую прогулку вокруг озера."
+   },
+   {
+    "en": "The table is #circular#.",
+    "ru": "Стол круглый."
+   },
+   {
+    "en": "That's a #circular# argument.",
+    "ru": "Это порочный круг в рассуждениях."
+   }
+  ]
  },
  {
   "id": "2164",
   "word": "encircle",
   "transcription": "[ɪnˈsɜːkl]",
   "translation": "окружать",
-  "nuance": null,
+  "nuance": "Окружить кольцом. Surround — нейтральное, чаще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/encircle.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Mountains #encircle# the valley.",
+    "ru": "Горы окружают долину."
+   },
+   {
+    "en": "The kids #encircled# the ice cream van.",
+    "ru": "Дети окружили фургон с мороженым."
+   },
+   {
+    "en": "Police #encircled# the building.",
+    "ru": "Полиция оцепила здание."
+   }
+  ]
  },
  {
   "id": "2165",
   "word": "occur",
   "transcription": "[əˈkɜː]",
   "translation": "случиться",
-  "nuance": null,
+  "nuance": "Офиц. «происходить»; разг. — happen. Occur to someone — прийти в голову.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/occur.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "When did the accident #occur#?",
+    "ru": "Когда произошла авария?"
+   },
+   {
+    "en": "The idea #occurred# to me in the shower.",
+    "ru": "Идея пришла мне в голову в душе."
+   },
+   {
+    "en": "Mistakes #occur#.",
+    "ru": "Ошибки случаются."
+   }
+  ]
  },
  {
   "id": "2166",
   "word": "occurrence",
   "transcription": "[əˈkʌrəns]",
   "translation": "случай, наступление события",
-  "nuance": null,
+  "nuance": "Книжное: случай, явление, частота появления.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/occurrence.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Power cuts are a common #occurrence# here.",
+    "ru": "Отключения света здесь — обычное дело."
+   },
+   {
+    "en": "It was a strange #occurrence#.",
+    "ru": "Это был странный случай."
+   },
+   {
+    "en": "The #occurrence# of the disease is rising.",
+    "ru": "Заболеваемость растёт."
+   }
+  ]
  },
  {
   "id": "2167",
   "word": "assemble",
   "transcription": "[əˈsɛmbl]",
   "translation": "собирать",
-  "nuance": null,
+  "nuance": "Собирать (из деталей) и собираться (о людях, офиц.). Gather — собираться (проще).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/assemble.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #assembled# the IKEA wardrobe in five hours.",
+    "ru": "Мы собрали шкаф из ИКЕИ за пять часов."
+   },
+   {
+    "en": "The students #assembled# in the hall.",
+    "ru": "Студенты собрались в зале."
+   },
+   {
+    "en": "#Assemble# the team!",
+    "ru": "Собери команду!"
+   }
+  ]
  },
  {
   "id": "2168",
   "word": "assembly",
   "transcription": "[əˈsɛmbli]",
   "translation": "сборка",
-  "nuance": null,
+  "nuance": "Сборка; собрание (school assembly — утренняя линейка). Assembly line — конвейер.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/assembly.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Assembly# instructions are in Swedish.",
+    "ru": "Инструкция по сборке — на шведском."
+   },
+   {
+    "en": "The school #assembly# starts at 9.",
+    "ru": "Общее собрание школы начинается в 9."
+   },
+   {
+    "en": "The car #assembly# line never stops.",
+    "ru": "Сборочный конвейер не останавливается."
+   }
+  ]
  },
  {
   "id": "2169",
@@ -49367,27 +49848,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/assembler.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He works as an #assembler# at a car factory.",
+    "ru": "Он работает сборщиком на автозаводе."
+   },
+   {
+    "en": "Furniture #assemblers# charge by the hour.",
+    "ru": "Сборщики мебели берут плату почасово."
+   },
+   {
+    "en": "The #assembler# finished the bike in an hour.",
+    "ru": "Сборщик собрал велосипед за час."
+   }
+  ]
  },
  {
   "id": "2170",
   "word": "disassemble",
   "transcription": "[ˌdɪsəˈsɛmbl]",
   "translation": "разбирать",
-  "nuance": null,
+  "nuance": "Официальнее, чем take apart.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/39275/39275_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #disassembled# the bed to move it.",
+    "ru": "Мы разобрали кровать, чтобы перевезти её."
+   },
+   {
+    "en": "My son #disassembled# the TV remote.",
+    "ru": "Сын разобрал пульт от телевизора."
+   },
+   {
+    "en": "It's easier to #disassemble# than to assemble.",
+    "ru": "Разобрать легче, чем собрать."
+   }
+  ]
  },
  {
   "id": "2171",
   "word": "dry",
   "transcription": "[draɪ]",
   "translation": "сухой, сушить, засуха",
-  "nuance": null,
+  "nuance": "Сухой; также о вине (сухое), юморе (сдержанный). Dry humour — английский «сухой» юмор.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/34715/34715_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Keep the medicine in a #dry# place.",
+    "ru": "Храни лекарство в сухом месте."
+   },
+   {
+    "en": "#Dry# your hair before going out.",
+    "ru": "Высуши волосы, прежде чем выходить."
+   },
+   {
+    "en": "The #dry# summer killed our tomatoes.",
+    "ru": "Засушливое лето погубило наши помидоры."
+   }
+  ]
  },
  {
   "id": "2172",
@@ -49397,67 +49917,158 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dryness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Winter causes #dryness# of the skin.",
+    "ru": "Зимой кожа становится сухой."
+   },
+   {
+    "en": "The #dryness# of the air gives me headaches.",
+    "ru": "От сухости воздуха у меня болит голова."
+   },
+   {
+    "en": "Eye #dryness# is common with computers.",
+    "ru": "Сухость глаз часто бывает при работе за компьютером."
+   }
+  ]
  },
  {
   "id": "2173",
   "word": "drier",
   "transcription": "[ˈdraɪə]",
   "translation": "сушилка",
-  "nuance": null,
+  "nuance": "Также пишут dryer. Hair dryer — фен.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/drier.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Put the towels in the #drier#.",
+    "ru": "Положи полотенца в сушилку."
+   },
+   {
+    "en": "My sweater shrank in the #drier#.",
+    "ru": "Мой свитер сел в сушилке."
+   },
+   {
+    "en": "We bought a new hair #drier#.",
+    "ru": "Мы купили новый фен."
+   }
+  ]
  },
  {
   "id": "2174",
   "word": "vacation",
   "transcription": "[vəˈkeɪʃən]",
   "translation": "отпуск, каникулы",
-  "nuance": null,
+  "nuance": "Амер.; брит. — holiday. Vacation — отпуск/каникулы; holiday в США — праздник.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/39447/39447_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We're going on #vacation# next week.",
+    "ru": "На следующей неделе мы едем в отпуск."
+   },
+   {
+    "en": "Summer #vacation# is too short.",
+    "ru": "Летние каникулы слишком короткие."
+   },
+   {
+    "en": "I need a #vacation# from my vacation.",
+    "ru": "Мне нужен отпуск от моего отпуска."
+   }
+  ]
  },
  {
   "id": "2175",
   "word": "vacationer",
   "transcription": "[vəˈkeɪʃənə]",
   "translation": "отпускник",
-  "nuance": null,
+  "nuance": "Амер.; брит. — holidaymakers.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/vacationer.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The beach was full of #vacationers#.",
+    "ru": "Пляж был полон отдыхающих."
+   },
+   {
+    "en": "#Vacationers# filled every hotel.",
+    "ru": "Отдыхающие заполнили все отели."
+   },
+   {
+    "en": "Local shops love #vacationers#.",
+    "ru": "Местные магазины любят отдыхающих."
+   }
+  ]
  },
  {
   "id": "2176",
   "word": "stumble",
   "transcription": "[ˈstʌmbl]",
   "translation": "спотыкаться, запинаться",
-  "nuance": null,
+  "nuance": "Споткнуться, запнуться; stumble upon/across — случайно наткнуться. Trip — споткнуться и чуть не упасть.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8239/8239_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #stumbled# on the stairs with my coffee.",
+    "ru": "Я споткнулся на лестнице с кофе."
+   },
+   {
+    "en": "He #stumbled# over his words.",
+    "ru": "Он запинался в словах."
+   },
+   {
+    "en": "We #stumbled# upon a great café.",
+    "ru": "Мы случайно наткнулись на отличное кафе."
+   }
+  ]
  },
  {
   "id": "2177",
   "word": "shore",
   "transcription": "[ʃɔː]",
   "translation": "берег",
-  "nuance": null,
+  "nuance": "Берег моря/озера (вид с воды). Bank — берег реки; coast — побережье; beach — пляж.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2826/2826_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We walked along the #shore#.",
+    "ru": "Мы гуляли вдоль берега."
+   },
+   {
+    "en": "The boat reached the #shore# at night.",
+    "ru": "Лодка достигла берега ночью."
+   },
+   {
+    "en": "They live on the #shores# of a lake.",
+    "ru": "Они живут на берегу озера."
+   }
+  ]
  },
  {
   "id": "2178",
   "word": "ashore",
   "transcription": "[əˈʃɔː]",
   "translation": "на берегу",
-  "nuance": null,
+  "nuance": "На берег / на берегу (с судна). Наречие, без предлога: go ashore.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/ashore.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The sailors went #ashore# for dinner.",
+    "ru": "Моряки сошли на берег поужинать."
+   },
+   {
+    "en": "A whale washed #ashore#.",
+    "ru": "Кита выбросило на берег."
+   },
+   {
+    "en": "We swam #ashore#.",
+    "ru": "Мы доплыли до берега."
+   }
+  ]
  },
  {
   "id": "2179",
@@ -49467,27 +50078,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/shoreline.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #shoreline# is beautiful at sunset.",
+    "ru": "На закате береговая линия прекрасна."
+   },
+   {
+    "en": "Rising seas change the #shoreline#.",
+    "ru": "Повышение уровня моря меняет береговую линию."
+   },
+   {
+    "en": "We walked along the rocky #shoreline#.",
+    "ru": "Мы шли вдоль скалистого берега."
+   }
+  ]
  },
  {
   "id": "2180",
   "word": "apology",
   "transcription": "[əˈpɒləʤi]",
   "translation": "извинение(я)",
-  "nuance": null,
+  "nuance": "Существительное. Глагол — apologize. «Sorry» — разговорное извинение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/apology.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Please accept my #apology#.",
+    "ru": "Пожалуйста, примите мои извинения."
+   },
+   {
+    "en": "I owe you an #apology#.",
+    "ru": "Я должен перед тобой извиниться."
+   },
+   {
+    "en": "He made a long #apology# for being late.",
+    "ru": "Он долго извинялся за опоздание."
+   }
+  ]
  },
  {
   "id": "2181",
   "word": "apologize",
   "transcription": "[əˈpɒləʤaɪz]",
   "translation": "извиниться",
-  "nuance": null,
+  "nuance": "Apologize TO someone FOR something. Официальнее, чем say sorry.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/apologize.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Apologize# to your sister!",
+    "ru": "Извинись перед сестрой!"
+   },
+   {
+    "en": "I #apologize# for the delay.",
+    "ru": "Приношу извинения за задержку."
+   },
+   {
+    "en": "He never #apologizes#.",
+    "ru": "Он никогда не извиняется."
+   }
+  ]
  },
  {
   "id": "2182",
