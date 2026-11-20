@@ -63944,20 +63944,46 @@
   "word": "apparent",
   "transcription": "[əˈpærənt]",
   "translation": "явный, видимый",
-  "nuance": null,
+  "nuance": "Явный, видимый; также кажущийся (не настоящий). Obvious — очевидный (сильнее).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/apparent.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "For no #apparent# reason, the cat attacked my foot.",
+    "ru": "Без видимой причины кот напал на мою ногу."
+   },
+   {
+    "en": "It was #apparent# that he was nervous.",
+    "ru": "Было видно, что он нервничает."
+   },
+   {
+    "en": "His #apparent# calm hid his fear.",
+    "ru": "Его кажущееся спокойствие скрывало страх."
+   }
+  ]
  },
  {
   "id": "2783",
   "word": "apparently",
   "transcription": "[əˈpærəntli]",
   "translation": "по всей видимости",
-  "nuance": null,
+  "nuance": "«Говорят, судя по всему» (по чужим словам). Obviously — очевидно (сам вижу).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/apparently.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Apparently#, the shop is closed on Mondays.",
+    "ru": "Говорят, по понедельникам магазин закрыт."
+   },
+   {
+    "en": "He's #apparently# a famous chef.",
+    "ru": "Он, судя по всему, известный повар."
+   },
+   {
+    "en": "#Apparently# not!",
+    "ru": "Видимо, нет!"
+   }
+  ]
  },
  {
   "id": "2784",
@@ -63967,7 +63993,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8114/8114_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The sun rises in the #east#.",
+    "ru": "Солнце встаёт на востоке."
+   },
+   {
+    "en": "They travelled across the Middle #East#.",
+    "ru": "Они путешествовали по Ближнему Востоку."
+   },
+   {
+    "en": "The wind is coming from the #east#.",
+    "ru": "Ветер дует с востока."
+   }
+  ]
  },
  {
   "id": "2785",
@@ -63977,67 +64016,158 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/eastern.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We love #eastern# food.",
+    "ru": "Мы обожаем восточную кухню."
+   },
+   {
+    "en": "They live in #eastern# Europe.",
+    "ru": "Они живут в Восточной Европе."
+   },
+   {
+    "en": "The #eastern# side of the house gets the morning sun.",
+    "ru": "Восточная сторона дома утром на солнце."
+   }
+  ]
  },
  {
   "id": "2786",
   "word": "survey",
   "transcription": "[ˈsɜːveɪ]",
   "translation": "обзор, исследование",
-  "nuance": null,
+  "nuance": "Опрос, исследование, обследование. Poll — короткий опрос (мнения).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/survey.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We did a #survey#: 90% hate Mondays.",
+    "ru": "Мы провели опрос: 90% ненавидят понедельники."
+   },
+   {
+    "en": "Fill in a short #survey#.",
+    "ru": "Заполните короткую анкету."
+   },
+   {
+    "en": "A #survey# of the house found problems.",
+    "ru": "Осмотр дома выявил проблемы."
+   }
+  ]
  },
  {
   "id": "2787",
   "word": "store",
   "transcription": "[stɔː]",
   "translation": "магазин",
-  "nuance": null,
+  "nuance": "Амер. store; брит. shop. Также store — хранить, запас.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/35695/35695_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I'm going to the #store# — need anything?",
+    "ru": "Я в магазин — тебе что-нибудь нужно?"
+   },
+   {
+    "en": "The #store# closes at nine.",
+    "ru": "Магазин закрывается в девять."
+   },
+   {
+    "en": "It's the biggest #store# in town.",
+    "ru": "Это самый большой магазин в городе."
+   }
+  ]
  },
  {
   "id": "2788",
   "word": "bookstore",
   "transcription": "[ˈbʊkstɔː]",
   "translation": "книжный магазин",
-  "nuance": null,
+  "nuance": "Амер.; брит. bookshop.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6550/6550_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I can spend hours in a #bookstore#.",
+    "ru": "Я могу часами сидеть в книжном."
+   },
+   {
+    "en": "The old #bookstore# has a cat.",
+    "ru": "В старом книжном живёт кот."
+   },
+   {
+    "en": "She works at a #bookstore#.",
+    "ru": "Она работает в книжном магазине."
+   }
+  ]
  },
  {
   "id": "2789",
   "word": "drugstore",
   "transcription": "[ˈdrʌgstɔː]",
   "translation": "аптека",
-  "nuance": null,
+  "nuance": "Амер. drugstore (аптека + магазин); брит. chemist's; pharmacy — аптека (офиц.).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/37368/37368_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Get some cough syrup from the #drugstore#.",
+    "ru": "Купи сироп от кашля в аптеке."
+   },
+   {
+    "en": "The #drugstore# sells snacks and shampoo too.",
+    "ru": "В аптеке продают ещё и снеки, и шампунь."
+   },
+   {
+    "en": "Is there a #drugstore# nearby?",
+    "ru": "Здесь есть аптека поблизости?"
+   }
+  ]
  },
  {
   "id": "2790",
   "word": "rid",
   "transcription": "[rɪd]",
   "translation": "освобождать, избавлять",
-  "nuance": null,
+  "nuance": "Обычно get rid of — избавиться. Rid of (книжн.) — избавить от.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/rid.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We finally got #rid# of the old sofa.",
+    "ru": "Мы наконец избавились от старого дивана."
+   },
+   {
+    "en": "I can't get #rid# of this cold.",
+    "ru": "Никак не могу избавиться от простуды."
+   },
+   {
+    "en": "They #rid# the house of mice.",
+    "ru": "Они избавили дом от мышей."
+   }
+  ]
  },
  {
   "id": "2791",
   "word": "reception",
   "transcription": "[rɪˈsɛpʃən]",
   "translation": "прием, приёмная",
-  "nuance": null,
+  "nuance": "Ресепшен, приёмная; банкет; приём (сигнала), реакция.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/reception.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Leave the key at #reception#.",
+    "ru": "Оставьте ключ на ресепшене."
+   },
+   {
+    "en": "The wedding #reception# was in a garden.",
+    "ru": "Свадебный банкет был в саду."
+   },
+   {
+    "en": "The phone #reception# here is terrible.",
+    "ru": "Здесь ужасная связь."
+   }
+  ]
  },
  {
   "id": "2792",
@@ -64047,37 +64177,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/receptionist.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #receptionist# gave us the wrong key.",
+    "ru": "Администратор дал нам не тот ключ."
+   },
+   {
+    "en": "Ask the #receptionist# for a taxi.",
+    "ru": "Попроси администратора вызвать такси."
+   },
+   {
+    "en": "She works as a hotel #receptionist#.",
+    "ru": "Она работает администратором в отеле."
+   }
+  ]
  },
  {
   "id": "2793",
   "word": "at all",
   "transcription": "[ætɔːl]",
   "translation": "совсем",
-  "nuance": null,
+  "nuance": "Совсем, вообще (в отрицании/вопросе). Not at all — «не за что» (брит.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/at_all.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I'm not tired #at all#.",
+    "ru": "Я совсем не устал."
+   },
+   {
+    "en": "Do you know him #at all#?",
+    "ru": "Ты его вообще знаешь?"
+   },
+   {
+    "en": "\"Thanks!\" — \"Not #at all#.\"",
+    "ru": "«Спасибо!» — «Не за что»."
+   }
+  ]
  },
  {
   "id": "2794",
   "word": "suit",
   "transcription": "[sjuːt]",
   "translation": "подходить, соответствовать",
-  "nuance": null,
+  "nuance": "Подходить, быть удобным; идти (об одежде). Suit yourself — «как знаешь».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/suit.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Does Friday #suit# you?",
+    "ru": "Тебе подходит пятница?"
+   },
+   {
+    "en": "That dress really #suits# you.",
+    "ru": "Это платье тебе очень идёт."
+   },
+   {
+    "en": "#Suit# yourself!",
+    "ru": "Как хочешь!"
+   }
+  ]
  },
  {
   "id": "2795",
   "word": "suitable",
   "transcription": "[ˈsjuːtəbl]",
   "translation": "подходящий",
-  "nuance": null,
+  "nuance": "Подходящий (для цели). Appropriate — уместный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/suitable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "This film isn't #suitable# for kids.",
+    "ru": "Этот фильм не подходит для детей."
+   },
+   {
+    "en": "Wear #suitable# shoes for hiking.",
+    "ru": "Надень подходящую обувь для похода."
+   },
+   {
+    "en": "We're looking for a #suitable# flat.",
+    "ru": "Мы ищем подходящую квартиру."
+   }
+  ]
  },
  {
   "id": "2796",
@@ -64087,37 +64269,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unsuitable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Flip-flops are #unsuitable# for the mountains.",
+    "ru": "Шлёпанцы не подходят для гор."
+   },
+   {
+    "en": "He's #unsuitable# for the job.",
+    "ru": "Он не подходит для этой работы."
+   },
+   {
+    "en": "The flat is #unsuitable# for a big family.",
+    "ru": "Квартира не подходит для большой семьи."
+   }
+  ]
  },
  {
   "id": "2797",
   "word": "constitute",
   "transcription": "[ˈkɒnstɪtjuːt]",
   "translation": "составлять, образовывать",
-  "nuance": null,
+  "nuance": "Книжное: составлять, являться. Make up — разг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/constitute.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Women #constitute# half of the team.",
+    "ru": "Женщины составляют половину команды."
+   },
+   {
+    "en": "This #constitutes# a crime.",
+    "ru": "Это является преступлением."
+   },
+   {
+    "en": "What #constitutes# a good breakfast?",
+    "ru": "Что представляет собой хороший завтрак?"
+   }
+  ]
  },
  {
   "id": "2798",
   "word": "constituent",
   "transcription": "[kənˈstɪtjʊənt]",
   "translation": "составная часть",
-  "nuance": null,
+  "nuance": "Составная часть; также избиратель (своего округа).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/constituent.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Flour is the main #constituent# of bread.",
+    "ru": "Мука — главная составляющая хлеба."
+   },
+   {
+    "en": "Each #constituent# part was tested.",
+    "ru": "Каждая составная часть была проверена."
+   },
+   {
+    "en": "The MP met his #constituents#.",
+    "ru": "Депутат встретился с избирателями."
+   }
+  ]
  },
  {
   "id": "2799",
   "word": "go ahead",
   "transcription": "[gəʊəˈhɛd]",
   "translation": "взять (и сделать)",
-  "nuance": null,
+  "nuance": "Разг.: давай, валяй (разрешение); приступить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/go_ahead.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "\"Can I take the last slice?\" — \"#Go ahead#!\"",
+    "ru": "«Можно я возьму последний кусок?» — «Давай!»"
+   },
+   {
+    "en": "We #went ahead# with the plan.",
+    "ru": "Мы взялись за выполнение плана."
+   },
+   {
+    "en": "#Go ahead# and start without me.",
+    "ru": "Начинайте без меня."
+   }
+  ]
  },
  {
   "id": "2800",
@@ -64127,7 +64361,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2823/2823_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My grandma lives in a small #village#.",
+    "ru": "Бабушка живёт в маленькой деревне."
+   },
+   {
+    "en": "Everyone in the #village# knows everyone.",
+    "ru": "В деревне все друг друга знают."
+   },
+   {
+    "en": "It takes a #village# to raise a child.",
+    "ru": "Чтобы вырастить ребёнка, нужна целая деревня."
+   }
+  ]
  },
  {
   "id": "2801",
@@ -64137,97 +64384,227 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/villager.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #villagers# welcomed us with bread.",
+    "ru": "Деревенские жители встретили нас хлебом."
+   },
+   {
+    "en": "Every #villager# came to the wedding.",
+    "ru": "На свадьбу пришли все жители деревни."
+   },
+   {
+    "en": "The #villagers# grow their own food.",
+    "ru": "Сельчане сами выращивают себе еду."
+   }
+  ]
  },
  {
   "id": "2802",
   "word": "scale",
   "transcription": "[skeɪl]",
   "translation": "взбираться",
-  "nuance": null,
+  "nuance": "Взбираться (на высоту, книжн.). Climb — проще.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/26814/26814_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The climbers #scaled# the cliff.",
+    "ru": "Альпинисты взобрались на скалу."
+   },
+   {
+    "en": "The thief #scaled# the wall.",
+    "ru": "Вор перелез через стену."
+   },
+   {
+    "en": "She #scaled# the heights of her career.",
+    "ru": "Она достигла вершин карьеры."
+   }
+  ]
  },
  {
   "id": "2803",
   "word": "accord",
   "transcription": "[əˈkɔːd]",
   "translation": "согласие",
-  "nuance": null,
+  "nuance": "Согласие, соглашение (офиц.). Of one's own accord — добровольно.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/accord.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They reached an #accord# after long talks.",
+    "ru": "После долгих переговоров они достигли соглашения."
+   },
+   {
+    "en": "He left of his own #accord#.",
+    "ru": "Он ушёл по собственной воле."
+   },
+   {
+    "en": "The two countries signed a peace #accord#.",
+    "ru": "Две страны подписали мирное соглашение."
+   }
+  ]
  },
  {
   "id": "2804",
   "word": "accordance",
   "transcription": "[əˈkɔːdəns]",
   "translation": "соответствие",
-  "nuance": null,
+  "nuance": "Офиц.: in accordance with = according to.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/accordance.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Act in #accordance# with the rules.",
+    "ru": "Действуйте в соответствии с правилами."
+   },
+   {
+    "en": "The building was built in #accordance# with the law.",
+    "ru": "Здание построено в соответствии с законом."
+   },
+   {
+    "en": "In #accordance# with your wishes, we cancelled the order.",
+    "ru": "В соответствии с вашими пожеланиями мы отменили заказ."
+   }
+  ]
  },
  {
   "id": "2805",
   "word": "latter",
   "transcription": "[ˈlætə]",
   "translation": "последний (из названных)",
-  "nuance": null,
+  "nuance": "Последний из двух названных. Пара: the former / the latter.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/latter.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Tea or coffee? I'll have the #latter#.",
+    "ru": "Чай или кофе? Я возьму второе."
+   },
+   {
+    "en": "Of Paris and Rome, I prefer the #latter#.",
+    "ru": "Из Парижа и Рима я предпочитаю второй."
+   },
+   {
+    "en": "The #latter# part of the film was boring.",
+    "ru": "Вторая часть фильма была скучной."
+   }
+  ]
  },
  {
   "id": "2806",
   "word": "former",
   "transcription": "[ˈfɔːmə]",
   "translation": "первый (из названных)",
-  "nuance": null,
+  "nuance": "Первый из двух названных. Также former — бывший.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/former_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Pizza or pasta? The #former#, please.",
+    "ru": "Пицца или паста? Первое, пожалуйста."
+   },
+   {
+    "en": "Of the two plans, the #former# is cheaper.",
+    "ru": "Из двух планов первый дешевле."
+   },
+   {
+    "en": "Between cats and dogs, I prefer the #former#.",
+    "ru": "Из кошек и собак я предпочитаю первых."
+   }
+  ]
  },
  {
   "id": "2807",
   "word": "pine",
   "transcription": "[paɪn]",
   "translation": "сосна",
-  "nuance": null,
+  "nuance": "Сосна. Также глагол pine — тосковать.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/3216/3216_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The forest smells of #pine#.",
+    "ru": "Лес пахнет сосной."
+   },
+   {
+    "en": "We have a #pine# table in the kitchen.",
+    "ru": "У нас на кухне сосновый стол."
+   },
+   {
+    "en": "#Pine# trees stay green all winter.",
+    "ru": "Сосны остаются зелёными всю зиму."
+   }
+  ]
  },
  {
   "id": "2808",
   "word": "wipe",
   "transcription": "[waɪp]",
   "translation": "вытирать, салфетка",
-  "nuance": null,
+  "nuance": "Вытирать, протирать; wipe — влажная салфетка. Wipe out — уничтожить.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/37402/37402_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Wipe# your feet before you come in.",
+    "ru": "Вытри ноги, прежде чем войти."
+   },
+   {
+    "en": "She #wiped# the table.",
+    "ru": "Она протёрла стол."
+   },
+   {
+    "en": "Use a baby #wipe#.",
+    "ru": "Возьми влажную салфетку."
+   }
+  ]
  },
  {
   "id": "2809",
   "word": "clue",
   "transcription": "[kluː]",
   "translation": "ключ, нить, улика",
-  "nuance": null,
+  "nuance": "Улика, подсказка, ключ. Not have a clue — понятия не иметь.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/clue.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The police found an important #clue#.",
+    "ru": "Полиция нашла важную улику."
+   },
+   {
+    "en": "Give me a #clue#!",
+    "ru": "Дай подсказку!"
+   },
+   {
+    "en": "I haven't got a #clue#.",
+    "ru": "Понятия не имею."
+   }
+  ]
  },
  {
   "id": "2810",
   "word": "clueless",
   "transcription": "[ˈkluːləs]",
   "translation": "невежественный",
-  "nuance": null,
+  "nuance": "Разг.: ничего не понимающий, бестолковый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/clueless.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I'm #clueless# about cars.",
+    "ru": "Я ничего не смыслю в машинах."
+   },
+   {
+    "en": "He looked totally #clueless#.",
+    "ru": "Он выглядел совершенно растерянным."
+   },
+   {
+    "en": "Don't be so #clueless# — read the instructions!",
+    "ru": "Не будь таким бестолковым — прочитай инструкцию!"
+   }
+  ]
  },
  {
   "id": "2811",
@@ -64237,27 +64614,66 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/27126/27126_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #visit# Grandma every Sunday.",
+    "ru": "Мы навещаем бабушку каждое воскресенье."
+   },
+   {
+    "en": "It was my first #visit# to London.",
+    "ru": "Это был мой первый визит в Лондон."
+   },
+   {
+    "en": "Come and #visit# us!",
+    "ru": "Приезжай к нам в гости!"
+   }
+  ]
  },
  {
   "id": "2812",
   "word": "visitor",
   "transcription": "[ˈvɪzɪtə]",
   "translation": "посетитель",
-  "nuance": null,
+  "nuance": "Посетитель (музея, сайта); guest — гость (приглашённый).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/visitor.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The museum has thousands of #visitors# a day.",
+    "ru": "Музей принимает тысячи посетителей в день."
+   },
+   {
+    "en": "We had an unexpected #visitor# — a squirrel.",
+    "ru": "У нас был неожиданный гость — белка."
+   },
+   {
+    "en": "#Visitors# must sign in.",
+    "ru": "Посетители должны зарегистрироваться."
+   }
+  ]
  },
  {
   "id": "2813",
   "word": "sensation",
   "transcription": "[sɛnˈseɪʃən]",
   "translation": "ощущение",
-  "nuance": null,
+  "nuance": "Ощущение (физическое); сенсация. Feeling — чувство (шире).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sensation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I had a strange #sensation# in my leg.",
+    "ru": "У меня было странное ощущение в ноге."
+   },
+   {
+    "en": "The new singer caused a #sensation#.",
+    "ru": "Новая певица произвела сенсацию."
+   },
+   {
+    "en": "A burning #sensation# in my throat.",
+    "ru": "Жжение в горле."
+   }
+  ]
  },
  {
   "id": "2814",
@@ -64267,67 +64683,158 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/discount.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Can I get a #discount#?",
+    "ru": "Можно получить скидку?"
+   },
+   {
+    "en": "Students get a 10% #discount#.",
+    "ru": "Студентам скидка 10%."
+   },
+   {
+    "en": "Everything is at a #discount# today.",
+    "ru": "Сегодня всё со скидкой."
+   }
+  ]
  },
  {
   "id": "2815",
   "word": "torture",
   "transcription": "[ˈtɔːʧə]",
   "translation": "пытка, мучить",
-  "nuance": null,
+  "nuance": "Пытка, мучить; разг. часто с преувеличением.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/torture.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Waiting for test results is pure #torture#.",
+    "ru": "Ждать результатов анализов — настоящая пытка."
+   },
+   {
+    "en": "Don't #torture# me — tell me the ending!",
+    "ru": "Не мучай меня — расскажи концовку!"
+   },
+   {
+    "en": "The prisoners were #tortured#.",
+    "ru": "Пленных пытали."
+   }
+  ]
  },
  {
   "id": "2816",
   "word": "guest",
   "transcription": "[gɛst]",
   "translation": "гость",
-  "nuance": null,
+  "nuance": "Гость (приглашённый). Be my guest — «пожалуйста, бери/делай».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/guest.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We have #guests# coming for dinner.",
+    "ru": "К нам на ужин придут гости."
+   },
+   {
+    "en": "Be my #guest#!",
+    "ru": "Пожалуйста, не стесняйся!"
+   },
+   {
+    "en": "Hotel #guests# get free breakfast.",
+    "ru": "Гости отеля получают бесплатный завтрак."
+   }
+  ]
  },
  {
   "id": "2817",
   "word": "rear",
   "transcription": "[rɪə]",
   "translation": "задний",
-  "nuance": null,
+  "nuance": "Задний (офиц./тех.). Back — разг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/rear.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The kids sat in the #rear# of the car.",
+    "ru": "Дети сидели сзади в машине."
+   },
+   {
+    "en": "Use the #rear# entrance.",
+    "ru": "Пользуйтесь задним входом."
+   },
+   {
+    "en": "Check the #rear# mirror.",
+    "ru": "Посмотри в зеркало заднего вида."
+   }
+  ]
  },
  {
   "id": "2818",
   "word": "degree",
   "transcription": "[dɪˈgriː]",
   "translation": "степень (во всех значениях)",
-  "nuance": null,
+  "nuance": "Градус, учёная степень, степень (to a degree).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/degree.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It's 30 #degrees# today!",
+    "ru": "Сегодня 30 градусов!"
+   },
+   {
+    "en": "She has a #degree# in law.",
+    "ru": "У неё юридическое образование."
+   },
+   {
+    "en": "To some #degree#, you're right.",
+    "ru": "В какой-то степени ты прав."
+   }
+  ]
  },
  {
   "id": "2819",
   "word": "treat",
   "transcription": "[triːt]",
   "translation": "обращаться, иметь дело",
-  "nuance": null,
+  "nuance": "Обращаться с; также лечить, угощать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/treat.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Treat# others as you want to be treated.",
+    "ru": "Относись к другим так, как хочешь, чтобы относились к тебе."
+   },
+   {
+    "en": "He #treats# his cat like a king.",
+    "ru": "Он обращается со своим котом как с королём."
+   },
+   {
+    "en": "Let me #treat# you to dinner.",
+    "ru": "Позволь угостить тебя ужином."
+   }
+  ]
  },
  {
   "id": "2820",
   "word": "treatment",
   "transcription": "[ˈtriːtmənt]",
   "translation": "обращение",
-  "nuance": null,
+  "nuance": "Обращение, отношение; также лечение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/treatment.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The hotel gave us special #treatment#.",
+    "ru": "В отеле нам оказали особый приём."
+   },
+   {
+    "en": "Women demand equal #treatment#.",
+    "ru": "Женщины требуют равного отношения."
+   },
+   {
+    "en": "The #treatment# of animals here is terrible.",
+    "ru": "Обращение с животными здесь ужасное."
+   }
+  ]
  },
  {
   "id": "2821",
@@ -64337,7 +64844,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/mistreat.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The farmer #mistreated# his animals.",
+    "ru": "Фермер плохо обращался с животными."
+   },
+   {
+    "en": "Workers were #mistreated# by the boss.",
+    "ru": "Начальник жестоко обращался с работниками."
+   },
+   {
+    "en": "Never #mistreat# a pet.",
+    "ru": "Никогда не обижай домашних животных."
+   }
+  ]
  },
  {
   "id": "2822",
@@ -64347,17 +64867,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/mistreatment.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Mistreatment# of animals is a crime.",
+    "ru": "Жестокое обращение с животными — преступление."
+   },
+   {
+    "en": "They complained about the #mistreatment# of prisoners.",
+    "ru": "Они жаловались на плохое обращение с заключёнными."
+   },
+   {
+    "en": "The report showed years of #mistreatment#.",
+    "ru": "Доклад показал годы жестокого обращения."
+   }
+  ]
  },
  {
   "id": "2823",
   "word": "assert",
   "transcription": "[əˈsɜːt]",
   "translation": "утверждать, отстаивать",
-  "nuance": null,
+  "nuance": "Утверждать (уверенно); assert oneself — отстаивать себя. Assertive — напористый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/assert.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #asserted# that she was innocent.",
+    "ru": "Она утверждала, что невиновна."
+   },
+   {
+    "en": "Learn to #assert# yourself at work.",
+    "ru": "Научись отстаивать себя на работе."
+   },
+   {
+    "en": "The cat #asserted# its right to the sofa.",
+    "ru": "Кот отстоял своё право на диван."
+   }
+  ]
  },
  {
   "id": "2824",
@@ -64367,27 +64913,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/assertion.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His #assertion# turned out to be false.",
+    "ru": "Его утверждение оказалось ложным."
+   },
+   {
+    "en": "I disagree with your #assertion#.",
+    "ru": "Я не согласен с твоим утверждением."
+   },
+   {
+    "en": "There's no proof for that #assertion#.",
+    "ru": "Это утверждение ничем не подкреплено."
+   }
+  ]
  },
  {
   "id": "2825",
   "word": "snake",
   "transcription": "[sneɪk]",
   "translation": "змея",
-  "nuance": null,
+  "nuance": "Змея; перен. — подлый человек.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2568/2568_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A #snake# hid under the rock.",
+    "ru": "Под камнем пряталась змея."
+   },
+   {
+    "en": "He's a #snake# — don't trust him.",
+    "ru": "Он змея — не доверяй ему."
+   },
+   {
+    "en": "Kids love the #snake# at the zoo.",
+    "ru": "Детям нравится змея в зоопарке."
+   }
+  ]
  },
  {
   "id": "2826",
   "word": "bone",
   "transcription": "[bəʊn]",
   "translation": "кость",
-  "nuance": null,
+  "nuance": "Have a bone to pick with — иметь претензию к кому-то.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2972/2972_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The dog buried a #bone#.",
+    "ru": "Собака закопала кость."
+   },
+   {
+    "en": "He broke a #bone# in his foot.",
+    "ru": "Он сломал кость в стопе."
+   },
+   {
+    "en": "I'm frozen to the #bone#.",
+    "ru": "Я промёрз до костей."
+   }
+  ]
  },
  {
   "id": "2827",
@@ -64397,37 +64982,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/bony.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The stray cat was thin and #bony#.",
+    "ru": "Бродячий кот был худым и костлявым."
+   },
+   {
+    "en": "This fish is too #bony#.",
+    "ru": "В этой рыбе слишком много костей."
+   },
+   {
+    "en": "She has #bony# knees.",
+    "ru": "У неё костлявые коленки."
+   }
+  ]
  },
  {
   "id": "2828",
   "word": "peer",
   "transcription": "[pɪə]",
   "translation": "ровня, ровесник",
-  "nuance": null,
+  "nuance": "Ровесник, равный (по положению). Peer pressure — давление сверстников.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/peer.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Teenagers care about their #peers# more than parents.",
+    "ru": "Подростков ровесники волнуют больше, чем родители."
+   },
+   {
+    "en": "She was respected by her #peers#.",
+    "ru": "Её уважали коллеги."
+   },
+   {
+    "en": "#Peer# pressure made him smoke.",
+    "ru": "Он начал курить под давлением сверстников."
+   }
+  ]
  },
  {
   "id": "2829",
   "word": "obtain",
   "transcription": "[əbˈteɪn]",
   "translation": "получить, обрести",
-  "nuance": null,
+  "nuance": "Официальное «получить». Get — разг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/obtain.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "You need to #obtain# a visa first.",
+    "ru": "Сначала нужно получить визу."
+   },
+   {
+    "en": "We #obtained# permission to film here.",
+    "ru": "Мы получили разрешение на съёмку здесь."
+   },
+   {
+    "en": "Tickets can be #obtained# online.",
+    "ru": "Билеты можно приобрести онлайн."
+   }
+  ]
  },
  {
   "id": "2830",
   "word": "entertain",
   "transcription": "[ˌɛntəˈteɪn]",
   "translation": "развлекать",
-  "nuance": null,
+  "nuance": "Развлекать; принимать гостей. Amuse — позабавить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/entertain.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The clown #entertained# the kids.",
+    "ru": "Клоун развлекал детей."
+   },
+   {
+    "en": "We love to #entertain# guests.",
+    "ru": "Мы любим принимать гостей."
+   },
+   {
+    "en": "Cats #entertain# themselves with boxes.",
+    "ru": "Кошки развлекают себя коробками."
+   }
+  ]
  },
  {
   "id": "2831",
@@ -64437,7 +65074,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/entertainment.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's no #entertainment# in this village.",
+    "ru": "В этой деревне нет никаких развлечений."
+   },
+   {
+    "en": "He works in the #entertainment# industry.",
+    "ru": "Он работает в индустрии развлечений."
+   },
+   {
+    "en": "Watching my dad dance is pure #entertainment#.",
+    "ru": "Смотреть, как танцует папа, — чистое развлечение."
+   }
+  ]
  },
  {
   "id": "2832",
