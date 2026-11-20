@@ -59344,40 +59344,92 @@
   "word": "gradual",
   "transcription": "[ˈgrædjʊəl]",
   "translation": "постепенный",
-  "nuance": null,
+  "nuance": "Постепенный (медленно, шаг за шагом). Slow — медленный (шире).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/gradual.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's been a #gradual# rise in prices.",
+    "ru": "Цены постепенно росли."
+   },
+   {
+    "en": "Learning a language is a #gradual# process.",
+    "ru": "Изучение языка — постепенный процесс."
+   },
+   {
+    "en": "The #gradual# change was hard to notice.",
+    "ru": "Постепенное изменение было трудно заметить."
+   }
+  ]
  },
  {
   "id": "2583",
   "word": "special",
   "transcription": "[ˈspɛʃəl]",
   "translation": "особенный, специальный",
-  "nuance": null,
+  "nuance": "Особенный, специальный. Special (сущ.) — блюдо дня, спецпредложение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/special.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Today is a #special# day — it's my birthday!",
+    "ru": "Сегодня особенный день — мой день рождения!"
+   },
+   {
+    "en": "Kids with #special# needs get extra help.",
+    "ru": "Детям с особыми потребностями помогают дополнительно."
+   },
+   {
+    "en": "What's the #special# of the day?",
+    "ru": "Какое блюдо дня?"
+   }
+  ]
  },
  {
   "id": "2584",
   "word": "especially",
   "transcription": "[ɪsˈpɛʃəli]",
   "translation": "особенно",
-  "nuance": null,
+  "nuance": "Особенно; специально (especially for). Specially — специально (для определённой цели).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/especially.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I love fruit, #especially# mangoes.",
+    "ru": "Я люблю фрукты, особенно манго."
+   },
+   {
+    "en": "It's #especially# cold today.",
+    "ru": "Сегодня особенно холодно."
+   },
+   {
+    "en": "I made this cake #especially# for you.",
+    "ru": "Я испёк этот торт специально для тебя."
+   }
+  ]
  },
  {
   "id": "2585",
   "word": "rotate",
   "transcription": "[rəʊˈteɪt]",
   "translation": "сменять, чередовать",
-  "nuance": null,
+  "nuance": "Чередовать, сменять по очереди; также вращать(ся). Take turns — по очереди (разг.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/rotate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #rotate# who washes the dishes.",
+    "ru": "Мы по очереди моем посуду."
+   },
+   {
+    "en": "Farmers #rotate# crops every year.",
+    "ru": "Фермеры каждый год чередуют культуры."
+   },
+   {
+    "en": "The night shift #rotates# weekly.",
+    "ru": "Ночная смена меняется еженедельно."
+   }
+  ]
  },
  {
   "id": "2586",
@@ -59387,17 +59439,43 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/24571/24571_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The Earth's #rotation# takes 24 hours.",
+    "ru": "Оборот Земли вокруг оси занимает 24 часа."
+   },
+   {
+    "en": "Crop #rotation# keeps the soil healthy.",
+    "ru": "Севооборот сохраняет почву здоровой."
+   },
+   {
+    "en": "We do the cleaning in #rotation#.",
+    "ru": "Мы убираемся по очереди."
+   }
+  ]
  },
  {
   "id": "2587",
   "word": "implement",
   "transcription": "[ˈɪmplɪmənt]",
   "translation": "осуществлять",
-  "nuance": null,
+  "nuance": "Офиц./деловое «внедрить, осуществить». Разг.: carry out, put into practice.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/implement.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The city will #implement# new rules.",
+    "ru": "Город введёт новые правила."
+   },
+   {
+    "en": "It's easy to plan, hard to #implement#.",
+    "ru": "Планировать легко, воплощать трудно."
+   },
+   {
+    "en": "They #implemented# a recycling program.",
+    "ru": "Они внедрили программу переработки."
+   }
+  ]
  },
  {
   "id": "2588",
@@ -59407,37 +59485,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/implementation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #implementation# of the plan took a year.",
+    "ru": "Реализация плана заняла год."
+   },
+   {
+    "en": "Good ideas need good #implementation#.",
+    "ru": "Хорошим идеям нужна хорошая реализация."
+   },
+   {
+    "en": "#Implementation# starts next month.",
+    "ru": "Внедрение начнётся в следующем месяце."
+   }
+  ]
  },
  {
   "id": "2589",
   "word": "tip (tips)",
   "transcription": "[tɪp]",
   "translation": "чаевые",
-  "nuance": null,
+  "nuance": "Чаевые; также совет (tip — подсказка), кончик.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/38972/38972_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We left a big #tip# for the waiter.",
+    "ru": "Мы оставили официанту большие чаевые."
+   },
+   {
+    "en": "Do you #tip# taxi drivers here?",
+    "ru": "Здесь дают таксистам чаевые?"
+   },
+   {
+    "en": "In some countries #tips# are included.",
+    "ru": "В некоторых странах чаевые включены в счёт."
+   }
+  ]
  },
  {
   "id": "2590",
   "word": "settle",
   "transcription": "[ˈsɛtl]",
   "translation": "селиться",
-  "nuance": null,
+  "nuance": "Поселиться, обосноваться. Settle in — обжиться; settle down — остепениться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/settle_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They #settled# in a small village by the sea.",
+    "ru": "Они поселились в маленькой деревне у моря."
+   },
+   {
+    "en": "My grandparents #settled# in Canada after the war.",
+    "ru": "После войны мои бабушка с дедушкой обосновались в Канаде."
+   },
+   {
+    "en": "We #settled# into our new flat quickly.",
+    "ru": "Мы быстро обжились в новой квартире."
+   }
+  ]
  },
  {
   "id": "2591",
   "word": "settlement",
   "transcription": "[ˈsɛtlmənt]",
   "translation": "поселок",
-  "nuance": null,
+  "nuance": "Посёлок, поселение; также урегулирование (спора).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/settlement.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #settlement# has only fifty houses.",
+    "ru": "В посёлке всего пятьдесят домов."
+   },
+   {
+    "en": "They found an ancient #settlement#.",
+    "ru": "Нашли древнее поселение."
+   },
+   {
+    "en": "The two sides reached a #settlement#.",
+    "ru": "Стороны пришли к соглашению."
+   }
+  ]
  },
  {
   "id": "2592",
@@ -59447,27 +59577,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/settler.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The first #settlers# arrived by ship.",
+    "ru": "Первые поселенцы прибыли на корабле."
+   },
+   {
+    "en": "#Settlers# built houses from wood.",
+    "ru": "Поселенцы строили дома из дерева."
+   },
+   {
+    "en": "Life was hard for the early #settlers#.",
+    "ru": "Жизнь первых поселенцев была тяжёлой."
+   }
+  ]
  },
  {
   "id": "2593",
   "word": "pepper",
   "transcription": "[ˈpɛpə]",
   "translation": "перец",
-  "nuance": null,
+  "nuance": "Перец (специя и овощ). Bell pepper — болгарский; chilli — острый.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2838/2838_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Pass the salt and #pepper#, please.",
+    "ru": "Передай соль и перец, пожалуйста."
+   },
+   {
+    "en": "Red #peppers# are sweet.",
+    "ru": "Красный перец сладкий."
+   },
+   {
+    "en": "Too much #pepper# makes me sneeze.",
+    "ru": "От избытка перца я чихаю."
+   }
+  ]
  },
  {
   "id": "2594",
   "word": "thorough",
   "transcription": "[ˈθʌrə]",
   "translation": "тщательный, полный",
-  "nuance": null,
+  "nuance": "Тщательный, основательный (ничего не упустил). Careful — аккуратный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/thorough.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The doctor gave me a #thorough# check-up.",
+    "ru": "Врач провёл тщательное обследование."
+   },
+   {
+    "en": "She's very #thorough# in her work.",
+    "ru": "Она очень основательна в работе."
+   },
+   {
+    "en": "We gave the house a #thorough# clean.",
+    "ru": "Мы основательно убрали дом."
+   }
+  ]
  },
  {
   "id": "2595",
@@ -59477,87 +59646,204 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/thoroughness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I admire her #thoroughness#.",
+    "ru": "Я восхищаюсь её тщательностью."
+   },
+   {
+    "en": "The #thoroughness# of the police search found the ring.",
+    "ru": "Тщательность полицейского обыска помогла найти кольцо."
+   },
+   {
+    "en": "His #thoroughness# makes everything slow.",
+    "ru": "Из-за его дотошности всё идёт медленно."
+   }
+  ]
  },
  {
   "id": "2596",
   "word": "sole",
   "transcription": "[səʊl]",
   "translation": "подошва",
-  "nuance": null,
+  "nuance": "Подошва (обуви), ступня. Также sole — морской язык (рыба) и «единственный».",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8702/8702_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #sole# of my shoe came off.",
+    "ru": "У ботинка отвалилась подошва."
+   },
+   {
+    "en": "My feet hurt — the #soles# are thin.",
+    "ru": "У меня болят ноги — подошвы тонкие."
+   },
+   {
+    "en": "The baby's #soles# are so soft.",
+    "ru": "Пяточки у малыша такие мягкие."
+   }
+  ]
  },
  {
   "id": "2597",
   "word": "fend off",
   "transcription": "[fɛndɒf]",
   "translation": "защищаться",
-  "nuance": null,
+  "nuance": "Отбиться, отразить (атаку, вопросы).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fend_off.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #fended off# the attacker with her umbrella.",
+    "ru": "Она отбилась от нападавшего зонтом."
+   },
+   {
+    "en": "The cat #fended off# the dog.",
+    "ru": "Кот отбился от собаки."
+   },
+   {
+    "en": "He #fended off# questions from journalists.",
+    "ru": "Он уклонялся от вопросов журналистов."
+   }
+  ]
  },
  {
   "id": "2598",
   "word": "Jew",
   "transcription": "[ʤuː]",
   "translation": "еврей",
-  "nuance": null,
+  "nuance": "Сущ. Вежливее использовать прил.: a Jewish person, Jewish people.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/jew.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His grandmother was a #Jew# from Odessa.",
+    "ru": "Его бабушка была еврейкой из Одессы."
+   },
+   {
+    "en": "Many #Jews# moved to Israel.",
+    "ru": "Многие евреи переехали в Израиль."
+   },
+   {
+    "en": "He's a #Jew#, but not religious.",
+    "ru": "Он еврей, но не религиозный."
+   }
+  ]
  },
  {
   "id": "2599",
   "word": "Jewish",
   "transcription": "[ˈʤu(ː)ɪʃ]",
   "translation": "еврейский, иудейский",
-  "nuance": null,
+  "nuance": "Еврейский (о народе и религии).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/jewish.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They celebrate #Jewish# holidays.",
+    "ru": "Они празднуют еврейские праздники."
+   },
+   {
+    "en": "She grew up in a #Jewish# family.",
+    "ru": "Она выросла в еврейской семье."
+   },
+   {
+    "en": "We ate at a #Jewish# bakery.",
+    "ru": "Мы ели в еврейской пекарне."
+   }
+  ]
  },
  {
   "id": "2600",
   "word": "differ",
   "transcription": "[ˈdɪfə]",
   "translation": "отличаться",
-  "nuance": null,
+  "nuance": "Отличаться, расходиться (во мнениях). Be different — проще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/differ.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Our opinions #differ# on politics.",
+    "ru": "Наши мнения о политике расходятся."
+   },
+   {
+    "en": "Prices #differ# from shop to shop.",
+    "ru": "Цены отличаются в разных магазинах."
+   },
+   {
+    "en": "Twins can #differ# a lot in character.",
+    "ru": "Близнецы могут сильно различаться по характеру."
+   }
+  ]
  },
  {
   "id": "2601",
   "word": "cheat",
   "transcription": "[ʧiːt]",
   "translation": "жульничать",
-  "nuance": null,
+  "nuance": "Жульничать, списывать; cheat on — изменять (партнёру).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/cheat.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He always #cheats# at cards.",
+    "ru": "Он всегда жульничает в карты."
+   },
+   {
+    "en": "She #cheated# on the test.",
+    "ru": "Она списала на тесте."
+   },
+   {
+    "en": "He #cheated# on his wife.",
+    "ru": "Он изменил жене."
+   }
+  ]
  },
  {
   "id": "2602",
   "word": "cheater",
   "transcription": "[ˈʧiːtə]",
   "translation": "жулик",
-  "nuance": null,
+  "nuance": "Жулик; изменник (в отношениях). Брит. также cheat.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/cheater.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Nobody plays with him — he's a #cheater#.",
+    "ru": "С ним никто не играет — он жулик."
+   },
+   {
+    "en": "The #cheater# was caught on camera.",
+    "ru": "Жулика поймала камера."
+   },
+   {
+    "en": "Once a #cheater#, always a cheater.",
+    "ru": "Кто раз изменил, тот изменит снова."
+   }
+  ]
  },
  {
   "id": "2603",
   "word": "deliberate",
   "transcription": "[dɪˈlɪbərɪt]",
   "translation": "обдуманный, преднамеренный",
-  "nuance": null,
+  "nuance": "Намеренный (deliberately = on purpose); обдуманный, неторопливый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/deliberate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It was a #deliberate# lie.",
+    "ru": "Это была преднамеренная ложь."
+   },
+   {
+    "en": "He made a #deliberate# choice.",
+    "ru": "Он сделал обдуманный выбор."
+   },
+   {
+    "en": "She walked with slow, #deliberate# steps.",
+    "ru": "Она шла медленными, размеренными шагами."
+   }
+  ]
  },
  {
   "id": "2604",
@@ -59567,27 +59853,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/deliberation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "After much #deliberation#, we chose pizza.",
+    "ru": "После долгих раздумий мы выбрали пиццу."
+   },
+   {
+    "en": "The jury's #deliberation# took two days.",
+    "ru": "Совещание присяжных длилось два дня."
+   },
+   {
+    "en": "He spoke with #deliberation#.",
+    "ru": "Он говорил обдуманно."
+   }
+  ]
  },
  {
   "id": "2605",
   "word": "polish",
   "transcription": "[ˈpɒlɪʃ]",
   "translation": "шлифовать, полировать",
-  "nuance": null,
+  "nuance": "Полировать; перен. — отшлифовать. Polish (с заглавной) — польский!",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/16863/16863_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Polish# your shoes before the interview.",
+    "ru": "Почисти туфли перед собеседованием."
+   },
+   {
+    "en": "She #polished# the old silver.",
+    "ru": "Она отполировала старое серебро."
+   },
+   {
+    "en": "I need to #polish# my English.",
+    "ru": "Мне нужно отшлифовать английский."
+   }
+  ]
  },
  {
   "id": "2606",
   "word": "external",
   "transcription": "[ɛksˈtɜːnl]",
   "translation": "внешний",
-  "nuance": null,
+  "nuance": "Внешний (офиц.). Outer, outside — проще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/external.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #external# walls need painting.",
+    "ru": "Наружные стены нужно покрасить."
+   },
+   {
+    "en": "Don't judge by #external# appearance.",
+    "ru": "Не суди по внешности."
+   },
+   {
+    "en": "For #external# use only.",
+    "ru": "Только для наружного применения."
+   }
+  ]
  },
  {
   "id": "2607",
@@ -59597,87 +59922,204 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/internal.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Stress causes #internal# problems.",
+    "ru": "Стресс вызывает внутренние проблемы."
+   },
+   {
+    "en": "It's an #internal# company email.",
+    "ru": "Это внутреннее письмо компании."
+   },
+   {
+    "en": "He had #internal# injuries.",
+    "ru": "У него были внутренние повреждения."
+   }
+  ]
  },
  {
   "id": "2608",
   "word": "internalize",
   "transcription": "[ɪnˈtɜːnəˌlaɪz]",
   "translation": "усваивать",
-  "nuance": null,
+  "nuance": "Книжное/психол.: усвоить, принять внутренне.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/internalize.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Kids #internalize# their parents' behaviour.",
+    "ru": "Дети усваивают поведение родителей."
+   },
+   {
+    "en": "She #internalized# the rules quickly.",
+    "ru": "Она быстро усвоила правила."
+   },
+   {
+    "en": "Don't #internalize# every criticism.",
+    "ru": "Не принимай каждую критику близко к сердцу."
+   }
+  ]
  },
  {
   "id": "2609",
   "word": "show off",
   "transcription": "[ʃəʊɒf]",
   "translation": "показать всем, похвастаться",
-  "nuance": null,
+  "nuance": "Разг. «хвастаться, выпендриваться» (часто неодобр.). Show-off — хвастун.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/show_off.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Stop #showing off# your new phone.",
+    "ru": "Хватит хвастаться новым телефоном."
+   },
+   {
+    "en": "He's just #showing off# for the girls.",
+    "ru": "Он просто выпендривается перед девушками."
+   },
+   {
+    "en": "She #showed off# her new haircut.",
+    "ru": "Она похвасталась новой стрижкой."
+   }
+  ]
  },
  {
   "id": "2610",
   "word": "bunch",
   "transcription": "[bʌnʧ]",
   "translation": "связка, пучок, группа",
-  "nuance": null,
+  "nuance": "Пучок, связка, гроздь; разг. — куча, компания. Thanks a bunch — иногда с иронией.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/bunch.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He brought a #bunch# of flowers.",
+    "ru": "Он принёс букет цветов."
+   },
+   {
+    "en": "A #bunch# of kids were playing outside.",
+    "ru": "На улице играла куча детей."
+   },
+   {
+    "en": "Thanks a #bunch#!",
+    "ru": "Огромное спасибо!"
+   }
+  ]
  },
  {
   "id": "2611",
   "word": "swing (swung, swung)",
   "transcription": "[swɪŋ]",
   "translation": "качать, махать",
-  "nuance": null,
+  "nuance": "Качать(ся), размахивать. Mood swings — перепады настроения.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/37720/37720_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The kids #swung# on the swings for hours.",
+    "ru": "Дети часами качались на качелях."
+   },
+   {
+    "en": "He #swung# his bag over his shoulder.",
+    "ru": "Он закинул сумку на плечо."
+   },
+   {
+    "en": "Her mood #swings# every hour.",
+    "ru": "Её настроение меняется каждый час."
+   }
+  ]
  },
  {
   "id": "2612",
   "word": "scholar",
   "transcription": "[ˈskɒlə]",
   "translation": "учёный",
-  "nuance": null,
+  "nuance": "Учёный (гуманитарий). Scientist — учёный (естественные науки).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/scholar.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's a #scholar# of ancient history.",
+    "ru": "Он учёный, специалист по древней истории."
+   },
+   {
+    "en": "#Scholars# argue about the meaning of the poem.",
+    "ru": "Учёные спорят о смысле стихотворения."
+   },
+   {
+    "en": "She was a brilliant #scholar#.",
+    "ru": "Она была блестящим исследователем."
+   }
+  ]
  },
  {
   "id": "2613",
   "word": "scholarship",
   "transcription": "[ˈskɒləʃɪp]",
   "translation": "учёность",
-  "nuance": null,
+  "nuance": "Учёность, эрудиция; чаще — стипендия.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/scholarship.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The book shows great #scholarship#.",
+    "ru": "Книга демонстрирует большую учёность."
+   },
+   {
+    "en": "His #scholarship# impressed the professors.",
+    "ru": "Его эрудиция впечатлила профессоров."
+   },
+   {
+    "en": "She won a #scholarship# to Oxford.",
+    "ru": "Она выиграла стипендию в Оксфорд."
+   }
+  ]
  },
  {
   "id": "2614",
   "word": "steam",
   "transcription": "[stiːm]",
   "translation": "пар",
-  "nuance": null,
+  "nuance": "Пар. Let off steam — выпустить пар.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/steam.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Steam# rose from the hot soup.",
+    "ru": "Над горячим супом поднимался пар."
+   },
+   {
+    "en": "Let off some #steam# — go for a run.",
+    "ru": "Выпусти пар — сходи на пробежку."
+   },
+   {
+    "en": "The bathroom mirror is covered in #steam#.",
+    "ru": "Зеркало в ванной запотело."
+   }
+  ]
  },
  {
   "id": "2615",
   "word": "steamy",
   "transcription": "[ˈstiːmi]",
   "translation": "парообразный, насыщенный\nпаром",
-  "nuance": null,
+  "nuance": "Полный пара, влажный; разг. — откровенный, страстный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/steamy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The bathroom was hot and #steamy#.",
+    "ru": "В ванной было жарко и полно пара."
+   },
+   {
+    "en": "It's a #steamy# summer day.",
+    "ru": "Душный влажный летний день."
+   },
+   {
+    "en": "The film has some #steamy# scenes.",
+    "ru": "В фильме есть откровенные сцены."
+   }
+  ]
  },
  {
   "id": "2616",
@@ -59687,7 +60129,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/steamship.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They crossed the Atlantic on a #steamship#.",
+    "ru": "Они пересекли Атлантику на пароходе."
+   },
+   {
+    "en": "The old #steamship# is now a museum.",
+    "ru": "Старый пароход теперь музей."
+   },
+   {
+    "en": "Grandpa remembers the last #steamship#.",
+    "ru": "Дедушка помнит последний пароход."
+   }
+  ]
  },
  {
   "id": "2617",
@@ -59697,7 +60152,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/helpless.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Newborn babies are #helpless#.",
+    "ru": "Новорождённые беспомощны."
+   },
+   {
+    "en": "I felt #helpless# when my phone died.",
+    "ru": "Я почувствовал себя беспомощным, когда сел телефон."
+   },
+   {
+    "en": "We watched #helpless# as the bus left.",
+    "ru": "Мы беспомощно смотрели, как уходит автобус."
+   }
+  ]
  },
  {
   "id": "2618",
@@ -59707,7 +60175,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/helplessness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The feeling of #helplessness# is terrible.",
+    "ru": "Чувство беспомощности ужасно."
+   },
+   {
+    "en": "Her #helplessness# made him want to help.",
+    "ru": "Её беспомощность пробудила в нём желание помочь."
+   },
+   {
+    "en": "Learned #helplessness# stops people from trying.",
+    "ru": "Выученная беспомощность мешает людям пытаться."
+   }
+  ]
  },
  {
   "id": "2619",
@@ -59717,87 +60198,204 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/universe.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Are we alone in the #universe#?",
+    "ru": "Мы одни во Вселенной?"
+   },
+   {
+    "en": "The #universe# is expanding.",
+    "ru": "Вселенная расширяется."
+   },
+   {
+    "en": "In my cat's #universe#, I'm a servant.",
+    "ru": "Во вселенной моего кота я прислуга."
+   }
+  ]
  },
  {
   "id": "2620",
   "word": "universal",
   "transcription": "[ˌjuːnɪˈvɜːsəl]",
   "translation": "всеобщий",
-  "nuance": null,
+  "nuance": "Всеобщий, универсальный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/universal.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Music is a #universal# language.",
+    "ru": "Музыка — универсальный язык."
+   },
+   {
+    "en": "#Universal# healthcare is free for all.",
+    "ru": "Всеобщее здравоохранение бесплатно для всех."
+   },
+   {
+    "en": "It's a #universal# truth: socks disappear.",
+    "ru": "Это всеобщая истина: носки исчезают."
+   }
+  ]
  },
  {
   "id": "2621",
   "word": "fellow",
   "transcription": "[ˈfɛləʊ]",
   "translation": "парень, человек",
-  "nuance": null,
+  "nuance": "Разг. «парень, малый» (старомодно); fellow + сущ. — «со-» (fellow traveller — попутчик).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fellow.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's a nice #fellow#.",
+    "ru": "Он славный парень."
+   },
+   {
+    "en": "My #fellow# students helped me.",
+    "ru": "Мне помогли однокурсники."
+   },
+   {
+    "en": "Poor #fellow# — he lost his job.",
+    "ru": "Бедняга — он потерял работу."
+   }
+  ]
  },
  {
   "id": "2622",
   "word": "stage",
   "transcription": "[steɪʤ]",
   "translation": "сцена",
-  "nuance": null,
+  "nuance": "Сцена; также этап, стадия.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8106/8106_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She was nervous on #stage#.",
+    "ru": "На сцене она волновалась."
+   },
+   {
+    "en": "The band came on #stage# late.",
+    "ru": "Группа вышла на сцену с опозданием."
+   },
+   {
+    "en": "At this #stage#, it's too early to say.",
+    "ru": "На этом этапе говорить рано."
+   }
+  ]
  },
  {
   "id": "2623",
   "word": "offstage",
   "transcription": "[ˌɒfˈsteɪʤ]",
   "translation": "закулисный",
-  "nuance": null,
+  "nuance": "За сценой; в обычной жизни (вне выступления).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/offstage.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Lots of drama happened #offstage#.",
+    "ru": "За сценой было много драмы."
+   },
+   {
+    "en": "#Offstage#, the actor is very shy.",
+    "ru": "Вне сцены актёр очень застенчив."
+   },
+   {
+    "en": "We heard a crash #offstage#.",
+    "ru": "Мы услышали грохот за сценой."
+   }
+  ]
  },
  {
   "id": "2624",
   "word": "backstage",
   "transcription": "[ˌbækˈsteɪʤ]",
   "translation": "закулисный",
-  "nuance": null,
+  "nuance": "За кулисами; перен. — закулисный, скрытый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/backstage.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We got #backstage# passes!",
+    "ru": "Мы получили пропуски за кулисы!"
+   },
+   {
+    "en": "The singer cried #backstage#.",
+    "ru": "Певица плакала за кулисами."
+   },
+   {
+    "en": "#Backstage# drama is the best part of the show.",
+    "ru": "Закулисная драма — лучшее в шоу."
+   }
+  ]
  },
  {
   "id": "2625",
   "word": "correspond",
   "transcription": "[ˌkɒrɪsˈpɒnd]",
   "translation": "соответствовать",
-  "nuance": null,
+  "nuance": "Соответствовать; также переписываться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/correspond.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His story doesn't #correspond# with the facts.",
+    "ru": "Его рассказ не соответствует фактам."
+   },
+   {
+    "en": "Each number #corresponds# to a letter.",
+    "ru": "Каждой цифре соответствует буква."
+   },
+   {
+    "en": "We #corresponded# for years by letter.",
+    "ru": "Мы годами переписывались."
+   }
+  ]
  },
  {
   "id": "2626",
   "word": "correspondence",
   "transcription": "[ˌkɒrɪsˈpɒndəns]",
   "translation": "соответствие",
-  "nuance": null,
+  "nuance": "Соответствие; переписка.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/correspondence.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's no #correspondence# between price and quality here.",
+    "ru": "Здесь цена не соответствует качеству."
+   },
+   {
+    "en": "They kept up a long #correspondence#.",
+    "ru": "Они долго переписывались."
+   },
+   {
+    "en": "Check the #correspondence# of the two lists.",
+    "ru": "Проверь соответствие двух списков."
+   }
+  ]
  },
  {
   "id": "2627",
   "word": "board",
   "transcription": "[bɔːd]",
   "translation": "борт, подниматься на борт",
-  "nuance": null,
+  "nuance": "Борт; глагол board — сесть (в самолёт, поезд). On board — также «в команде».",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/35745/35745_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Welcome on #board#!",
+    "ru": "Добро пожаловать на борт!"
+   },
+   {
+    "en": "We #boarded# the plane at 6 a.m.",
+    "ru": "Мы сели в самолёт в шесть утра."
+   },
+   {
+    "en": "All passengers on #board# were safe.",
+    "ru": "Все пассажиры на борту были в безопасности."
+   }
+  ]
  },
  {
   "id": "2628",
@@ -59807,37 +60405,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/boarding.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Boarding# starts in 20 minutes.",
+    "ru": "Посадка начинается через 20 минут."
+   },
+   {
+    "en": "Don't lose your #boarding# pass.",
+    "ru": "Не потеряй посадочный талон."
+   },
+   {
+    "en": "She went to a #boarding# school.",
+    "ru": "Она училась в школе-пансионе."
+   }
+  ]
  },
  {
   "id": "2629",
   "word": "look at",
   "transcription": "[lʊkæt]",
   "translation": "рассмотреть, обдумать",
-  "nuance": null,
+  "nuance": "Рассмотреть, изучить (также просто «смотреть на»).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/look_at.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Let's #look at# the problem again.",
+    "ru": "Давай ещё раз рассмотрим проблему."
+   },
+   {
+    "en": "The doctor will #look at# your knee.",
+    "ru": "Врач посмотрит твоё колено."
+   },
+   {
+    "en": "We need to #look at# all the options.",
+    "ru": "Нам нужно рассмотреть все варианты."
+   }
+  ]
  },
  {
   "id": "2630",
   "word": "interpret",
   "transcription": "[ɪnˈtɜːprɪt]",
   "translation": "истолковывать",
-  "nuance": null,
+  "nuance": "Истолковывать; также устно переводить. Translate — письменный перевод.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/interpret.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "How do you #interpret# his silence?",
+    "ru": "Как ты истолковываешь его молчание?"
+   },
+   {
+    "en": "She #interprets# for tourists.",
+    "ru": "Она работает устным переводчиком для туристов."
+   },
+   {
+    "en": "Don't #interpret# my joke wrong.",
+    "ru": "Не пойми мою шутку неправильно."
+   }
+  ]
  },
  {
   "id": "2631",
   "word": "interpretation",
   "transcription": "[ɪnˌtɜːprɪˈteɪʃən]",
   "translation": "толкование",
-  "nuance": null,
+  "nuance": "Толкование, интерпретация; устный перевод.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/interpretation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "That's one #interpretation# of the poem.",
+    "ru": "Это одно из толкований стихотворения."
+   },
+   {
+    "en": "Dreams are open to #interpretation#.",
+    "ru": "Сны можно толковать по-разному."
+   },
+   {
+    "en": "Her #interpretation# of the song was beautiful.",
+    "ru": "Её исполнение песни было прекрасным."
+   }
+  ]
  },
  {
   "id": "2632",
