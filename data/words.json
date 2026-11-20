@@ -69697,77 +69697,181 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/recognizable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Her voice is instantly #recognizable#.",
+    "ru": "Её голос сразу узнаваем."
+   },
+   {
+    "en": "The town was barely #recognizable# after the flood.",
+    "ru": "После наводнения город было не узнать."
+   },
+   {
+    "en": "Wear something #recognizable# so I can find you.",
+    "ru": "Надень что-нибудь заметное, чтобы я тебя нашёл."
+   }
+  ]
  },
  {
   "id": "3033",
   "word": "recognition",
   "transcription": "[ˌrɛkəgˈnɪʃən]",
   "translation": "узнавание или признание",
-  "nuance": null,
+  "nuance": "Узнавание, распознавание; признание (заслуг).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/recognition.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She got #recognition# for her hard work.",
+    "ru": "Её усердный труд получил признание."
+   },
+   {
+    "en": "Face #recognition# unlocks my phone.",
+    "ru": "Распознавание лица разблокирует мой телефон."
+   },
+   {
+    "en": "He's changed beyond #recognition#.",
+    "ru": "Он изменился до неузнаваемости."
+   }
+  ]
  },
  {
   "id": "3034",
   "word": "able",
   "transcription": "[ˈeɪbl]",
   "translation": "способный, могущий",
-  "nuance": null,
+  "nuance": "Be able to — мочь (в любом времени, вместо can: will be able to).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/able.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Will you be #able# to come?",
+    "ru": "Ты сможешь прийти?"
+   },
+   {
+    "en": "She's #able# to speak four languages.",
+    "ru": "Она умеет говорить на четырёх языках."
+   },
+   {
+    "en": "I wasn't #able# to sleep.",
+    "ru": "Я не смог уснуть."
+   }
+  ]
  },
  {
   "id": "3035",
   "word": "abiliity",
   "transcription": "[abiliity]",
   "translation": "способность",
-  "nuance": null,
+  "nuance": "Способность. (Правильное написание — ability.) Skill — навык (приобретённый).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/abiliity.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She has an #ability# to make anyone laugh.",
+    "ru": "У неё есть способность рассмешить любого."
+   },
+   {
+    "en": "My cat has the #ability# to open doors.",
+    "ru": "Мой кот умеет открывать двери."
+   },
+   {
+    "en": "He has great musical #ability#.",
+    "ru": "У него большие музыкальные способности."
+   }
+  ]
  },
  {
   "id": "3036",
   "word": "unable",
   "transcription": "[ʌnˈeɪbl]",
   "translation": "неспособный",
-  "nuance": null,
+  "nuance": "Официальнее, чем can't.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I'm #unable# to come tomorrow.",
+    "ru": "Я не смогу прийти завтра."
+   },
+   {
+    "en": "He was #unable# to find his keys.",
+    "ru": "Он не смог найти ключи."
+   },
+   {
+    "en": "We're #unable# to help you right now.",
+    "ru": "Сейчас мы не можем вам помочь."
+   }
+  ]
  },
  {
   "id": "3037",
   "word": "unability",
   "transcription": "[ʌnˌeɪˈbɪlɪti]",
   "translation": "неспособность",
-  "nuance": null,
+  "nuance": "Правильная форма — inability (не «unability»).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unability.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His #inability# to say no causes problems.",
+    "ru": "Его неспособность отказать создаёт проблемы."
+   },
+   {
+    "en": "Her #inability# to cook is famous.",
+    "ru": "Её неумение готовить знаменито."
+   },
+   {
+    "en": "#Inability# to sleep is called insomnia.",
+    "ru": "Неспособность спать называется бессонницей."
+   }
+  ]
  },
  {
   "id": "3038",
   "word": "fine",
   "transcription": "[faɪn]",
   "translation": "тонкий",
-  "nuance": null,
+  "nuance": "Тонкий, мелкий; также хороший (I'm fine), штраф.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fine_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She has #fine# hair.",
+    "ru": "У неё тонкие волосы."
+   },
+   {
+    "en": "The #fine# sand got everywhere.",
+    "ru": "Мелкий песок был повсюду."
+   },
+   {
+    "en": "There's a #fine# line between brave and stupid.",
+    "ru": "Между смелостью и глупостью тонкая грань."
+   }
+  ]
  },
  {
   "id": "3039",
   "word": "remote",
   "transcription": "[rɪˈməʊt]",
   "translation": "отдалённый, захолустный",
-  "nuance": null,
+  "nuance": "Отдалённый, глухой; удалённый (работа); маловероятный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/remote.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They live in a #remote# village.",
+    "ru": "Они живут в глухой деревне."
+   },
+   {
+    "en": "I work #remote# now.",
+    "ru": "Сейчас я работаю удалённо."
+   },
+   {
+    "en": "The chances are #remote#.",
+    "ru": "Шансы мизерные."
+   }
+  ]
  },
  {
   "id": "3040",
@@ -69777,67 +69881,158 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/remoteness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #remoteness# of the island makes it peaceful.",
+    "ru": "Удалённость острова делает его тихим."
+   },
+   {
+    "en": "We loved the #remoteness# of the cabin.",
+    "ru": "Нам понравилась уединённость домика."
+   },
+   {
+    "en": "Because of its #remoteness#, there's no internet.",
+    "ru": "Из-за удалённости там нет интернета."
+   }
+  ]
  },
  {
   "id": "3041",
   "word": "TV remote",
   "transcription": "[ˌtiːˈviːrɪˈməʊt]",
   "translation": "пульт от телевизора",
-  "nuance": null,
+  "nuance": "Обычно просто the remote.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tv_remote.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Who has the #TV remote#?",
+    "ru": "У кого пульт от телевизора?"
+   },
+   {
+    "en": "The #TV remote# is always lost in the sofa.",
+    "ru": "Пульт вечно теряется в диване."
+   },
+   {
+    "en": "The cat sat on the #TV remote#.",
+    "ru": "Кот сел на пульт."
+   }
+  ]
  },
  {
   "id": "3042",
   "word": "creature",
   "transcription": "[ˈkriːʧə]",
   "translation": "существо",
-  "nuance": null,
+  "nuance": "Существо (живое). Creature of habit — человек привычек.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/creature.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "What a strange #creature#!",
+    "ru": "Какое странное существо!"
+   },
+   {
+    "en": "Sea #creatures# live deep in the ocean.",
+    "ru": "Глубоко в океане живут морские существа."
+   },
+   {
+    "en": "Cats are #creatures# of habit.",
+    "ru": "Кошки — рабы привычек."
+   }
+  ]
  },
  {
   "id": "3043",
   "word": "fix",
   "transcription": "[fɪks]",
   "translation": "исправить, наладить",
-  "nuance": null,
+  "nuance": "Починить, исправить; also fix a date — назначить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fix.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Can you #fix# my bike?",
+    "ru": "Можешь починить мой велосипед?"
+   },
+   {
+    "en": "Dad tried to #fix# the tap and flooded the kitchen.",
+    "ru": "Папа пытался починить кран и затопил кухню."
+   },
+   {
+    "en": "We need to #fix# this problem.",
+    "ru": "Нам нужно решить эту проблему."
+   }
+  ]
  },
  {
   "id": "3044",
   "word": "mindful",
   "transcription": "[ˈmaɪndfʊl]",
   "translation": "внимательный, помнящий",
-  "nuance": null,
+  "nuance": "Внимательный, помнящий; осознанный (mindfulness).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/mindful.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Be #mindful# of others on the bus.",
+    "ru": "Будь внимателен к другим в автобусе."
+   },
+   {
+    "en": "She's #mindful# of her health.",
+    "ru": "Она следит за своим здоровьем."
+   },
+   {
+    "en": "#Mindful# eating helps you eat less.",
+    "ru": "Осознанное питание помогает есть меньше."
+   }
+  ]
  },
  {
   "id": "3045",
   "word": "mindless",
   "transcription": "[ˈmaɪndlɪs]",
   "translation": "бессмысленный",
-  "nuance": null,
+  "nuance": "Бессмысленный, бездумный; не требующий ума.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/mindless.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Scrolling the phone is #mindless#.",
+    "ru": "Листать телефон — бессмысленное занятие."
+   },
+   {
+    "en": "It was a #mindless# act of violence.",
+    "ru": "Это было бессмысленное насилие."
+   },
+   {
+    "en": "I need some #mindless# TV after work.",
+    "ru": "После работы мне нужен телевизор без мыслей."
+   }
+  ]
  },
  {
   "id": "3046",
   "word": "natural",
   "transcription": "[ˈnæʧrəl]",
   "translation": "естественный",
-  "nuance": null,
+  "nuance": "Естественный, природный; a natural — прирождённый талант.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/natural.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Fear is a #natural# reaction.",
+    "ru": "Страх — естественная реакция."
+   },
+   {
+    "en": "I prefer #natural# light.",
+    "ru": "Я предпочитаю естественный свет."
+   },
+   {
+    "en": "She's a #natural# on stage.",
+    "ru": "На сцене она прирождённая артистка."
+   }
+  ]
  },
  {
   "id": "3047",
@@ -69847,7 +70042,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unnatural.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His smile looked #unnatural#.",
+    "ru": "Его улыбка выглядела неестественной."
+   },
+   {
+    "en": "It's #unnatural# for a cat to like baths.",
+    "ru": "Для кота неестественно любить ванну."
+   },
+   {
+    "en": "The colours in the photo are #unnatural#.",
+    "ru": "Цвета на фото неестественные."
+   }
+  ]
  },
  {
   "id": "3048",
@@ -69857,7 +70065,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/supernatural.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Do you believe in the #supernatural#?",
+    "ru": "Ты веришь в сверхъестественное?"
+   },
+   {
+    "en": "The film is about #supernatural# powers.",
+    "ru": "Фильм о сверхъестественных силах."
+   },
+   {
+    "en": "Strange #supernatural# things happened in the house.",
+    "ru": "В доме происходили странные сверхъестественные вещи."
+   }
+  ]
  },
  {
   "id": "3049",
@@ -69867,37 +70088,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/payment.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #payment# is due on Friday.",
+    "ru": "Оплата до пятницы."
+   },
+   {
+    "en": "We accept card #payment#.",
+    "ru": "Мы принимаем оплату картой."
+   },
+   {
+    "en": "I made the last #payment# on my car!",
+    "ru": "Я внёс последний платёж за машину!"
+   }
+  ]
  },
  {
   "id": "3050",
   "word": "descend",
   "transcription": "[dɪˈsɛnd]",
   "translation": "спускаться",
-  "nuance": null,
+  "nuance": "Спускаться (книжн.). Go down — разг.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6053/6053_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The plane began to #descend#.",
+    "ru": "Самолёт начал снижаться."
+   },
+   {
+    "en": "We #descended# the mountain slowly.",
+    "ru": "Мы медленно спускались с горы."
+   },
+   {
+    "en": "Chaos #descended# when the kids arrived.",
+    "ru": "Когда приехали дети, наступил хаос."
+   }
+  ]
  },
  {
   "id": "3051",
   "word": "descent",
   "transcription": "[dɪˈsɛnt]",
   "translation": "спуск",
-  "nuance": null,
+  "nuance": "Спуск; происхождение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/descent.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #descent# was harder than the climb.",
+    "ru": "Спуск был тяжелее подъёма."
+   },
+   {
+    "en": "The plane began its #descent#.",
+    "ru": "Самолёт пошёл на снижение."
+   },
+   {
+    "en": "She's of Italian #descent#.",
+    "ru": "Она итальянского происхождения."
+   }
+  ]
  },
  {
   "id": "3052",
   "word": "ascend",
   "transcription": "[əˈsɛnd]",
   "translation": "восходить",
-  "nuance": null,
+  "nuance": "Подниматься (книжн.). Go up, climb — разг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/ascend.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The balloon #ascended# into the sky.",
+    "ru": "Шар поднялся в небо."
+   },
+   {
+    "en": "They #ascended# the mountain at dawn.",
+    "ru": "Они поднялись на гору на рассвете."
+   },
+   {
+    "en": "He #ascended# to the throne at 18.",
+    "ru": "Он взошёл на трон в 18 лет."
+   }
+  ]
  },
  {
   "id": "3053",
@@ -69907,7 +70180,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/ascent.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #ascent# took six hours.",
+    "ru": "Восхождение заняло шесть часов."
+   },
+   {
+    "en": "Her #ascent# to fame was fast.",
+    "ru": "Её взлёт к славе был быстрым."
+   },
+   {
+    "en": "The steep #ascent# made us tired.",
+    "ru": "Крутой подъём нас утомил."
+   }
+  ]
  },
  {
   "id": "3054",
@@ -69917,17 +70203,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/gesture.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He made a rude #gesture#.",
+    "ru": "Он сделал грубый жест."
+   },
+   {
+    "en": "Italians #gesture# a lot when they talk.",
+    "ru": "Итальянцы много жестикулируют, когда говорят."
+   },
+   {
+    "en": "It was a kind #gesture#.",
+    "ru": "Это был добрый жест."
+   }
+  ]
  },
  {
   "id": "3055",
   "word": "liberate",
   "transcription": "[ˈlɪbəreɪt]",
   "translation": "освобождать",
-  "nuance": null,
+  "nuance": "Освободить (от угнетения, офиц.). Free — проще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/liberate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The army #liberated# the city.",
+    "ru": "Армия освободила город."
+   },
+   {
+    "en": "Quitting the job #liberated# me.",
+    "ru": "Увольнение меня освободило."
+   },
+   {
+    "en": "They #liberated# the animals from the zoo.",
+    "ru": "Они выпустили животных из зоопарка."
+   }
+  ]
  },
  {
   "id": "3056",
@@ -69937,7 +70249,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/liberation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The city celebrates its #liberation# day.",
+    "ru": "Город отмечает день освобождения."
+   },
+   {
+    "en": "Women's #liberation# changed society.",
+    "ru": "Освобождение женщин изменило общество."
+   },
+   {
+    "en": "Leaving home felt like #liberation#.",
+    "ru": "Уехать из дома было похоже на освобождение."
+   }
+  ]
  },
  {
   "id": "3057",
@@ -69947,47 +70272,112 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/liberator.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The people welcomed their #liberators#.",
+    "ru": "Люди приветствовали своих освободителей."
+   },
+   {
+    "en": "He was seen as a #liberator#.",
+    "ru": "Его считали освободителем."
+   },
+   {
+    "en": "A statue of the #liberator# stands in the square.",
+    "ru": "На площади стоит статуя освободителя."
+   }
+  ]
  },
  {
   "id": "3058",
   "word": "bug",
   "transcription": "[bʌg]",
   "translation": "жук",
-  "nuance": null,
+  "nuance": "Жук, насекомое (разг.); баг (ошибка в программе); also «прослушка».",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/38422/38422_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A #bug# flew into my coffee.",
+    "ru": "Мне в кофе залетел жук."
+   },
+   {
+    "en": "My son collects #bugs#.",
+    "ru": "Сын собирает жуков."
+   },
+   {
+    "en": "The new app is full of #bugs#.",
+    "ru": "Новое приложение полно багов."
+   }
+  ]
  },
  {
   "id": "3059",
   "word": "bottom",
   "transcription": "[ˈbɒtəm]",
   "translation": "дно",
-  "nuance": null,
+  "nuance": "Дно, низ; разг. bottom — попа.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/32818/32818_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The keys were at the #bottom# of my bag.",
+    "ru": "Ключи были на дне моей сумки."
+   },
+   {
+    "en": "Sign at the #bottom# of the page.",
+    "ru": "Подпишите внизу страницы."
+   },
+   {
+    "en": "Thank you from the #bottom# of my heart.",
+    "ru": "Спасибо от всего сердца."
+   }
+  ]
  },
  {
   "id": "3060",
   "word": "bottomless",
   "transcription": "[ˈbɒtəmlɪs]",
   "translation": "бездонный",
-  "nuance": null,
+  "nuance": "Бездонный; bottomless coffee/drinks — неограниченная доливка.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/bottomless.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My teenager has a #bottomless# stomach.",
+    "ru": "У моего подростка бездонный желудок."
+   },
+   {
+    "en": "The lake seemed #bottomless#.",
+    "ru": "Озеро казалось бездонным."
+   },
+   {
+    "en": "Free #bottomless# coffee!",
+    "ru": "Кофе без ограничений!"
+   }
+  ]
  },
  {
   "id": "3061",
   "word": "sit back",
   "transcription": "[sɪtbæk]",
   "translation": "отсидеться",
-  "nuance": null,
+  "nuance": "Расслабиться; бездействовать, отсиживаться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sit_back.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Just #sit back# and relax.",
+    "ru": "Просто откинься и расслабься."
+   },
+   {
+    "en": "We can't #sit back# and do nothing!",
+    "ru": "Мы не можем сидеть сложа руки!"
+   },
+   {
+    "en": "He #sat back# while others worked.",
+    "ru": "Он отсиживался, пока другие работали."
+   }
+  ]
  },
  {
   "id": "3062",
@@ -69997,17 +70387,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/pause.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Pause# the film — I need the toilet.",
+    "ru": "Поставь фильм на паузу — мне надо в туалет."
+   },
+   {
+    "en": "She #paused# before answering.",
+    "ru": "Она помолчала, прежде чем ответить."
+   },
+   {
+    "en": "There was a long #pause#.",
+    "ru": "Последовала долгая пауза."
+   }
+  ]
  },
  {
   "id": "3063",
   "word": "commit",
   "transcription": "[kəˈmɪt]",
   "translation": "совершить (напр. ошибку)",
-  "nuance": null,
+  "nuance": "Совершить (преступление, ошибку — офиц.); commit to — взять обязательство.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/commit.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #committed# a crime.",
+    "ru": "Он совершил преступление."
+   },
+   {
+    "en": "Don't #commit# the same mistake twice.",
+    "ru": "Не совершай одну и ту же ошибку дважды."
+   },
+   {
+    "en": "She #committed# to running every day.",
+    "ru": "Она обязалась бегать каждый день."
+   }
+  ]
  },
  {
   "id": "3064",
@@ -70017,37 +70433,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fishing.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandpa goes #fishing# every Sunday.",
+    "ru": "Дедушка ходит на рыбалку каждое воскресенье."
+   },
+   {
+    "en": "#Fishing# is boring until you catch something.",
+    "ru": "Рыбалка скучна, пока не поймаешь что-нибудь."
+   },
+   {
+    "en": "They live from #fishing#.",
+    "ru": "Они живут за счёт рыболовства."
+   }
+  ]
  },
  {
   "id": "3065",
   "word": "criminal",
   "transcription": "[ˈkrɪmɪnl]",
   "translation": "преступник, преступный",
-  "nuance": null,
+  "nuance": "Преступник; преступный, уголовный; разг. — возмутительный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/criminal.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #criminal# escaped from prison.",
+    "ru": "Преступник сбежал из тюрьмы."
+   },
+   {
+    "en": "It's #criminal# to waste good pizza.",
+    "ru": "Выбрасывать хорошую пиццу — преступление."
+   },
+   {
+    "en": "He has a #criminal# record.",
+    "ru": "У него судимость."
+   }
+  ]
  },
  {
   "id": "3066",
   "word": "criminality",
   "transcription": "[ˌkrɪmɪˈnælɪti]",
   "translation": "преступность",
-  "nuance": null,
+  "nuance": "Редкое, книжное. Обычно — crime (crime rate).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/criminality.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Criminality# is rising in the city.",
+    "ru": "Преступность в городе растёт."
+   },
+   {
+    "en": "The film studies the roots of #criminality#.",
+    "ru": "Фильм исследует корни преступности."
+   },
+   {
+    "en": "Poverty can lead to #criminality#.",
+    "ru": "Бедность может привести к преступности."
+   }
+  ]
  },
  {
   "id": "3067",
   "word": "square",
   "transcription": "[skweə]",
   "translation": "квадрат, квадратный",
-  "nuance": null,
+  "nuance": "Квадрат, площадь (городская); квадратный.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/4616/4616_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Draw a #square#.",
+    "ru": "Нарисуй квадрат."
+   },
+   {
+    "en": "We met in the main #square#.",
+    "ru": "Мы встретились на главной площади."
+   },
+   {
+    "en": "The room is 20 #square# metres.",
+    "ru": "Комната 20 квадратных метров."
+   }
+  ]
  },
  {
   "id": "3068",
@@ -70057,17 +70525,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/squared.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Three #squared# is nine.",
+    "ru": "Три в квадрате — девять."
+   },
+   {
+    "en": "The formula uses x #squared#.",
+    "ru": "В формуле используется x в квадрате."
+   },
+   {
+    "en": "Two #squared# plus two squared equals eight.",
+    "ru": "Два в квадрате плюс два в квадрате — восемь."
+   }
+  ]
  },
  {
   "id": "3069",
   "word": "medicine",
   "transcription": "[ˈmɛdsɪn]",
   "translation": "лекарство",
-  "nuance": null,
+  "nuance": "Лекарство (особенно жидкое); медицина. Drug — препарат.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8163/8163_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Take your #medicine# — even if it tastes bad.",
+    "ru": "Прими лекарство, даже если оно невкусное."
+   },
+   {
+    "en": "Laughter is the best #medicine#.",
+    "ru": "Смех — лучшее лекарство."
+   },
+   {
+    "en": "She studies #medicine# at university.",
+    "ru": "Она изучает медицину в университете."
+   }
+  ]
  },
  {
   "id": "3070",
@@ -70077,7 +70571,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/medicate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #medicate# yourself — see a doctor.",
+    "ru": "Не занимайся самолечением — сходи к врачу."
+   },
+   {
+    "en": "The vet #medicated# the dog.",
+    "ru": "Ветеринар дал собаке лекарства."
+   },
+   {
+    "en": "He's heavily #medicated# after the operation.",
+    "ru": "После операции он на сильных лекарствах."
+   }
+  ]
  },
  {
   "id": "3071",
@@ -70087,17 +70594,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/medication.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Are you on any #medication#?",
+    "ru": "Вы принимаете какие-нибудь лекарства?"
+   },
+   {
+    "en": "The #medication# made me sleepy.",
+    "ru": "От лекарства меня клонило в сон."
+   },
+   {
+    "en": "Take your #medication# with food.",
+    "ru": "Принимай лекарство во время еды."
+   }
+  ]
  },
  {
   "id": "3072",
   "word": "custom",
   "transcription": "[ˈkʌstəm]",
   "translation": "заказной, индивидуальный",
-  "nuance": null,
+  "nuance": "Заказной, индивидуальный (custom-made). Также custom — обычай.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/custom.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He drives a #custom# car.",
+    "ru": "Он ездит на машине, сделанной на заказ."
+   },
+   {
+    "en": "We ordered a #custom# cake shaped like a dog.",
+    "ru": "Мы заказали торт в форме собаки."
+   },
+   {
+    "en": "#Custom# furniture is expensive.",
+    "ru": "Мебель на заказ дорогая."
+   }
+  ]
  },
  {
   "id": "3073",
@@ -70107,7 +70640,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/customize.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "You can #customize# the app colours.",
+    "ru": "Можно настроить цвета приложения под себя."
+   },
+   {
+    "en": "She #customized# her sneakers.",
+    "ru": "Она сделала кроссовки уникальными."
+   },
+   {
+    "en": "#Customize# your settings.",
+    "ru": "Настрой параметры под себя."
+   }
+  ]
  },
  {
   "id": "3074",
@@ -70117,7 +70663,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/write_out.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The doctor #wrote out# a prescription.",
+    "ru": "Врач выписал рецепт."
+   },
+   {
+    "en": "Can you #write out# a receipt?",
+    "ru": "Можете выписать чек?"
+   },
+   {
+    "en": "#Write out# the full words, not short forms.",
+    "ru": "Пиши слова полностью, без сокращений."
+   }
+  ]
  },
  {
   "id": "3075",
@@ -70127,7 +70686,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/25056/25056_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The storm #destroyed# the old barn.",
+    "ru": "Буря разрушила старый сарай."
+   },
+   {
+    "en": "The puppy #destroyed# my shoes.",
+    "ru": "Щенок уничтожил мою обувь."
+   },
+   {
+    "en": "Don't #destroy# my dreams!",
+    "ru": "Не разрушай мои мечты!"
+   }
+  ]
  },
  {
   "id": "3076",
@@ -70137,27 +70709,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/destruction.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The war caused terrible #destruction#.",
+    "ru": "Война принесла ужасные разрушения."
+   },
+   {
+    "en": "My kids are agents of #destruction#.",
+    "ru": "Мои дети — агенты разрушения."
+   },
+   {
+    "en": "The #destruction# of the forest is sad.",
+    "ru": "Уничтожение леса печально."
+   }
+  ]
  },
  {
   "id": "3077",
   "word": "destroyer",
   "transcription": "[dɪsˈtrɔɪə]",
   "translation": "разрушитель",
-  "nuance": null,
+  "nuance": "Разрушитель; эсминец (воен.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/destroyer.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The puppy is a little #destroyer#.",
+    "ru": "Щенок — маленький разрушитель."
+   },
+   {
+    "en": "A navy #destroyer# arrived at the port.",
+    "ru": "В порт прибыл военный эсминец."
+   },
+   {
+    "en": "The storm was a #destroyer# of homes.",
+    "ru": "Буря разрушала дома."
+   }
+  ]
  },
  {
   "id": "3078",
   "word": "engine",
   "transcription": "[ˈɛnʤɪn]",
   "translation": "двигатель или машина",
-  "nuance": null,
+  "nuance": "Двигатель; search engine — поисковик. Motor — мотор (электрический).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/10334/10334_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The car #engine# won't start.",
+    "ru": "Двигатель машины не заводится."
+   },
+   {
+    "en": "Search #engines# know everything about us.",
+    "ru": "Поисковики знают о нас всё."
+   },
+   {
+    "en": "The #engine# made a strange noise.",
+    "ru": "Мотор издал странный звук."
+   }
+  ]
  },
  {
   "id": "3079",
@@ -70167,7 +70778,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/modest.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He lives in a #modest# flat.",
+    "ru": "Он живёт в скромной квартире."
+   },
+   {
+    "en": "She's very #modest# about her success.",
+    "ru": "Она очень скромна насчёт своего успеха."
+   },
+   {
+    "en": "We had a #modest# lunch.",
+    "ru": "У нас был скромный обед."
+   }
+  ]
  },
  {
   "id": "3080",
@@ -70177,7 +70801,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/immodest.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Calling yourself a genius is a bit #immodest#.",
+    "ru": "Называть себя гением немного нескромно."
+   },
+   {
+    "en": "That's an #immodest# dress for church.",
+    "ru": "Это нескромное платье для церкви."
+   },
+   {
+    "en": "Sorry to be #immodest#, but I'm a great cook.",
+    "ru": "Прошу прощения за нескромность, но я отлично готовлю."
+   }
+  ]
  },
  {
   "id": "3081",
@@ -70187,7 +70824,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/modesty.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Her #modesty# is charming.",
+    "ru": "Её скромность очаровательна."
+   },
+   {
+    "en": "In all #modesty#, I'm the best player here.",
+    "ru": "Скажу без ложной скромности: я лучший игрок здесь."
+   },
+   {
+    "en": "False #modesty# annoys me.",
+    "ru": "Ложная скромность меня раздражает."
+   }
+  ]
  },
  {
   "id": "3082",
