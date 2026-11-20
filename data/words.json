@@ -106494,500 +106494,1150 @@
   "word": "census",
   "transcription": "[ˈsɛnsəs]",
   "translation": "перепись",
-  "nuance": null,
+  "nuance": "census — перепись (населения). Survey — опрос, count — подсчёт, poll — голосование/опрос.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/census.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #census# counts everyone in the country.",
+    "ru": "Перепись учитывает всех жителей страны."
+   },
+   {
+    "en": "The last #census# was in 2021.",
+    "ru": "Последняя перепись прошла в 2021 году."
+   },
+   {
+    "en": "My cat wasn't included in the #census#. Unfair.",
+    "ru": "Моего кота не учли в переписи. Несправедливо."
+   }
+  ]
  },
  {
   "id": "4633",
   "word": "balloon",
   "transcription": "[bəˈluːn]",
   "translation": "воздушный шар",
-  "nuance": null,
+  "nuance": "balloon — воздушный шар/шарик; глагол — раздуваться, резко расти. hot-air balloon — воздушный шар (аэростат).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2408/2408_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The kids let go of their #balloons#.",
+    "ru": "Дети отпустили свои воздушные шарики."
+   },
+   {
+    "en": "We flew in a hot-air #balloon# over the hills.",
+    "ru": "Мы летали на воздушном шаре над холмами."
+   },
+   {
+    "en": "Prices #ballooned# after the holidays.",
+    "ru": "После праздников цены резко раздулись."
+   }
+  ]
  },
  {
   "id": "4634",
   "word": "exile",
   "transcription": "[ˈɛksaɪl]",
   "translation": "ссылка, изгнание",
-  "nuance": null,
+  "nuance": "exile — изгнание, ссылка; изгнанник; глагол — изгнать. Banishment — изгнание (книжн.), deportation — депортация.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/exile.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The poet lived in #exile# for 20 years.",
+    "ru": "Поэт прожил в изгнании 20 лет."
+   },
+   {
+    "en": "He was sent into #exile# in Siberia.",
+    "ru": "Его сослали в Сибирь."
+   },
+   {
+    "en": "I'm in #exile# on the sofa after the argument.",
+    "ru": "После ссоры я сослан на диван."
+   }
+  ]
  },
  {
   "id": "4635",
   "word": "meantime",
   "transcription": "[ˈmiːnˈtaɪm]",
   "translation": "тем временем",
-  "nuance": null,
+  "nuance": "meantime / in the meantime — тем временем, пока что. Meanwhile — тем временем (чаще, наречие), until then — до тех пор.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/meantime.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The pizza will take 30 minutes. In the #meantime#, let's set the table.",
+    "ru": "Пицца будет через 30 минут. А пока давай накроем на стол."
+   },
+   {
+    "en": "I'll call you later. #Meantime#, relax.",
+    "ru": "Я позвоню позже. А пока — расслабься."
+   },
+   {
+    "en": "In the #meantime#, the cat ate the fish.",
+    "ru": "Тем временем кот съел рыбу."
+   }
+  ]
  },
  {
   "id": "4636",
   "word": "numb",
   "transcription": "[nʌm]",
   "translation": "онемелый, окоченевший",
-  "nuance": null,
+  "nuance": "numb (b не читается) — онемевший, окоченевший; эмоционально оцепеневший. Frozen — замёрзший, insensitive — нечувствительный. mind-numbing — отупляющий.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/numb.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My fingers are #numb# from the cold.",
+    "ru": "У меня онемели пальцы от холода."
+   },
+   {
+    "en": "The dentist made my mouth #numb#.",
+    "ru": "Стоматолог заморозил мне рот."
+   },
+   {
+    "en": "She felt #numb# after hearing the news.",
+    "ru": "Услышав новость, она словно оцепенела."
+   }
+  ]
  },
  {
   "id": "4637",
   "word": "numbness",
   "transcription": "[ˈnʌmnɪs]",
   "translation": "онемение",
-  "nuance": null,
+  "nuance": "numbness — онемение; оцепенение (эмоц.). Pins and needles — покалывание, мурашки.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/numbness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I felt #numbness# in my leg after sitting.",
+    "ru": "После долгого сидения я почувствовал онемение в ноге."
+   },
+   {
+    "en": "#Numbness# in the hands can be a symptom.",
+    "ru": "Онемение рук может быть симптомом."
+   },
+   {
+    "en": "A strange emotional #numbness# took over.",
+    "ru": "Наступило странное эмоциональное оцепенение."
+   }
+  ]
  },
  {
   "id": "4638",
   "word": "fin",
   "transcription": "[fɪn]",
   "translation": "плавник",
-  "nuance": null,
+  "nuance": "fin — плавник; ласты (тж. flippers); стабилизатор (самолёта). Flipper — ласт (тюленя), tail — хвост.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6895/6895_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We saw a shark's #fin# in the water. Panic!",
+    "ru": "Мы увидели плавник акулы в воде. Паника!"
+   },
+   {
+    "en": "The fish moved its #fins# slowly.",
+    "ru": "Рыба медленно шевелила плавниками."
+   },
+   {
+    "en": "Divers wear #fins# on their feet.",
+    "ru": "Дайверы надевают ласты."
+   }
+  ]
  },
  {
   "id": "4639",
   "word": "bout",
   "transcription": "[baʊt]",
   "translation": "всплеск, приступ",
-  "nuance": null,
+  "nuance": "bout — приступ (болезни, смеха), период (активности); поединок (бокс). Attack — приступ (сердечный), fit — приступ (кашля, смеха), spell — период.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/bout.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He had a #bout# of flu last week.",
+    "ru": "На прошлой неделе он переболел гриппом."
+   },
+   {
+    "en": "A #bout# of laughter filled the room.",
+    "ru": "Комнату наполнил приступ смеха."
+   },
+   {
+    "en": "The boxing #bout# lasted ten rounds.",
+    "ru": "Боксёрский поединок длился десять раундов."
+   }
+  ]
  },
  {
   "id": "4640",
   "word": "trousers",
   "transcription": "[ˈtraʊzəz]",
   "translation": "брюки",
-  "nuance": null,
+  "nuance": "trousers (брит.) — брюки (всегда мн. ч.: a pair of trousers). Амер. — pants. Jeans — джинсы, shorts — шорты.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2565/2565_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I ripped my #trousers# climbing the fence.",
+    "ru": "Я порвал брюки, лазая через забор."
+   },
+   {
+    "en": "These #trousers# are too long.",
+    "ru": "Эти брюки слишком длинные."
+   },
+   {
+    "en": "She wears the #trousers# in that family.",
+    "ru": "В этой семье командует она."
+   }
+  ]
  },
  {
   "id": "4641",
   "word": "resilient",
   "transcription": "[rɪˈzɪlɪənt]",
   "translation": "стойкий, упругий",
-  "nuance": null,
+  "nuance": "resilient — стойкий, устойчивый (быстро восстанавливается); упругий. Tough — крепкий, strong — сильный, hardy — выносливый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/resilient.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Kids are surprisingly #resilient#.",
+    "ru": "Дети на удивление стойкие."
+   },
+   {
+    "en": "This plant is #resilient# — I forgot it for a month.",
+    "ru": "Это растение живучее — я забыл про него на месяц."
+   },
+   {
+    "en": "The material is light and #resilient#.",
+    "ru": "Материал лёгкий и упругий."
+   }
+  ]
  },
  {
   "id": "4642",
   "word": "resilience",
   "transcription": "[rɪˈzɪlɪəns]",
   "translation": "упругость",
-  "nuance": null,
+  "nuance": "resilience — стойкость, способность восстанавливаться; упругость. Toughness — выносливость, strength — сила.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/resilience.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She showed great #resilience# after the accident.",
+    "ru": "Она проявила огромную стойкость после аварии."
+   },
+   {
+    "en": "Sport builds #resilience# in children.",
+    "ru": "Спорт развивает у детей стойкость."
+   },
+   {
+    "en": "The #resilience# of rubber makes it bounce.",
+    "ru": "Упругость резины заставляет её отскакивать."
+   }
+  ]
  },
  {
   "id": "4643",
   "word": "mess up",
   "transcription": "[mɛsʌp]",
   "translation": "испортить, накосячить",
-  "nuance": null,
+  "nuance": "mess up — испортить, напортачить, накосячить (разг.); растрепать. Ruin — испортить, screw up — грубее, make a mistake — ошибиться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/mess_up.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #messed up# the cake — it's black.",
+    "ru": "Я испортил торт — он чёрный."
+   },
+   {
+    "en": "Sorry, I really #messed up#.",
+    "ru": "Прости, я накосячил."
+   },
+   {
+    "en": "Don't #mess up# my hair!",
+    "ru": "Не взлохмачивай мне волосы!"
+   }
+  ]
  },
  {
   "id": "4644",
   "word": "receipt",
   "transcription": "[rɪˈsiːt]",
   "translation": "квитанция",
-  "nuance": null,
+  "nuance": "receipt (p не читается) — чек, квитанция; получение (офиц.). Bill — счёт (в ресторане), invoice — счёт-фактура.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/9184/9184_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Keep the #receipt# in case it doesn't fit.",
+    "ru": "Сохрани чек на случай, если не подойдёт."
+   },
+   {
+    "en": "Can I have a #receipt#, please?",
+    "ru": "Можно чек, пожалуйста?"
+   },
+   {
+    "en": "Sign here for #receipt# of the parcel.",
+    "ru": "Распишитесь здесь в получении посылки."
+   }
+  ]
  },
  {
   "id": "4645",
   "word": "pile up",
   "transcription": "[paɪlʌp]",
   "translation": "сложить, навалить",
-  "nuance": null,
+  "nuance": "pile up — скапливаться, накапливаться; сложить в кучу. pile-up — массовая авария. Stack — складывать стопкой, accumulate — накапливать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/pile_up.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Dirty dishes #piled up# in the sink.",
+    "ru": "Грязная посуда скопилась в раковине."
+   },
+   {
+    "en": "My work #piles up# when I'm on holiday.",
+    "ru": "Пока я в отпуске, работа накапливается."
+   },
+   {
+    "en": "There was a ten-car #pile-up# on the motorway.",
+    "ru": "На трассе было массовое столкновение десяти машин."
+   }
+  ]
  },
  {
   "id": "4646",
   "word": "detach",
   "transcription": "[dɪˈtæʧ]",
   "translation": "отделить, оторвать",
-  "nuance": null,
+  "nuance": "detach — отделить, отсоединить; отстраниться (эмоц.). Remove — удалить, separate — разделить. detached house — отдельный дом.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/detach.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Detach# the coupon and send it to us.",
+    "ru": "Отрежьте купон и отправьте нам."
+   },
+   {
+    "en": "The trailer #detached# from the car!",
+    "ru": "Прицеп отцепился от машины!"
+   },
+   {
+    "en": "He #detached# himself from the group.",
+    "ru": "Он отстранился от группы."
+   }
+  ]
  },
  {
   "id": "4647",
   "word": "detachment",
   "transcription": "[dɪˈtæʧmənt]",
   "translation": "отделение, отслоение",
-  "nuance": null,
+  "nuance": "detachment — отстранённость, безразличие; отслоение (мед.); отряд (воен.). Indifference — безразличие, distance — дистанция.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/detachment.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He watched with cool #detachment#.",
+    "ru": "Он наблюдал с холодной отстранённостью."
+   },
+   {
+    "en": "Retinal #detachment# needs urgent treatment.",
+    "ru": "Отслоение сетчатки требует срочного лечения."
+   },
+   {
+    "en": "A #detachment# of soldiers guarded the bridge.",
+    "ru": "Отряд солдат охранял мост."
+   }
+  ]
  },
  {
   "id": "4648",
   "word": "rabbit",
   "transcription": "[ˈræbɪt]",
   "translation": "кролик",
-  "nuance": null,
+  "nuance": "rabbit — кролик; брит. разг. rabbit on — болтать без умолку. Hare — заяц, bunny — зайчик (детск.). rabbit hole — затягивающая тема.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2351/2351_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #rabbit# ate all our carrots.",
+    "ru": "Кролик съел всю нашу морковь."
+   },
+   {
+    "en": "The magician pulled a #rabbit# out of a hat.",
+    "ru": "Фокусник вытащил кролика из шляпы."
+   },
+   {
+    "en": "Stop #rabbiting# on about your car!",
+    "ru": "Хватит трещать о своей машине!"
+   }
+  ]
  },
  {
   "id": "4649",
   "word": "knob",
   "transcription": "[nɒb]",
   "translation": "ручка (круглая)",
-  "nuance": null,
+  "nuance": "knob (k не читается) — круглая ручка (двери, прибора); брит. — кусочек (масла). Handle — ручка (любая), button — кнопка.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/26338/26338_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The door #knob# came off in my hand.",
+    "ru": "Дверная ручка осталась у меня в руке."
+   },
+   {
+    "en": "Turn the #knob# to change the volume.",
+    "ru": "Поверни ручку, чтобы изменить громкость."
+   },
+   {
+    "en": "Add a #knob# of butter.",
+    "ru": "Добавь кусочек масла."
+   }
+  ]
  },
  {
   "id": "4650",
   "word": "hectic",
   "transcription": "[ˈhɛktɪk ]",
   "translation": "беспокойный",
-  "nuance": null,
+  "nuance": "hectic — суматошный, лихорадочный (много дел). Busy — занятой, chaotic — хаотичный, frantic — неистовый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/hectic.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Christmas week is always #hectic#.",
+    "ru": "Неделя перед Рождеством всегда суматошная."
+   },
+   {
+    "en": "I've had a #hectic# day — no time to eat.",
+    "ru": "У меня был сумасшедший день — некогда было поесть."
+   },
+   {
+    "en": "Life in the city is #hectic#.",
+    "ru": "Жизнь в городе беспокойная."
+   }
+  ]
  },
  {
   "id": "4651",
   "word": "irritate",
   "transcription": "[ˈɪrɪteɪt]",
   "translation": "раздражать",
-  "nuance": null,
+  "nuance": "irritate — раздражать (человека или кожу). Annoy — раздражать (мягче), get on smb's nerves — действовать на нервы.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/irritate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His loud chewing #irritates# me.",
+    "ru": "Его громкое чавканье меня раздражает."
+   },
+   {
+    "en": "This soap #irritates# my skin.",
+    "ru": "Это мыло раздражает мою кожу."
+   },
+   {
+    "en": "Don't #irritate# the dog.",
+    "ru": "Не дразни собаку."
+   }
+  ]
  },
  {
   "id": "4652",
   "word": "irritation",
   "transcription": "[ˌɪrɪˈteɪʃən]",
   "translation": "раздражение",
-  "nuance": null,
+  "nuance": "irritation — раздражение (эмоц. и физ.). Annoyance — досада, frustration — фрустрация, rash — сыпь.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/irritation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She couldn't hide her #irritation#.",
+    "ru": "Она не могла скрыть своего раздражения."
+   },
+   {
+    "en": "The cream caused skin #irritation#.",
+    "ru": "Крем вызвал раздражение кожи."
+   },
+   {
+    "en": "Slow Wi-Fi is a daily #irritation#.",
+    "ru": "Медленный вайфай — ежедневная досада."
+   }
+  ]
  },
  {
   "id": "4653",
   "word": "irritant",
   "transcription": "[ˈɪrɪtənt]",
   "translation": "раздражитель",
-  "nuance": null,
+  "nuance": "irritant — раздражитель (химич., мед.; переносно — раздражающий фактор). Allergen — аллерген, nuisance — помеха.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/irritant.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Smoke is a common eye #irritant#.",
+    "ru": "Дым — частый раздражитель глаз."
+   },
+   {
+    "en": "Avoid #irritants# like strong perfume.",
+    "ru": "Избегайте раздражителей вроде сильных духов."
+   },
+   {
+    "en": "He's a constant #irritant# in meetings.",
+    "ru": "Он постоянный раздражитель на совещаниях."
+   }
+  ]
  },
  {
   "id": "4654",
   "word": "irritable",
   "transcription": "[ˈɪrɪtəbl]",
   "translation": "раздражительный",
-  "nuance": null,
+  "nuance": "irritable — раздражительный. Grumpy — ворчливый (разг.), moody — с перепадами настроения, cranky — капризный (амер.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/irritable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's #irritable# before his morning coffee.",
+    "ru": "До утреннего кофе он раздражительный."
+   },
+   {
+    "en": "Lack of sleep makes me #irritable#.",
+    "ru": "Недосып делает меня раздражительным."
+   },
+   {
+    "en": "The baby is #irritable# — maybe he's teething.",
+    "ru": "Малыш капризничает — может, режутся зубки."
+   }
+  ]
  },
  {
   "id": "4655",
   "word": "inherent",
   "transcription": "[ɪnˈhɪərənt]",
   "translation": "свойственный, присущий",
-  "nuance": null,
+  "nuance": "inherent — присущий, неотъемлемый, заложенный (книжн.). Natural — естественный, built-in — встроенный, innate — врождённый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/inherent.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Risk is #inherent# in every business.",
+    "ru": "Риск присущ любому бизнесу."
+   },
+   {
+    "en": "Cats have an #inherent# love of boxes.",
+    "ru": "Кошкам присуща врождённая любовь к коробкам."
+   },
+   {
+    "en": "The plan has #inherent# problems.",
+    "ru": "В плане заложены проблемы."
+   }
+  ]
  },
  {
   "id": "4656",
   "word": "commodity",
   "transcription": "[kəˈmɒdɪti]",
   "translation": "товар, сырьё",
-  "nuance": null,
+  "nuance": "commodity — товар, сырьё (эконом.); ценный ресурс (переносно). Product — продукт, goods — товары.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/commodity.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Oil is the country's main #commodity#.",
+    "ru": "Нефть — главный товар страны."
+   },
+   {
+    "en": "Time is a precious #commodity#.",
+    "ru": "Время — драгоценный ресурс."
+   },
+   {
+    "en": "Coffee prices on the #commodity# market rose.",
+    "ru": "Цены на кофе на сырьевом рынке выросли."
+   }
+  ]
  },
  {
   "id": "4657",
   "word": "whiz",
   "transcription": "[wɪz]",
   "translation": "ловкач, умелец (в области)",
-  "nuance": null,
+  "nuance": "whiz/whizz — разг. ас, гений, дока (whiz kid — вундеркинд). Expert — эксперт, genius — гений, pro — профи.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/whiz.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She's a computer #whiz#.",
+    "ru": "Она компьютерный гений."
+   },
+   {
+    "en": "My nephew is a maths #whiz#.",
+    "ru": "Мой племянник — гений математики."
+   },
+   {
+    "en": "He's a #whiz# in the kitchen.",
+    "ru": "Он ас на кухне."
+   }
+  ]
  },
  {
   "id": "4658",
   "word": "delicious",
   "transcription": "[dɪˈlɪʃəs]",
   "translation": "восхитительный (о еде)",
-  "nuance": null,
+  "nuance": "delicious — очень вкусный (о еде; не употребляется с very!). Tasty — вкусный, yummy — детск. «вкусняшка». Ловушка: «восхитительный» о человеке — delightful.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/delicious.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "This soup is #delicious#!",
+    "ru": "Этот суп восхитительный!"
+   },
+   {
+    "en": "Thanks for the #delicious# dinner.",
+    "ru": "Спасибо за вкуснейший ужин."
+   },
+   {
+    "en": "The cake looked #delicious#.",
+    "ru": "Торт выглядел аппетитно."
+   }
+  ]
  },
  {
   "id": "4659",
   "word": "invade",
   "transcription": "[ɪnˈveɪd]",
   "translation": "вторгаться",
-  "nuance": null,
+  "nuance": "invade — вторгаться (воен.); наводнять; нарушать (личное пространство). Intrude — вмешиваться, attack — нападать, occupy — оккупировать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/invade.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Tourists #invade# the town every summer.",
+    "ru": "Каждое лето туристы наводняют город."
+   },
+   {
+    "en": "The army #invaded# the country.",
+    "ru": "Армия вторглась в страну."
+   },
+   {
+    "en": "Don't #invade# my personal space!",
+    "ru": "Не вторгайся в моё личное пространство!"
+   }
+  ]
  },
  {
   "id": "4660",
   "word": "invasion",
   "transcription": "[ɪnˈveɪʒən]",
   "translation": "вторжение",
-  "nuance": null,
+  "nuance": "invasion — вторжение, нашествие; нарушение (privacy). Attack — нападение, intrusion — вмешательство.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/invasion.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #invasion# began at dawn.",
+    "ru": "Вторжение началось на рассвете."
+   },
+   {
+    "en": "It's an #invasion# of privacy.",
+    "ru": "Это вторжение в личную жизнь."
+   },
+   {
+    "en": "An #invasion# of ants took over our kitchen.",
+    "ru": "Нашествие муравьёв захватило кухню."
+   }
+  ]
  },
  {
   "id": "4661",
   "word": "invader",
   "transcription": "[ɪnˈveɪdə]",
   "translation": "захватчик",
-  "nuance": null,
+  "nuance": "invader — захватчик, оккупант. Intruder — нарушитель (одиночный), conqueror — завоеватель.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/invader.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The castle walls stopped the #invaders#.",
+    "ru": "Стены замка остановили захватчиков."
+   },
+   {
+    "en": "Space #Invaders# is an old video game.",
+    "ru": "«Космические захватчики» — старая видеоигра."
+   },
+   {
+    "en": "The #invaders# took the city.",
+    "ru": "Захватчики взяли город."
+   }
+  ]
  },
  {
   "id": "4662",
   "word": "invasive",
   "transcription": "[ɪnˈveɪsɪv]",
   "translation": "агрессивный, захватнический",
-  "nuance": null,
+  "nuance": "invasive — агрессивно распространяющийся (виды); инвазивный (мед.); бесцеремонный (вопросы). Intrusive — навязчивый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/invasive.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Invasive# plants are destroying the forest.",
+    "ru": "Инвазивные растения уничтожают лес."
+   },
+   {
+    "en": "The surgery is not #invasive#.",
+    "ru": "Операция малоинвазивная."
+   },
+   {
+    "en": "His questions were too #invasive#.",
+    "ru": "Его вопросы были слишком бесцеремонными."
+   }
+  ]
  },
  {
   "id": "4663",
   "word": "whack",
   "transcription": "[wæk]",
   "translation": "удар, сильно бить",
-  "nuance": null,
+  "nuance": "whack — сильный удар; сильно бить (разг.). out of whack — разг. «не в порядке». Hit — ударить, smack — шлёпнуть.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/whack.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He gave the TV a #whack# and it worked.",
+    "ru": "Он стукнул по телевизору, и тот заработал."
+   },
+   {
+    "en": "She #whacked# the fly with a newspaper.",
+    "ru": "Она шлёпнула муху газетой."
+   },
+   {
+    "en": "My sleep schedule is out of #whack#.",
+    "ru": "Мой режим сна сбит."
+   }
+  ]
  },
  {
   "id": "4664",
   "word": "harness",
   "transcription": "[ˈhɑːnɪs]",
   "translation": "запрягать, обуздывать",
-  "nuance": null,
+  "nuance": "harness — запрягать; обуздывать, использовать (энергию, талант); сущ. — упряжь, страховочная обвязка. Use — использовать, control — контролировать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/harness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We need to #harness# the power of the sun.",
+    "ru": "Нам нужно использовать энергию солнца."
+   },
+   {
+    "en": "The farmer #harnessed# the horse to the cart.",
+    "ru": "Фермер запряг лошадь в телегу."
+   },
+   {
+    "en": "Climbers wear a safety #harness#.",
+    "ru": "Альпинисты носят страховочную обвязку."
+   }
+  ]
  },
  {
   "id": "4665",
   "word": "eyebrow",
   "transcription": "[ˈaɪbraʊ]",
   "translation": "бровь",
-  "nuance": null,
+  "nuance": "eyebrow — бровь. raise eyebrows — вызвать удивление/неодобрение. Eyelash — ресница.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/3011/3011_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She raised an #eyebrow# at my outfit.",
+    "ru": "Она удивлённо подняла бровь, глядя на мой наряд."
+   },
+   {
+    "en": "He has thick, dark #eyebrows#.",
+    "ru": "У него густые тёмные брови."
+   },
+   {
+    "en": "His decision raised a few #eyebrows#.",
+    "ru": "Его решение вызвало удивление."
+   }
+  ]
  },
  {
   "id": "4666",
   "word": "brow",
   "transcription": "[braʊ]",
   "translation": "бровь",
-  "nuance": null,
+  "nuance": "brow — книжн. бровь или лоб; гребень холма. highbrow/lowbrow — интеллектуальный/примитивный. Eyebrow — бровь (разг.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/brow.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He wiped the sweat from his #brow#.",
+    "ru": "Он вытер пот со лба."
+   },
+   {
+    "en": "She furrowed her #brow# in thought.",
+    "ru": "Она задумчиво нахмурилась."
+   },
+   {
+    "en": "The #brow# of the hill was covered in snow.",
+    "ru": "Вершина холма была покрыта снегом."
+   }
+  ]
  },
  {
   "id": "4667",
   "word": "perennial",
   "transcription": "[pəˈrɛniəl]",
   "translation": "многолетний, вечный",
-  "nuance": null,
+  "nuance": "perennial — многолетний (растение); вечный, постоянный. Constant — постоянный, eternal — вечный, recurring — повторяющийся.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/perennial.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "These #perennial# flowers come back every spring.",
+    "ru": "Эти многолетние цветы возвращаются каждую весну."
+   },
+   {
+    "en": "Traffic is a #perennial# problem here.",
+    "ru": "Пробки — вечная проблема здесь."
+   },
+   {
+    "en": "The film is a #perennial# favourite at Christmas.",
+    "ru": "Этот фильм — неизменный рождественский фаворит."
+   }
+  ]
  },
  {
   "id": "4668",
   "word": "skim",
   "transcription": "[skɪm]",
   "translation": "скользить (легко)",
-  "nuance": null,
+  "nuance": "skim — скользить по поверхности; бегло просматривать; снимать (пену, сливки). skimmed milk — обезжиренное молоко. Scan — пробегать глазами.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/skim.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The stone #skimmed# across the lake.",
+    "ru": "Камень скользил по поверхности озера."
+   },
+   {
+    "en": "I only #skimmed# the report.",
+    "ru": "Я только бегло просмотрел отчёт."
+   },
+   {
+    "en": "#Skim# the fat off the soup.",
+    "ru": "Сними жир с поверхности супа."
+   }
+  ]
  },
  {
   "id": "4669",
   "word": "dope",
   "transcription": "[dəʊp]",
   "translation": "наркотик, дурман",
-  "nuance": null,
+  "nuance": "dope — разг. наркотик (особ. травка); дурак; сленг амер. «крутой, классный». Drugs — наркотики (нейтр.), doping — допинг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dope.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He was caught selling #dope#.",
+    "ru": "Его поймали за продажей наркотиков."
+   },
+   {
+    "en": "Don't be a #dope# — wear a helmet!",
+    "ru": "Не будь балбесом — надень шлем!"
+   },
+   {
+    "en": "That song is #dope#!",
+    "ru": "Эта песня — огонь!"
+   }
+  ]
  },
  {
   "id": "4670",
   "word": "herd",
   "transcription": "[hɜːd]",
   "translation": "стадо, пасти",
-  "nuance": null,
+  "nuance": "herd — стадо (коров, слонов); глагол — сгонять, пасти. Flock — стая (птиц), отара (овец); pack — стая (волков). herd mentality — стадное чувство.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/10246/10246_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A #herd# of cows blocked the road.",
+    "ru": "Стадо коров перегородило дорогу."
+   },
+   {
+    "en": "The teacher #herded# the kids onto the bus.",
+    "ru": "Учительница загнала детей в автобус."
+   },
+   {
+    "en": "Don't just follow the #herd#.",
+    "ru": "Не будь как все."
+   }
+  ]
  },
  {
   "id": "4671",
   "word": "herder",
   "transcription": "[ˈhɜːdə]",
   "translation": "пастух",
-  "nuance": null,
+  "nuance": "herder (амер.) — пастух. Shepherd — пастух овец, herdsman — скотовод (брит.), cowboy — ковбой.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/herder.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #herder# moved the goats up the mountain.",
+    "ru": "Пастух погнал коз в гору."
+   },
+   {
+    "en": "Reindeer #herders# live in the north.",
+    "ru": "Оленеводы живут на севере."
+   },
+   {
+    "en": "The #herder# knows every animal by name.",
+    "ru": "Пастух знает каждое животное по имени."
+   }
+  ]
  },
  {
   "id": "4672",
   "word": "piss",
   "transcription": "[pɪs]",
   "translation": "писать, моча",
-  "nuance": null,
+  "nuance": "piss — грубое «писать, моча». pissed — брит. «пьяный», амер. «злой». take the piss — брит. «издеваться». Нейтр. — pee, urinate.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/piss.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The dog #pissed# on my shoe!",
+    "ru": "Собака написала мне на ботинок!"
+   },
+   {
+    "en": "I need a #piss#.",
+    "ru": "Мне надо отлить."
+   },
+   {
+    "en": "He's #pissed# — don't talk to him.",
+    "ru": "Он злой — не говори с ним."
+   }
+  ]
  },
  {
   "id": "4673",
   "word": "kneel",
   "transcription": "[niːl]",
   "translation": "стать на колени (колено)",
-  "nuance": null,
+  "nuance": "kneel (knelt/kneeled) — стоять/встать на колени (k не читается). Crouch — присесть на корточки, bend — наклониться.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8033/8033_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #knelt# down and proposed.",
+    "ru": "Он опустился на колено и сделал предложение."
+   },
+   {
+    "en": "#Kneel# to tie your shoe.",
+    "ru": "Встань на колено, чтобы завязать шнурок."
+   },
+   {
+    "en": "People #knelt# in prayer.",
+    "ru": "Люди преклонили колени в молитве."
+   }
+  ]
  },
  {
   "id": "4674",
   "word": "residue",
   "transcription": "[ˈrɛzɪdjuː]",
   "translation": "остаток",
-  "nuance": null,
+  "nuance": "residue — осадок, остаток (химич., книжн.). Remains — остатки, leftovers — остатки еды, trace — след.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/residue.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's a sticky #residue# on the table.",
+    "ru": "На столе липкий остаток."
+   },
+   {
+    "en": "Wash the fruit to remove chemical #residue#.",
+    "ru": "Помой фрукты, чтобы убрать остатки химикатов."
+   },
+   {
+    "en": "The #residue# of the money went to charity.",
+    "ru": "Оставшиеся деньги пошли на благотворительность."
+   }
+  ]
  },
  {
   "id": "4675",
   "word": "residual",
   "transcription": "[rɪˈzɪdjʊəl]",
   "translation": "остаточный",
-  "nuance": null,
+  "nuance": "residual — остаточный (книжн.-техн.). Remaining — оставшийся, leftover — оставшийся (разг.), lingering — затянувшийся.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/residual.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I still feel some #residual# pain.",
+    "ru": "Я всё ещё чувствую остаточную боль."
+   },
+   {
+    "en": "There's a #residual# smell of smoke.",
+    "ru": "Остался запах дыма."
+   },
+   {
+    "en": "The #residual# value of the car is low.",
+    "ru": "Остаточная стоимость машины низкая."
+   }
+  ]
  },
  {
   "id": "4676",
   "word": "queer",
   "transcription": "[kwɪə]",
   "translation": "странный, чудной,педик",
-  "nuance": null,
+  "nuance": "queer — устар. «странный, чудной»; сейчас — квир (ЛГБТК+, самоназвание, нейтр. в сообществе). Как оскорбление «педик» — грубо и недопустимо! Strange/odd — странный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/queer.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "What a #queer# old house — the doors are tiny!",
+    "ru": "Какой чудной старый дом — двери крошечные!"
+   },
+   {
+    "en": "She felt a bit #queer# after the boat ride.",
+    "ru": "После катания на лодке ей стало как-то не по себе."
+   },
+   {
+    "en": "The festival celebrates #queer# artists.",
+    "ru": "Фестиваль посвящён квир-художникам."
+   }
+  ]
  },
  {
   "id": "4678",
   "word": "blaze",
   "transcription": "[bleɪz]",
   "translation": "полыхать, пламя",
-  "nuance": null,
+  "nuance": "blaze — пламя, пожар (в новостях); полыхать, сиять. Flame — пламя, fire — огонь. blazing hot — палящий.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/blaze.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The fire #blazed# all night.",
+    "ru": "Огонь полыхал всю ночь."
+   },
+   {
+    "en": "Firefighters fought the #blaze# for hours.",
+    "ru": "Пожарные часами боролись с пламенем."
+   },
+   {
+    "en": "He left in a #blaze# of glory.",
+    "ru": "Он ушёл в лучах славы."
+   }
+  ]
  },
  {
   "id": "4679",
   "word": "ablaze",
   "transcription": "[əˈbleɪz]",
   "translation": "пылать",
-  "nuance": null,
+  "nuance": "ablaze — пылающий, в огне (только после глагола: be/set ablaze); переносно — сияющий. On fire — горящий, burning — горящий.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/ablaze.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The barn was #ablaze# within minutes.",
+    "ru": "Сарай заполыхал за считаные минуты."
+   },
+   {
+    "en": "Her eyes were #ablaze# with anger.",
+    "ru": "Её глаза горели гневом."
+   },
+   {
+    "en": "The city was #ablaze# with lights.",
+    "ru": "Город сиял огнями."
+   }
+  ]
  },
  {
   "id": "4680",
   "word": "come through",
   "transcription": "[kʌmθruː]",
   "translation": "пережить, перенести",
-  "nuance": null,
+  "nuance": "come through — пережить, выдержать (трудность); выручить (come through for smb); поступить (о новостях). Survive — выжить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/come_through.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandma #came through# the operation well.",
+    "ru": "Бабушка хорошо перенесла операцию."
+   },
+   {
+    "en": "We #came through# a tough winter.",
+    "ru": "Мы пережили тяжёлую зиму."
+   },
+   {
+    "en": "He always #comes through# for his friends.",
+    "ru": "Он всегда выручает друзей."
+   }
+  ]
  },
  {
   "id": "4681",
   "word": "go through",
   "transcription": "[gəʊθruː]",
   "translation": "пережить",
-  "nuance": null,
+  "nuance": "go through — переживать (трудности, процесс). Experience — испытывать, suffer — страдать, endure — терпеть.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/go_through_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She's #going through# a divorce.",
+    "ru": "Она переживает развод."
+   },
+   {
+    "en": "I know what you're #going through#.",
+    "ru": "Я знаю, через что ты проходишь."
+   },
+   {
+    "en": "We #went through# a lot together.",
+    "ru": "Мы многое пережили вместе."
+   }
+  ]
  },
  {
   "id": "4682",
   "word": "live through",
   "transcription": "[lɪvθruː]",
   "translation": "пережить",
-  "nuance": null,
+  "nuance": "live through — пережить (долгий период, событие, оставшись в живых). Survive — выжить, go through — пройти через.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/live_through.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My grandparents #lived through# the war.",
+    "ru": "Мои бабушка и дедушка пережили войну."
+   },
+   {
+    "en": "We #lived through# three moves in one year.",
+    "ru": "Мы пережили три переезда за год."
+   },
+   {
+    "en": "I never want to #live through# that again.",
+    "ru": "Я не хочу пережить это снова."
+   }
+  ]
  },
  {
   "id": "4683",
