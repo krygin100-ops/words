@@ -71994,20 +71994,46 @@
   "word": "unrest",
   "transcription": "[ʌnˈrɛst]",
   "translation": "беспокойство, беспорядки",
-  "nuance": null,
+  "nuance": "Беспорядки, волнения (обществ.); тревога. Riot — бунт (с насилием).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unrest.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's political #unrest# in the country.",
+    "ru": "В стране политические беспорядки."
+   },
+   {
+    "en": "The new law caused #unrest# among workers.",
+    "ru": "Новый закон вызвал волнения среди рабочих."
+   },
+   {
+    "en": "I felt a strange #unrest# before the exam.",
+    "ru": "Перед экзаменом я чувствовал странное беспокойство."
+   }
+  ]
  },
  {
   "id": "3133",
   "word": "firm",
   "transcription": "[fɜːm]",
   "translation": "твёрдый",
-  "nuance": null,
+  "nuance": "Твёрдый, крепкий, решительный. Также firm — фирма (сущ.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/firm.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I like a #firm# mattress.",
+    "ru": "Мне нравится жёсткий матрас."
+   },
+   {
+    "en": "She gave a #firm# handshake.",
+    "ru": "Она крепко пожала руку."
+   },
+   {
+    "en": "Be #firm# with the kids.",
+    "ru": "Будь твёрд с детьми."
+   }
+  ]
  },
  {
   "id": "3134",
@@ -72017,117 +72043,273 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/firmness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Check the #firmness# of the peach before buying.",
+    "ru": "Проверь, насколько твёрдый персик, прежде чем покупать."
+   },
+   {
+    "en": "She spoke with #firmness#.",
+    "ru": "Она говорила твёрдо."
+   },
+   {
+    "en": "Parents need #firmness# and love.",
+    "ru": "Родителям нужны твёрдость и любовь."
+   }
+  ]
  },
  {
   "id": "3135",
   "word": "subsequent",
   "transcription": "[ˈsʌbsɪkwənt]",
   "translation": "последующий",
-  "nuance": null,
+  "nuance": "Книжное: последующий. Next, following — проще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/subsequent.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Subsequent# events proved him right.",
+    "ru": "Последующие события доказали его правоту."
+   },
+   {
+    "en": "The first and #subsequent# meetings were boring.",
+    "ru": "Первое и последующие совещания были скучными."
+   },
+   {
+    "en": "In #subsequent# years, the town grew.",
+    "ru": "В последующие годы город вырос."
+   }
+  ]
  },
  {
   "id": "3136",
   "word": "subsequently",
   "transcription": "[ˈsʌbsɪkwəntli]",
   "translation": "впоследствии",
-  "nuance": null,
+  "nuance": "Книжное: впоследствии. Later, afterwards — разг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/subsequently.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He was #subsequently# fired.",
+    "ru": "Впоследствии его уволили."
+   },
+   {
+    "en": "She #subsequently# moved to London.",
+    "ru": "Позже она переехала в Лондон."
+   },
+   {
+    "en": "The cake was #subsequently# eaten by the dog.",
+    "ru": "Впоследствии торт съела собака."
+   }
+  ]
  },
  {
   "id": "3137",
   "word": "weird",
   "transcription": "[wɪəd]",
   "translation": "нереальный, странный",
-  "nuance": null,
+  "nuance": "Разг. «странный, чудной» (сильнее и разговорнее, чем strange).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/weird.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "That's #weird# — the door was locked a minute ago.",
+    "ru": "Странно — дверь была заперта минуту назад."
+   },
+   {
+    "en": "My brother has #weird# taste in music.",
+    "ru": "У брата странный музыкальный вкус."
+   },
+   {
+    "en": "I had a #weird# dream.",
+    "ru": "Мне приснился странный сон."
+   }
+  ]
  },
  {
   "id": "3138",
   "word": "weirdo",
   "transcription": "[ˈwɪədəʊ]",
   "translation": "чудак",
-  "nuance": null,
+  "nuance": "Разг., может быть обидно или ласково: чудак, псих.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/weirdo.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Some #weirdo# was talking to the pigeons.",
+    "ru": "Какой-то чудак разговаривал с голубями."
+   },
+   {
+    "en": "My friends call me a #weirdo#.",
+    "ru": "Друзья называют меня чудиком."
+   },
+   {
+    "en": "Don't be such a #weirdo#!",
+    "ru": "Не будь таким чудаком!"
+   }
+  ]
  },
  {
   "id": "3139",
   "word": "frustrate",
   "transcription": "[frʌsˈtreɪt]",
   "translation": "расстраивать (план, схему)",
-  "nuance": null,
+  "nuance": "Сорвать (план); раздражать, расстраивать. Frustrated ≠ «фрустрированный» в лёгком смысле — «раздражён, бессилен».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/frustrate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The rain #frustrated# our plans.",
+    "ru": "Дождь сорвал наши планы."
+   },
+   {
+    "en": "It #frustrates# me when people are late.",
+    "ru": "Меня бесит, когда люди опаздывают."
+   },
+   {
+    "en": "Slow internet is so #frustrating#.",
+    "ru": "Медленный интернет так раздражает."
+   }
+  ]
  },
  {
   "id": "3140",
   "word": "resolve",
   "transcription": "[rɪˈzɒlv]",
   "translation": "решиться, решимость",
-  "nuance": null,
+  "nuance": "Решить (твёрдо); решимость; также разрешить (проблему).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/resolve.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #resolved# to eat less sugar.",
+    "ru": "Она решила есть меньше сахара."
+   },
+   {
+    "en": "His #resolve# was tested.",
+    "ru": "Его решимость подверглась испытанию."
+   },
+   {
+    "en": "We #resolved# the problem quickly.",
+    "ru": "Мы быстро решили проблему."
+   }
+  ]
  },
  {
   "id": "3141",
   "word": "rough up",
   "transcription": "[rʌfʌp]",
   "translation": "грубо обращаться, нападать",
-  "nuance": null,
+  "nuance": "Разг.: избить, грубо обойтись.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/rough_up.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The thugs #roughed# him #up#.",
+    "ru": "Хулиганы его избили."
+   },
+   {
+    "en": "The police were accused of #roughing up# protesters.",
+    "ru": "Полицию обвинили в грубом обращении с протестующими."
+   },
+   {
+    "en": "The cat got #roughed up# by a stray.",
+    "ru": "Кота потрепал бродячий кот."
+   }
+  ]
  },
  {
   "id": "3142",
   "word": "afford",
   "transcription": "[əˈfɔːd]",
   "translation": "позволить себе",
-  "nuance": null,
+  "nuance": "Позволить себе (деньги, время, риск).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/afford.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We can't #afford# a new car.",
+    "ru": "Мы не можем позволить себе новую машину."
+   },
+   {
+    "en": "I can't #afford# to lose this job.",
+    "ru": "Я не могу позволить себе потерять эту работу."
+   },
+   {
+    "en": "Can you #afford# the time?",
+    "ru": "У тебя есть на это время?"
+   }
+  ]
  },
  {
   "id": "3143",
   "word": "affordable",
   "transcription": "[əˈfɔːdəbl]",
   "translation": "доступный",
-  "nuance": null,
+  "nuance": "Доступный по цене (вежливее, чем cheap).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/affordable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The flats are #affordable# for young families.",
+    "ru": "Квартиры доступны для молодых семей."
+   },
+   {
+    "en": "It's an #affordable# restaurant.",
+    "ru": "Это недорогой ресторан."
+   },
+   {
+    "en": "We need #affordable# housing.",
+    "ru": "Нам нужно доступное жильё."
+   }
+  ]
  },
  {
   "id": "3144",
   "word": "take a walk",
   "transcription": "[teɪkəwɔːk]",
   "translation": "прогуляться",
-  "nuance": null,
+  "nuance": "Прогуляться. Разг. take a walk! — «проваливай».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/take_a_walk.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Let's #take a walk# after dinner.",
+    "ru": "Давай прогуляемся после ужина."
+   },
+   {
+    "en": "I #took a walk# to clear my head.",
+    "ru": "Я прогулялся, чтобы проветрить голову."
+   },
+   {
+    "en": "Why don't you #take a walk#?!",
+    "ru": "А не пошёл бы ты погулять?!"
+   }
+  ]
  },
  {
   "id": "3145",
   "word": "pure",
   "transcription": "[pjʊə]",
   "translation": "чистый, незагрязнённый",
-  "nuance": null,
+  "nuance": "Чистый (без примесей); чистый, сплошной (pure luck). Clean — чистый (не грязный).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/pure.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The mountain air is so #pure#.",
+    "ru": "Горный воздух такой чистый."
+   },
+   {
+    "en": "It's made of #pure# gold.",
+    "ru": "Это из чистого золота."
+   },
+   {
+    "en": "It was #pure# luck.",
+    "ru": "Это была чистая удача."
+   }
+  ]
  },
  {
   "id": "3146",
@@ -72137,7 +72319,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/purely.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It was #purely# an accident.",
+    "ru": "Это была чистая случайность."
+   },
+   {
+    "en": "I'm asking #purely# out of curiosity.",
+    "ru": "Спрашиваю исключительно из любопытства."
+   },
+   {
+    "en": "The decision was #purely# financial.",
+    "ru": "Решение было чисто финансовым."
+   }
+  ]
  },
  {
   "id": "3147",
@@ -72147,7 +72342,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/purity.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Test the #purity# of the water.",
+    "ru": "Проверь чистоту воды."
+   },
+   {
+    "en": "The #purity# of her voice is amazing.",
+    "ru": "Чистота её голоса поражает."
+   },
+   {
+    "en": "Gold #purity# is measured in carats.",
+    "ru": "Чистота золота измеряется в каратах."
+   }
+  ]
  },
  {
   "id": "3148",
@@ -72157,7 +72365,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/impure.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The water is #impure# — don't drink it.",
+    "ru": "Вода загрязнена — не пей её."
+   },
+   {
+    "en": "They had #impure# thoughts.",
+    "ru": "У них были нечистые мысли."
+   },
+   {
+    "en": "#Impure# gold is cheaper.",
+    "ru": "Золото с примесями дешевле."
+   }
+  ]
  },
  {
   "id": "3149",
@@ -72167,7 +72388,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/impurity.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Filters remove #impurities# from water.",
+    "ru": "Фильтры удаляют примеси из воды."
+   },
+   {
+    "en": "The metal has some #impurities#.",
+    "ru": "В металле есть примеси."
+   },
+   {
+    "en": "Wash your face to remove #impurities#.",
+    "ru": "Умывайся, чтобы удалить загрязнения."
+   }
+  ]
  },
  {
   "id": "3150",
@@ -72177,27 +72411,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/purify.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "This filter #purifies# the water.",
+    "ru": "Этот фильтр очищает воду."
+   },
+   {
+    "en": "Plants #purify# the air at home.",
+    "ru": "Растения очищают воздух дома."
+   },
+   {
+    "en": "They #purified# the oil before use.",
+    "ru": "Перед использованием масло очистили."
+   }
+  ]
  },
  {
   "id": "3151",
   "word": "definite",
   "transcription": "[ˈdɛfɪnɪt]",
   "translation": "определённый",
-  "nuance": null,
+  "nuance": "Определённый, точный. Ловушка: не путать с definitive (окончательный).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/definite.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Is that a #definite# yes?",
+    "ru": "Это точно «да»?"
+   },
+   {
+    "en": "There's no #definite# answer.",
+    "ru": "Определённого ответа нет."
+   },
+   {
+    "en": "We have a #definite# date for the wedding.",
+    "ru": "У нас есть точная дата свадьбы."
+   }
+  ]
  },
  {
   "id": "3152",
   "word": "definitely",
   "transcription": "[ˈdɛfɪnɪtli]",
   "translation": "определенно (вводн. слово)",
-  "nuance": null,
+  "nuance": "Определённо, точно (уверенно). Probably — вероятно (менее уверенно).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/definitely.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I'll #definitely# come.",
+    "ru": "Я обязательно приду."
+   },
+   {
+    "en": "It was #definitely# the best pizza ever.",
+    "ru": "Это определённо была лучшая пицца в жизни."
+   },
+   {
+    "en": "\"Are you coming?\" — \"#Definitely#!\"",
+    "ru": "«Придёшь?» — «Конечно!»"
+   }
+  ]
  },
  {
   "id": "3153",
@@ -72207,27 +72480,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/indefinite.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The shop is closed for an #indefinite# period.",
+    "ru": "Магазин закрыт на неопределённый срок."
+   },
+   {
+    "en": "\"A\" is the #indefinite# article.",
+    "ru": "«A» — неопределённый артикль."
+   },
+   {
+    "en": "Her plans are #indefinite#.",
+    "ru": "Её планы неопределённы."
+   }
+  ]
  },
  {
   "id": "3154",
   "word": "toward (towards)",
   "transcription": "[təˈwɔːd]",
   "translation": "по направлению к",
-  "nuance": null,
+  "nuance": "Брит. towards, амер. toward. По направлению к; по отношению к.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/toward.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The dog ran #towards# me.",
+    "ru": "Собака побежала ко мне."
+   },
+   {
+    "en": "We walked #toward# the beach.",
+    "ru": "Мы пошли в сторону пляжа."
+   },
+   {
+    "en": "Her attitude #towards# me changed.",
+    "ru": "Её отношение ко мне изменилось."
+   }
+  ]
  },
  {
   "id": "3155",
   "word": "excellent",
   "transcription": "[ˈɛksələnt]",
   "translation": "превосходный",
-  "nuance": null,
+  "nuance": "Превосходный (сильнее, чем good/very good).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/excellent.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The food was #excellent#.",
+    "ru": "Еда была превосходной."
+   },
+   {
+    "en": "#Excellent#! We're done early.",
+    "ru": "Отлично! Мы закончили рано."
+   },
+   {
+    "en": "She speaks #excellent# English.",
+    "ru": "Она отлично говорит по-английски."
+   }
+  ]
  },
  {
   "id": "3156",
@@ -72237,27 +72549,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/excellence.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The school is known for academic #excellence#.",
+    "ru": "Школа славится высоким уровнем образования."
+   },
+   {
+    "en": "We aim for #excellence#.",
+    "ru": "Мы стремимся к совершенству."
+   },
+   {
+    "en": "An award for #excellence# in teaching.",
+    "ru": "Награда за выдающиеся достижения в преподавании."
+   }
+  ]
  },
  {
   "id": "3157",
   "word": "flip",
   "transcription": "[flɪp]",
   "translation": "переворачивать, перевёрнутый",
-  "nuance": null,
+  "nuance": "Перевернуть, подбросить; разг. flip (out) — взбеситься.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/flip.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Flip# the pancake!",
+    "ru": "Переверни блин!"
+   },
+   {
+    "en": "Let's #flip# a coin.",
+    "ru": "Давай подбросим монетку."
+   },
+   {
+    "en": "He #flipped# when he saw the bill.",
+    "ru": "Он взбесился, увидев счёт."
+   }
+  ]
  },
  {
   "id": "3158",
   "word": "thick",
   "transcription": "[θɪk]",
   "translation": "толстый",
-  "nuance": null,
+  "nuance": "Толстый (предмет), густой (волосы, туман, суп). Fat — толстый (о человеке!).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/thick.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The walls are very #thick#.",
+    "ru": "Стены очень толстые."
+   },
+   {
+    "en": "Cut a #thick# slice of bread.",
+    "ru": "Отрежь толстый ломоть хлеба."
+   },
+   {
+    "en": "She has #thick# hair.",
+    "ru": "У неё густые волосы."
+   }
+  ]
  },
  {
   "id": "3159",
@@ -72267,27 +72618,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/thickness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Measure the #thickness# of the wall.",
+    "ru": "Измерь толщину стены."
+   },
+   {
+    "en": "The #thickness# of the fog stopped the planes.",
+    "ru": "Из-за густого тумана самолёты не летали."
+   },
+   {
+    "en": "The #thickness# of the book scared me.",
+    "ru": "Толщина книги меня напугала."
+   }
+  ]
  },
  {
   "id": "3160",
   "word": "severe",
   "transcription": "[sɪˈvɪə]",
   "translation": "серьёзный, суровый, жёсткий",
-  "nuance": null,
+  "nuance": "Серьёзный, сильный (о боли, проблеме), суровый, строгий.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/severe.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He has a #severe# headache.",
+    "ru": "У него сильная головная боль."
+   },
+   {
+    "en": "The winter was #severe#.",
+    "ru": "Зима была суровой."
+   },
+   {
+    "en": "The teacher gave him a #severe# look.",
+    "ru": "Учитель строго на него посмотрел."
+   }
+  ]
  },
  {
   "id": "3161",
   "word": "severeness",
   "transcription": "[sɪˈvɪənəs]",
   "translation": "тщательность",
-  "nuance": null,
+  "nuance": "Обычно severity. Тяжесть, суровость.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/severeness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #severeness# of the punishment surprised us.",
+    "ru": "Суровость наказания нас удивила."
+   },
+   {
+    "en": "The #severeness# of her dress made her look older.",
+    "ru": "Строгость её платья делала её старше."
+   },
+   {
+    "en": "The doctor checked the #severeness# of the injury.",
+    "ru": "Врач оценил тяжесть травмы."
+   }
+  ]
  },
  {
   "id": "3162",
@@ -72297,27 +72687,66 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/25026/25026_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They #breed# dogs on their farm.",
+    "ru": "Они разводят собак на своей ферме."
+   },
+   {
+    "en": "Rabbits #breed# very fast.",
+    "ru": "Кролики очень быстро размножаются."
+   },
+   {
+    "en": "He was born and #bred# in London.",
+    "ru": "Он родился и вырос в Лондоне."
+   }
+  ]
  },
  {
   "id": "3163",
   "word": "dump",
   "transcription": "[dʌmp]",
   "translation": "бросать (парня/девушку)",
-  "nuance": null,
+  "nuance": "Разг., грубовато: бросить (партнёра). Break up with — нейтрально.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dump.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #dumped# him by text message.",
+    "ru": "Она бросила его по эсэмэске."
+   },
+   {
+    "en": "He got #dumped# on Valentine's Day.",
+    "ru": "Его бросили в День святого Валентина."
+   },
+   {
+    "en": "Don't #dump# her — talk first.",
+    "ru": "Не бросай её — сначала поговорите."
+   }
+  ]
  },
  {
   "id": "3164",
   "word": "thus",
   "transcription": "[ðʌs]",
   "translation": "таким образом, поэтому",
-  "nuance": null,
+  "nuance": "Книжное: таким образом, поэтому; так. Разг. — so.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/thus.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It's raining; #thus#, we stay home.",
+    "ru": "Идёт дождь, поэтому мы остаёмся дома."
+   },
+   {
+    "en": "He was late, #thus# missing the train.",
+    "ru": "Он опоздал и, таким образом, пропустил поезд."
+   },
+   {
+    "en": "Hold it #thus#.",
+    "ru": "Держи вот так."
+   }
+  ]
  },
  {
   "id": "3165",
@@ -72327,17 +72756,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/set_about.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #set about# cleaning the kitchen.",
+    "ru": "Она принялась убирать кухню."
+   },
+   {
+    "en": "How do we #set about# finding a flat?",
+    "ru": "Как нам приступить к поиску квартиры?"
+   },
+   {
+    "en": "He #set about# his work with energy.",
+    "ru": "Он с энтузиазмом взялся за работу."
+   }
+  ]
  },
  {
   "id": "3166",
   "word": "capture",
   "transcription": "[ˈkæpʧə]",
   "translation": "захватить",
-  "nuance": null,
+  "nuance": "Захватить, поймать; запечатлеть, покорить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/capture.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Police #captured# the thief.",
+    "ru": "Полиция поймала вора."
+   },
+   {
+    "en": "The photo #captured# the moment perfectly.",
+    "ru": "Фото идеально запечатлело момент."
+   },
+   {
+    "en": "The film #captured# my heart.",
+    "ru": "Фильм покорил моё сердце."
+   }
+  ]
  },
  {
   "id": "3167",
@@ -72347,47 +72802,112 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/recapture.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Police #recaptured# the escaped prisoner.",
+    "ru": "Полиция снова поймала сбежавшего заключённого."
+   },
+   {
+    "en": "The army #recaptured# the city.",
+    "ru": "Армия отбила город."
+   },
+   {
+    "en": "The film #recaptures# the feeling of the 90s.",
+    "ru": "Фильм воссоздаёт атмосферу 90-х."
+   }
+  ]
  },
  {
   "id": "3168",
   "word": "on behalf of",
   "transcription": "[ɒnbɪˈhɑːfɒv]",
   "translation": "от имени",
-  "nuance": null,
+  "nuance": "От имени, в интересах. Официальное.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/on_behalf_of.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I'm writing #on behalf of# my mother.",
+    "ru": "Пишу от имени моей мамы."
+   },
+   {
+    "en": "#On behalf of# the team, thank you!",
+    "ru": "От имени команды — спасибо!"
+   },
+   {
+    "en": "He spoke #on behalf of# the workers.",
+    "ru": "Он выступил от имени рабочих."
+   }
+  ]
  },
  {
   "id": "3169",
   "word": "permit",
   "transcription": "[pəˈmɪt]",
   "translation": "разрешать",
-  "nuance": null,
+  "nuance": "Разрешать (офиц.). Allow — нейтр., let — разг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/permit.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Smoking is not #permitted# here.",
+    "ru": "Здесь курить запрещено."
+   },
+   {
+    "en": "Weather #permitting#, we'll have a picnic.",
+    "ru": "Если позволит погода, устроим пикник."
+   },
+   {
+    "en": "My parents won't #permit# me to go.",
+    "ru": "Родители не разрешают мне пойти."
+   }
+  ]
  },
  {
   "id": "3170",
   "word": "permit",
   "transcription": "[ˈpɜːmɪt]",
   "translation": "разрешение",
-  "nuance": null,
+  "nuance": "Разрешение (документ). Ударение: PERmit (сущ.), perMIT (глагол).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/permit_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "You need a #permit# to fish here.",
+    "ru": "Чтобы рыбачить здесь, нужно разрешение."
+   },
+   {
+    "en": "He has a work #permit#.",
+    "ru": "У него есть разрешение на работу."
+   },
+   {
+    "en": "Parking #permit# holders only.",
+    "ru": "Только для владельцев парковочного разрешения."
+   }
+  ]
  },
  {
   "id": "3171",
   "word": "permission",
   "transcription": "[pəˈmɪʃən]",
   "translation": "разрешение",
-  "nuance": null,
+  "nuance": "Разрешение (как согласие, неисчисляемое). Permit — документ.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/permission.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Did you ask for #permission#?",
+    "ru": "Ты спросил разрешения?"
+   },
+   {
+    "en": "You need your parents' #permission#.",
+    "ru": "Тебе нужно разрешение родителей."
+   },
+   {
+    "en": "He took my car without #permission#.",
+    "ru": "Он взял мою машину без спроса."
+   }
+  ]
  },
  {
   "id": "3172",
@@ -72397,97 +72917,227 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/widespread.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #widespread# use of phones changed everything.",
+    "ru": "Повсеместное использование телефонов изменило всё."
+   },
+   {
+    "en": "There's #widespread# fear of the virus.",
+    "ru": "Повсюду страх перед вирусом."
+   },
+   {
+    "en": "The problem is #widespread#.",
+    "ru": "Проблема широко распространена."
+   }
+  ]
  },
  {
   "id": "3173",
   "word": "huge",
   "transcription": "[hjuːʤ]",
   "translation": "огромный",
-  "nuance": null,
+  "nuance": "Огромный (разг., частое). Enormous — громадный; vast — обширный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/huge.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They have a #huge# dog that thinks it's small.",
+    "ru": "У них огромная собака, которая считает себя маленькой."
+   },
+   {
+    "en": "It was a #huge# mistake.",
+    "ru": "Это была огромная ошибка."
+   },
+   {
+    "en": "Thanks — that's a #huge# help!",
+    "ru": "Спасибо — это огромная помощь!"
+   }
+  ]
  },
  {
   "id": "3174",
   "word": "check",
   "transcription": "[ʧɛk]",
   "translation": "проверить",
-  "nuance": null,
+  "nuance": "Проверить; амер. check — счёт в ресторане (брит. bill), чек.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/check.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Check# the oven before you leave.",
+    "ru": "Проверь духовку перед уходом."
+   },
+   {
+    "en": "Can I #check# my email?",
+    "ru": "Можно проверить почту?"
+   },
+   {
+    "en": "Can we have the #check#, please?",
+    "ru": "Можно счёт, пожалуйста?"
+   }
+  ]
  },
  {
   "id": "3175",
   "word": "hint",
   "transcription": "[hɪnt]",
   "translation": "намёк, намекать",
-  "nuance": null,
+  "nuance": "Намёк, подсказка; a hint of — чуточку. Take a hint — понять намёк.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/hint.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Give me a #hint#!",
+    "ru": "Дай подсказку!"
+   },
+   {
+    "en": "She #hinted# that she wanted flowers.",
+    "ru": "Она намекнула, что хочет цветов."
+   },
+   {
+    "en": "Add a #hint# of lemon.",
+    "ru": "Добавь немного лимона."
+   }
+  ]
  },
  {
   "id": "3176",
   "word": "genuine",
   "transcription": "[ˈʤɛnjʊɪn]",
   "translation": "подлинный, настоящий",
-  "nuance": null,
+  "nuance": "Подлинный, настоящий; искренний. Real — проще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/genuine.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Is this a #genuine# Rolex?",
+    "ru": "Это настоящий «Ролекс»?"
+   },
+   {
+    "en": "Her smile was #genuine#.",
+    "ru": "Её улыбка была искренней."
+   },
+   {
+    "en": "He's a #genuine# person.",
+    "ru": "Он искренний человек."
+   }
+  ]
  },
  {
   "id": "3177",
   "word": "surge",
   "transcription": "[sɜːʤ]",
   "translation": "волна, всплеск, вздыматься",
-  "nuance": null,
+  "nuance": "Всплеск, резкий подъём, нахлынуть.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/surge.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There was a #surge# of people at the door.",
+    "ru": "У двери возникла давка."
+   },
+   {
+    "en": "I felt a #surge# of anger.",
+    "ru": "Меня захлестнул гнев."
+   },
+   {
+    "en": "Prices #surged# after the news.",
+    "ru": "Цены резко подскочили после новостей."
+   }
+  ]
  },
  {
   "id": "3178",
   "word": "on purpose",
   "transcription": "[ɒnˈpɜːpəs]",
   "translation": "нарочно",
-  "nuance": null,
+  "nuance": "Нарочно, специально. Accidentally / by accident — случайно.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/on_purpose.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He broke it #on purpose#!",
+    "ru": "Он сломал это нарочно!"
+   },
+   {
+    "en": "I didn't do it #on purpose#.",
+    "ru": "Я сделал это не специально."
+   },
+   {
+    "en": "Did you forget my birthday #on purpose#?",
+    "ru": "Ты нарочно забыл про мой день рождения?"
+   }
+  ]
  },
  {
   "id": "3179",
   "word": "boobs",
   "transcription": "[buːbz]",
   "translation": "сиськи",
-  "nuance": null,
+  "nuance": "Грубоватый сленг; нейтрально — breasts, chest.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/boobs.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She's sick of men staring at her #boobs#.",
+    "ru": "Её достало, что мужчины пялятся на её грудь."
+   },
+   {
+    "en": "Sports bras keep your #boobs# in place.",
+    "ru": "Спортивный бюстгальтер хорошо держит грудь."
+   },
+   {
+    "en": "The comedy was full of silly jokes about #boobs#.",
+    "ru": "Комедия была полна глупых шуток про сиськи."
+   }
+  ]
  },
  {
   "id": "3180",
   "word": "grip",
   "transcription": "[grɪp]",
   "translation": "хватать, захват, хватка",
-  "nuance": null,
+  "nuance": "Хватка, крепко держать. Get a grip — взять себя в руки.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/32773/32773_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Keep a firm #grip# on the rope.",
+    "ru": "Крепко держись за верёвку."
+   },
+   {
+    "en": "The baby #gripped# my finger.",
+    "ru": "Малыш схватил меня за палец."
+   },
+   {
+    "en": "Get a #grip#!",
+    "ru": "Возьми себя в руки!"
+   }
+  ]
  },
  {
   "id": "3181",
   "word": "establish",
   "transcription": "[ɪsˈtæblɪʃ]",
   "translation": "установить, учредить",
-  "nuance": null,
+  "nuance": "Основать, учредить; установить (факт), наладить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/establish.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The company was #established# in 1990.",
+    "ru": "Компания была основана в 1990 году."
+   },
+   {
+    "en": "Police #established# the cause of the fire.",
+    "ru": "Полиция установила причину пожара."
+   },
+   {
+    "en": "We #established# a good relationship.",
+    "ru": "Мы наладили хорошие отношения."
+   }
+  ]
  },
  {
   "id": "3182",
