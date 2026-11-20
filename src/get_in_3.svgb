@@ -1,0 +1,7 @@
+<path d="M10 150 H190"/>
+<rect x="50" y="90" width="120" height="50" rx="10" fill="{F}"/>
+<g fill="#000"><rect x="65" y="100" width="20" height="18"/><rect x="95" y="100" width="20" height="18"/><rect x="125" y="100" width="20" height="18"/></g>
+<circle cx="80" cy="145" r="10" fill="#000" stroke-width="4"/>
+<circle cx="145" cy="145" r="10" fill="#000" stroke-width="4"/>
+<path d="M20 110 H40 M15 125 H40" stroke-width="3"/>
+<text x="100" y="60" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">arriving</text>

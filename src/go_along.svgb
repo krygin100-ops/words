@@ -1,0 +1,6 @@
+<circle cx="60" cy="80" r="18" fill="{F}"/>
+<circle cx="140" cy="80" r="18" fill="{F}"/>
+<path d="M40 190 Q40 110 60 110 Q80 110 80 190 M120 190 Q120 110 140 110 Q160 110 160 190" fill="{F}"/>
+<path d="M52 82 Q60 88 68 82 M132 82 Q140 88 148 82" stroke-width="3"/>
+<path d="M120 40 H185 V70 H140 L130 80 V70 H120 Z" fill="{F}"/>
+<text x="152" y="62" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">sure, OK</text>

@@ -1,0 +1,4 @@
+<rect x="40" y="70" width="120" height="90" fill="{F}"/>
+<path d="M100 70 V160 M40 115 H160" stroke="#000" stroke-width="8"/>
+<path d="M100 70 Q80 40 70 50 Q75 65 100 70 Q120 40 130 50 Q125 65 100 70" stroke-width="4"/>
+<text x="100" y="190" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">that's a wrap!</text>

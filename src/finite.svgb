@@ -1,0 +1,4 @@
+<path d="M20 100 H160" stroke-width="5"/>
+<path d="M20 80 V120 M160 70 V130" stroke-width="7"/>
+<circle cx="140" cy="100" r="10" fill="{F}"/>
+<text x="100" y="60" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">has an end</text>

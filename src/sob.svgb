@@ -1,0 +1,5 @@
+<circle cx="100" cy="95" r="45" fill="{F}"/>
+<path d="M78 85 Q86 92 94 85 M106 85 Q114 92 122 85" stroke-width="3"/>
+<path d="M82 125 Q100 108 118 125"/>
+<path d="M86 95 Q75 130 82 150 Q90 130 86 95 Z M114 95 Q125 130 118 150 Q110 130 114 95 Z" fill="{L}" stroke="none"/>
+<text x="100" y="35" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">*sob sob*</text>

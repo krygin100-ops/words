@@ -1,0 +1,4 @@
+<path d="M40 30 V170"/>
+<path d="M40 30 H100 V80 H40" fill="{F}"/>
+<path d="M40 30 H60 V47 H40 Z M60 47 H80 V63 H60 Z M80 30 H100 V47 H80 Z M40 63 H60 V80 H40 Z M80 63 H100 V80 H80 Z" fill="#000"/>
+<text x="140" y="110" font-size="26" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">GO!</text>
