@@ -1,0 +1,8 @@
+<path d="M100 10 V80" stroke-width="2"/>
+<path d="M100 80 Q100 105 85 105 Q72 102 75 90" stroke-width="5"/>
+<path d="M90 95 Q110 85 105 105 Q95 115 90 95" fill="{L}"/>
+<ellipse cx="80" cy="165" rx="35" ry="16" fill="{F}"/>
+<path d="M45 165 L20 150 V180 Z" fill="{F}"/>
+<circle cx="100" cy="160" r="4" fill="{L}" stroke="none"/>
+<path d="M105 145 Q110 125 100 115" stroke-width="2" stroke-dasharray="3 3"/>
+<text x="160" y="140" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">yum?</text>

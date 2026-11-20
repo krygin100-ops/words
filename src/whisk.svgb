@@ -1,0 +1,5 @@
+<path d="M100 120 V185" stroke-width="10"/>
+<path d="M100 120 Q60 80 80 30 Q100 10 120 30 Q140 80 100 120 Z" stroke-width="3"/>
+<path d="M100 120 Q80 70 100 20 Q120 70 100 120" stroke-width="3"/>
+<path d="M40 60 Q30 80 40 100 M160 60 Q170 80 160 100" stroke-width="4"/>
+<text x="160" y="170" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">whoosh</text>

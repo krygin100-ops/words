@@ -1,0 +1,4 @@
+<path d="M150 20 L60 140" stroke-width="7"/>
+<path d="M30 130 L90 170" stroke-width="8"/>
+<path d="M35 135 L25 155 M50 145 L40 165 M65 155 L55 175 M80 165 L70 185" stroke-width="4"/>
+<g fill="{F}"><ellipse cx="150" cy="170" rx="12" ry="7" transform="rotate(-20 150 170)"/><ellipse cx="170" cy="150" rx="10" ry="6" transform="rotate(20 170 150)"/></g>

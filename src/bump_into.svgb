@@ -1,0 +1,5 @@
+<circle cx="70" cy="80" r="18" fill="{F}"/>
+<circle cx="130" cy="80" r="18" fill="{F}"/>
+<path d="M50 190 Q50 110 70 110 Q90 110 90 190 M110 190 Q110 110 130 110 Q150 110 150 190" fill="{F}"/>
+<path d="M100 60 L95 40 M100 60 L110 42 M100 60 L85 50 M100 60 L115 52" stroke-width="3"/>
+<text x="100" y="30" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">BONK</text>

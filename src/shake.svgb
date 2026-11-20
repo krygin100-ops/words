@@ -1,0 +1,5 @@
+<path d="M20 120 Q50 100 80 105 L100 100" stroke-width="12"/>
+<path d="M180 120 Q150 100 120 105 L100 100" stroke-width="12"/>
+<circle cx="100" cy="100" r="18" fill="{F}"/>
+<path d="M100 70 V55 M80 75 L70 65 M120 75 L130 65 M100 130 V145" stroke-width="3"/>
+<text x="100" y="185" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">deal!</text>

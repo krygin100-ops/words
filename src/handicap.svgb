@@ -1,0 +1,7 @@
+<path d="M20 160 H180"/>
+<circle cx="60" cy="80" r="14" fill="{F}"/>
+<path d="M60 94 L55 125 L35 160 M55 125 L75 160 M58 105 L80 110"/>
+<path d="M90 120 V160 M110 120 V160 M90 125 H110" stroke-width="5"/>
+<rect x="130" y="100" width="40" height="15" fill="{F}"/>
+<path d="M135 115 V160 M165 115 V160"/>
+<text x="140" y="60" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">harder</text>
