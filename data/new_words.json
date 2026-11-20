@@ -22772,11 +22772,24 @@
  {
   "id": "unload",
   "word": "unload",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ʌnˈləʊd]",
+  "translation": "разгружать, выгружать",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "#Unloading# the car after a holiday takes longer than the holiday.",
+    "ru": "Разгрузить машину после отпуска дольше, чем сам отпуск."
+   },
+   {
+    "en": "Can you #unload# the dishwasher?",
+    "ru": "Можешь разгрузить посудомойку?"
+   },
+   {
+    "en": "He #unloaded# all his problems on me.",
+    "ru": "Он вывалил на меня все свои проблемы."
+   }
+  ]
  },
  {
   "id": "overlay",
