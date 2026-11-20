@@ -1,0 +1,4 @@
+<circle cx="100" cy="120" r="8" fill="{F}"/>
+<circle cx="100" cy="120" r="40" stroke-width="3" stroke-dasharray="4 4"/>
+<path d="M130 150 L165 185" stroke-width="7"/>
+<text x="100" y="50" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">teeny!</text>

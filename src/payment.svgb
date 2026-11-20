@@ -1,0 +1,5 @@
+<rect x="20" y="60" width="130" height="85" rx="10" fill="{F}"/>
+<path d="M20 85 H150" stroke="#000" stroke-width="12"/>
+<rect x="35" y="110" width="35" height="15" fill="#000"/>
+<path d="M155 120 L170 135 L190 110" stroke-width="5"/>
+<text x="140" y="45" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">PAID</text>

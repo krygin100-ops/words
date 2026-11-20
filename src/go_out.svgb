@@ -1,0 +1,7 @@
+<rect x="20" y="40" width="60" height="140" fill="{F}"/>
+<rect x="30" y="50" width="40" height="130" fill="#000"/>
+<circle cx="130" cy="80" r="15" fill="{F}"/>
+<path d="M130 95 L128 135 L115 175 M128 135 L145 175 M130 105 L150 95 M130 105 L112 112"/>
+<path d="M155 40 L165 30 L175 45" stroke-width="3"/>
+<circle cx="170" cy="65" r="12" fill="{L}" stroke="none"/>
+<text x="140" y="190" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">party!</text>

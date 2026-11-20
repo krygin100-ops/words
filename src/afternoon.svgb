@@ -1,0 +1,5 @@
+<path d="M10 150 H190"/>
+<circle cx="140" cy="80" r="25" fill="{F}"/>
+<path d="M140 45 V35 M175 80 H185 M165 55 L172 48 M115 55 L108 48 M165 105 L172 112" stroke-width="3"/>
+<path d="M30 140 Q100 30 170 140" stroke-width="2" stroke-dasharray="5 5"/>
+<text x="60" y="185" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">3 PM</text>

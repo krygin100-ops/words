@@ -1,0 +1,7 @@
+<rect x="40" y="25" width="120" height="155" rx="8" fill="{F}"/>
+<circle cx="100" cy="75" r="22" fill="#000"/>
+<circle cx="93" cy="72" r="3.5" fill="{L}" stroke="none"/>
+<circle cx="107" cy="72" r="3.5" fill="{L}" stroke="none"/>
+<path d="M92 84 Q100 90 108 84" stroke="{L}" stroke-width="3"/>
+<path d="M65 150 Q65 110 100 110 Q135 110 135 150 Z" fill="#000"/>
+<text x="100" y="172" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">HERO</text>

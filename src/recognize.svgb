@@ -1,0 +1,8 @@
+<circle cx="60" cy="80" r="20" fill="{F}"/>
+<circle cx="52" cy="78" r="5" fill="{L}" stroke="none"/>
+<circle cx="68" cy="78" r="5" fill="{L}" stroke="none"/>
+<ellipse cx="60" cy="92" rx="5" ry="4" fill="#000"/>
+<path d="M35 190 Q35 115 60 115 Q85 115 85 190" fill="{F}"/>
+<circle cx="145" cy="80" r="20" fill="{F}"/>
+<path d="M120 190 Q120 115 145 115 Q170 115 170 190" fill="{F}"/>
+<text x="100" y="40" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">It's YOU!</text>

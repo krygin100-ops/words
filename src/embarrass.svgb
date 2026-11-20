@@ -1,0 +1,6 @@
+<circle cx="100" cy="100" r="45" fill="{F}"/>
+<path d="M82 92 Q88 98 94 92 M106 92 Q112 98 118 92" stroke-width="3"/>
+<path d="M88 120 Q100 115 112 120" stroke-width="3"/>
+<g fill="{L}" stroke="none" opacity="0.7"><ellipse cx="72" cy="110" rx="10" ry="6"/><ellipse cx="128" cy="110" rx="10" ry="6"/></g>
+<path d="M60 40 L70 55 M140 40 L130 55" stroke-width="3"/>
+<text x="100" y="185" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">*blush*</text>

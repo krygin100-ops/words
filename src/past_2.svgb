@@ -1,0 +1,5 @@
+<path d="M180 100 H20 M35 85 L20 100 L35 115" stroke-width="6"/>
+<text x="60" y="70" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">2020</text>
+<text x="150" y="70" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">now</text>
+<circle cx="60" cy="140" r="15" fill="{F}" opacity="0.5"/>
+<circle cx="150" cy="140" r="15" fill="{F}"/>
