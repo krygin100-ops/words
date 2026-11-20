@@ -1,0 +1,7 @@
+<path d="M10 170 H190"/>
+<path d="M30 168 Q100 155 170 168" fill="{L}" opacity="0.5"/>
+<circle cx="90" cy="70" r="15" fill="{F}"/>
+<path d="M95 85 L110 120 L150 115 M110 120 L80 150 M100 95 L60 70 M100 95 L135 80" stroke-width="6"/>
+<ellipse cx="160" cy="160" rx="20" ry="7" fill="{L}"/>
+<path d="M30 80 Q20 60 35 50 M160 50 L175 40" stroke-width="3"/>
+<text x="50" y="140" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">whoa!</text>

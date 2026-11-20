@@ -1,0 +1,5 @@
+<rect x="40" y="70" width="120" height="60" rx="12" fill="{F}"/>
+<path d="M40 100 Q20 100 10 90 M160 100 Q180 100 190 110" stroke-width="5"/>
+<path d="M15 80 L5 70 M185 120 L195 130" stroke-width="3"/>
+<text x="100" y="108" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">stretch</text>
+<text x="100" y="170" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">boing!</text>

@@ -1,0 +1,4 @@
+<rect x="30" y="40" width="140" height="120" rx="4" fill="{F}"/>
+<path d="M45 65 H155 M45 85 H155 M45 105 H130" stroke="#000" stroke-width="4"/>
+<rect x="55" y="115" width="90" height="30" fill="#000" transform="rotate(-15 100 130)"/>
+<text x="100" y="140" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif" transform="rotate(-15 100 130)">VOID</text>

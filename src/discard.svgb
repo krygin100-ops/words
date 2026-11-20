@@ -1,0 +1,6 @@
+<path d="M50 90 H150 L140 180 H60 Z" fill="{F}"/>
+<rect x="40" y="75" width="120" height="15" rx="3" fill="{F}"/>
+<path d="M80 105 V165 M100 105 V165 M120 105 V165" stroke="#000" stroke-width="5"/>
+<rect x="110" y="15" width="40" height="30" fill="{L}" transform="rotate(25 130 30)"/>
+<path d="M90 25 Q100 50 100 70" stroke-width="3" stroke-dasharray="4 4"/>
+<text x="45" y="40" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">bye!</text>
