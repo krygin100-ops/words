@@ -1,3 +1,5 @@
-<path d="M10 60 H190 M30 90 H170 M10 120 H190 M40 150 H160" stroke-width="7" opacity="0.6"/>
-<path d="M90 170 V120 L110 100 L130 120 V170" fill="{F}" opacity="0.4"/>
-<circle cx="50" cy="140" r="15" fill="{F}" opacity="0.4"/>
+<path d="M80 170 V110 L110 80 L140 110 V170 Z" fill="{F}"/>
+<circle cx="50" cy="130" r="20" fill="{F}"/>
+<path d="M50 150 V170"/>
+<path d="M10 60 H190 M30 90 H170 M10 120 H190 M40 150 H160" stroke-width="9" opacity="0.7"/>
+<path d="M10 180 H190"/>
