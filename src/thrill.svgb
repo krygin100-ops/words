@@ -1,0 +1,9 @@
+<circle cx="100" cy="100" r="45" fill="{F}"/>
+<circle cx="83" cy="88" r="10"/>
+<circle cx="117" cy="88" r="10"/>
+<circle cx="83" cy="88" r="4" fill="{L}" stroke="none"/>
+<circle cx="117" cy="88" r="4" fill="{L}" stroke="none"/>
+<path d="M75 112 Q100 140 125 112 Z" fill="#000"/>
+<path d="M45 50 L55 60 M155 50 L145 60 M35 100 H50 M165 100 H150" stroke-width="5"/>
+<path d="M40 150 Q30 160 40 170 M160 150 Q170 160 160 170" stroke-width="3"/>
+<text x="100" y="35" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">WHOA!</text>

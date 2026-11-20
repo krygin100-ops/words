@@ -1,0 +1,4 @@
+<circle cx="80" cy="100" r="40" stroke-width="7"/>
+<path d="M108 128 L140 160" stroke-width="9"/>
+<path d="M60 100 L75 115 L102 85" stroke-width="7"/>
+<text x="160" y="50" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">valid!</text>

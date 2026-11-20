@@ -1,0 +1,8 @@
+<circle cx="60" cy="90" r="22" fill="{F}"/>
+<path d="M50 85 L58 88 M70 85 L62 88" stroke-width="3"/>
+<path d="M50 102 H70" stroke-width="3"/>
+<path d="M30 190 Q30 125 60 125 Q90 125 90 190" fill="{F}"/>
+<path d="M110 60 H180 V140 H110 Z" fill="{F}"/>
+<path d="M120 80 L127 87 L140 73" stroke="#000" stroke-width="3"/>
+<path d="M145 80 H170 M120 105 H170 M120 125 H160" stroke="#000" stroke-width="3"/>
+<text x="60" y="45" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">I should</text>

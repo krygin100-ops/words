@@ -1,0 +1,8 @@
+<circle cx="60" cy="70" r="20" fill="{F}"/>
+<path d="M45 80 Q60 100 75 80" fill="{L}"/>
+<path d="M35 190 Q35 105 60 105 Q85 105 85 190" fill="{F}"/>
+<path d="M85 120 L110 115"/>
+<circle cx="150" cy="90" r="18" fill="{F}"/>
+<path d="M130 190 Q130 120 150 120 Q170 120 170 190" fill="{F}"/>
+<path d="M100 40 H170 V70 H125 L115 80 V70 H100 Z" fill="{F}"/>
+<text x="135" y="61" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">my advice:</text>
