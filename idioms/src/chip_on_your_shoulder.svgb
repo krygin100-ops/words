@@ -1,0 +1,7 @@
+<circle cx="100" cy="70" r="22" fill="{F}"/>
+<path d="M88 63 L96 67 M112 63 L104 67" stroke="#000" stroke-width="3"/>
+<path d="M90 82 Q100 76 110 82" stroke-width="3"/>
+<path d="M60 190 L65 110 Q100 95 135 110 L140 190 Z" fill="{F}"/>
+<path d="M120 105 L150 100 L145 92 Z" fill="{L}"/>
+<path d="M140 80 L152 70 M155 88 L170 85" stroke-width="3"/>
+<text x="60" y="35" font-size="15" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">hmph! unfair!</text>

@@ -1,0 +1,9 @@
+<circle cx="70" cy="80" r="18" fill="{F}"/>
+<path d="M62 76 H68 M72 76 H78" stroke-width="3"/>
+<path d="M62 88 H78" stroke-width="3"/>
+<path d="M70 98 V140 L58 180 M70 140 L82 180 M70 110 L100 100"/>
+<rect x="110" y="80" width="60" height="30" rx="4" fill="{F}"/>
+<text x="140" y="100" font-size="12" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">CANDY</text>
+<path d="M105 70 L175 120 M175 70 L105 120" stroke-width="6"/>
+<g fill="{L}" stroke="none"><path d="M40 40 L43 30 L46 40 L56 43 L46 46 L43 56 L40 46 L30 43 Z"/></g>
+<text x="140" y="150" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">quit NOW!</text>

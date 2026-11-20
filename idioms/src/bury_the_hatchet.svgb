@@ -1,0 +1,11 @@
+<path d="M10 150 H190"/>
+<path d="M10 150 V190 H190 V150" fill="{F}"/>
+<path d="M100 165 V120" stroke-width="7"/>
+<path d="M85 125 L100 110 L115 125 Z" fill="{L}" opacity="0"/>
+<path d="M90 160 L110 160" stroke-width="0"/>
+<circle cx="45" cy="90" r="14" fill="{F}"/>
+<circle cx="155" cy="90" r="14" fill="{F}"/>
+<path d="M38 92 Q45 98 52 92 M148 92 Q155 98 162 92" stroke-width="3"/>
+<path d="M45 104 V150 M155 104 V150 M45 115 L100 108 L155 115"/>
+<path d="M90 40 Q90 28 100 30 Q110 28 110 40 Q110 52 100 60 Q90 52 90 40 Z" fill="{L}" stroke="none"/>
+<text x="100" y="20" font-size="13" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">peace</text>

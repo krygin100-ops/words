@@ -1,0 +1,9 @@
+<circle cx="140" cy="60" r="35" fill="{F}"/>
+<path d="M140 60 V30 M140 60 L138 30" stroke="{L}" stroke-width="5"/>
+<text x="140" y="112" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">11:59:59</text>
+<circle cx="50" cy="110" r="14" fill="{F}"/>
+<path d="M50 124 L60 150 L45 180 M60 150 L80 175 M53 132 L80 125 M53 132 L28 140" stroke-width="5"/>
+<path d="M85 120 L100 115" stroke-width="5"/>
+<rect x="95" y="105" width="20" height="18" fill="{L}"/>
+<path d="M20 110 H35 M15 125 H30" stroke-width="3"/>
+<text x="60" y="40" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">just in time!</text>

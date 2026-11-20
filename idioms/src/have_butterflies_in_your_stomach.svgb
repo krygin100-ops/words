@@ -1,0 +1,7 @@
+<circle cx="100" cy="45" r="18" fill="{F}"/>
+<circle cx="94" cy="42" r="3" fill="{L}"/>
+<circle cx="106" cy="42" r="3" fill="{L}"/>
+<path d="M93 53 L97 50 L100 53 L103 50 L107 53" stroke-width="2"/>
+<ellipse cx="100" cy="120" rx="45" ry="55" fill="{F}"/>
+<g fill="{L}"><path d="M85 100 Q75 88 80 108 Q75 120 87 112 Z M89 100 Q99 88 95 108 Q100 120 89 112 Z"/><path d="M110 140 Q100 128 105 148 Q100 160 112 152 Z M114 140 Q124 128 120 148 Q125 160 114 152 Z"/><path d="M110 85 Q102 76 105 92 Q102 100 111 95 Z M113 85 Q121 76 118 92 Q121 100 113 95 Z"/></g>
+<text x="170" y="120" font-size="13" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">nervous!</text>

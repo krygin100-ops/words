@@ -1,0 +1,6 @@
+<ellipse cx="100" cy="140" rx="75" ry="20" fill="{F}"/>
+<path d="M30 135 Q30 100 100 95 Q170 100 170 135 Z" fill="{L}"/>
+<path d="M50 115 L70 105 M80 110 L100 100 M110 108 L130 100 M140 115 L155 108" stroke="#000" stroke-width="3"/>
+<path d="M80 80 Q75 65 85 55 M100 80 Q95 65 105 55 M120 80 Q115 65 125 55" stroke-width="3"/>
+<text x="100" y="35" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">easy-peasy!</text>
+<text x="100" y="185" font-size="13" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">no effort</text>

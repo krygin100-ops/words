@@ -1,0 +1,11 @@
+<circle cx="60" cy="100" r="30" fill="{L}" opacity="0.7"/>
+<path d="M45 90 L58 95 M75 90 L62 95" stroke="#000" stroke-width="3"/>
+<circle cx="65" cy="98" r="3" fill="#000"/>
+<circle cx="75" cy="98" r="3" fill="#000"/>
+<path d="M50 115 Q60 110 72 116" stroke="#000" stroke-width="3"/>
+<path d="M30 190 Q30 140 60 135 Q90 140 90 190" fill="{F}"/>
+<circle cx="150" cy="90" r="15" fill="{F}"/>
+<path d="M143 92 Q150 98 157 92" stroke-width="3"/>
+<path d="M150 105 V145 L140 180 M150 145 L160 180 M150 115 L175 100"/>
+<path d="M165 75 L175 70 L185 75 L180 85 H170 Z" fill="{L}"/>
+<text x="110" y="40" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">I want that!</text>

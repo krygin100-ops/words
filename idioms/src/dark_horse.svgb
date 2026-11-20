@@ -1,0 +1,8 @@
+<path d="M10 185 H190"/>
+<path d="M50 130 Q50 95 85 95 H130 L150 65 L165 70 L160 100 Q165 125 150 130" fill="{F}"/>
+<path d="M140 75 L135 55 L148 68" fill="{F}"/>
+<circle cx="152" cy="85" r="3" fill="{L}" stroke="none"/>
+<path d="M60 130 V180 M80 130 V180 M120 130 V180 M140 130 V180" stroke-width="7"/>
+<path d="M50 105 Q35 110 30 130" stroke-width="5"/>
+<text x="100" y="40" font-size="30" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">?</text>
+<text x="100" y="65" font-size="12" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">surprise winner</text>

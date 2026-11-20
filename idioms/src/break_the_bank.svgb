@@ -1,0 +1,8 @@
+<ellipse cx="90" cy="120" rx="55" ry="40" fill="{F}"/>
+<circle cx="140" cy="110" r="18" fill="{F}"/>
+<ellipse cx="152" cy="115" rx="8" ry="6" fill="{L}"/>
+<path d="M65 85 L58 70 L75 82" fill="{F}"/>
+<path d="M90 85 L80 105 L95 115 L85 135 L100 150" stroke="#000" stroke-width="4"/>
+<g fill="{L}"><circle cx="40" cy="175" r="8"/><circle cx="70" cy="180" r="8"/><circle cx="110" cy="178" r="8"/><circle cx="140" cy="182" r="8"/></g>
+<path d="M80 75 L72 60 M100 72 L105 55" stroke-width="3"/>
+<text x="150" y="45" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">too pricey!</text>

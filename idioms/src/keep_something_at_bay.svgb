@@ -1,0 +1,11 @@
+<circle cx="60" cy="90" r="16" fill="{F}"/>
+<path d="M53 92 Q60 88 67 92" stroke-width="3"/>
+<path d="M60 106 V145 L50 180 M60 145 L70 180 M60 115 L130 105"/>
+<circle cx="135" cy="105" r="5" fill="{L}"/>
+<ellipse cx="160" cy="140" rx="22" ry="14" fill="{F}"/>
+<circle cx="175" cy="128" r="10" fill="{F}"/>
+<path d="M170 120 L168 110 L176 118" fill="{F}"/>
+<circle cx="178" cy="126" r="2.5" fill="{L}" stroke="none"/>
+<path d="M150 154 V165 M170 154 V165" stroke-width="3"/>
+<path d="M140 90 L130 80 M150 90 L155 78" stroke-width="2" stroke-dasharray="3 3"/>
+<text x="100" y="40" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">stay back!</text>

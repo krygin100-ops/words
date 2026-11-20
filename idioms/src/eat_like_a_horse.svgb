@@ -1,0 +1,7 @@
+<ellipse cx="100" cy="165" rx="85" ry="18" fill="{F}"/>
+<g fill="{L}"><circle cx="50" cy="150" r="15"/><circle cx="80" cy="140" r="17"/><circle cx="115" cy="142" r="16"/><circle cx="150" cy="150" r="15"/><circle cx="100" cy="120" r="15"/></g>
+<path d="M100 85 Q85 60 110 45 L130 40 L140 55 L125 65 Q120 85 100 85 Z" fill="{F}"/>
+<circle cx="125" cy="50" r="3" fill="{L}" stroke="none"/>
+<path d="M115 45 L112 32 L122 42" fill="{F}"/>
+<path d="M125 62 L140 70" stroke-width="3"/>
+<text x="45" y="40" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">MORE!</text>

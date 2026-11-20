@@ -1,0 +1,7 @@
+<path d="M30 150 V90 Q30 60 60 60 Q75 50 90 60 Q120 60 120 90 V150 Z" fill="{L}"/>
+<path d="M40 150 V95 Q40 72 65 72 Q90 72 110 95 V150" stroke="#000" stroke-width="3"/>
+<rect x="120" y="120" width="55" height="30" rx="3" fill="{F}"/>
+<path d="M130 115 L170 100" stroke-width="4"/>
+<rect x="135" y="40" width="50" height="30" rx="4" fill="{F}"/>
+<text x="160" y="61" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">$$$</text>
+<text x="80" y="185" font-size="13" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">main income</text>

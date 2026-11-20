@@ -1,0 +1,11 @@
+<circle cx="60" cy="90" r="15" fill="{F}"/>
+<ellipse cx="60" cy="98" rx="5" ry="4" fill="#000"/>
+<circle cx="55" cy="86" r="3" fill="{L}" stroke="none"/>
+<circle cx="65" cy="86" r="3" fill="{L}" stroke="none"/>
+<path d="M60 105 V145 L50 180 M60 145 L70 180 M60 115 L40 95 M60 115 L80 95"/>
+<path d="M10 30 H95 V60 H55 L45 72 V60 H10 Z" fill="{F}"/>
+<text x="52" y="51" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">WOLF!!</text>
+<g fill="{L}"><circle cx="130" cy="150" r="13"/><circle cx="165" cy="155" r="13"/></g>
+<path d="M120 140 L118 128 M140 140 L142 128 M155 145 L153 133 M175 145 L177 133" stroke-width="3"/>
+<text x="150" y="110" font-size="13" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">again?</text>
+<text x="150" y="190" font-size="12" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">no wolf…</text>

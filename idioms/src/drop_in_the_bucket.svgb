@@ -1,0 +1,6 @@
+<path d="M50 90 H150 L140 180 H60 Z" fill="{F}"/>
+<ellipse cx="100" cy="90" rx="50" ry="10" fill="{L}" opacity="0.5"/>
+<path d="M50 90 Q100 40 150 90" stroke-width="4"/>
+<path d="M100 20 Q108 35 100 42 Q92 35 100 20 Z" fill="{L}" stroke="none"/>
+<path d="M100 50 V75" stroke-width="2" stroke-dasharray="3 3"/>
+<text x="100" y="140" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">so tiny</text>

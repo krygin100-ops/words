@@ -1,0 +1,9 @@
+<path d="M10 150 H70 M130 150 H190" stroke-width="5"/>
+<path d="M120 150 Q160 110 190 150" stroke-width="5"/>
+<path d="M135 135 V150 M160 125 V150 M180 135 V150" stroke-width="3"/>
+<circle cx="40" cy="105" r="13" fill="{F}"/>
+<path d="M34 107 Q40 112 46 107" stroke-width="2"/>
+<path d="M40 118 V135 L30 150 M40 135 L50 150 M40 125 L60 120"/>
+<path d="M70 150 H120" stroke-width="2" stroke-dasharray="5 5"/>
+<text x="100" y="50" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">one step</text>
+<text x="100" y="68" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">at a time</text>

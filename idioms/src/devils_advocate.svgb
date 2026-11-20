@@ -1,0 +1,10 @@
+<circle cx="50" cy="100" r="16" fill="{F}"/>
+<path d="M43 102 Q50 98 57 102" stroke-width="3"/>
+<path d="M50 116 V150 L40 185 M50 150 L60 185"/>
+<circle cx="150" cy="95" r="18" fill="{F}"/>
+<path d="M138 82 L135 68 L145 78 M162 82 L165 68 L155 78" fill="{L}"/>
+<path d="M142 98 Q150 103 158 98" stroke-width="3"/>
+<path d="M150 113 V150 L140 185 M150 150 L160 185 M150 123 L175 110"/>
+<path d="M175 110 L182 95 M178 98 L188 102" stroke-width="3"/>
+<path d="M95 30 H190 V60 H150 L140 72 V60 H95 Z" fill="{F}"/>
+<text x="142" y="50" font-size="12" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">but what if…</text>
