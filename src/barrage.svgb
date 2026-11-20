@@ -1,0 +1,4 @@
+<path d="M10 120 H190" stroke-width="3"/>
+<g fill="{F}"><rect x="20" y="80" width="30" height="40"/><rect x="60" y="80" width="30" height="40"/><rect x="100" y="80" width="30" height="40"/><rect x="140" y="80" width="30" height="40"/></g>
+<path d="M20 80 L50 120 M60 80 L90 120 M100 80 L130 120 M140 80 L170 120" stroke="#000" stroke-width="4"/>
+<text x="100" y="170" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">BLOCKED</text>

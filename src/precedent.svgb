@@ -1,0 +1,6 @@
+<rect x="20" y="70" width="60" height="70" fill="{F}"/>
+<path d="M30 90 H70 M30 105 H70 M30 120 H60" stroke="#000" stroke-width="3"/>
+<path d="M90 105 H120 M110 95 L120 105 L110 115" stroke-width="4"/>
+<rect x="130" y="70" width="50" height="70" fill="{F}" opacity="0.5"/>
+<text x="50" y="55" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">1999</text>
+<text x="155" y="55" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">now</text>

@@ -1,0 +1,6 @@
+<rect x="30" y="110" width="140" height="15" fill="{F}"/>
+<path d="M45 125 V170 M155 125 V170"/>
+<g fill="{F}"><rect x="50" y="85" width="25" height="25"/><circle cx="110" cy="95" r="12"/><rect x="135" y="75" width="20" height="35"/></g>
+<circle cx="100" cy="50" r="18" fill="{F}"/>
+<path d="M90 52 Q100 60 110 52" stroke-width="3"/>
+<text x="160" y="35" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">handy!</text>

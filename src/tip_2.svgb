@@ -1,0 +1,7 @@
+<circle cx="60" cy="80" r="22" fill="{F}"/>
+<path d="M50 82 Q60 90 70 82" stroke-width="3"/>
+<path d="M30 190 Q30 115 60 115 Q90 115 90 190" fill="{F}"/>
+<path d="M100 40 H185 V100 H130 L115 115 V100 H100 Z" fill="{F}"/>
+<circle cx="142" cy="62" r="12" fill="{L}"/>
+<path d="M137 77 H147" stroke="#000" stroke-width="3"/>
+<text x="142" y="94" font-size="12" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">pro tip</text>

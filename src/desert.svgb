@@ -1,0 +1,7 @@
+<path d="M10 180 H190"/>
+<circle cx="50" cy="140" r="14" fill="{F}"/>
+<path d="M38 180 Q38 158 50 158 Q62 158 62 180" fill="{F}"/>
+<path d="M45 138 Q50 134 55 138" stroke-width="2"/>
+<circle cx="150" cy="90" r="14" fill="{F}" opacity="0.6"/>
+<path d="M150 104 L148 135 L135 170 M148 135 L165 170 M150 112 L168 105" opacity="0.6"/>
+<text x="60" y="100" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">wait!</text>

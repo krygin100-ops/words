@@ -1,0 +1,6 @@
+<circle cx="80" cy="90" r="25" fill="{F}"/>
+<path d="M68 88 Q73 92 78 88 M82 88 Q87 92 92 88" stroke-width="3"/>
+<path d="M70 106 Q80 100 90 106" stroke-width="3"/>
+<path d="M50 190 Q50 125 80 125 Q110 125 110 190" fill="{F}"/>
+<path d="M115 50 H185 V90 H140 L125 105 V90 H115 Z" fill="{F}"/>
+<text x="150" y="77" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">I admit it...</text>

@@ -1,0 +1,4 @@
+<path d="M100 30 C70 50 50 55 40 55 V100 Q40 155 100 180 Q160 155 160 100 V55 C150 55 130 50 100 30 Z" fill="{F}"/>
+<path d="M70 80 L130 140 M130 80 L70 140" stroke="#000" stroke-width="10"/>
+<path d="M20 30 L40 50 M180 30 L160 50" stroke-width="5"/>
+<text x="100" y="22" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">ATTACK!</text>

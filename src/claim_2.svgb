@@ -1,0 +1,6 @@
+<circle cx="60" cy="90" r="22" fill="{F}"/>
+<path d="M48 85 L56 88 M72 85 L64 88" stroke-width="3"/>
+<ellipse cx="60" cy="102" rx="6" ry="4" fill="#000"/>
+<path d="M30 190 Q30 125 60 125 Q90 125 90 190" fill="{F}"/>
+<path d="M95 50 H185 V100 H130 L115 115 V100 H95 Z" fill="{F}"/>
+<text x="140" y="80" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">it's TRUE!</text>
