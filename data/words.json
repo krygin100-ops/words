@@ -77744,30 +77744,69 @@
   "word": "enterprise",
   "transcription": "[ˈɛntəpraɪz]",
   "translation": "предприятие,\nпредпринимательство",
-  "nuance": null,
+  "nuance": "Предприятие (книжн.); предприимчивость. Business, company — проще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/enterprise.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She runs a small #enterprise# selling cakes.",
+    "ru": "У неё небольшое предприятие по продаже тортов."
+   },
+   {
+    "en": "Free #enterprise# made the city rich.",
+    "ru": "Свободное предпринимательство сделало город богатым."
+   },
+   {
+    "en": "It took #enterprise# to start a business at 70.",
+    "ru": "Чтобы начать бизнес в 70, нужна предприимчивость."
+   }
+  ]
  },
  {
   "id": "3383",
   "word": "dusk",
   "transcription": "[dʌsk]",
   "translation": "смеркаться",
-  "nuance": null,
+  "nuance": "Сумерки. Twilight — сумерки (поэтичнее).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/3176/3176_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We got home at #dusk#.",
+    "ru": "Мы вернулись домой в сумерках."
+   },
+   {
+    "en": "Bats come out at #dusk#.",
+    "ru": "Летучие мыши вылетают в сумерках."
+   },
+   {
+    "en": "From dawn to #dusk#.",
+    "ru": "От рассвета до заката."
+   }
+  ]
  },
  {
   "id": "3384",
   "word": "dusky",
   "transcription": "[ˈdʌski]",
   "translation": "сумеречный",
-  "nuance": null,
+  "nuance": "Сумеречный, тёмный; о цвете — приглушённый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dusky.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #dusky# sky turned purple.",
+    "ru": "Сумеречное небо стало фиолетовым."
+   },
+   {
+    "en": "We walked through the #dusky# forest.",
+    "ru": "Мы шли по сумрачному лесу."
+   },
+   {
+    "en": "A #dusky# pink dress.",
+    "ru": "Платье цвета пыльной розы."
+   }
+  ]
  },
  {
   "id": "3385",
@@ -77777,47 +77816,112 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/circumstance.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Under no #circumstances# open this door!",
+    "ru": "Ни при каких обстоятельствах не открывай эту дверь!"
+   },
+   {
+    "en": "In the #circumstances#, we did our best.",
+    "ru": "В этих обстоятельствах мы сделали всё, что могли."
+   },
+   {
+    "en": "Due to #circumstances# beyond our control, the flight is cancelled.",
+    "ru": "По не зависящим от нас обстоятельствам рейс отменён."
+   }
+  ]
  },
  {
   "id": "3386",
   "word": "bite (bit, bitten)",
   "transcription": "[baɪt]",
   "translation": "кусать, укус",
-  "nuance": null,
+  "nuance": "Кусать, укус; a bite — кусочек; grab a bite — перекусить.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/4700/4700_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The dog #bit# the postman. Again.",
+    "ru": "Собака снова укусила почтальона."
+   },
+   {
+    "en": "Can I have a #bite# of your sandwich?",
+    "ru": "Можно откусить твой бутерброд?"
+   },
+   {
+    "en": "Mosquito #bites# itch like crazy.",
+    "ru": "Укусы комаров ужасно чешутся."
+   }
+  ]
  },
  {
   "id": "3387",
   "word": "lie",
   "transcription": "[laɪ]",
   "translation": "лгать, ложь",
-  "nuance": null,
+  "nuance": "Лгать (lied, lied). Не путать с lie — лежать (lay, lain)!",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/lie.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #lie# to me!",
+    "ru": "Не ври мне!"
+   },
+   {
+    "en": "He told a #lie# about his age.",
+    "ru": "Он соврал про свой возраст."
+   },
+   {
+    "en": "The cat looks innocent, but it's a #lie#.",
+    "ru": "Кот выглядит невинным, но это ложь."
+   }
+  ]
  },
  {
   "id": "3388",
   "word": "tell lies",
   "transcription": "[tɛllaɪz]",
   "translation": "врать",
-  "nuance": null,
+  "nuance": "Tell lies — врать (не say lies!). Tell the truth — говорить правду.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tell_lies.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Kids sometimes #tell lies#.",
+    "ru": "Дети иногда врут."
+   },
+   {
+    "en": "He #tells lies# about his salary.",
+    "ru": "Он врёт о своей зарплате."
+   },
+   {
+    "en": "Stop #telling lies#!",
+    "ru": "Хватит врать!"
+   }
+  ]
  },
  {
   "id": "3389",
   "word": "condemn",
   "transcription": "[kənˈdɛm]",
   "translation": "осуждать",
-  "nuance": null,
+  "nuance": "Осуждать (публично), приговаривать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/condemn.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Everyone #condemned# the attack.",
+    "ru": "Все осудили нападение."
+   },
+   {
+    "en": "The building was #condemned# — nobody can live there.",
+    "ru": "Здание признали непригодным — там нельзя жить."
+   },
+   {
+    "en": "He was #condemned# to death.",
+    "ru": "Его приговорили к смерти."
+   }
+  ]
  },
  {
   "id": "3390",
@@ -77827,27 +77931,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/condemnation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The attack drew #condemnation# from around the world.",
+    "ru": "Нападение вызвало осуждение во всём мире."
+   },
+   {
+    "en": "There was strong #condemnation# of the new law.",
+    "ru": "Новый закон резко осудили."
+   },
+   {
+    "en": "Her #condemnation# of the plan was harsh.",
+    "ru": "Её осуждение плана было резким."
+   }
+  ]
  },
  {
   "id": "3391",
   "word": "get back at",
   "transcription": "[gɛtbækæt]",
   "translation": "отомстить",
-  "nuance": null,
+  "nuance": "Отомстить (разг., мелочно). Take revenge — офиц./серьёзно.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/get_back_at.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He ate my lunch, so I'll #get back at# him.",
+    "ru": "Он съел мой обед, так что я ему отомщу."
+   },
+   {
+    "en": "She #got back at# her brother by hiding his phone.",
+    "ru": "Она отомстила брату, спрятав его телефон."
+   },
+   {
+    "en": "Don't try to #get back at# people.",
+    "ru": "Не пытайся мстить людям."
+   }
+  ]
  },
  {
   "id": "3392",
   "word": "extract",
   "transcription": "[ˈɛkstrækt]",
   "translation": "извлекать",
-  "nuance": null,
+  "nuance": "Извлекать, удалять (тех./мед.). Pull out — разг.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/11751/11751_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The dentist #extracted# my tooth.",
+    "ru": "Стоматолог удалил мне зуб."
+   },
+   {
+    "en": "They #extract# oil from the sea.",
+    "ru": "Они добывают нефть из моря."
+   },
+   {
+    "en": "I finally #extracted# the truth from him.",
+    "ru": "Я наконец выпытал у него правду."
+   }
+  ]
  },
  {
   "id": "3393",
@@ -77857,47 +78000,112 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/extraction.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Tooth #extraction# isn't fun.",
+    "ru": "Удаление зуба — не веселье."
+   },
+   {
+    "en": "Oil #extraction# harms the environment.",
+    "ru": "Нефтедобыча вредит природе."
+   },
+   {
+    "en": "The #extraction# of data takes time.",
+    "ru": "Извлечение данных занимает время."
+   }
+  ]
  },
  {
   "id": "3394",
   "word": "tell on",
   "transcription": "[tɛl ɒn]",
   "translation": "донести на кого-то",
-  "nuance": null,
+  "nuance": "Разг./детское: ябедничать, донести.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tell_on.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My sister always #tells on# me.",
+    "ru": "Сестра всегда на меня ябедничает."
+   },
+   {
+    "en": "Don't #tell on# me — I'll give you candy!",
+    "ru": "Не выдавай меня — дам конфету!"
+   },
+   {
+    "en": "He #told on# his friend to the teacher.",
+    "ru": "Он наябедничал учителю на друга."
+   }
+  ]
  },
  {
   "id": "3395",
   "word": "welcome",
   "transcription": "[ˈwɛlkəm]",
   "translation": "желанный, приятный",
-  "nuance": null,
+  "nuance": "Желанный; you're welcome — пожалуйста (ответ на спасибо).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/welcome.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "You're always #welcome# here.",
+    "ru": "Тебе здесь всегда рады."
+   },
+   {
+    "en": "A cold drink would be #welcome#.",
+    "ru": "Холодный напиток был бы кстати."
+   },
+   {
+    "en": "\"Thank you!\" — \"You're #welcome#!\"",
+    "ru": "«Спасибо!» — «Пожалуйста!»"
+   }
+  ]
  },
  {
   "id": "3396",
   "word": "present",
   "transcription": "[ˈprɛznt]",
   "translation": "настоящее (время)",
-  "nuance": null,
+  "nuance": "Настоящее (время), нынешний; also подарок, присутствующий.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/present.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Live in the #present#.",
+    "ru": "Живи настоящим."
+   },
+   {
+    "en": "At #present#, he's working in Berlin.",
+    "ru": "В настоящее время он работает в Берлине."
+   },
+   {
+    "en": "The #present# situation isn't great.",
+    "ru": "Нынешняя ситуация не очень."
+   }
+  ]
  },
  {
   "id": "3397",
   "word": "presently",
   "transcription": "[ˈprɛzntli]",
   "translation": "в настоящее время",
-  "nuance": null,
+  "nuance": "Амер. — сейчас; брит. — вскоре. Currently — сейчас (однозначнее).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/presently.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's #presently# working abroad.",
+    "ru": "Сейчас он работает за границей."
+   },
+   {
+    "en": "The doctor will see you #presently#.",
+    "ru": "Врач скоро вас примет."
+   },
+   {
+    "en": "#Presently#, the rain stopped.",
+    "ru": "Вскоре дождь прекратился."
+   }
+  ]
  },
  {
   "id": "3398",
@@ -77907,17 +78115,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/deal_in.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They #deal in# antiques.",
+    "ru": "Они торгуют антиквариатом."
+   },
+   {
+    "en": "He #deals in# used cars.",
+    "ru": "Он занимается подержанными машинами."
+   },
+   {
+    "en": "We don't #deal in# rumours.",
+    "ru": "Мы не занимаемся слухами."
+   }
+  ]
  },
  {
   "id": "3399",
   "word": "stand for",
   "transcription": "[stændfɔː]",
   "translation": "выступать за",
-  "nuance": null,
+  "nuance": "Означать (сокращение); выступать за; won't stand for — не потерплю.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stand_for.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "What does \"UN\" #stand for#?",
+    "ru": "Что означает «ООН»?"
+   },
+   {
+    "en": "I #stand for# equal rights.",
+    "ru": "Я выступаю за равные права."
+   },
+   {
+    "en": "I won't #stand for# this behaviour!",
+    "ru": "Я не потерплю такого поведения!"
+   }
+  ]
  },
  {
   "id": "3400",
@@ -77927,37 +78161,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stand_against.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #stood against# the new rules.",
+    "ru": "Она выступила против новых правил."
+   },
+   {
+    "en": "Many people #stand against# war.",
+    "ru": "Многие выступают против войны."
+   },
+   {
+    "en": "He #stood against# the mayor in the election.",
+    "ru": "Он баллотировался против мэра."
+   }
+  ]
  },
  {
   "id": "3401",
   "word": "neat",
   "transcription": "[niːt]",
   "translation": "аккуратный, опрятный",
-  "nuance": null,
+  "nuance": "Аккуратный, опрятный; амер. разг. neat — классный. Neat whisky — неразбавленный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/neat.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His room is always #neat#.",
+    "ru": "В его комнате всегда порядок."
+   },
+   {
+    "en": "She has #neat# handwriting.",
+    "ru": "У неё аккуратный почерк."
+   },
+   {
+    "en": "That's a #neat# idea!",
+    "ru": "Классная идея!"
+   }
+  ]
  },
  {
   "id": "3402",
   "word": "do away with",
   "transcription": "[duːəˈweɪwɪð]",
   "translation": "покончить, избавиться",
-  "nuance": null,
+  "nuance": "Покончить с, отменить (правило, традицию).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/do_away_with.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We should #do away with# plastic bags.",
+    "ru": "Нам стоит отказаться от пластиковых пакетов."
+   },
+   {
+    "en": "The school #did away with# uniforms.",
+    "ru": "Школа отменила форму."
+   },
+   {
+    "en": "Let's #do away with# all these meetings.",
+    "ru": "Давай избавимся от всех этих совещаний."
+   }
+  ]
  },
  {
   "id": "3403",
   "word": "mortal",
   "transcription": "[ˈmɔːtl]",
   "translation": "смертельный, смертный",
-  "nuance": null,
+  "nuance": "Смертный; смертельный. Deadly — смертоносный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/mortal.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "All humans are #mortal#.",
+    "ru": "Все люди смертны."
+   },
+   {
+    "en": "It was a #mortal# wound.",
+    "ru": "Это была смертельная рана."
+   },
+   {
+    "en": "They're #mortal# enemies.",
+    "ru": "Они смертельные враги."
+   }
+  ]
  },
  {
   "id": "3404",
@@ -77967,7 +78253,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/mortality.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Infant #mortality# has fallen.",
+    "ru": "Детская смертность снизилась."
+   },
+   {
+    "en": "The #mortality# rate is high in this disease.",
+    "ru": "При этой болезни высокая смертность."
+   },
+   {
+    "en": "Getting older makes you think about #mortality#.",
+    "ru": "С возрастом задумываешься о смертности."
+   }
+  ]
  },
  {
   "id": "3405",
@@ -77977,7 +78276,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/immortal.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Gods in myths are #immortal#.",
+    "ru": "Боги в мифах бессмертны."
+   },
+   {
+    "en": "Shakespeare's plays are #immortal#.",
+    "ru": "Пьесы Шекспира бессмертны."
+   },
+   {
+    "en": "My cat thinks he's #immortal#.",
+    "ru": "Мой кот считает себя бессмертным."
+   }
+  ]
  },
  {
   "id": "3406",
@@ -77987,47 +78299,112 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/immortality.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "People have always dreamed of #immortality#.",
+    "ru": "Люди всегда мечтали о бессмертии."
+   },
+   {
+    "en": "The song gave him #immortality#.",
+    "ru": "Песня принесла ему бессмертие."
+   },
+   {
+    "en": "Is #immortality# a gift or a curse?",
+    "ru": "Бессмертие — дар или проклятие?"
+   }
+  ]
  },
  {
   "id": "3407",
   "word": "kick back",
   "transcription": "[kɪkbæk]",
   "translation": "расслабиться",
-  "nuance": null,
+  "nuance": "Разг. амер.: расслабиться, отдохнуть.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/kick_back.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Let's #kick back# and watch a film.",
+    "ru": "Давай расслабимся и посмотрим фильм."
+   },
+   {
+    "en": "On Sundays, I #kick back# with a book.",
+    "ru": "По воскресеньям я расслабляюсь с книгой."
+   },
+   {
+    "en": "Time to #kick back# — the week is over!",
+    "ru": "Пора отдохнуть — неделя закончилась!"
+   }
+  ]
  },
  {
   "id": "3408",
   "word": "hip",
   "transcription": "[hɪp]",
   "translation": "таз, поясница",
-  "nuance": null,
+  "nuance": "Бедро (сбоку), таз. Сленг hip — модный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/hip.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She hurt her #hip# when she fell.",
+    "ru": "Она ушибла бедро, когда упала."
+   },
+   {
+    "en": "Grandpa had a #hip# replacement.",
+    "ru": "Дедушке заменили тазобедренный сустав."
+   },
+   {
+    "en": "Put your hands on your #hips#.",
+    "ru": "Поставь руки на бёдра."
+   }
+  ]
  },
  {
   "id": "3409",
   "word": "vessel",
   "transcription": "[ˈvɛsl]",
   "translation": "сосуд",
-  "nuance": null,
+  "nuance": "Сосуд (кровеносный, ёмкость); судно (офиц.).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/29706/29706_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Blood #vessels# carry blood.",
+    "ru": "Кровеносные сосуды переносят кровь."
+   },
+   {
+    "en": "They found an ancient clay #vessel#.",
+    "ru": "Нашли древний глиняный сосуд."
+   },
+   {
+    "en": "The fishing #vessel# returned to port.",
+    "ru": "Рыболовецкое судно вернулось в порт."
+   }
+  ]
  },
  {
   "id": "3410",
   "word": "execute",
   "transcription": "[ˈɛksɪkjuːt]",
   "translation": "исполнить",
-  "nuance": null,
+  "nuance": "Выполнить (офиц.); также казнить. Carry out — проще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/execute.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #executed# the plan perfectly.",
+    "ru": "Мы идеально выполнили план."
+   },
+   {
+    "en": "The dancer #executed# a perfect jump.",
+    "ru": "Танцор исполнил идеальный прыжок."
+   },
+   {
+    "en": "He was #executed# in 1820.",
+    "ru": "Его казнили в 1820 году."
+   }
+  ]
  },
  {
   "id": "3411",
@@ -78037,37 +78414,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/execution.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Good ideas need good #execution#.",
+    "ru": "Хорошим идеям нужно хорошее исполнение."
+   },
+   {
+    "en": "The #execution# of the plan took a year.",
+    "ru": "Выполнение плана заняло год."
+   },
+   {
+    "en": "Public #executions# were common in the past.",
+    "ru": "Раньше публичные казни были обычным делом."
+   }
+  ]
  },
  {
   "id": "3412",
   "word": "executive",
   "transcription": "[ɪgˈzɛkjʊtɪv]",
   "translation": "исполнитель, должностное лицо",
-  "nuance": null,
+  "nuance": "Руководитель (топ-менеджер); исполнительный (власть).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/executive.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She's a senior #executive# at Google.",
+    "ru": "Она топ-менеджер в Google."
+   },
+   {
+    "en": "The #executive# director resigned.",
+    "ru": "Исполнительный директор ушёл в отставку."
+   },
+   {
+    "en": "#Executive# class tickets are expensive.",
+    "ru": "Билеты бизнес-класса дорогие."
+   }
+  ]
  },
  {
   "id": "3413",
   "word": "deer",
   "transcription": "[dɪə]",
   "translation": "олень",
-  "nuance": null,
+  "nuance": "Мн.ч. тоже deer (не deers!).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/3263/3263_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We saw a #deer# in the forest.",
+    "ru": "Мы видели оленя в лесу."
+   },
+   {
+    "en": "Two #deer# crossed the road.",
+    "ru": "Дорогу перешли два оленя."
+   },
+   {
+    "en": "She froze like a #deer# in headlights.",
+    "ru": "Она застыла как олень в свете фар."
+   }
+  ]
  },
  {
   "id": "3414",
   "word": "reindeer",
   "transcription": "[ˈreɪndɪə]",
   "translation": "северный олень",
-  "nuance": null,
+  "nuance": "Мн.ч. тоже reindeer.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/9069/9069_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Santa's #reindeer# pull his sleigh.",
+    "ru": "Олени Санты тянут его сани."
+   },
+   {
+    "en": "We fed #reindeer# in Lapland.",
+    "ru": "Мы кормили северных оленей в Лапландии."
+   },
+   {
+    "en": "Rudolph is a red-nosed #reindeer#.",
+    "ru": "Рудольф — северный олень с красным носом."
+   }
+  ]
  },
  {
   "id": "3415",
@@ -78077,7 +78506,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tune_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Tune# the guitar before you play.",
+    "ru": "Настрой гитару, прежде чем играть."
+   },
+   {
+    "en": "#Tune# in to our show every Sunday!",
+    "ru": "Смотрите нашу программу каждое воскресенье!"
+   },
+   {
+    "en": "The mechanic #tuned# the engine.",
+    "ru": "Механик отрегулировал двигатель."
+   }
+  ]
  },
  {
   "id": "3416",
@@ -78087,37 +78529,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tuning.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The piano needs #tuning#.",
+    "ru": "Пианино нужно настроить."
+   },
+   {
+    "en": "Engine #tuning# improved the speed.",
+    "ru": "Настройка двигателя увеличила скорость."
+   },
+   {
+    "en": "Fine #tuning# takes time.",
+    "ru": "Тонкая настройка требует времени."
+   }
+  ]
  },
  {
   "id": "3417",
   "word": "bank",
   "transcription": "[bæŋk]",
   "translation": "берег (реки, озера)",
-  "nuance": null,
+  "nuance": "Берег реки/озера. Coast/shore — морской берег. Также банк.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/bank.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We had a picnic on the river #bank#.",
+    "ru": "Мы устроили пикник на берегу реки."
+   },
+   {
+    "en": "The boat stopped at the #bank#.",
+    "ru": "Лодка остановилась у берега."
+   },
+   {
+    "en": "Flowers grew along the #banks# of the lake.",
+    "ru": "Цветы росли по берегам озера."
+   }
+  ]
  },
  {
   "id": "3418",
   "word": "appropriate",
   "transcription": "[əˈprəʊprɪɪt]",
   "translation": "подходящий",
-  "nuance": null,
+  "nuance": "Уместный, подходящий (по нормам). Suitable — подходящий (по цели).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/appropriate_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Jeans aren't #appropriate# for the wedding.",
+    "ru": "Джинсы не подходят для свадьбы."
+   },
+   {
+    "en": "Is this film #appropriate# for kids?",
+    "ru": "Этот фильм подходит для детей?"
+   },
+   {
+    "en": "Wear #appropriate# shoes.",
+    "ru": "Надень подходящую обувь."
+   }
+  ]
  },
  {
   "id": "3419",
   "word": "propriety",
   "transcription": "[prəˈpraɪəti]",
   "translation": "правильность, уместность",
-  "nuance": null,
+  "nuance": "Книжное: приличие, пристойность, уместность.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/propriety.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He always behaves with #propriety#.",
+    "ru": "Он всегда ведёт себя пристойно."
+   },
+   {
+    "en": "They questioned the #propriety# of the decision.",
+    "ru": "Они усомнились в правомерности решения."
+   },
+   {
+    "en": "Rules of #propriety# were strict in the past.",
+    "ru": "Раньше правила приличия были строгими."
+   }
+  ]
  },
  {
   "id": "3420",
@@ -78127,37 +78621,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/free_up.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Getting a dishwasher #freed up# my evenings.",
+    "ru": "Посудомойка освободила мне вечера."
+   },
+   {
+    "en": "#Free up# some space on your phone.",
+    "ru": "Освободи место на телефоне."
+   },
+   {
+    "en": "Can you #free up# an hour tomorrow?",
+    "ru": "Можешь выкроить час завтра?"
+   }
+  ]
  },
  {
   "id": "3421",
   "word": "integrity",
   "transcription": "[ɪnˈtɛgrɪti]",
   "translation": "целостность",
-  "nuance": null,
+  "nuance": "Целостность (тех.); также честность (другое значение).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/integrity_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #integrity# of the bridge was checked.",
+    "ru": "Проверили целостность моста."
+   },
+   {
+    "en": "The software protects data #integrity#.",
+    "ru": "Программа защищает целостность данных."
+   },
+   {
+    "en": "Rain damaged the #integrity# of the roof.",
+    "ru": "Дождь повредил целостность крыши."
+   }
+  ]
  },
  {
   "id": "3422",
   "word": "integral",
   "transcription": "[ˈɪntɪgrəl]",
   "translation": "целостный",
-  "nuance": null,
+  "nuance": "Неотъемлемый, составной. Essential — необходимый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/integral.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Music is an #integral# part of my life.",
+    "ru": "Музыка — неотъемлемая часть моей жизни."
+   },
+   {
+    "en": "The pool is #integral# to the hotel.",
+    "ru": "Бассейн — неотъемлемая часть отеля."
+   },
+   {
+    "en": "Teamwork is #integral# to success.",
+    "ru": "Работа в команде — неотъемлемая часть успеха."
+   }
+  ]
  },
  {
   "id": "3423",
   "word": "peel",
   "transcription": "[piːl]",
   "translation": "кожура, очищать",
-  "nuance": null,
+  "nuance": "Чистить (кожуру), кожура; облезать.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/5537/5537_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Peel# the potatoes.",
+    "ru": "Почисти картошку."
+   },
+   {
+    "en": "I slipped on a banana #peel#.",
+    "ru": "Я поскользнулся на банановой кожуре."
+   },
+   {
+    "en": "My nose is #peeling# after the sun.",
+    "ru": "После солнца у меня облезает нос."
+   }
+  ]
  },
  {
   "id": "3424",
@@ -78167,7 +78713,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/passion.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Football is his #passion#.",
+    "ru": "Футбол — его страсть."
+   },
+   {
+    "en": "She sings with real #passion#.",
+    "ru": "Она поёт с настоящей страстью."
+   },
+   {
+    "en": "Follow your #passion#.",
+    "ru": "Следуй за своей страстью."
+   }
+  ]
  },
  {
   "id": "3425",
@@ -78177,7 +78736,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/passionate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's #passionate# about cooking.",
+    "ru": "Он страстно увлечён готовкой."
+   },
+   {
+    "en": "They had a #passionate# argument.",
+    "ru": "У них был жаркий спор."
+   },
+   {
+    "en": "She gave a #passionate# speech.",
+    "ru": "Она произнесла пламенную речь."
+   }
+  ]
  },
  {
   "id": "3426",
@@ -78187,7 +78759,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/10187/10187_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Cover# the pot with a lid.",
+    "ru": "Накрой кастрюлю крышкой."
+   },
+   {
+    "en": "Snow #covered# the whole town.",
+    "ru": "Снег покрыл весь город."
+   },
+   {
+    "en": "The insurance #covers# everything.",
+    "ru": "Страховка покрывает всё."
+   }
+  ]
  },
  {
   "id": "3427",
@@ -78197,7 +78782,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/coverage.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's no phone #coverage# in the mountains.",
+    "ru": "В горах нет покрытия сети."
+   },
+   {
+    "en": "The news #coverage# was huge.",
+    "ru": "Освещение в новостях было масштабным."
+   },
+   {
+    "en": "Check your insurance #coverage#.",
+    "ru": "Проверь покрытие страховки."
+   }
+  ]
  },
  {
   "id": "3428",
@@ -78207,7 +78805,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/uncover.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Police #uncovered# the truth.",
+    "ru": "Полиция раскрыла правду."
+   },
+   {
+    "en": "They #uncovered# an old wall under the floor.",
+    "ru": "Под полом обнаружили старую стену."
+   },
+   {
+    "en": "The journalist #uncovered# a scandal.",
+    "ru": "Журналист раскрыл скандал."
+   }
+  ]
  },
  {
   "id": "3429",
@@ -78217,17 +78828,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/undercover.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He worked as an #undercover# police officer.",
+    "ru": "Он работал полицейским под прикрытием."
+   },
+   {
+    "en": "She went #undercover# to find the truth.",
+    "ru": "Она внедрилась под прикрытием, чтобы узнать правду."
+   },
+   {
+    "en": "The film is about an #undercover# agent.",
+    "ru": "Фильм о тайном агенте."
+   }
+  ]
  },
  {
   "id": "3430",
   "word": "decorate",
   "transcription": "[ˈdɛkəreɪt]",
   "translation": "украшать",
-  "nuance": null,
+  "nuance": "Украшать; брит. — делать косметический ремонт.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/7008/7008_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #decorated# the Christmas tree.",
+    "ru": "Мы нарядили ёлку."
+   },
+   {
+    "en": "She #decorated# the cake with strawberries.",
+    "ru": "Она украсила торт клубникой."
+   },
+   {
+    "en": "We're #decorating# the bedroom.",
+    "ru": "Мы делаем ремонт в спальне."
+   }
+  ]
  },
  {
   "id": "3431",
@@ -78237,7 +78874,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/7008/7008_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The kids made Christmas #decorations#.",
+    "ru": "Дети сделали ёлочные украшения."
+   },
+   {
+    "en": "The #decoration# of the room took a day.",
+    "ru": "Оформление комнаты заняло день."
+   },
+   {
+    "en": "He got a #decoration# for bravery.",
+    "ru": "Он получил награду за храбрость."
+   }
+  ]
  },
  {
   "id": "3432",
