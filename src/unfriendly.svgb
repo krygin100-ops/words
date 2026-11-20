@@ -1,0 +1,7 @@
+<circle cx="100" cy="100" r="45" fill="{F}"/>
+<path d="M75 85 L95 92 M125 85 L105 92" stroke-width="5"/>
+<circle cx="86" cy="98" r="3.5" fill="{L}" stroke="none"/>
+<circle cx="114" cy="98" r="3.5" fill="{L}" stroke="none"/>
+<path d="M82 128 Q100 115 118 128"/>
+<path d="M150 150 L170 130 M160 140 L180 160" stroke-width="0"/>
+<text x="100" y="185" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">go away</text>

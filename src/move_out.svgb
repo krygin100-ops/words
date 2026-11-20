@@ -1,0 +1,8 @@
+<path d="M20 110 L60 75 L100 110"/>
+<rect x="30" y="105" width="60" height="70" fill="{F}"/>
+<rect x="50" y="135" width="20" height="40" fill="#000"/>
+<rect x="110" y="115" width="80" height="45" fill="{F}"/>
+<circle cx="125" cy="165" r="10" fill="#000" stroke-width="4"/>
+<circle cx="175" cy="165" r="10" fill="#000" stroke-width="4"/>
+<g fill="#000"><rect x="120" y="125" width="20" height="25"/><rect x="145" y="130" width="25" height="20"/></g>
+<text x="150" y="80" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">bye house</text>

@@ -1,0 +1,6 @@
+<path d="M40 80 Q60 60 90 80 L100 95" stroke-width="10"/>
+<path d="M40 130 Q60 150 90 125 L100 110" stroke-width="10"/>
+<ellipse cx="135" cy="100" rx="40" ry="35" fill="{F}"/>
+<path d="M100 100 L110 100" stroke-width="3"/>
+<text x="150" y="40" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">ow!</text>
+<path d="M115 70 L110 60 M115 130 L110 140" stroke-width="3"/>

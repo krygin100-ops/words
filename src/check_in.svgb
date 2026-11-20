@@ -1,0 +1,8 @@
+<rect x="20" y="110" width="160" height="70" fill="{F}"/>
+<path d="M10 110 H190" stroke-width="8"/>
+<circle cx="100" cy="70" r="16" fill="{F}"/>
+<path d="M80 110 Q80 90 100 90 Q120 90 120 110" fill="{F}"/>
+<path d="M140 90 L160 80" stroke-width="3"/>
+<circle cx="168" cy="78" r="8" stroke-width="3"/>
+<rect x="30" y="85" width="40" height="25" fill="{F}"/>
+<text x="100" y="35" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">HOTEL</text>

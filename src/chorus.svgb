@@ -1,0 +1,6 @@
+<g fill="{F}"><circle cx="40" cy="80" r="14"/><circle cx="100" cy="75" r="14"/><circle cx="160" cy="80" r="14"/></g>
+<path d="M24 160 Q24 100 40 100 Q56 100 56 160 M84 160 Q84 95 100 95 Q116 95 116 160 M144 160 Q144 100 160 100 Q176 100 176 160" fill="{F}"/>
+<g fill="#000"><ellipse cx="40" cy="85" rx="4" ry="5"/><ellipse cx="100" cy="80" rx="4" ry="5"/><ellipse cx="160" cy="85" rx="4" ry="5"/></g>
+<path d="M55 40 V20 L70 15 V30 M130 40 V20 L145 15 V30" stroke-width="3"/>
+<g fill="{L}" stroke="none"><circle cx="52" cy="40" r="5"/><circle cx="67" cy="32" r="5"/><circle cx="127" cy="40" r="5"/><circle cx="142" cy="32" r="5"/></g>
+<text x="100" y="190" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">la la la!</text>

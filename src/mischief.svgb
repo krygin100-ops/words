@@ -1,0 +1,8 @@
+<circle cx="100" cy="100" r="45" fill="{F}"/>
+<path d="M65 70 L55 40 L80 60 M135 70 L145 40 L120 60" fill="{F}"/>
+<path d="M78 92 L92 96 M122 92 L108 96" stroke-width="3"/>
+<circle cx="86" cy="100" r="3.5" fill="{L}" stroke="none"/>
+<circle cx="114" cy="100" r="3.5" fill="{L}" stroke="none"/>
+<path d="M80 120 Q100 135 125 115"/>
+<text x="165" y="175" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">hehe</text>
+<path d="M30 160 Q40 150 35 140" stroke-width="3"/>
