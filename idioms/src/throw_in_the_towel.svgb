@@ -1,0 +1,10 @@
+<rect x="10" y="150" width="180" height="40" fill="{F}"/>
+<path d="M10 120 H190 M10 135 H190" stroke-width="3"/>
+<circle cx="50" cy="70" r="15" fill="{F}"/>
+<path d="M43 68 L48 72 M57 68 L52 72" stroke-width="2"/>
+<path d="M44 80 Q50 77 56 80" stroke-width="2"/>
+<path d="M50 85 V120 L40 150 M50 120 L60 150 M50 95 L80 70" stroke-width="5"/>
+<circle cx="45" cy="100" r="0"/>
+<path d="M100 60 Q120 40 140 55 Q150 75 130 90 Q115 95 105 85 Z" fill="{L}"/>
+<path d="M80 70 L95 65" stroke-width="4"/>
+<text x="150" y="30" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">I give up</text>

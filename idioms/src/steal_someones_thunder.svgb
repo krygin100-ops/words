@@ -1,0 +1,10 @@
+<circle cx="55" cy="110" r="16" fill="{F}"/>
+<path d="M48 113 Q55 108 62 113" stroke-width="3"/>
+<path d="M55 126 V160 L45 185 M55 160 L65 185 M55 135 L35 150"/>
+<path d="M30 60 Q20 35 45 35 Q55 15 75 25 Q95 20 95 45 Q95 60 80 60 H40 Q30 60 30 60 Z" fill="{F}"/>
+<circle cx="145" cy="110" r="16" fill="{F}"/>
+<path d="M137 108 Q145 115 153 108" stroke-width="3"/>
+<path d="M145 126 V160 L135 185 M145 160 L155 185 M145 135 L165 120"/>
+<path d="M165 120 L175 90 L160 90 L172 60" stroke="{L}" stroke-width="6"/>
+<path d="M100 45 Q130 40 155 70" stroke-width="3" stroke-dasharray="4 4"/>
+<text x="150" y="30" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">mine now!</text>

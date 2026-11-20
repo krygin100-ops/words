@@ -1,0 +1,7 @@
+<g fill="{F}"><rect x="20" y="120" width="35" height="35"/><rect x="60" y="120" width="35" height="35"/><rect x="100" y="120" width="35" height="35"/><rect x="140" y="120" width="35" height="35"/></g>
+<rect x="20" y="120" width="35" height="35" fill="{L}"/>
+<text x="37" y="144" font-size="18" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">1</text>
+<text x="157" y="144" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">4</text>
+<path d="M155 110 Q100 40 40 110" stroke-width="4"/>
+<path d="M50 98 L38 112 L33 95" stroke-width="4"/>
+<text x="100" y="40" font-size="15" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">start again…</text>

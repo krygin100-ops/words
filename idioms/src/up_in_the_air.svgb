@@ -1,0 +1,8 @@
+<g fill="{F}"><rect x="40" y="40" width="30" height="30" rx="4" transform="rotate(15 55 55)"/><rect x="110" y="30" width="30" height="30" rx="4" transform="rotate(-20 125 45)"/><rect x="80" y="80" width="30" height="30" rx="4" transform="rotate(30 95 95)"/></g>
+<text x="55" y="62" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">?</text>
+<text x="125" y="52" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">?</text>
+<text x="95" y="102" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">?</text>
+<circle cx="100" cy="150" r="12" fill="{F}"/>
+<path d="M100 162 V190 M100 168 L75 145 M100 168 L125 145" stroke-width="4"/>
+<path d="M30 120 Q40 110 50 120 M150 120 Q160 110 170 120" stroke-width="3"/>
+<text x="160" y="180" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">undecided</text>
