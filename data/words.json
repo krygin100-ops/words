@@ -126044,500 +126044,1150 @@
   "word": "stitch",
   "transcription": "[stɪʧ]",
   "translation": "стежок, сшить, зашить",
-  "nuance": null,
+  "nuance": "stitch — стежок, шов; шить, зашивать; колики в боку. in stitches — покатываться со смеху. Sew — шить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stitch.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The cut needed five #stitches#.",
+    "ru": "На порез наложили пять швов."
+   },
+   {
+    "en": "Grandma #stitched# my torn jeans.",
+    "ru": "Бабушка зашила мои порванные джинсы."
+   },
+   {
+    "en": "We were in #stitches# at his jokes.",
+    "ru": "Мы покатывались со смеху от его шуток."
+   }
+  ]
  },
  {
   "id": "5484",
   "word": "stitched",
   "transcription": "[stɪʧt]",
   "translation": "сшитые",
-  "nuance": null,
+  "nuance": "stitched — сшитый, прошитый, вышитый; склеенный (о фото). stitched up — брит. разг. «подставленный».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stitched.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The ball is hand-#stitched#.",
+    "ru": "Мяч сшит вручную."
+   },
+   {
+    "en": "Her name was #stitched# on the bag.",
+    "ru": "Её имя было вышито на сумке."
+   },
+   {
+    "en": "The photos were #stitched# into a panorama.",
+    "ru": "Фото сшили в панораму."
+   }
+  ]
  },
  {
   "id": "5485",
   "word": "relish",
   "transcription": "[ˈrɛlɪʃ]",
   "translation": "наслаждаться",
-  "nuance": null,
+  "nuance": "relish — смаковать, наслаждаться; сущ. — удовольствие, смак; приправа (соус). Enjoy — наслаждаться, savour — смаковать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/relish.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #relish# my morning coffee.",
+    "ru": "Я смакую свой утренний кофе."
+   },
+   {
+    "en": "He #relished# the chance to prove them wrong.",
+    "ru": "Он с удовольствием ухватился за шанс доказать им, что они неправы."
+   },
+   {
+    "en": "Put some #relish# on your hot dog.",
+    "ru": "Положи приправу на хот-дог."
+   }
+  ]
  },
  {
   "id": "5486",
   "word": "modify",
   "transcription": "[ˈmɒdɪfaɪ]",
   "translation": "видоизменять",
-  "nuance": null,
+  "nuance": "modify — видоизменять, модифицировать, вносить изменения (частичные). Change — менять (общее), adjust — подстраивать, alter — изменять.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/modify.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #modified# the recipe — less sugar.",
+    "ru": "Мы изменили рецепт — меньше сахара."
+   },
+   {
+    "en": "He #modified# his car to go faster.",
+    "ru": "Он доработал машину, чтобы она ехала быстрее."
+   },
+   {
+    "en": "Please #modify# your behaviour!",
+    "ru": "Пожалуйста, измени своё поведение!"
+   }
+  ]
  },
  {
   "id": "5487",
   "word": "modification",
   "transcription": "[ˌmɒdɪfɪˈkeɪʃən]",
   "translation": "видоизменение",
-  "nuance": null,
+  "nuance": "modification — модификация, изменение. Change — изменение, adjustment — корректировка, alteration — переделка.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/modification.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We made a few #modifications# to the plan.",
+    "ru": "Мы внесли в план несколько изменений."
+   },
+   {
+    "en": "Genetic #modification# is controversial.",
+    "ru": "Генетическая модификация вызывает споры."
+   },
+   {
+    "en": "The car has many #modifications#.",
+    "ru": "В машине много доработок."
+   }
+  ]
  },
  {
   "id": "5488",
   "word": "cleave",
   "transcription": "[kliːv]",
   "translation": "раскалывать",
-  "nuance": null,
+  "nuance": "cleave (cleft/clove, cleft/cloven) — раскалывать, рассекать (книжн.); cleave to — держаться (странно: противоположные значения!). Split — расколоть.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/cleave.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #cleaved# the log in two.",
+    "ru": "Он расколол бревно надвое."
+   },
+   {
+    "en": "The ship #cleaved# through the waves.",
+    "ru": "Корабль рассекал волны."
+   },
+   {
+    "en": "They #cleave# to old traditions.",
+    "ru": "Они держатся старых традиций."
+   }
+  ]
  },
  {
   "id": "5489",
   "word": "cleft",
   "transcription": "[klɛft]",
   "translation": "расщелина",
-  "nuance": null,
+  "nuance": "cleft — расщелина, трещина; ямочка (cleft chin); мед. — расщелина (cleft lip/palate). Crack — трещина, gap — щель.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/cleft.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Water flowed through a #cleft# in the rock.",
+    "ru": "Вода текла сквозь расщелину в скале."
+   },
+   {
+    "en": "He has a #cleft# in his chin.",
+    "ru": "У него ямочка на подбородке."
+   },
+   {
+    "en": "The baby was born with a #cleft# lip.",
+    "ru": "Ребёнок родился с заячьей губой."
+   }
+  ]
  },
  {
   "id": "5490",
   "word": "farewell",
   "transcription": "[ˈfeəˈwɛl]",
   "translation": "прощальный, прощание",
-  "nuance": null,
+  "nuance": "farewell — прощание; прощальный (книжн.-торжеств.). Goodbye — до свидания (разг.), bye — пока, send-off — проводы.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/farewell.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We had a #farewell# party for our boss.",
+    "ru": "Мы устроили прощальную вечеринку для начальника."
+   },
+   {
+    "en": "She waved #farewell# from the train.",
+    "ru": "Она помахала на прощание из поезда."
+   },
+   {
+    "en": "It's time to say #farewell#.",
+    "ru": "Пора прощаться."
+   }
+  ]
  },
  {
   "id": "5491",
   "word": "lapse",
   "transcription": "[læps]",
   "translation": "упущение, оплошность",
-  "nuance": null,
+  "nuance": "lapse — оплошность, промах, временный сбой; истечение (срока); глагол — истекать, впадать (lapse into silence). Slip — промах, mistake — ошибка.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/lapse.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Forgetting your birthday was a #lapse# of memory.",
+    "ru": "Забыть твой день рождения — это был провал в памяти."
+   },
+   {
+    "en": "One #lapse# in concentration cost us the game.",
+    "ru": "Одна потеря концентрации стоила нам игры."
+   },
+   {
+    "en": "My gym membership has #lapsed#.",
+    "ru": "Мой абонемент в спортзал истёк."
+   }
+  ]
  },
  {
   "id": "5492",
   "word": "take away",
   "transcription": "[teɪkəˈweɪ]",
   "translation": "отнять",
-  "nuance": null,
+  "nuance": "take away — отнять, забрать; вычесть (мат.); брит. — навынос (takeaway). Remove — убрать, confiscate — конфисковать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/take_away.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They #took away# his phone for a week.",
+    "ru": "У него отобрали телефон на неделю."
+   },
+   {
+    "en": "Nothing can #take away# my happiness.",
+    "ru": "Ничто не отнимет моё счастье."
+   },
+   {
+    "en": "Pizza to #take away#, please.",
+    "ru": "Пиццу навынос, пожалуйста."
+   }
+  ]
  },
  {
   "id": "5493",
   "word": "ponder",
   "transcription": "[ˈpɒndə]",
   "translation": "обдумывать",
-  "nuance": null,
+  "nuance": "ponder — обдумывать, размышлять (долго, книжн.). Think about — думать, consider — рассматривать, wonder — задаваться вопросом.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/ponder.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #pondered# the menu for twenty minutes.",
+    "ru": "Я двадцать минут раздумывал над меню."
+   },
+   {
+    "en": "She #pondered# whether to quit.",
+    "ru": "Она размышляла, стоит ли увольняться."
+   },
+   {
+    "en": "Let me #ponder# that.",
+    "ru": "Дай мне это обдумать."
+   }
+  ]
  },
  {
   "id": "5494",
   "word": "wear off",
   "transcription": "[weərɒf]",
   "translation": "сойти на нет, выветриться",
-  "nuance": null,
+  "nuance": "wear off — проходить, выветриваться (действие, эффект, чувство). Fade — угасать, pass — проходить, disappear — исчезать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/wear_off.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The painkiller is #wearing off#.",
+    "ru": "Обезболивающее перестаёт действовать."
+   },
+   {
+    "en": "The excitement #wore off# after a week.",
+    "ru": "Восторг выветрился через неделю."
+   },
+   {
+    "en": "The new-car smell soon #wears off#.",
+    "ru": "Запах новой машины быстро выветривается."
+   }
+  ]
  },
  {
   "id": "5495",
   "word": "plump",
   "transcription": "[plʌmp]",
   "translation": "пухлый",
-  "nuance": null,
+  "nuance": "plump — пухлый, полный (вежливое о человеке), мясистый; plump up — взбить. Chubby — пухленький (о детях), fat — толстый (грубо).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/plump.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The baby has #plump# little cheeks.",
+    "ru": "У малыша пухлые щёчки."
+   },
+   {
+    "en": "Choose #plump#, juicy tomatoes.",
+    "ru": "Выбирай мясистые сочные помидоры."
+   },
+   {
+    "en": "#Plump# up the pillows.",
+    "ru": "Взбей подушки."
+   }
+  ]
  },
  {
   "id": "5496",
   "word": "plumpness",
   "transcription": "[ˈplʌmpnəs]",
   "translation": "округлость",
-  "nuance": null,
+  "nuance": "plumpness — пухлость, округлость, полнота (мягкое). Fullness — полнота, roundness — округлость.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/plumpness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #plumpness# of the berries shows they're ripe.",
+    "ru": "Налитость ягод говорит об их спелости."
+   },
+   {
+    "en": "She was proud of her baby's #plumpness#.",
+    "ru": "Она гордилась пухлостью своего малыша."
+   },
+   {
+    "en": "The cushion lost its #plumpness#.",
+    "ru": "Подушка потеряла свою пышность."
+   }
+  ]
  },
  {
   "id": "5497",
   "word": "efficacy",
   "transcription": "[ˈɛfɪkəsi]",
   "translation": "результативность",
-  "nuance": null,
+  "nuance": "efficacy — действенность, эффективность (мед.-научн.). Effectiveness — эффективность (разг.), efficiency — производительность (другое!).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/efficacy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Scientists tested the #efficacy# of the vaccine.",
+    "ru": "Учёные проверили эффективность вакцины."
+   },
+   {
+    "en": "I doubt the #efficacy# of this diet.",
+    "ru": "Сомневаюсь в действенности этой диеты."
+   },
+   {
+    "en": "The #efficacy# of the treatment is proven.",
+    "ru": "Эффективность лечения доказана."
+   }
+  ]
  },
  {
   "id": "5498",
   "word": "coaster",
   "transcription": "[ˈkəʊstə]",
   "translation": "подставка",
-  "nuance": null,
+  "nuance": "coaster — подставка под стакан; roller coaster — американские горки. Mat — коврик, tray — поднос.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/coaster.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Put your glass on a #coaster#!",
+    "ru": "Ставь стакан на подставку!"
+   },
+   {
+    "en": "We collect beer #coasters#.",
+    "ru": "Мы собираем пивные подставки."
+   },
+   {
+    "en": "The roller #coaster# was terrifying.",
+    "ru": "Американские горки были ужасающими."
+   }
+  ]
  },
  {
   "id": "5499",
   "word": "glare",
   "transcription": "[gleə]",
   "translation": "яркий свет, ослеплять",
-  "nuance": null,
+  "nuance": "glare — слепящий свет; злобный взгляд; глагол — сердито смотреть. Stare — пристально смотреть, glow — свечение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/glare.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #glare# of the sun hurt my eyes.",
+    "ru": "Слепящий солнечный свет резал мне глаза."
+   },
+   {
+    "en": "She #glared# at me when I laughed.",
+    "ru": "Она сердито уставилась на меня, когда я засмеялся."
+   },
+   {
+    "en": "He lives in the #glare# of publicity.",
+    "ru": "Он живёт под пристальным вниманием публики."
+   }
+  ]
  },
  {
   "id": "5500",
   "word": "glaring",
   "transcription": "[ˈgleərɪŋ]",
   "translation": "яркий, вопиющий",
-  "nuance": null,
+  "nuance": "glaring — вопиющий, бросающийся в глаза (ошибка); слепящий (свет). Obvious — очевидный, blatant — явный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/glaring.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's a #glaring# mistake on page one.",
+    "ru": "На первой странице вопиющая ошибка."
+   },
+   {
+    "en": "The #glaring# lights gave me a headache.",
+    "ru": "От слепящего света у меня заболела голова."
+   },
+   {
+    "en": "It was a #glaring# example of bad service.",
+    "ru": "Это был вопиющий пример плохого обслуживания."
+   }
+  ]
  },
  {
   "id": "5501",
   "word": "prop",
   "transcription": "[prɒp]",
   "translation": "подпирать, подпорка",
-  "nuance": null,
+  "nuance": "prop — подпирать (prop up); подпорка; театр. реквизит (props). Support — поддерживать, lean — прислонить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/prop.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Prop# the door open with a chair.",
+    "ru": "Подопри дверь стулом, чтобы не закрывалась."
+   },
+   {
+    "en": "He #propped# his bike against the wall.",
+    "ru": "Он прислонил велосипед к стене."
+   },
+   {
+    "en": "The actors used fake swords as #props#.",
+    "ru": "Актёры использовали бутафорские мечи как реквизит."
+   }
+  ]
  },
  {
   "id": "5502",
   "word": "crusade",
   "transcription": "[kruːˈseɪd]",
   "translation": "крестовый поход",
-  "nuance": null,
+  "nuance": "crusade — крестовый поход; переносно — кампания, борьба (за идею). Campaign — кампания, mission — миссия.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/crusade.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #Crusades# lasted for centuries.",
+    "ru": "Крестовые походы длились веками."
+   },
+   {
+    "en": "She's on a #crusade# against plastic bags.",
+    "ru": "Она ведёт кампанию против пластиковых пакетов."
+   },
+   {
+    "en": "He #crusades# for animal rights.",
+    "ru": "Он борется за права животных."
+   }
+  ]
  },
  {
   "id": "5503",
   "word": "crusader",
   "transcription": "[ˈkruːˈseɪdə]",
   "translation": "крестоносец",
-  "nuance": null,
+  "nuance": "crusader — крестоносец; борец (за идею). Campaigner — активист, activist — активист.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/crusader.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #crusaders# marched to Jerusalem.",
+    "ru": "Крестоносцы шли на Иерусалим."
+   },
+   {
+    "en": "She's a #crusader# for clean air.",
+    "ru": "Она борец за чистый воздух."
+   },
+   {
+    "en": "Batman is the Caped #Crusader#.",
+    "ru": "Бэтмен — Рыцарь в плаще."
+   }
+  ]
  },
  {
   "id": "5504",
   "word": "mercy",
   "transcription": "[ˈmɜːsi]",
   "translation": "милость, милосердие",
-  "nuance": null,
+  "nuance": "mercy — милосердие, пощада; at the mercy of — во власти. Pity — жалость, compassion — сострадание, forgiveness — прощение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/mercy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The judge showed #mercy#.",
+    "ru": "Судья проявил милосердие."
+   },
+   {
+    "en": "The prisoners begged for #mercy#.",
+    "ru": "Заключённые молили о пощаде."
+   },
+   {
+    "en": "We're at the #mercy# of the weather.",
+    "ru": "Мы во власти погоды."
+   }
+  ]
  },
  {
   "id": "5505",
   "word": "merciful",
   "transcription": "[ˈmɜːsɪfʊl]",
   "translation": "милостивый",
-  "nuance": null,
+  "nuance": "merciful — милосердный, милостивый. Kind — добрый, forgiving — прощающий, lenient — снисходительный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/merciful.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "God is #merciful#.",
+    "ru": "Бог милостив."
+   },
+   {
+    "en": "The teacher was #merciful# and gave us more time.",
+    "ru": "Учитель смилостивился и дал нам больше времени."
+   },
+   {
+    "en": "His death was a #merciful# release.",
+    "ru": "Его смерть стала милосердным избавлением."
+   }
+  ]
  },
  {
   "id": "5506",
   "word": "merciless",
   "transcription": "[ˈmɜːsɪlɪs]",
   "translation": "беспощадный",
-  "nuance": null,
+  "nuance": "merciless — беспощадный, безжалостный. Ruthless — безжалостный, cruel — жестокий, relentless — неумолимый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/merciless.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #merciless# sun burned us.",
+    "ru": "Беспощадное солнце нас сожгло."
+   },
+   {
+    "en": "Critics were #merciless# about the film.",
+    "ru": "Критики были беспощадны к фильму."
+   },
+   {
+    "en": "The team won with #merciless# efficiency.",
+    "ru": "Команда победила с беспощадной эффективностью."
+   }
+  ]
  },
  {
   "id": "5507",
   "word": "call back",
   "transcription": "[kɔːlbæk]",
   "translation": "перезвонить",
-  "nuance": null,
+  "nuance": "call back — перезвонить; пригласить снова. Return a call — перезвонить (офиц.), ring back — брит.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/call_back.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I'll #call# you #back# in five minutes.",
+    "ru": "Перезвоню тебе через пять минут."
+   },
+   {
+    "en": "Please #call back# later.",
+    "ru": "Пожалуйста, перезвоните позже."
+   },
+   {
+    "en": "They #called# him #back# for a second interview.",
+    "ru": "Его пригласили на второе собеседование."
+   }
+  ]
  },
  {
   "id": "5508",
   "word": "wreath",
   "transcription": "[riːθ]",
   "translation": "венок",
-  "nuance": null,
+  "nuance": "wreath (рИс) — венок. Garland — гирлянда, crown — корона.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/25992/25992_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They hung a Christmas #wreath# on the door.",
+    "ru": "Они повесили рождественский венок на дверь."
+   },
+   {
+    "en": "People laid #wreaths# at the memorial.",
+    "ru": "Люди возложили венки к мемориалу."
+   },
+   {
+    "en": "She wore a #wreath# of flowers.",
+    "ru": "На ней был цветочный венок."
+   }
+  ]
  },
  {
   "id": "5509",
   "word": "verge",
   "transcription": "[vɜːʤ]",
   "translation": "обочина",
-  "nuance": null,
+  "nuance": "verge — обочина (брит.); on the verge of — на грани. Edge — край, brink — край (пропасти, катастрофы), roadside — обочина.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/verge.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't park on the grass #verge#.",
+    "ru": "Не паркуйся на травяной обочине."
+   },
+   {
+    "en": "She was on the #verge# of tears.",
+    "ru": "Она была на грани слёз."
+   },
+   {
+    "en": "The company is on the #verge# of collapse.",
+    "ru": "Компания на грани краха."
+   }
+  ]
  },
  {
   "id": "5510",
   "word": "prolong",
   "transcription": "[prəʊˈlɒŋ]",
   "translation": "продлить",
-  "nuance": null,
+  "nuance": "prolong — продлить, затянуть (время, жизнь). Extend — продлить (срок), lengthen — удлинить, drag out — затягивать (разг.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/prolong.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #prolong# the meeting — let's go!",
+    "ru": "Не затягивай совещание — пошли!"
+   },
+   {
+    "en": "Exercise can #prolong# your life.",
+    "ru": "Физкультура может продлить жизнь."
+   },
+   {
+    "en": "The doctors #prolonged# his suffering.",
+    "ru": "Врачи продлили его страдания."
+   }
+  ]
  },
  {
   "id": "5511",
   "word": "prolongation",
   "transcription": "[ˌprəʊlɒŋˈgeɪʃən]",
   "translation": "продление",
-  "nuance": null,
+  "nuance": "prolongation — продление, затягивание (офиц.). Extension — продление (чаще).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/prolongation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #prolongation# of the contract was approved.",
+    "ru": "Продление контракта одобрили."
+   },
+   {
+    "en": "#Prolongation# of the war hurt everyone.",
+    "ru": "Затягивание войны навредило всем."
+   },
+   {
+    "en": "We asked for a #prolongation# of the deadline.",
+    "ru": "Мы попросили продлить срок."
+   }
+  ]
  },
  {
   "id": "5512",
   "word": "monastery",
   "transcription": "[ˈmɒnəstəri]",
   "translation": "монастырь",
-  "nuance": null,
+  "nuance": "monastery — монастырь (мужской). Convent/nunnery — женский монастырь, abbey — аббатство.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/5519/5519_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We stayed in a #monastery# in the mountains.",
+    "ru": "Мы останавливались в монастыре в горах."
+   },
+   {
+    "en": "The old #monastery# makes its own beer.",
+    "ru": "Старый монастырь варит своё пиво."
+   },
+   {
+    "en": "Monks live in the #monastery#.",
+    "ru": "Монахи живут в монастыре."
+   }
+  ]
  },
  {
   "id": "5513",
   "word": "muzzle",
   "transcription": "[ˈmʌzl]",
   "translation": "морда или намордник",
-  "nuance": null,
+  "nuance": "muzzle — морда (животного), намордник; дуло; глагол — заткнуть рот. Snout — рыло, mouth — рот.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/7772/7772_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The dog wears a #muzzle# on the bus.",
+    "ru": "В автобусе собака в наморднике."
+   },
+   {
+    "en": "The horse put its #muzzle# in my hand.",
+    "ru": "Лошадь ткнулась мордой мне в руку."
+   },
+   {
+    "en": "They tried to #muzzle# the press.",
+    "ru": "Они пытались заткнуть рот прессе."
+   }
+  ]
  },
  {
   "id": "5514",
   "word": "monk",
   "transcription": "[mʌŋk]",
   "translation": "монах",
-  "nuance": null,
+  "nuance": "monk — монах. Nun — монахиня, priest — священник, hermit — отшельник.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/monk.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #monk# hasn't spoken in ten years.",
+    "ru": "Монах не говорил десять лет."
+   },
+   {
+    "en": "Buddhist #monks# wear orange robes.",
+    "ru": "Буддийские монахи носят оранжевые одеяния."
+   },
+   {
+    "en": "He lives like a #monk# — no phone, no TV.",
+    "ru": "Он живёт как монах — ни телефона, ни ТВ."
+   }
+  ]
  },
  {
   "id": "5515",
   "word": "slant",
   "transcription": "[slɑːnt]",
   "translation": "наклон, скос, наклонять",
-  "nuance": null,
+  "nuance": "slant — наклон, скос; уклон, точка зрения (подача); наклоняться. Slope — склон, tilt — наклон, angle — угол.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/slant.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The roof has a steep #slant#.",
+    "ru": "У крыши крутой скат."
+   },
+   {
+    "en": "The news had a political #slant#.",
+    "ru": "Новость подали под политическим углом."
+   },
+   {
+    "en": "Her handwriting #slants# to the right.",
+    "ru": "Её почерк с наклоном вправо."
+   }
+  ]
  },
  {
   "id": "5516",
   "word": "partition",
   "transcription": "[pɑːˈtɪʃən]",
   "translation": "раздел",
-  "nuance": null,
+  "nuance": "partition — перегородка; раздел (страны, диска). Division — деление, wall — стена, separation — разделение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/partition.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A glass #partition# divides the office.",
+    "ru": "Стеклянная перегородка делит офис."
+   },
+   {
+    "en": "The #partition# of the country caused war.",
+    "ru": "Раздел страны вызвал войну."
+   },
+   {
+    "en": "Create a new #partition# on the hard drive.",
+    "ru": "Создай новый раздел на жёстком диске."
+   }
+  ]
  },
  {
   "id": "5517",
   "word": "go down",
   "transcription": "[gəʊdaʊn]",
   "translation": "быть принятым",
-  "nuance": null,
+  "nuance": "go down (well/badly) — быть принятым, восприниматься; также падать, снижаться, тонуть. Be received — быть принятым.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/go_down.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "How did your joke #go down#? — Badly.",
+    "ru": "Как приняли твою шутку? — Плохо."
+   },
+   {
+    "en": "The news #went down# well with the staff.",
+    "ru": "Сотрудники хорошо восприняли новость."
+   },
+   {
+    "en": "A cold beer #goes down# well in summer.",
+    "ru": "Холодное пиво хорошо идёт летом."
+   }
+  ]
  },
  {
   "id": "5518",
   "word": "dictionary",
   "transcription": "[ˈdɪkʃ(ə)n(ə)ri]",
   "translation": "словарь",
-  "nuance": null,
+  "nuance": "dictionary — словарь. Vocabulary — словарный запас, glossary — глоссарий, thesaurus — словарь синонимов.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/7024/7024_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Look it up in the #dictionary#.",
+    "ru": "Посмотри в словаре."
+   },
+   {
+    "en": "\"Impossible\" is not in my #dictionary#.",
+    "ru": "Слова «невозможно» нет в моём словаре."
+   },
+   {
+    "en": "I use an online #dictionary#.",
+    "ru": "Я пользуюсь онлайн-словарём."
+   }
+  ]
  },
  {
   "id": "5519",
   "word": "notorious",
   "transcription": "[nəʊˈtɔːrɪəs]",
   "translation": "известный, пресловутый",
-  "nuance": null,
+  "nuance": "notorious — пресловутый, печально известный (негатив!). Famous — знаменитый (позитив), infamous — позорный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/notorious.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The road is #notorious# for accidents.",
+    "ru": "Эта дорога печально известна авариями."
+   },
+   {
+    "en": "He's #notorious# for borrowing money.",
+    "ru": "Он известен тем, что вечно занимает деньги."
+   },
+   {
+    "en": "The #notorious# gangster was arrested.",
+    "ru": "Пресловутого гангстера арестовали."
+   }
+  ]
  },
  {
   "id": "5520",
   "word": "notoriety",
   "transcription": "[ˌnəʊtəˈraɪəti]",
   "translation": "дурная слава",
-  "nuance": null,
+  "nuance": "notoriety — дурная слава, скандальная известность. Fame — слава, infamy — позор.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/notoriety.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The scandal brought him #notoriety#.",
+    "ru": "Скандал принёс ему дурную славу."
+   },
+   {
+    "en": "She gained #notoriety# for her rude tweets.",
+    "ru": "Она прославилась своими грубыми твитами."
+   },
+   {
+    "en": "The town's #notoriety# keeps tourists away.",
+    "ru": "Дурная слава города отпугивает туристов."
+   }
+  ]
  },
  {
   "id": "5521",
   "word": "incidence",
   "transcription": "[ˈɪnsɪdəns]",
   "translation": "частотность, распространённость",
-  "nuance": null,
+  "nuance": "incidence — частота, распространённость (научн.-мед.). Ловушка: incident — случай, инцидент! Rate — уровень, frequency — частота.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/incidence.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #incidence# of flu rises in winter.",
+    "ru": "Заболеваемость гриппом растёт зимой."
+   },
+   {
+    "en": "There's a high #incidence# of crime here.",
+    "ru": "Здесь высокий уровень преступности."
+   },
+   {
+    "en": "The #incidence# of allergies is increasing.",
+    "ru": "Частота аллергий растёт."
+   }
+  ]
  },
  {
   "id": "5522",
   "word": "discern",
   "transcription": "[dɪˈsɜːn]",
   "translation": "различить, распознать",
-  "nuance": null,
+  "nuance": "discern — различить, распознать (книжн.). See — видеть, notice — заметить, detect — обнаружить, tell — различать (разг.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/discern.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I could #discern# a figure in the fog.",
+    "ru": "Я смог различить фигуру в тумане."
+   },
+   {
+    "en": "It's hard to #discern# the truth.",
+    "ru": "Трудно распознать правду."
+   },
+   {
+    "en": "Can you #discern# any difference?",
+    "ru": "Ты видишь какую-нибудь разницу?"
+   }
+  ]
  },
  {
   "id": "5523",
   "word": "discernible",
   "transcription": "[dɪˈsɜːnəbl]",
   "translation": "различимый",
-  "nuance": null,
+  "nuance": "discernible — различимый, заметный (книжн.). Noticeable — заметный, visible — видимый, detectable — обнаружимый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/discernible.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There was no #discernible# difference.",
+    "ru": "Заметной разницы не было."
+   },
+   {
+    "en": "Her voice was barely #discernible#.",
+    "ru": "Её голос был едва различим."
+   },
+   {
+    "en": "A #discernible# smell of gas filled the room.",
+    "ru": "Комнату наполнил ощутимый запах газа."
+   }
+  ]
  },
  {
   "id": "5524",
   "word": "discernment",
   "transcription": "[dɪˈsɜːnmənt]",
   "translation": "проницательность",
-  "nuance": null,
+  "nuance": "discernment — проницательность, разборчивость, тонкий вкус. Judgement — суждение, insight — понимание, taste — вкус.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/discernment.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She shows great #discernment# in choosing friends.",
+    "ru": "Она очень разборчива в выборе друзей."
+   },
+   {
+    "en": "Wine tasting requires #discernment#.",
+    "ru": "Дегустация вина требует тонкого вкуса."
+   },
+   {
+    "en": "He lacks #discernment#.",
+    "ru": "Ему не хватает проницательности."
+   }
+  ]
  },
  {
   "id": "5525",
   "word": "well-being",
   "transcription": "[wɛl-ˈbiːɪŋ]",
   "translation": "благополучие",
-  "nuance": null,
+  "nuance": "well-being — благополучие, самочувствие (физ. и душевное). Health — здоровье, welfare — благосостояние (соц.), happiness — счастье.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/well_being.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Exercise improves your #well-being#.",
+    "ru": "Физкультура улучшает самочувствие."
+   },
+   {
+    "en": "Children's #well-being# comes first.",
+    "ru": "Благополучие детей на первом месте."
+   },
+   {
+    "en": "A cat improves my mental #well-being#.",
+    "ru": "Кот улучшает моё душевное состояние."
+   }
+  ]
  },
  {
   "id": "5526",
   "word": "gym",
   "transcription": "[ʤɪm]",
   "translation": "спортзал",
-  "nuance": null,
+  "nuance": "gym — спортзал, тренажёрный зал (сокр. от gymnasium); физкультура (амер.: gym class). Ловушка: gymnasium ≠ гимназия!",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/24785/24785_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I joined a #gym# in January. I went twice.",
+    "ru": "Я записался в спортзал в январе. Сходил два раза."
+   },
+   {
+    "en": "The school #gym# smells of socks.",
+    "ru": "Школьный спортзал пахнет носками."
+   },
+   {
+    "en": "She's at the #gym# every morning.",
+    "ru": "Она каждое утро в спортзале."
+   }
+  ]
  },
  {
   "id": "5527",
   "word": "gym teacher",
   "transcription": "[ʤɪmˈtiːʧə]",
   "translation": "тренер, физрук",
-  "nuance": null,
+  "nuance": "gym teacher (амер.) — учитель физкультуры, физрук. Брит. — PE teacher. Coach — тренер (спорт.), trainer — тренер (фитнес).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/gym_teacher.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Our #gym teacher# made us run in the rain.",
+    "ru": "Наш физрук заставлял нас бегать под дождём."
+   },
+   {
+    "en": "The #gym teacher# blew his whistle.",
+    "ru": "Учитель физкультуры свистнул в свисток."
+   },
+   {
+    "en": "She became a #gym teacher#.",
+    "ru": "Она стала учителем физкультуры."
+   }
+  ]
  },
  {
   "id": "5528",
   "word": "crease",
   "transcription": "[kriːs]",
   "translation": "складка, сминать",
-  "nuance": null,
+  "nuance": "crease — складка, сгиб, морщина; мять(ся). Wrinkle — морщина, складка; fold — сгиб.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/32763/32763_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Iron out the #creases# in your shirt.",
+    "ru": "Разгладь складки на рубашке."
+   },
+   {
+    "en": "Don't sit on my dress — it'll #crease#!",
+    "ru": "Не садись на моё платье — помнётся!"
+   },
+   {
+    "en": "Fold the paper along the #crease#.",
+    "ru": "Сложи бумагу по сгибу."
+   }
+  ]
  },
  {
   "id": "5529",
   "word": "vendor",
   "transcription": "[ˈvɛndɔː]",
   "translation": "продавец, торговец",
-  "nuance": null,
+  "nuance": "vendor — продавец, торговец (уличный); поставщик (бизнес). Seller — продавец, supplier — поставщик, dealer — дилер.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/37809/37809_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We bought hot dogs from a street #vendor#.",
+    "ru": "Мы купили хот-доги у уличного торговца."
+   },
+   {
+    "en": "The software #vendor# fixed the bug.",
+    "ru": "Поставщик ПО исправил ошибку."
+   },
+   {
+    "en": "#Vendors# set up stalls at the market.",
+    "ru": "Торговцы поставили лотки на рынке."
+   }
+  ]
  },
  {
   "id": "5530",
   "word": "sack",
   "transcription": "[sæk]",
   "translation": "мешок",
-  "nuance": null,
+  "nuance": "sack — мешок; разг. — увольнение (get the sack); глагол sack — уволить. hit the sack — лечь спать. Bag — сумка, пакет.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6210/6210_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Carry the potatoes in a #sack#.",
+    "ru": "Неси картошку в мешке."
+   },
+   {
+    "en": "He got the #sack# for being late.",
+    "ru": "Его уволили за опоздания."
+   },
+   {
+    "en": "I'm going to hit the #sack#.",
+    "ru": "Пойду завалюсь спать."
+   }
+  ]
  },
  {
   "id": "5531",
   "word": "hush",
   "transcription": "[hʌʃ]",
   "translation": "молчать",
-  "nuance": null,
+  "nuance": "hush — тише!; тишина; утихомирить; hush up — замять. Shh — тсс, quiet — тишина, silence — молчание.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/5936/5936_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Hush#! The baby's asleep.",
+    "ru": "Тише! Малыш спит."
+   },
+   {
+    "en": "A #hush# fell over the room.",
+    "ru": "В комнате воцарилась тишина."
+   },
+   {
+    "en": "They tried to #hush# up the scandal.",
+    "ru": "Они пытались замять скандал."
+   }
+  ]
  },
  {
   "id": "5532",
   "word": "cucumber",
   "transcription": "[ˈkjuːkʌmbə]",
   "translation": "огурец",
-  "nuance": null,
+  "nuance": "cucumber — огурец. cool as a cucumber — спокоен как удав. Pickle — солёный огурец (амер.), gherkin — корнишон.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2847/2847_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandma pickles #cucumbers# every summer.",
+    "ru": "Бабушка каждое лето солит огурцы."
+   },
+   {
+    "en": "Add #cucumber# to the salad.",
+    "ru": "Добавь огурец в салат."
+   },
+   {
+    "en": "He stayed cool as a #cucumber#.",
+    "ru": "Он оставался невозмутимым."
+   }
+  ]
  },
  {
   "id": "5533",
