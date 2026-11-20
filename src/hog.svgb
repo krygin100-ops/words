@@ -1,0 +1,8 @@
+<ellipse cx="95" cy="115" rx="65" ry="45" fill="{F}"/>
+<circle cx="155" cy="100" r="25" fill="{F}"/>
+<ellipse cx="172" cy="105" rx="10" ry="8" fill="#000"/>
+<circle cx="150" cy="90" r="3.5" fill="{L}" stroke="none"/>
+<path d="M140 78 L135 65 L150 75" fill="{F}"/>
+<path d="M50 155 V180 M80 158 V180 M115 158 V180 M140 150 V180"/>
+<path d="M30 105 Q15 95 22 85 Q30 80 28 92" stroke-width="3"/>
+<text x="70" y="50" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">OINK</text>

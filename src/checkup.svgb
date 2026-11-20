@@ -1,0 +1,8 @@
+<circle cx="60" cy="70" r="20" fill="{F}"/>
+<path d="M35 190 Q35 105 60 105 Q85 105 85 190" fill="{F}"/>
+<path d="M50 105 Q50 140 65 145 Q80 140 80 120" stroke="#000" stroke-width="3"/>
+<circle cx="80" cy="117" r="6" fill="#000"/>
+<circle cx="145" cy="80" r="18" fill="{F}"/>
+<path d="M125 190 Q125 115 145 115 Q165 115 165 190" fill="{F}"/>
+<path d="M140 145 V165 M130 155 H150" stroke="#000" stroke-width="4"/>
+<text x="100" y="35" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">say "aah"</text>

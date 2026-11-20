@@ -1,0 +1,8 @@
+<path d="M10 100 H190" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M30 60 Q25 40 50 40 Q60 25 80 32 Q95 25 100 40 Q120 40 115 60 H30 Z" fill="{F}"/>
+<path d="M40 70 L37 80 M60 70 L57 80 M80 70 L77 80" stroke-width="3"/>
+<circle cx="70" cy="120" r="12" fill="{F}"/>
+<path d="M70 132 V160 M70 140 L58 150 M70 140 L82 132 M70 160 L62 180 M70 160 L78 180"/>
+<circle cx="160" cy="60" r="18" fill="{F}"/>
+<path d="M160 30 V20 M185 60 H195" stroke-width="3"/>
+<path d="M100 150 H140 M130 140 L140 150 L130 160" stroke-width="4"/>

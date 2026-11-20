@@ -1,0 +1,7 @@
+<circle cx="70" cy="70" r="22" fill="{F}"/>
+<path d="M50 55 H90 L85 42 H55 Z" fill="{F}"/>
+<path d="M58 65 L66 69 M82 65 L74 69" stroke-width="3"/>
+<ellipse cx="70" cy="85" rx="7" ry="5" fill="#000"/>
+<path d="M40 190 Q40 105 70 105 Q100 105 100 190" fill="{F}"/>
+<path d="M100 125 L150 100" stroke-width="6"/>
+<text x="150" y="60" font-size="26" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">GO!</text>

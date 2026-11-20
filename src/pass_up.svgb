@@ -1,0 +1,9 @@
+<circle cx="60" cy="90" r="20" fill="{F}"/>
+<path d="M50 85 Q55 82 60 85 M64 85 Q69 82 74 85" stroke-width="3"/>
+<path d="M35 190 Q35 125 60 125 Q85 125 85 190" fill="{F}"/>
+<path d="M85 140 L105 130 L100 120" />
+<rect x="120" y="70" width="60" height="45" rx="6" fill="{F}"/>
+<text x="150" y="99" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">CHANCE</text>
+<path d="M140 125 L160 150 M160 125 L140 150" stroke-width="0"/>
+<text x="60" y="45" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">nah..</text>
+<path d="M150 130 V165 M140 155 L150 168 L160 155" stroke-width="3"/>

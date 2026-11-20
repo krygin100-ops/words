@@ -1,0 +1,7 @@
+<circle cx="60" cy="80" r="18" fill="{F}"/>
+<path d="M40 190 Q40 110 60 110 Q80 110 80 190" fill="{F}"/>
+<path d="M80 130 L110 120"/>
+<rect x="110" y="95" width="40" height="50" fill="{L}"/>
+<path d="M118 108 H142 M118 120 H142 M118 132 H135" stroke="#000" stroke-width="3"/>
+<rect x="150" y="140" width="40" height="45" fill="{F}"/>
+<text x="130" y="60" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">on time!</text>
