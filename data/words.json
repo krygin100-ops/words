@@ -75444,20 +75444,46 @@
   "word": "county",
   "transcription": "[ˈkaʊnti]",
   "translation": "графство, округ",
-  "nuance": null,
+  "nuance": "Графство (Брит.), округ (США).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/county.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They live in a small #county# in England.",
+    "ru": "Они живут в маленьком графстве в Англии."
+   },
+   {
+    "en": "The #county# fair is every August.",
+    "ru": "Окружная ярмарка проходит каждый август."
+   },
+   {
+    "en": "He's the best doctor in the #county#.",
+    "ru": "Он лучший врач в округе."
+   }
+  ]
  },
  {
   "id": "3283",
   "word": "count",
   "transcription": "[kaʊnt]",
   "translation": "граф",
-  "nuance": null,
+  "nuance": "Граф (титул, не британский; брит. — earl). Также count — считать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/count_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #Count# lived in a dark castle.",
+    "ru": "Граф жил в мрачном замке."
+   },
+   {
+    "en": "#Count# Dracula is a famous vampire.",
+    "ru": "Граф Дракула — знаменитый вампир."
+   },
+   {
+    "en": "The #count# and countess hosted a ball.",
+    "ru": "Граф и графиня устроили бал."
+   }
+  ]
  },
  {
   "id": "3284",
@@ -75467,67 +75493,158 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6603/6603_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The ball #rolled# under the sofa.",
+    "ru": "Мяч закатился под диван."
+   },
+   {
+    "en": "Tears #rolled# down her face.",
+    "ru": "По её лицу катились слёзы."
+   },
+   {
+    "en": "The dog #rolled# in the mud.",
+    "ru": "Собака каталась в грязи."
+   }
+  ]
  },
  {
   "id": "3285",
   "word": "roller",
   "transcription": "[ˈrəʊlə]",
   "translation": "ролик, валик, каток и т. п.",
-  "nuance": null,
+  "nuance": "Ролик, валик, бигуди; roller coaster — американские горки.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2809/2809_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Paint the wall with a #roller#.",
+    "ru": "Покрась стену валиком."
+   },
+   {
+    "en": "She put #rollers# in her hair.",
+    "ru": "Она накрутила волосы на бигуди."
+   },
+   {
+    "en": "Kids love the #roller# coaster.",
+    "ru": "Дети обожают американские горки."
+   }
+  ]
  },
  {
   "id": "3286",
   "word": "rest",
   "transcription": "[rɛst]",
   "translation": "покоиться",
-  "nuance": null,
+  "nuance": "Покоиться, лежать; rest with — зависеть от. Также отдыхать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/rest_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Here #rests# my beloved cat.",
+    "ru": "Здесь покоится мой любимый кот."
+   },
+   {
+    "en": "Let the dough #rest# for an hour.",
+    "ru": "Дай тесту постоять час."
+   },
+   {
+    "en": "The decision #rests# with you.",
+    "ru": "Решение за тобой."
+   }
+  ]
  },
  {
   "id": "3287",
   "word": "trust",
   "transcription": "[trʌst]",
   "translation": "доверять",
-  "nuance": null,
+  "nuance": "Доверять; trust me — поверь мне.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/trust.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #trust# you completely.",
+    "ru": "Я полностью тебе доверяю."
+   },
+   {
+    "en": "Never #trust# a cat near fish.",
+    "ru": "Никогда не доверяй коту рядом с рыбой."
+   },
+   {
+    "en": "#Trust# me — it'll be fine.",
+    "ru": "Поверь мне — всё будет хорошо."
+   }
+  ]
  },
  {
   "id": "3288",
   "word": "entrust",
   "transcription": "[ɪnˈtrʌst]",
   "translation": "вверять",
-  "nuance": null,
+  "nuance": "Вверить, поручить (что-то ценное). Книжнее, чем trust.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/entrust.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #entrusted# me with her keys.",
+    "ru": "Она доверила мне свои ключи."
+   },
+   {
+    "en": "I #entrust# my cat to my neighbour.",
+    "ru": "Я оставляю кота на попечение соседа."
+   },
+   {
+    "en": "They #entrusted# him with the money.",
+    "ru": "Ему доверили деньги."
+   }
+  ]
  },
  {
   "id": "3289",
   "word": "trusty",
   "transcription": "[ˈtrʌsti]",
   "translation": "надежный",
-  "nuance": null,
+  "nuance": "Надёжный, верный (о вещи, животном; шутл./ласк.). Trustworthy — заслуживающий доверия (о человеке).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/trusty.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My #trusty# old car never lets me down.",
+    "ru": "Моя верная старая машина никогда не подводит."
+   },
+   {
+    "en": "He took his #trusty# umbrella.",
+    "ru": "Он взял свой надёжный зонт."
+   },
+   {
+    "en": "My #trusty# dog follows me everywhere.",
+    "ru": "Мой верный пёс всюду за мной ходит."
+   }
+  ]
  },
  {
   "id": "3290",
   "word": "mistrust",
   "transcription": "[ˌmɪsˈtrʌst]",
   "translation": "недоверие",
-  "nuance": null,
+  "nuance": "Mistrust — недоверие (смутное, подозрение). Distrust — сильнее, на основе опыта.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/mistrust.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's #mistrust# between the neighbours.",
+    "ru": "Между соседями недоверие."
+   },
+   {
+    "en": "She looked at the food with #mistrust#.",
+    "ru": "Она с подозрением посмотрела на еду."
+   },
+   {
+    "en": "Years of lies created #mistrust#.",
+    "ru": "Годы лжи породили недоверие."
+   }
+  ]
  },
  {
   "id": "3291",
@@ -75537,17 +75654,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/distrust.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He has a deep #distrust# of banks.",
+    "ru": "У него глубокое недоверие к банкам."
+   },
+   {
+    "en": "The cat #distrusts# the vacuum cleaner.",
+    "ru": "Кот не доверяет пылесосу."
+   },
+   {
+    "en": "Public #distrust# of politicians is growing.",
+    "ru": "Растёт недоверие людей к политикам."
+   }
+  ]
  },
  {
   "id": "3292",
   "word": "trustee",
   "transcription": "[trʌsˈtiː]",
   "translation": "доверенное лицо",
-  "nuance": null,
+  "nuance": "Доверенное лицо, попечитель (юр.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/trustee.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A #trustee# manages the money for the children.",
+    "ru": "Доверенное лицо распоряжается деньгами детей."
+   },
+   {
+    "en": "She's a #trustee# of the charity.",
+    "ru": "Она попечитель благотворительного фонда."
+   },
+   {
+    "en": "The #trustees# meet once a year.",
+    "ru": "Попечители собираются раз в год."
+   }
+  ]
  },
  {
   "id": "3293",
@@ -75557,17 +75700,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/get_stuck.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #got stuck# in traffic for two hours.",
+    "ru": "Мы застряли в пробке на два часа."
+   },
+   {
+    "en": "The cat #got stuck# in a tree.",
+    "ru": "Кот застрял на дереве."
+   },
+   {
+    "en": "I #got stuck# on question five.",
+    "ru": "Я застрял на пятом вопросе."
+   }
+  ]
  },
  {
   "id": "3294",
   "word": "adolescent",
   "transcription": "[ˌædəʊˈlɛsnt]",
   "translation": "подросток, подростковый",
-  "nuance": null,
+  "nuance": "Научно/офиц.: подросток. Teenager — разг.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/4673/4673_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Adolescent# boys eat a lot.",
+    "ru": "Мальчики-подростки много едят."
+   },
+   {
+    "en": "She works with #adolescents#.",
+    "ru": "Она работает с подростками."
+   },
+   {
+    "en": "It's a normal #adolescent# phase.",
+    "ru": "Это нормальный подростковый этап."
+   }
+  ]
  },
  {
   "id": "3295",
@@ -75577,67 +75746,158 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/adolescence.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Adolescence# is a difficult time.",
+    "ru": "Подростковый возраст — трудное время."
+   },
+   {
+    "en": "He spent his #adolescence# in Spain.",
+    "ru": "Он провёл юность в Испании."
+   },
+   {
+    "en": "Nobody survives #adolescence# without drama.",
+    "ru": "Никто не переживает подростковый возраст без драмы."
+   }
+  ]
  },
  {
   "id": "3296",
   "word": "despite",
   "transcription": "[dɪsˈpaɪt]",
   "translation": "несмотря на",
-  "nuance": null,
+  "nuance": "Despite (без of!) = in spite of.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/despite.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Despite# the rain, we had fun.",
+    "ru": "Несмотря на дождь, нам было весело."
+   },
+   {
+    "en": "She went to work #despite# being ill.",
+    "ru": "Она пошла на работу, несмотря на болезнь."
+   },
+   {
+    "en": "#Despite# everything, I love him.",
+    "ru": "Несмотря ни на что, я его люблю."
+   }
+  ]
  },
  {
   "id": "3297",
   "word": "range",
   "transcription": "[reɪnʤ]",
   "translation": "диапазон, пределы",
-  "nuance": null,
+  "nuance": "Диапазон, ассортимент; варьироваться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/range.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The shop has a wide #range# of teas.",
+    "ru": "В магазине широкий ассортимент чая."
+   },
+   {
+    "en": "Prices #range# from 5 to 50 dollars.",
+    "ru": "Цены варьируются от 5 до 50 долларов."
+   },
+   {
+    "en": "The phone is out of #range#.",
+    "ru": "Телефон вне зоны доступа."
+   }
+  ]
  },
  {
   "id": "3298",
   "word": "expense",
   "transcription": "[ɪksˈpɛns]",
   "translation": "расходы",
-  "nuance": null,
+  "nuance": "Расходы; at someone's expense — за чей-то счёт.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/expense.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Travel #expenses# are paid by the company.",
+    "ru": "Командировочные расходы оплачивает компания."
+   },
+   {
+    "en": "We had many #expenses# this month.",
+    "ru": "В этом месяце было много расходов."
+   },
+   {
+    "en": "He made jokes at my #expense#.",
+    "ru": "Он шутил за мой счёт."
+   }
+  ]
  },
  {
   "id": "3299",
   "word": "expensive",
   "transcription": "[ɪksˈpɛnsɪv]",
   "translation": "дорогой",
-  "nuance": null,
+  "nuance": "Дорогой (о цене). Dear — дорогой (любимый); costly — дорогостоящий.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/expensive.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "This bag is too #expensive#.",
+    "ru": "Эта сумка слишком дорогая."
+   },
+   {
+    "en": "Living in London is #expensive#.",
+    "ru": "Жить в Лондоне дорого."
+   },
+   {
+    "en": "It was an #expensive# mistake.",
+    "ru": "Это была дорогостоящая ошибка."
+   }
+  ]
  },
  {
   "id": "3300",
   "word": "expend",
   "transcription": "[ɪksˈpɛnd]",
   "translation": "расходовать",
-  "nuance": null,
+  "nuance": "Книжное: расходовать. Spend — разг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/expend.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #expend# all your energy at once.",
+    "ru": "Не трать все силы сразу."
+   },
+   {
+    "en": "They #expended# a lot of money on the project.",
+    "ru": "Они потратили на проект много денег."
+   },
+   {
+    "en": "Kids #expend# energy all day.",
+    "ru": "Дети тратят энергию весь день."
+   }
+  ]
  },
  {
   "id": "3301",
   "word": "addict",
   "transcription": "[ˈædɪkt]",
   "translation": "наркоман, привыкать",
-  "nuance": null,
+  "nuance": "Наркоман; разг. — фанат (TV addict). Addicted to — зависим от.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/addict.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's a coffee #addict#.",
+    "ru": "Он кофеман."
+   },
+   {
+    "en": "She's #addicted# to her phone.",
+    "ru": "Она зависима от телефона."
+   },
+   {
+    "en": "Drug #addicts# need help, not prison.",
+    "ru": "Наркозависимым нужна помощь, а не тюрьма."
+   }
+  ]
  },
  {
   "id": "3302",
@@ -75647,17 +75907,43 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/36874/36874_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Phone #addiction# is common among teens.",
+    "ru": "Зависимость от телефона распространена среди подростков."
+   },
+   {
+    "en": "He fought his #addiction# for years.",
+    "ru": "Он годами боролся со своей зависимостью."
+   },
+   {
+    "en": "Chocolate is my only #addiction#.",
+    "ru": "Шоколад — моя единственная зависимость."
+   }
+  ]
  },
  {
   "id": "3303",
   "word": "murder",
   "transcription": "[ˈmɜːdə]",
   "translation": "убийство, убивать",
-  "nuance": null,
+  "nuance": "Убийство (умышленное); разг. murder — «убить» (преувеличение), «кошмар».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/murder.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He was arrested for #murder#.",
+    "ru": "Его арестовали за убийство."
+   },
+   {
+    "en": "My mum will #murder# me if I'm late.",
+    "ru": "Мама меня убьёт, если я опоздаю."
+   },
+   {
+    "en": "Traffic was #murder# today.",
+    "ru": "Пробки сегодня — жуть."
+   }
+  ]
  },
  {
   "id": "3304",
@@ -75667,7 +75953,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/murderer.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Police caught the #murderer#.",
+    "ru": "Полиция поймала убийцу."
+   },
+   {
+    "en": "In the film, the butler is the #murderer#.",
+    "ru": "В фильме убийца — дворецкий."
+   },
+   {
+    "en": "He looks like a #murderer#, but he's a sweet guy.",
+    "ru": "Он выглядит как убийца, но он милый парень."
+   }
+  ]
  },
  {
   "id": "3305",
@@ -75677,17 +75976,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/murderous.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She gave him a #murderous# look.",
+    "ru": "Она бросила на него убийственный взгляд."
+   },
+   {
+    "en": "The heat was #murderous#.",
+    "ru": "Жара была убийственной."
+   },
+   {
+    "en": "The criminals were #murderous# men.",
+    "ru": "Преступники были кровожадными людьми."
+   }
+  ]
  },
  {
   "id": "3306",
   "word": "literate",
   "transcription": "[ˈlɪtərɪt]",
   "translation": "грамотность",
-  "nuance": null,
+  "nuance": "Грамотный (умеет читать/писать); computer literate — умеет пользоваться компьютером.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/literate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Most adults here are #literate#.",
+    "ru": "Большинство взрослых здесь грамотны."
+   },
+   {
+    "en": "She's computer #literate#.",
+    "ru": "Она владеет компьютером."
+   },
+   {
+    "en": "You need to be financially #literate#.",
+    "ru": "Нужно быть финансово грамотным."
+   }
+  ]
  },
  {
   "id": "3307",
@@ -75697,7 +76022,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/22789/22789_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Literacy# rates are rising.",
+    "ru": "Уровень грамотности растёт."
+   },
+   {
+    "en": "Digital #literacy# is important today.",
+    "ru": "Цифровая грамотность сегодня важна."
+   },
+   {
+    "en": "They run #literacy# classes for adults.",
+    "ru": "Они проводят занятия по ликвидации безграмотности для взрослых."
+   }
+  ]
  },
  {
   "id": "3308",
@@ -75707,7 +76045,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/illiteracy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Illiteracy# is still a problem in some countries.",
+    "ru": "Неграмотность до сих пор проблема в некоторых странах."
+   },
+   {
+    "en": "Financial #illiteracy# costs people money.",
+    "ru": "Финансовая безграмотность стоит людям денег."
+   },
+   {
+    "en": "They fight #illiteracy# with free schools.",
+    "ru": "Они борются с неграмотностью с помощью бесплатных школ."
+   }
+  ]
  },
  {
   "id": "3309",
@@ -75717,7 +76068,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/illiterate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Her grandma was #illiterate# but very wise.",
+    "ru": "Её бабушка была неграмотной, но очень мудрой."
+   },
+   {
+    "en": "I'm technologically #illiterate#.",
+    "ru": "Я технически безграмотный."
+   },
+   {
+    "en": "Many #illiterate# people learn to read as adults.",
+    "ru": "Многие неграмотные люди учатся читать уже взрослыми."
+   }
+  ]
  },
  {
   "id": "3310",
@@ -75727,7 +76091,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/merge.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The two roads #merge# here.",
+    "ru": "Здесь две дороги сливаются."
+   },
+   {
+    "en": "The companies #merged# last year.",
+    "ru": "Компании объединились в прошлом году."
+   },
+   {
+    "en": "#Merge# the two files.",
+    "ru": "Объедини два файла."
+   }
+  ]
  },
  {
   "id": "3311",
@@ -75737,27 +76114,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/merger.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #merger# created a huge company.",
+    "ru": "Слияние создало огромную компанию."
+   },
+   {
+    "en": "Many lost their jobs after the #merger#.",
+    "ru": "После слияния многие потеряли работу."
+   },
+   {
+    "en": "The bank #merger# was approved.",
+    "ru": "Слияние банков одобрили."
+   }
+  ]
  },
  {
   "id": "3312",
   "word": "content",
   "transcription": "[ˈkɒntɛnt]",
   "translation": "содержимое",
-  "nuance": null,
+  "nuance": "Содержимое, содержание (ударение CONtent). ConTENT — довольный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/content.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #content# of the box surprised us.",
+    "ru": "Содержимое коробки нас удивило."
+   },
+   {
+    "en": "Check the #contents# before you pay.",
+    "ru": "Проверь содержимое перед оплатой."
+   },
+   {
+    "en": "She creates #content# for Instagram.",
+    "ru": "Она создаёт контент для инстаграма."
+   }
+  ]
  },
  {
   "id": "3313",
   "word": "aspire",
   "transcription": "[əsˈpaɪə]",
   "translation": "стремиться",
-  "nuance": null,
+  "nuance": "Стремиться (к высокой цели). Aspiring — начинающий, подающий надежды.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/aspire.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #aspires# to become a doctor.",
+    "ru": "Она стремится стать врачом."
+   },
+   {
+    "en": "He #aspires# to a better life.",
+    "ru": "Он стремится к лучшей жизни."
+   },
+   {
+    "en": "#Aspiring# actors work as waiters.",
+    "ru": "Начинающие актёры работают официантами."
+   }
+  ]
  },
  {
   "id": "3314",
@@ -75767,27 +76183,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/aspiration.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Her #aspiration# is to travel the world.",
+    "ru": "Её мечта — объехать весь мир."
+   },
+   {
+    "en": "Young people have big #aspirations#.",
+    "ru": "У молодых людей большие стремления."
+   },
+   {
+    "en": "My only #aspiration# today is a nap.",
+    "ru": "Моё единственное стремление на сегодня — поспать."
+   }
+  ]
  },
  {
   "id": "3315",
   "word": "go on",
   "transcription": "[gəʊɒn]",
   "translation": "происходить",
-  "nuance": null,
+  "nuance": "Происходить; также продолжаться (go on talking).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/go_on.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "What's #going on# here?!",
+    "ru": "Что здесь происходит?!"
+   },
+   {
+    "en": "Something strange is #going on# with the cat.",
+    "ru": "С котом происходит что-то странное."
+   },
+   {
+    "en": "The party #went on# until 3 a.m.",
+    "ru": "Вечеринка продолжалась до трёх ночи."
+   }
+  ]
  },
  {
   "id": "3316",
   "word": "research",
   "transcription": "[rɪˈsɜːʧ]",
   "translation": "исследование, исследовать",
-  "nuance": null,
+  "nuance": "Исследование (неисчисляемое: some research, не «researches»).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/research.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Do some #research# before you buy.",
+    "ru": "Изучи вопрос перед покупкой."
+   },
+   {
+    "en": "She #researches# bees.",
+    "ru": "Она исследует пчёл."
+   },
+   {
+    "en": "#Research# shows that sleep is important.",
+    "ru": "Исследования показывают, что сон важен."
+   }
+  ]
  },
  {
   "id": "3317",
@@ -75797,37 +76252,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/researcher.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #researchers# found a new treatment.",
+    "ru": "Исследователи нашли новый метод лечения."
+   },
+   {
+    "en": "She's a #researcher# at the university.",
+    "ru": "Она научный сотрудник университета."
+   },
+   {
+    "en": "#Researchers# studied 1,000 cats.",
+    "ru": "Исследователи изучили 1000 кошек."
+   }
+  ]
  },
  {
   "id": "3318",
   "word": "appear",
   "transcription": "[əˈpɪə]",
   "translation": "казаться",
-  "nuance": null,
+  "nuance": "Казаться (чуть книжнее, чем seem).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/appear_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #appears# to be asleep.",
+    "ru": "Похоже, он спит."
+   },
+   {
+    "en": "It #appears# that we're lost.",
+    "ru": "Кажется, мы заблудились."
+   },
+   {
+    "en": "She #appeared# happy, but she wasn't.",
+    "ru": "Она казалась счастливой, но не была."
+   }
+  ]
  },
  {
   "id": "3319",
   "word": "appearance",
   "transcription": "[əˈpɪərəns]",
   "translation": "внешний вид",
-  "nuance": null,
+  "nuance": "Внешний вид, внешность. Look(s) — разг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/appearance_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't judge people by #appearance#.",
+    "ru": "Не суди людей по внешности."
+   },
+   {
+    "en": "He cares a lot about his #appearance#.",
+    "ru": "Он очень следит за своей внешностью."
+   },
+   {
+    "en": "The house has a modern #appearance#.",
+    "ru": "У дома современный вид."
+   }
+  ]
  },
  {
   "id": "3320",
   "word": "dawn",
   "transcription": "[dɔːn]",
   "translation": "рассвет",
-  "nuance": null,
+  "nuance": "Рассвет; dawn on — осенить.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/11477/11477_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We left at #dawn#.",
+    "ru": "Мы уехали на рассвете."
+   },
+   {
+    "en": "The birds start singing at #dawn#.",
+    "ru": "Птицы начинают петь на рассвете."
+   },
+   {
+    "en": "It suddenly #dawned# on me.",
+    "ru": "Меня вдруг осенило."
+   }
+  ]
  },
  {
   "id": "3321",
@@ -75837,27 +76344,66 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/23771/23771_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Flowers #attract# bees.",
+    "ru": "Цветы привлекают пчёл."
+   },
+   {
+    "en": "The festival #attracts# thousands of tourists.",
+    "ru": "Фестиваль привлекает тысячи туристов."
+   },
+   {
+    "en": "I'm #attracted# to smart people.",
+    "ru": "Меня привлекают умные люди."
+   }
+  ]
  },
  {
   "id": "3322",
   "word": "attractive",
   "transcription": "[əˈtræktɪv]",
   "translation": "привлекательный",
-  "nuance": null,
+  "nuance": "Привлекательный (внешне или по выгоде). Beautiful — красивый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/attractive.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She's a very #attractive# woman.",
+    "ru": "Она очень привлекательная женщина."
+   },
+   {
+    "en": "The offer is #attractive#.",
+    "ru": "Предложение заманчивое."
+   },
+   {
+    "en": "The town is #attractive# to tourists.",
+    "ru": "Город привлекателен для туристов."
+   }
+  ]
  },
  {
   "id": "3323",
   "word": "attraction",
   "transcription": "[əˈtrækʃ(ə)n]",
   "translation": "привлечение",
-  "nuance": null,
+  "nuance": "Достопримечательность, аттракцион; притяжение, влечение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/attraction.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The Eiffel Tower is the main #attraction#.",
+    "ru": "Эйфелева башня — главная достопримечательность."
+   },
+   {
+    "en": "There's a strong #attraction# between them.",
+    "ru": "Между ними сильное влечение."
+   },
+   {
+    "en": "The #attraction# of the job is the salary.",
+    "ru": "Привлекательность работы — зарплата."
+   }
+  ]
  },
  {
   "id": "3324",
@@ -75867,77 +76413,181 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/undermine.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His jokes #undermined# my confidence.",
+    "ru": "Его шутки подорвали мою уверенность."
+   },
+   {
+    "en": "Don't #undermine# the teacher's authority.",
+    "ru": "Не подрывай авторитет учителя."
+   },
+   {
+    "en": "Lack of sleep #undermines# your health.",
+    "ru": "Недосып подрывает здоровье."
+   }
+  ]
  },
  {
   "id": "3325",
   "word": "dispose of",
   "transcription": "[dɪsˈpəʊzɒv]",
   "translation": "располагать, распоряжаться",
-  "nuance": null,
+  "nuance": "Избавиться, утилизировать (офиц.). Get rid of — разг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dispose_of.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "How do I #dispose of# an old fridge?",
+    "ru": "Как утилизировать старый холодильник?"
+   },
+   {
+    "en": "#Dispose of# batteries properly.",
+    "ru": "Правильно утилизируйте батарейки."
+   },
+   {
+    "en": "They #disposed of# the evidence.",
+    "ru": "Они избавились от улик."
+   }
+  ]
  },
  {
   "id": "3326",
   "word": "disposal",
   "transcription": "[dɪsˈpəʊzəl]",
   "translation": "распоряжение",
-  "nuance": null,
+  "nuance": "At someone's disposal — в распоряжении; утилизация.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/disposal.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The car is at your #disposal#.",
+    "ru": "Машина в вашем распоряжении."
+   },
+   {
+    "en": "Waste #disposal# is a big problem.",
+    "ru": "Утилизация отходов — большая проблема."
+   },
+   {
+    "en": "Put it in the #disposal#.",
+    "ru": "Кинь это в измельчитель отходов."
+   }
+  ]
  },
  {
   "id": "3327",
   "word": "dot",
   "transcription": "[dɒt]",
   "translation": "точка",
-  "nuance": null,
+  "nuance": "Точка (маленькая, в интернет-адресах); on the dot — ровно.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dot.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Join the #dots# to draw a cat.",
+    "ru": "Соедини точки, чтобы нарисовать кота."
+   },
+   {
+    "en": "Be here at nine on the #dot#.",
+    "ru": "Будь здесь ровно в девять."
+   },
+   {
+    "en": "The website is google #dot# com.",
+    "ru": "Сайт — google точка com."
+   }
+  ]
  },
  {
   "id": "3328",
   "word": "rub",
   "transcription": "[rʌb]",
   "translation": "тереть",
-  "nuance": null,
+  "nuance": "Тереть; rub it in — сыпать соль на рану.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/34371/34371_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Rub# the cream into your skin.",
+    "ru": "Вотри крем в кожу."
+   },
+   {
+    "en": "The cat #rubs# against my legs.",
+    "ru": "Кот трётся о мои ноги."
+   },
+   {
+    "en": "Don't #rub# your eyes.",
+    "ru": "Не три глаза."
+   }
+  ]
  },
  {
   "id": "3329",
   "word": "look into",
   "transcription": "[lʊkˈɪntuː]",
   "translation": "посмотреть, разобраться",
-  "nuance": null,
+  "nuance": "Изучить, разобраться, расследовать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/look_into.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I'll #look into# the problem.",
+    "ru": "Я разберусь с проблемой."
+   },
+   {
+    "en": "Police are #looking into# the robbery.",
+    "ru": "Полиция расследует ограбление."
+   },
+   {
+    "en": "Can you #look into# cheaper flights?",
+    "ru": "Можешь поискать рейсы подешевле?"
+   }
+  ]
  },
  {
   "id": "3330",
   "word": "fabric",
   "transcription": "[ˈfæbrɪk]",
   "translation": "ткань, материал",
-  "nuance": null,
+  "nuance": "Ткань; перен. — основа, структура. Ложный друг: не «фабрика» (factory)!",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/3402/3402_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "This #fabric# is soft and warm.",
+    "ru": "Эта ткань мягкая и тёплая."
+   },
+   {
+    "en": "The dress is made of expensive #fabric#.",
+    "ru": "Платье сшито из дорогой ткани."
+   },
+   {
+    "en": "Family is the #fabric# of society.",
+    "ru": "Семья — основа общества."
+   }
+  ]
  },
  {
   "id": "3331",
   "word": "beauty",
   "transcription": "[ˈbjuːti]",
   "translation": "красота или красавица",
-  "nuance": null,
+  "nuance": "Красота; a beauty — красавица (и разг. «шикарная вещь»).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/beauty.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #beauty# of the mountains took our breath away.",
+    "ru": "Красота гор захватила дух."
+   },
+   {
+    "en": "She's a real #beauty#.",
+    "ru": "Она настоящая красавица."
+   },
+   {
+    "en": "#Beauty# is in the eye of the beholder.",
+    "ru": "Красота в глазах смотрящего."
+   }
+  ]
  },
  {
   "id": "3332",
