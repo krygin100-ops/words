@@ -54744,80 +54744,184 @@
   "word": "supplier",
   "transcription": "[səˈplaɪə]",
   "translation": "поставщик",
-  "nuance": null,
+  "nuance": "Поставщик (компания). Provider — поставщик услуг (интернет, связь).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/supplier.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We changed our coffee #supplier#.",
+    "ru": "Мы сменили поставщика кофе."
+   },
+   {
+    "en": "The #supplier# delivered the wrong boxes.",
+    "ru": "Поставщик доставил не те коробки."
+   },
+   {
+    "en": "Ask your electricity #supplier# for a better deal.",
+    "ru": "Попроси у поставщика электроэнергии тариф получше."
+   }
+  ]
  },
  {
   "id": "2383",
   "word": "poor",
   "transcription": "[pʊə]",
   "translation": "бедный",
-  "nuance": null,
+  "nuance": "Бедный (без денег); бедненький (сочувствие); плохой (poor quality, poor health).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/poor.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They were too #poor# to buy shoes.",
+    "ru": "Они были слишком бедны, чтобы купить обувь."
+   },
+   {
+    "en": "#Poor# thing! You look tired.",
+    "ru": "Бедняжка! Ты выглядишь уставшим."
+   },
+   {
+    "en": "The food was #poor# quality.",
+    "ru": "Еда была плохого качества."
+   }
+  ]
  },
  {
   "id": "2384",
   "word": "poorness",
   "transcription": "[ˈpʊənəs]",
   "translation": "бедность",
-  "nuance": null,
+  "nuance": "Редкое: скудость, плохое качество. О деньгах — poverty!",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/poorness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #poorness# of the soil limits farming.",
+    "ru": "Бедность почвы ограничивает земледелие."
+   },
+   {
+    "en": "The #poorness# of his excuse made us laugh.",
+    "ru": "Убогость его отговорки нас рассмешила."
+   },
+   {
+    "en": "The #poorness# of the service shocked us.",
+    "ru": "Плохое обслуживание нас шокировало."
+   }
+  ]
  },
  {
   "id": "2385",
   "word": "convince",
   "transcription": "[kənˈvɪns]",
   "translation": "убеждать",
-  "nuance": null,
+  "nuance": "Convince that — убедить в правде; persuade to — уговорить сделать (convince to тоже бывает в разг.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/convince.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #convinced# me to try yoga.",
+    "ru": "Она убедила меня попробовать йогу."
+   },
+   {
+    "en": "I'm #convinced# the cat understands English.",
+    "ru": "Я убеждён, что кот понимает английский."
+   },
+   {
+    "en": "You can't #convince# him — he's too stubborn.",
+    "ru": "Его не переубедить — он слишком упрямый."
+   }
+  ]
  },
  {
   "id": "2386",
   "word": "tie",
   "transcription": "[taɪ]",
   "translation": "галстук, завязка и т.п.",
-  "nuance": null,
+  "nuance": "Галстук; ничья; завязка. Глагол tie — завязать, привязать.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/4614/4614_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He wore a funny #tie# to the wedding.",
+    "ru": "Он надел на свадьбу смешной галстук."
+   },
+   {
+    "en": "The match ended in a #tie#.",
+    "ru": "Матч закончился вничью."
+   },
+   {
+    "en": "#Tie# your shoelaces!",
+    "ru": "Завяжи шнурки!"
+   }
+  ]
  },
  {
   "id": "2387",
   "word": "escape",
   "transcription": "[ɪsˈkeɪp]",
   "translation": "избежать, спастись",
-  "nuance": null,
+  "nuance": "Сбежать, избежать; ... escapes me — вылетело из головы.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/escape.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The parrot #escaped# from its cage.",
+    "ru": "Попугай сбежал из клетки."
+   },
+   {
+    "en": "We #escaped# the rain just in time.",
+    "ru": "Мы вовремя спаслись от дождя."
+   },
+   {
+    "en": "His name #escapes# me.",
+    "ru": "Не могу вспомнить его имя."
+   }
+  ]
  },
  {
   "id": "2388",
   "word": "escapee",
   "transcription": "[escapee]",
   "translation": "беглец",
-  "nuance": null,
+  "nuance": "Сбежавший (из тюрьмы, клетки). Fugitive — беглец от закона (серьёзнее).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/escapee.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Police are searching for the #escapee#.",
+    "ru": "Полиция ищет беглеца."
+   },
+   {
+    "en": "Our hamster is a famous #escapee#.",
+    "ru": "Наш хомяк — знаменитый беглец."
+   },
+   {
+    "en": "The #escapee# was found in a barn.",
+    "ru": "Беглеца нашли в сарае."
+   }
+  ]
  },
  {
   "id": "2389",
   "word": "mine",
   "transcription": "[maɪn]",
   "translation": "мина",
-  "nuance": null,
+  "nuance": "Мина; также шахта (coal mine). Mine — «мой» (притяж. местоимение).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/mine.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The soldier stepped on a #mine#.",
+    "ru": "Солдат наступил на мину."
+   },
+   {
+    "en": "They cleared #mines# from the field.",
+    "ru": "С поля убрали мины."
+   },
+   {
+    "en": "The area is still full of old #mines#.",
+    "ru": "В этом районе до сих пор полно старых мин."
+   }
+  ]
  },
  {
   "id": "2390",
@@ -54827,47 +54931,112 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/let_smb_in.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Let# me #in# — it's cold!",
+    "ru": "Впусти меня — холодно!"
+   },
+   {
+    "en": "The guard didn't #let# us #in# without tickets.",
+    "ru": "Охранник не пустил нас без билетов."
+   },
+   {
+    "en": "Don't #let# the cat #in# — it's muddy.",
+    "ru": "Не впускай кота — он грязный."
+   }
+  ]
  },
  {
   "id": "2391",
   "word": "let smb out",
   "transcription": "[lɛtsmbaʊt]",
   "translation": "выпустить",
-  "nuance": null,
+  "nuance": "Let the cat out of the bag — выдать секрет.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/let_smb_out.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Let# the dog #out#, please.",
+    "ru": "Выпусти собаку, пожалуйста."
+   },
+   {
+    "en": "The teacher #let# us #out# early.",
+    "ru": "Учитель отпустил нас пораньше."
+   },
+   {
+    "en": "Who #let# the cat #out# of the bag?",
+    "ru": "Кто проболтался?"
+   }
+  ]
  },
  {
   "id": "2392",
   "word": "pour",
   "transcription": "[pɔː]",
   "translation": "лить",
-  "nuance": null,
+  "nuance": "Лить, наливать; it's pouring — ливень. Spill — пролить случайно.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/pour.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Pour# me some coffee, please.",
+    "ru": "Налей мне кофе, пожалуйста."
+   },
+   {
+    "en": "It's #pouring# outside!",
+    "ru": "На улице льёт как из ведра!"
+   },
+   {
+    "en": "She #poured# her heart out to me.",
+    "ru": "Она излила мне душу."
+   }
+  ]
  },
  {
   "id": "2393",
   "word": "downpour",
   "transcription": "[ˈdaʊnpɔː]",
   "translation": "ливень",
-  "nuance": null,
+  "nuance": "Сильный ливень. Shower — кратковременный дождь; drizzle — морось.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/downpour.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We got caught in a #downpour#.",
+    "ru": "Мы попали под ливень."
+   },
+   {
+    "en": "A sudden #downpour# ruined the picnic.",
+    "ru": "Внезапный ливень испортил пикник."
+   },
+   {
+    "en": "The #downpour# lasted five minutes.",
+    "ru": "Ливень длился пять минут."
+   }
+  ]
  },
  {
   "id": "2394",
   "word": "expect",
   "transcription": "[ɪksˈpɛkt]",
   "translation": "ожидать (события)",
-  "nuance": null,
+  "nuance": "Ожидать (что произойдёт). Wait for — ждать (физически); look forward to — ждать с нетерпением.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/expect.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #expect# rain tomorrow.",
+    "ru": "Завтра ожидается дождь."
+   },
+   {
+    "en": "I didn't #expect# you so early!",
+    "ru": "Я не ждал тебя так рано!"
+   },
+   {
+    "en": "She's #expecting# a baby.",
+    "ru": "Она ждёт ребёнка."
+   }
+  ]
  },
  {
   "id": "2395",
@@ -54877,7 +55046,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unexpected.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We had an #unexpected# guest — a frog.",
+    "ru": "У нас был неожиданный гость — лягушка."
+   },
+   {
+    "en": "The news was totally #unexpected#.",
+    "ru": "Новость была совершенно неожиданной."
+   },
+   {
+    "en": "Life is full of #unexpected# surprises.",
+    "ru": "Жизнь полна неожиданностей."
+   }
+  ]
  },
  {
   "id": "2396",
@@ -54887,57 +55069,135 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/expectation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The film didn't meet my #expectations#.",
+    "ru": "Фильм не оправдал моих ожиданий."
+   },
+   {
+    "en": "Lower your #expectations# — it's a cheap hotel.",
+    "ru": "Снизь ожидания — это дешёвый отель."
+   },
+   {
+    "en": "Parents have high #expectations#.",
+    "ru": "У родителей высокие ожидания."
+   }
+  ]
  },
  {
   "id": "2397",
   "word": "within",
   "transcription": "[wɪˈðɪn]",
   "translation": "в пределах, внутри",
-  "nuance": null,
+  "nuance": "В пределах (физических и абстрактных). Inside — внутри (физически).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/within_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Keep #within# the speed limit.",
+    "ru": "Не превышай скоростной режим."
+   },
+   {
+    "en": "The shop is #within# walking distance.",
+    "ru": "Магазин в пешей доступности."
+   },
+   {
+    "en": "Stay #within# your budget.",
+    "ru": "Не выходи за рамки бюджета."
+   }
+  ]
  },
  {
   "id": "2398",
   "word": "confer",
   "transcription": "[kənˈfɜː]",
   "translation": "совещаться",
-  "nuance": null,
+  "nuance": "Официальное: совещаться. Разг.: talk it over, discuss.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/confer_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The doctors #conferred# before the operation.",
+    "ru": "Врачи посовещались перед операцией."
+   },
+   {
+    "en": "Let me #confer# with my wife.",
+    "ru": "Дай мне посоветоваться с женой."
+   },
+   {
+    "en": "The judges #conferred# for an hour.",
+    "ru": "Судьи совещались час."
+   }
+  ]
  },
  {
   "id": "2399",
   "word": "conference",
   "transcription": "[ˈkɒnfərəns]",
   "translation": "совещание",
-  "nuance": null,
+  "nuance": "Конференция, совещание. Meeting — встреча (обычная).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/conference.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She's at a #conference# in Berlin.",
+    "ru": "Она на конференции в Берлине."
+   },
+   {
+    "en": "We had a #conference# call at 7 a.m.",
+    "ru": "У нас была конференц-связь в 7 утра."
+   },
+   {
+    "en": "The press #conference# started late.",
+    "ru": "Пресс-конференция началась с опозданием."
+   }
+  ]
  },
  {
   "id": "2400",
   "word": "nest",
   "transcription": "[nɛst]",
   "translation": "гнездо, гнездиться",
-  "nuance": null,
+  "nuance": "Empty nest — опустевшее гнездо (когда дети уехали).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/7173/7173_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Birds built a #nest# on our balcony.",
+    "ru": "Птицы свили гнездо на нашем балконе."
+   },
+   {
+    "en": "The kids left the #nest# and Mum cried.",
+    "ru": "Дети вылетели из гнезда, и мама плакала."
+   },
+   {
+    "en": "Wasps #nest# under the roof.",
+    "ru": "Осы гнездятся под крышей."
+   }
+  ]
  },
  {
   "id": "2401",
   "word": "board",
   "transcription": "[bɔːd]",
   "translation": "доска",
-  "nuance": null,
+  "nuance": "Доска (разные: chopping board, notice board). Также совет директоров, питание (room and board).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6222/6222_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The teacher wrote on the #board#.",
+    "ru": "Учитель писал на доске."
+   },
+   {
+    "en": "Cut the bread on the #board#.",
+    "ru": "Режь хлеб на доске."
+   },
+   {
+    "en": "The ironing #board# fell on my foot.",
+    "ru": "Гладильная доска упала мне на ногу."
+   }
+  ]
  },
  {
   "id": "2402",
@@ -54947,7 +55207,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/billboard.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His face is on a giant #billboard#.",
+    "ru": "Его лицо на огромном рекламном щите."
+   },
+   {
+    "en": "#Billboards# block the view of the hills.",
+    "ru": "Рекламные щиты закрывают вид на холмы."
+   },
+   {
+    "en": "We saw a funny #billboard# on the highway.",
+    "ru": "Мы увидели смешной билборд на трассе."
+   }
+  ]
  },
  {
   "id": "2403",
@@ -54957,7 +55230,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2793/2793_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The cat walked across the #keyboard# and sent the email.",
+    "ru": "Кот прошёлся по клавиатуре и отправил письмо."
+   },
+   {
+    "en": "I spilled coffee on my #keyboard#.",
+    "ru": "Я пролил кофе на клавиатуру."
+   },
+   {
+    "en": "She plays the #keyboard# in a band.",
+    "ru": "Она играет на клавишных в группе."
+   }
+  ]
  },
  {
   "id": "2404",
@@ -54967,27 +55253,66 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/32580/32580_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We play #board games# every Friday.",
+    "ru": "По пятницам мы играем в настольные игры."
+   },
+   {
+    "en": "Monopoly is a #board game# that ends friendships.",
+    "ru": "«Монополия» — настольная игра, которая рушит дружбу."
+   },
+   {
+    "en": "My son invented his own #board game#.",
+    "ru": "Сын придумал свою настольную игру."
+   }
+  ]
  },
  {
   "id": "2405",
   "word": "core",
   "transcription": "[kɔː]",
   "translation": "ядро, сердцевина, сущность",
-  "nuance": null,
+  "nuance": "Сердцевина; суть, ядро. Core values — основные ценности.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/core.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't eat the apple #core#.",
+    "ru": "Не ешь сердцевину яблока."
+   },
+   {
+    "en": "Honesty is at the #core# of our friendship.",
+    "ru": "Честность — основа нашей дружбы."
+   },
+   {
+    "en": "He's rotten to the #core#.",
+    "ru": "Он насквозь гнилой."
+   }
+  ]
  },
  {
   "id": "2406",
   "word": "apply",
   "transcription": "[əˈplaɪ]",
   "translation": "обращаться (с заявлением)",
-  "nuance": null,
+  "nuance": "Apply for — подавать заявление (на работу, визу); apply to — в организацию.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/apply_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #applied# for a visa.",
+    "ru": "Она подала заявление на визу."
+   },
+   {
+    "en": "I #applied# for ten jobs last month.",
+    "ru": "В прошлом месяце я подал заявки на десять вакансий."
+   },
+   {
+    "en": "You can #apply# online.",
+    "ru": "Подать заявку можно онлайн."
+   }
+  ]
  },
  {
   "id": "2407",
@@ -54997,107 +55322,250 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/application_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Fill in the #application# form.",
+    "ru": "Заполните форму заявления."
+   },
+   {
+    "en": "My #application# was rejected.",
+    "ru": "Моё заявление отклонили."
+   },
+   {
+    "en": "The deadline for #applications# is Friday.",
+    "ru": "Заявления принимаются до пятницы."
+   }
+  ]
  },
  {
   "id": "2408",
   "word": "applicant",
   "transcription": "[ˈæplɪkənt]",
   "translation": "заявитель",
-  "nuance": null,
+  "nuance": "Заявитель, соискатель. Candidate — кандидат (шире).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/applicant.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There were 200 #applicants# for one job.",
+    "ru": "На одну вакансию было 200 кандидатов."
+   },
+   {
+    "en": "Each #applicant# must have a passport.",
+    "ru": "У каждого заявителя должен быть паспорт."
+   },
+   {
+    "en": "The best #applicant# got the job.",
+    "ru": "Работу получил лучший кандидат."
+   }
+  ]
  },
  {
   "id": "2409",
   "word": "combat",
   "transcription": "[ˈkɒmbæt]",
   "translation": "бой",
-  "nuance": null,
+  "nuance": "Бой (воен.); глагол combat — бороться с (проблемой), офиц.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/39106/39106_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He died in #combat#.",
+    "ru": "Он погиб в бою."
+   },
+   {
+    "en": "Soldiers train for #combat#.",
+    "ru": "Солдаты готовятся к бою."
+   },
+   {
+    "en": "We need to #combat# climate change.",
+    "ru": "Нам нужно бороться с изменением климата."
+   }
+  ]
  },
  {
   "id": "2410",
   "word": "combative",
   "transcription": "[ˈkɒmbətɪv]",
   "translation": "боевой",
-  "nuance": null,
+  "nuance": "Задиристый, склонный к спорам. Aggressive — агрессивный (сильнее).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/combative.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's very #combative# in meetings.",
+    "ru": "Он очень воинственный на совещаниях."
+   },
+   {
+    "en": "The cat is in a #combative# mood.",
+    "ru": "Кот в боевом настроении."
+   },
+   {
+    "en": "Her #combative# style scares people.",
+    "ru": "Её агрессивный стиль пугает людей."
+   }
+  ]
  },
  {
   "id": "2411",
   "word": "loan",
   "transcription": "[ləʊn]",
   "translation": "заём, ссуда",
-  "nuance": null,
+  "nuance": "Заём, кредит. Credit — кредит (шире, кредитная история). Lend — давать в долг (глагол).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/loan.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We took out a #loan# to buy a car.",
+    "ru": "Мы взяли кредит на машину."
+   },
+   {
+    "en": "Can I have a #loan# of your bike?",
+    "ru": "Можно одолжить твой велосипед?"
+   },
+   {
+    "en": "Student #loans# take years to repay.",
+    "ru": "Студенческие кредиты выплачивают годами."
+   }
+  ]
  },
  {
   "id": "2412",
   "word": "council",
   "transcription": "[ˈkaʊns(ə)l]",
   "translation": "совет (орган)",
-  "nuance": null,
+  "nuance": "Совет (орган власти). Не путать с counsel — совет (рекомендация), адвокат.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/council.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The city #council# approved the new park.",
+    "ru": "Городской совет одобрил новый парк."
+   },
+   {
+    "en": "She's on the student #council#.",
+    "ru": "Она в студенческом совете."
+   },
+   {
+    "en": "Complain to the local #council#.",
+    "ru": "Пожалуйся в местную администрацию."
+   }
+  ]
  },
  {
   "id": "2413",
   "word": "flaw",
   "transcription": "[flɔː]",
   "translation": "изъян",
-  "nuance": null,
+  "nuance": "Изъян, дефект (в предмете, плане, характере). Fault — вина/неисправность.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/flaw.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The plan has one big #flaw#.",
+    "ru": "В плане есть один большой изъян."
+   },
+   {
+    "en": "Everyone has #flaws#.",
+    "ru": "У всех есть недостатки."
+   },
+   {
+    "en": "There's a small #flaw# in the glass.",
+    "ru": "В стекле небольшой дефект."
+   }
+  ]
  },
  {
   "id": "2414",
   "word": "flawless",
   "transcription": "[ˈflɔːlɪs]",
   "translation": "безупречный",
-  "nuance": null,
+  "nuance": "Безупречный (без единого изъяна). Perfect — идеальный (шире).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/flawless.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Her English is #flawless#.",
+    "ru": "Её английский безупречен."
+   },
+   {
+    "en": "The performance was #flawless#.",
+    "ru": "Выступление было безупречным."
+   },
+   {
+    "en": "The diamond is #flawless#.",
+    "ru": "Бриллиант без изъянов."
+   }
+  ]
  },
  {
   "id": "2415",
   "word": "wealth",
   "transcription": "[wɛlθ]",
   "translation": "богатство",
-  "nuance": null,
+  "nuance": "Богатство (крупное). A wealth of — обилие.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/wealth.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Health is the greatest #wealth#.",
+    "ru": "Здоровье — величайшее богатство."
+   },
+   {
+    "en": "He made his #wealth# from oil.",
+    "ru": "Он разбогател на нефти."
+   },
+   {
+    "en": "A #wealth# of information is online.",
+    "ru": "В интернете огромное количество информации."
+   }
+  ]
  },
  {
   "id": "2416",
   "word": "wealthy",
   "transcription": "[ˈwɛlθi]",
   "translation": "состоятельный",
-  "nuance": null,
+  "nuance": "Состоятельный (вежливее, чем rich). Well-off — обеспеченный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/wealthy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They live in a #wealthy# neighbourhood.",
+    "ru": "Они живут в богатом районе."
+   },
+   {
+    "en": "He married a #wealthy# woman.",
+    "ru": "Он женился на состоятельной женщине."
+   },
+   {
+    "en": "Only #wealthy# people can afford this hotel.",
+    "ru": "Только состоятельные люди могут позволить себе этот отель."
+   }
+  ]
  },
  {
   "id": "2417",
   "word": "employ",
   "transcription": "[ɪmˈplɔɪ]",
   "translation": "нанимать на работу",
-  "nuance": null,
+  "nuance": "Нанимать, давать работу (офиц.). Hire — нанять (разг.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/employ_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The company #employs# 500 people.",
+    "ru": "В компании работает 500 человек."
+   },
+   {
+    "en": "They #employed# a new cook.",
+    "ru": "Они наняли нового повара."
+   },
+   {
+    "en": "She's #employed# as a teacher.",
+    "ru": "Она работает учителем."
+   }
+  ]
  },
  {
   "id": "2418",
@@ -55107,27 +55575,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/employer.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My #employer# pays for lunch.",
+    "ru": "Мой работодатель оплачивает обед."
+   },
+   {
+    "en": "He's a good #employer#.",
+    "ru": "Он хороший работодатель."
+   },
+   {
+    "en": "Ask your #employer# for a letter.",
+    "ru": "Попроси письмо у работодателя."
+   }
+  ]
  },
  {
   "id": "2419",
   "word": "employee",
   "transcription": "[ˌɛmplɔɪˈiː]",
   "translation": "работник",
-  "nuance": null,
+  "nuance": "Работник, сотрудник. Ударение: employEE. Staff — персонал (собирательно).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/20113/20113_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The company has 50 #employees#.",
+    "ru": "В компании 50 сотрудников."
+   },
+   {
+    "en": "#Employee# of the month — again my cat.",
+    "ru": "Сотрудник месяца — снова мой кот."
+   },
+   {
+    "en": "#Employees# get free coffee.",
+    "ru": "Сотрудники получают бесплатный кофе."
+   }
+  ]
  },
  {
   "id": "2420",
   "word": "employment",
   "transcription": "[ɪmˈplɔɪmənt]",
   "translation": "занятость",
-  "nuance": null,
+  "nuance": "Занятость, работа (офиц.). Job — работа (разг.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/employment_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Employment# rates are rising.",
+    "ru": "Уровень занятости растёт."
+   },
+   {
+    "en": "She's looking for full-time #employment#.",
+    "ru": "Она ищет работу на полный день."
+   },
+   {
+    "en": "#Employment# contracts must be signed.",
+    "ru": "Трудовые договоры должны быть подписаны."
+   }
+  ]
  },
  {
   "id": "2421",
@@ -55137,107 +55644,250 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/11326/11326_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Unemployment# is high in this region.",
+    "ru": "Безработица в этом регионе высокая."
+   },
+   {
+    "en": "He's been on #unemployment# for a year.",
+    "ru": "Он год получает пособие по безработице."
+   },
+   {
+    "en": "#Unemployment# fell last month.",
+    "ru": "В прошлом месяце безработица снизилась."
+   }
+  ]
  },
  {
   "id": "2422",
   "word": "drive (drove, driven)",
   "transcription": "[draɪv]",
   "translation": "двигать, гнать",
-  "nuance": null,
+  "nuance": "Гнать, двигать; drive someone crazy — сводить с ума.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/drive.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The wind #drove# the boat onto the rocks.",
+    "ru": "Ветер выбросил лодку на скалы."
+   },
+   {
+    "en": "Hunger #drove# the bears into town.",
+    "ru": "Голод погнал медведей в город."
+   },
+   {
+    "en": "The noise is #driving# me crazy.",
+    "ru": "Этот шум сводит меня с ума."
+   }
+  ]
  },
  {
   "id": "2423",
   "word": "eat up",
   "transcription": "[iːtʌp]",
   "translation": "съесть полностью",
-  "nuance": null,
+  "nuance": "Доесть всё; перен. — поглощать (время, деньги).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/eat_up.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Eat up# your vegetables!",
+    "ru": "Доедай овощи!"
+   },
+   {
+    "en": "The kids #ate up# all the cookies.",
+    "ru": "Дети съели всё печенье подчистую."
+   },
+   {
+    "en": "The rent #eats up# half my salary.",
+    "ru": "Аренда съедает половину зарплаты."
+   }
+  ]
  },
  {
   "id": "2424",
   "word": "attitude",
   "transcription": "[ˈætɪtjuːd]",
   "translation": "отношение",
-  "nuance": null,
+  "nuance": "Отношение, настрой. Разг. attitude — дерзость, характер.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/attitude.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He has a bad #attitude#.",
+    "ru": "У него плохое отношение."
+   },
+   {
+    "en": "Change your #attitude#, change your life.",
+    "ru": "Измени отношение — изменишь жизнь."
+   },
+   {
+    "en": "The cat has a lot of #attitude#.",
+    "ru": "У кота сильный характер."
+   }
+  ]
  },
  {
   "id": "2425",
   "word": "software",
   "transcription": "[ˈsɒftweə]",
   "translation": "программое обеспечение",
-  "nuance": null,
+  "nuance": "Неисчисляемое! (не «softwares»). Hardware — железо.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/24320/24320_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Update the #software# on your phone.",
+    "ru": "Обнови программное обеспечение на телефоне."
+   },
+   {
+    "en": "The #software# crashed again.",
+    "ru": "Программа снова вылетела."
+   },
+   {
+    "en": "He's a #software# developer.",
+    "ru": "Он разработчик программного обеспечения."
+   }
+  ]
  },
  {
   "id": "2426",
   "word": "chase",
   "transcription": "[ʧeɪs]",
   "translation": "погоня, гнаться",
-  "nuance": null,
+  "nuance": "Гнаться, преследовать. Cut to the chase — ближе к делу.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/chase.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The dog loves to #chase# cats.",
+    "ru": "Собака обожает гоняться за кошками."
+   },
+   {
+    "en": "There was a car #chase# through the city.",
+    "ru": "По городу шла автопогоня."
+   },
+   {
+    "en": "Stop #chasing# her — she's not interested.",
+    "ru": "Перестань за ней бегать — ей это не интересно."
+   }
+  ]
  },
  {
   "id": "2427",
   "word": "infant",
   "transcription": "[ˈɪnfənt]",
   "translation": "ребёнок",
-  "nuance": null,
+  "nuance": "Младенец (офиц.). Baby — разг.; toddler — ребёнок, начинающий ходить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/infant.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #infant# slept through the whole flight.",
+    "ru": "Младенец проспал весь полёт."
+   },
+   {
+    "en": "#Infant# food is expensive.",
+    "ru": "Детское питание дорогое."
+   },
+   {
+    "en": "Mothers with #infants# board first.",
+    "ru": "Матери с младенцами садятся первыми."
+   }
+  ]
  },
  {
   "id": "2428",
   "word": "infancy",
   "transcription": "[ˈɪnfənsi]",
   "translation": "младенчество",
-  "nuance": null,
+  "nuance": "Младенчество; перен. — начальная стадия.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/infancy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She was sick in #infancy#.",
+    "ru": "В младенчестве она болела."
+   },
+   {
+    "en": "The project is still in its #infancy#.",
+    "ru": "Проект ещё в зачаточном состоянии."
+   },
+   {
+    "en": "He lost his father in #infancy#.",
+    "ru": "Он потерял отца в младенчестве."
+   }
+  ]
  },
  {
   "id": "2429",
   "word": "allege",
   "transcription": "[əˈlɛʤ]",
   "translation": "утверждать, приписывать",
-  "nuance": null,
+  "nuance": "Утверждать без доказательств (юр./новости). Claim — утверждать (шире).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/allege.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Police #allege# that he stole the car.",
+    "ru": "Полиция утверждает, что он угнал машину."
+   },
+   {
+    "en": "She #alleged# that her boss shouted at her.",
+    "ru": "Она заявила, что начальник на неё кричал."
+   },
+   {
+    "en": "It's #alleged# that he took money.",
+    "ru": "Утверждается, что он брал деньги."
+   }
+  ]
  },
  {
   "id": "2430",
   "word": "alleged",
   "transcription": "[əˈlɛʤd]",
   "translation": "мнимый",
-  "nuance": null,
+  "nuance": "Предполагаемый, якобы (не доказано). Supposed — предполагаемый (разг.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/alleged.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #alleged# thief was released.",
+    "ru": "Предполагаемого вора отпустили."
+   },
+   {
+    "en": "His #alleged# illness was just laziness.",
+    "ru": "Его мнимая болезнь была просто ленью."
+   },
+   {
+    "en": "The #alleged# victim gave a statement.",
+    "ru": "Предполагаемая жертва дала показания."
+   }
+  ]
  },
  {
   "id": "2431",
   "word": "allegation",
   "transcription": "[ˌælɪˈgeɪʃ(ə)n]",
   "translation": "утверждение (голословное)",
-  "nuance": null,
+  "nuance": "Обвинение без доказательств. Accusation — обвинение (общее).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/allegation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He denied all #allegations#.",
+    "ru": "Он отрицал все обвинения."
+   },
+   {
+    "en": "The #allegations# turned out to be false.",
+    "ru": "Обвинения оказались ложными."
+   },
+   {
+    "en": "There are #allegations# of fraud.",
+    "ru": "Есть обвинения в мошенничестве."
+   }
+  ]
  },
  {
   "id": "2432",
