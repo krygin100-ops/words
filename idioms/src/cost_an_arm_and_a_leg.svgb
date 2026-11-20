@@ -1,0 +1,14 @@
+<path d="M10 150 H190 V190 H10 Z" fill="{F}"/>
+<rect x="110" y="40" width="80" height="55" rx="5" fill="{L}"/>
+<text x="150" y="62" font-size="13" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">PRICE:</text>
+<text x="150" y="83" font-size="12" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">1 arm+1 leg</text>
+<circle cx="50" cy="60" r="16" fill="{F}"/>
+<circle cx="45" cy="57" r="5" fill="{L}"/>
+<circle cx="56" cy="57" r="5" fill="{L}"/>
+<ellipse cx="50" cy="68" rx="5" ry="4" fill="#000"/>
+<path d="M50 76 V120 L40 150 M50 120 L60 150 M50 90 L30 105"/>
+<path d="M50 90 L70 90" stroke-width="5" stroke-dasharray="3 4"/>
+<path d="M80 130 Q90 120 105 125 L120 128" stroke-width="8"/>
+<path d="M120 128 L130 122 M120 128 L130 132" stroke-width="4"/>
+<path d="M120 145 Q125 140 130 145" stroke-width="0"/>
+<text x="55" y="25" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">how much?!</text>

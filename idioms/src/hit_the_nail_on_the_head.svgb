@@ -1,0 +1,11 @@
+<path d="M10 175 H190"/>
+<rect x="20" y="150" width="160" height="25" fill="{F}"/>
+<path d="M100 150 V105" stroke-width="5"/>
+<rect x="85" y="98" width="30" height="8" fill="{L}"/>
+<path d="M150 25 L105 85" stroke-width="10"/>
+<rect x="85" y="65" width="45" height="28" rx="4" fill="{L}" transform="rotate(-37 107 79)"/>
+<g stroke-width="4"><path d="M65 95 L50 85 M135 100 L155 95 M75 115 L58 120 M128 118 L145 125"/></g>
+<circle cx="45" cy="45" r="22" fill="{F}"/>
+<circle cx="45" cy="45" r="12" stroke="{L}" stroke-width="3"/>
+<circle cx="45" cy="45" r="4" fill="{L}"/>
+<text x="150" y="140" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">exactly!</text>

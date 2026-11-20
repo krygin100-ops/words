@@ -1,0 +1,10 @@
+<path d="M10 180 H190"/>
+<path d="M120 165 L150 145 L175 155 L150 175 Z" fill="{F}"/>
+<path d="M120 165 Q100 180 70 175 Q50 178 60 185 Q100 190 140 182 Q170 180 175 170" fill="{L}"/>
+<path d="M150 145 L160 130" stroke-width="4"/>
+<circle cx="60" cy="95" r="24" fill="{F}"/>
+<path d="M48 90 Q53 85 58 90 M62 90 Q67 85 72 90" stroke-width="3"/>
+<path d="M50 112 Q60 104 70 112" stroke-width="3"/>
+<path d="M48 95 Q42 115 48 118 Q54 115 48 95 Z M72 95 Q66 115 72 118 Q78 115 72 95 Z" fill="{L}" stroke="none"/>
+<path d="M40 170 Q40 125 60 120 Q80 125 80 170" fill="{F}"/>
+<text x="140" y="60" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">too late now…</text>

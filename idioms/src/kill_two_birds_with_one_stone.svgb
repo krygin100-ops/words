@@ -1,0 +1,11 @@
+<path d="M10 180 H190"/>
+<path d="M30 140 Q50 120 70 140 Q50 150 30 140 Z" fill="{F}"/>
+<circle cx="75" cy="132" r="8" fill="{F}"/>
+<path d="M82 132 L90 134" stroke-width="3"/>
+<path d="M120 145 Q140 125 160 145 Q140 155 120 145 Z" fill="{F}"/>
+<circle cx="165" cy="137" r="8" fill="{F}"/>
+<path d="M172 137 L180 139" stroke-width="3"/>
+<g fill="{L}" stroke="none"><path d="M70 115 L72 109 L74 115 L80 117 L74 119 L72 125 L70 119 L64 117 Z"/><path d="M160 120 L162 114 L164 120 L170 122 L164 124 L162 130 L160 124 L154 122 Z"/></g>
+<ellipse cx="115" cy="60" rx="14" ry="11" fill="{L}"/>
+<path d="M20 90 Q60 20 100 65 Q120 85 80 125 M110 70 Q140 90 160 130" stroke-width="3" stroke-dasharray="5 5"/>
+<text x="50" y="40" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">2 in 1!</text>
