@@ -1,0 +1,11 @@
+<rect x="10" y="130" width="70" height="50" fill="{F}"/>
+<g fill="{L}"><circle cx="30" cy="125" r="10"/><circle cx="55" cy="125" r="10"/></g>
+<circle cx="110" cy="85" r="15" fill="{F}"/>
+<circle cx="105" cy="82" r="4" fill="{L}"/>
+<circle cx="116" cy="82" r="4" fill="{L}"/>
+<ellipse cx="110" cy="93" rx="4" ry="3" fill="#000"/>
+<path d="M110 100 V140 L100 180 M110 140 L120 180 M110 112 L75 118"/>
+<circle cx="70" cy="118" r="9" fill="{L}"/>
+<path d="M160 20 L130 75 L190 75 Z" fill="{L}" opacity="0.4"/>
+<path d="M150 15 H170 V25 H150 Z" fill="{F}"/>
+<text x="160" y="110" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">GOTCHA!</text>

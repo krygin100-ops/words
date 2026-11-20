@@ -1,0 +1,7 @@
+<rect x="30" y="30" width="140" height="100" fill="{F}"/>
+<path d="M45 60 L80 90 L110 50" stroke="{L}" stroke-width="3"/>
+<path d="M40 40 L160 120 M160 40 L40 120" stroke-width="6"/>
+<path d="M60 130 L45 180 M140 130 L155 180" stroke-width="5"/>
+<circle cx="175" cy="150" r="12" fill="{F}"/>
+<path d="M175 162 V190 M175 170 L160 150" stroke-width="4"/>
+<text x="100" y="160" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">start over</text>

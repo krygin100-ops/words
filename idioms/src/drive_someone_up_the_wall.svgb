@@ -1,0 +1,9 @@
+<rect x="140" y="10" width="50" height="180" fill="{F}"/>
+<path d="M140 50 H190 M140 90 H190 M140 130 H190 M165 10 V50 M150 50 V90 M175 90 V130 M160 130 V170" stroke="#000" stroke-width="3"/>
+<circle cx="120" cy="60" r="14" fill="{F}"/>
+<path d="M112 55 L120 60 M128 55 L120 60" stroke="#000" stroke-width="3"/>
+<path d="M114 68 L118 65 L122 68 L126 65" stroke-width="2"/>
+<path d="M130 70 L140 75 M125 75 L140 100 M130 70 L135 125 M130 100 L138 140" stroke-width="5"/>
+<path d="M95 45 L85 35 M95 60 H80" stroke-width="3"/>
+<text x="60" y="140" font-size="15" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">AAARGH!</text>
+<text x="60" y="165" font-size="13" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">so annoying!</text>

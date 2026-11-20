@@ -1,0 +1,7 @@
+<rect x="20" y="70" width="160" height="40" rx="4" fill="{F}"/>
+<g fill="#000"><rect x="30" y="78" width="15" height="24"/><rect x="55" y="78" width="15" height="24"/><rect x="80" y="78" width="15" height="24"/><rect x="130" y="78" width="15" height="24"/><rect x="155" y="78" width="15" height="24"/></g>
+<path d="M112 50 V140" stroke-width="3" stroke-dasharray="5 4"/>
+<path d="M95 40 L125 60 M95 60 L125 40" stroke-width="4"/>
+<circle cx="92" cy="38" r="6"/>
+<circle cx="92" cy="62" r="6"/>
+<text x="100" y="165" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">get to the point!</text>

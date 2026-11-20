@@ -1,0 +1,10 @@
+<rect x="10" y="150" width="70" height="40" fill="{F}"/>
+<circle cx="45" cy="135" r="14" fill="{F}"/>
+<circle cx="41" cy="133" r="3" fill="{L}"/>
+<circle cx="50" cy="133" r="3" fill="{L}"/>
+<path d="M45 121 L75 95" stroke-width="5"/>
+<circle cx="140" cy="60" r="16" fill="{F}"/>
+<path d="M133 62 Q140 68 147 62" stroke-width="3"/>
+<path d="M140 76 V125 L125 165 M140 125 L155 165 M140 90 L80 95" stroke-width="5"/>
+<circle cx="78" cy="95" r="7" fill="{L}"/>
+<text x="110" y="185" font-size="15" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">here, I got you</text>

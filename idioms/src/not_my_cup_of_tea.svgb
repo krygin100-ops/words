@@ -1,0 +1,8 @@
+<path d="M50 90 H130 V140 Q130 170 90 170 Q50 170 50 140 Z" fill="{F}"/>
+<path d="M130 105 Q160 105 160 125 Q160 145 130 145" stroke-width="7"/>
+<path d="M70 75 Q65 60 75 50 M95 75 Q90 60 100 50" stroke-width="3"/>
+<ellipse cx="90" cy="180" rx="60" ry="8" fill="{F}"/>
+<circle cx="160" cy="50" r="20" fill="{F}"/>
+<path d="M152 48 H158 M162 48 H168" stroke-width="3"/>
+<path d="M152 62 Q160 57 168 62" stroke-width="3"/>
+<text x="50" y="30" font-size="15" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">nah, not me</text>

@@ -1,0 +1,10 @@
+<rect x="10" y="140" width="180" height="12" fill="{F}"/>
+<circle cx="150" cy="40" r="18" fill="{L}"/>
+<circle cx="160" cy="34" r="16" fill="#000"/>
+<path d="M50 140 V110 H80 V140" fill="{F}"/>
+<path d="M60 110 Q55 95 65 85 Q75 95 70 110" fill="{L}"/>
+<circle cx="120" cy="90" r="15" fill="{F}"/>
+<path d="M112 88 H118 M122 88 H128" stroke-width="3"/>
+<path d="M120 105 V140 M120 115 L100 130" stroke-width="5"/>
+<rect x="85" y="125" width="25" height="15" fill="{L}"/>
+<text x="60" y="40" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">3:00 AM</text>

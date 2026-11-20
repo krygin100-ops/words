@@ -1,0 +1,8 @@
+<circle cx="70" cy="100" r="35" fill="{F}"/>
+<circle cx="60" cy="88" r="5" fill="{L}"/>
+<circle cx="80" cy="88" r="5" fill="{L}"/>
+<path d="M85 100 Q100 95 105 110 Q100 125 85 120" fill="#000"/>
+<path d="M95 70 Q160 40 185 90 Q190 150 120 150 Q95 140 100 115 Q115 95 95 70 Z" fill="{L}"/>
+<path d="M120 80 Q140 90 160 80 M130 120 Q150 110 170 125" stroke="#000" stroke-width="3"/>
+<path d="M40 60 Q35 50 42 45" stroke-width="3"/>
+<text x="60" y="180" font-size="15" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">too much!</text>

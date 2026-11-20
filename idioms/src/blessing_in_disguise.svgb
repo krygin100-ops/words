@@ -1,0 +1,9 @@
+<path d="M30 60 Q20 30 55 32 Q70 10 100 22 Q130 10 145 35 Q180 33 172 62 Q170 80 145 80 H50 Q30 80 30 60 Z" fill="{F}"/>
+<g stroke-width="3"><path d="M50 90 L45 105 M80 90 L75 105"/></g>
+<circle cx="130" cy="140" r="30" fill="{F}"/>
+<path d="M105 125 H155 V145 H105 Z" fill="#000"/>
+<circle cx="118" cy="135" r="4" fill="{L}"/>
+<circle cx="142" cy="135" r="4" fill="{L}"/>
+<path d="M118 155 Q130 162 142 155" stroke-width="3"/>
+<ellipse cx="130" cy="102" rx="25" ry="6" stroke="{L}" stroke-width="4"/>
+<text x="55" y="150" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">bad → good</text>

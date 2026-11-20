@@ -1,0 +1,7 @@
+<circle cx="100" cy="70" r="20" fill="{F}"/>
+<path d="M90 68 H97 M103 68 H110" stroke-width="3"/>
+<path d="M90 82 H110" stroke-width="3"/>
+<path d="M100 90 V140 L85 180 M100 140 L115 180 M100 105 L70 90 M100 105 L130 90"/>
+<g fill="{F}"><rect x="20" y="130" width="25" height="20" transform="rotate(20 32 140)"/><rect x="155" y="135" width="25" height="20" transform="rotate(-15 167 145)"/><rect x="40" y="40" width="20" height="25" transform="rotate(-30 50 52)"/></g>
+<path d="M55 55 L75 80 M160 140 L130 130 M40 135 L80 130" stroke-width="2" stroke-dasharray="3 3"/>
+<text x="150" y="35" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">focus!</text>

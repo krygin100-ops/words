@@ -1,0 +1,7 @@
+<path d="M70 190 V120 Q70 105 85 105 H120 Q135 105 135 120 V190" fill="{F}"/>
+<path d="M85 105 L95 40 Q98 30 105 32 Q110 35 107 45 L100 105" fill="{F}"/>
+<path d="M110 40 L95 100" stroke-width="0"/>
+<path d="M118 35 Q125 32 126 42 L100 105 L95 95 Z" fill="{L}"/>
+<path d="M75 135 H130 M78 155 H128" stroke="#000" stroke-width="3"/>
+<text x="40" y="60" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">please!</text>
+<g fill="{L}" stroke="none"><path d="M160 60 L163 50 L166 60 L176 63 L166 66 L163 76 L160 66 L150 63 Z"/></g>
