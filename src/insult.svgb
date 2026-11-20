@@ -1,0 +1,9 @@
+<circle cx="55" cy="90" r="22" fill="{F}"/>
+<path d="M42 82 L50 86 M68 82 L60 86" stroke-width="3"/>
+<ellipse cx="55" cy="104" rx="7" ry="5" fill="#000"/>
+<path d="M30 190 Q30 125 55 125 Q80 125 80 190" fill="{F}"/>
+<path d="M85 50 H160 V85 H110 L95 100 V85 H85 Z" fill="{F}"/>
+<text x="122" y="74" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">#@$%!</text>
+<circle cx="155" cy="135" r="18" fill="{F}"/>
+<path d="M148 140 Q155 135 162 140" stroke-width="2"/>
+<path d="M140 190 Q140 160 155 160 Q170 160 170 190" fill="{F}"/>

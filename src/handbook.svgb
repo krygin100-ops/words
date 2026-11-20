@@ -1,0 +1,5 @@
+<rect x="45" y="30" width="110" height="150" rx="6" fill="{F}"/>
+<path d="M45 30 V180" stroke-width="10"/>
+<text x="105" y="80" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">HOW TO</text>
+<path d="M70 110 H140 M70 130 H140 M70 150 H120" stroke="#000" stroke-width="3"/>
+<text x="105" y="104" font-size="12" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">guide</text>

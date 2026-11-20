@@ -1,0 +1,4 @@
+<path d="M100 30 L110 60 H140 L115 80 L125 110 L100 92 L75 110 L85 80 L60 60 H90 Z" fill="{F}"/>
+<path d="M100 130 C100 120 115 118 115 130 C115 140 100 148 100 148 C100 148 85 140 85 130 C85 118 100 120 100 130 Z" fill="{L}" stroke="none"/>
+<path d="M50 160 Q50 145 60 145 Q70 145 70 160 M130 160 Q130 145 140 145 Q150 145 150 160" stroke-width="3"/>
+<text x="100" y="190" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">means...</text>

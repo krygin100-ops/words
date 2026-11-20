@@ -1,0 +1,5 @@
+<path d="M50 50 L70 30 H110 L130 50 V180 H50 Z" fill="{F}"/>
+<path d="M50 50 H130" stroke="#000" stroke-width="3"/>
+<text x="90" y="115" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">MILK</text>
+<path d="M140 150 L190 130 V180 H140 Z" fill="{L}"/>
+<g fill="#000"><circle cx="160" cy="160" r="5"/><circle cx="175" cy="150" r="4"/></g>

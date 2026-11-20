@@ -1,0 +1,7 @@
+<rect x="10" y="30" width="80" height="150" fill="{F}"/>
+<circle cx="110" cy="80" r="22" fill="{F}"/>
+<circle cx="102" cy="76" r="5" fill="{L}" stroke="none"/>
+<ellipse cx="90" cy="90" rx="12" ry="8" fill="{F}"/>
+<path d="M115 102 V150" stroke-width="7"/>
+<text x="150" y="50" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">nosy!</text>
+<text x="150" y="150" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">*peek*</text>

@@ -1,0 +1,6 @@
+<rect x="30" y="30" width="140" height="140" rx="6" fill="{F}"/>
+<text x="100" y="62" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">SIGN UP</text>
+<rect x="45" y="80" width="110" height="20" rx="4" fill="#000"/>
+<rect x="45" y="110" width="110" height="20" rx="4" fill="#000"/>
+<rect x="70" y="140" width="60" height="20" rx="10" fill="{L}"/>
+<path d="M55 90 Q65 82 75 90 Q85 98 95 88" stroke="{L}" stroke-width="2"/>

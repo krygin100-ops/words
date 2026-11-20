@@ -1,0 +1,7 @@
+<rect x="30" y="60" width="90" height="120" fill="{F}"/>
+<g fill="#000"><rect x="45" y="75" width="20" height="20"/><rect x="85" y="75" width="20" height="20"/><rect x="45" y="115" width="20" height="20"/><rect x="85" y="115" width="20" height="20"/></g>
+<circle cx="155" cy="120" r="14" fill="{F}"/>
+<path d="M155 134 V165 L145 185 M155 165 L165 185"/>
+<rect x="150" y="140" width="30" height="20" fill="{F}"/>
+<path d="M148 120 Q155 115 162 120" stroke-width="2"/>
+<text x="150" y="70" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">fired...</text>

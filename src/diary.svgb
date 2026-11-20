@@ -1,0 +1,6 @@
+<rect x="45" y="30" width="110" height="150" rx="6" fill="{F}"/>
+<path d="M150 90 H170 V120 H150" fill="{F}"/>
+<circle cx="165" cy="105" r="5" fill="#000"/>
+<text x="100" y="80" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="serif">Dear</text>
+<text x="100" y="105" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="serif">diary...</text>
+<path d="M100 135 C100 127 112 125 112 135 C112 143 100 150 100 150 C100 150 88 143 88 135 C88 125 100 127 100 135 Z" fill="{L}" stroke="none"/>

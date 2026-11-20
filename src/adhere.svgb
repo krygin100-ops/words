@@ -1,0 +1,6 @@
+<rect x="40" y="30" width="120" height="150" rx="6" fill="{F}"/>
+<text x="100" y="65" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">PLAN</text>
+<path d="M60 90 H140 M60 115 H140 M60 140 H120" stroke="#000" stroke-width="4"/>
+<path d="M50 90 L30 90 M50 115 L30 115" stroke-width="0"/>
+<circle cx="25" cy="100" r="12" fill="{F}"/>
+<path d="M25 112 V150 M25 125 L45 115"/>
