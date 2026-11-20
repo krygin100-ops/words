@@ -2646,7 +2646,20 @@
   "translation": "в чужой монастырь со своим уставом не ходят",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/when_in_rome.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Everyone eats with their hands here, so — #when in Rome, do as the Romans do#.",
+    "ru": "Здесь все едят руками, так что — в чужой монастырь со своим уставом не ходят."
+   },
+   {
+    "en": "In Spain we had dinner at 10 pm. #When in Rome#!",
+    "ru": "В Испании мы ужинали в 10 вечера. С волками жить — по-волчьи выть!"
+   },
+   {
+    "en": "I don't usually dance, but at a Greek wedding — #when in Rome#.",
+    "ru": "Я обычно не танцую, но на греческой свадьбе — куда деваться."
+   }
+  ]
  },
  {
   "id": "wrap_your_head_around",
@@ -2655,7 +2668,20 @@
   "translation": "уложить в голове, понять",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/wrap_your_head_around.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I can't #wrap my head around# these new tax rules.",
+    "ru": "Никак не могу уложить в голове эти новые налоговые правила."
+   },
+   {
+    "en": "It took me a week to #wrap my head around# the new phone.",
+    "ru": "Мне понадобилась неделя, чтобы разобраться с новым телефоном."
+   },
+   {
+    "en": "She still can't #wrap her head around# the fact that she won.",
+    "ru": "Она до сих пор не может осознать, что победила."
+   }
+  ]
  },
  {
   "id": "you_can_say_that_again",
@@ -2664,7 +2690,20 @@
   "translation": "точно сказано, согласен!",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/you_can_say_that_again.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "\"Mondays are the worst.\" — \"#You can say that again#!\"",
+    "ru": "«Понедельники — худшие дни.» — «Точно сказано!»"
+   },
+   {
+    "en": "\"This coffee is terrible.\" — \"#You can say that again#.\"",
+    "ru": "«Кофе ужасный.» — «И не говори.»"
+   },
+   {
+    "en": "\"It's so hot today!\" — \"#You can say that again#!\"",
+    "ru": "«Сегодня так жарко!» — «Не то слово!»"
+   }
+  ]
  },
  {
   "id": "apple_of_my_eye",
@@ -2673,7 +2712,20 @@
   "translation": "зеница ока, любимчик",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/apple_of_my_eye.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My little daughter is #the apple of my eye#.",
+    "ru": "Моя маленькая дочка — свет моих очей."
+   },
+   {
+    "en": "Grandpa's old car is #the apple of his eye#.",
+    "ru": "Старая машина деда — его любимица."
+   },
+   {
+    "en": "The youngest son was always #the apple of his mother's eye#.",
+    "ru": "Младший сын всегда был маминым любимчиком."
+   }
+  ]
  },
  {
   "id": "as_easy_as_pie",
@@ -2682,7 +2734,20 @@
   "translation": "проще пареной репы",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/as_easy_as_pie.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The new app is #as easy as pie# — even my grandma uses it.",
+    "ru": "Новое приложение проще пареной репы — даже бабушка им пользуется."
+   },
+   {
+    "en": "Changing a tire is #as easy as pie# once you know how.",
+    "ru": "Поменять колесо — проще простого, когда знаешь как."
+   },
+   {
+    "en": "\"Was the test hard?\" — \"#Easy as pie#!\"",
+    "ru": "«Тест был трудный?» — «Легкотня!»"
+   }
+  ]
  },
  {
   "id": "bend_over_backwards",
@@ -2691,7 +2756,20 @@
   "translation": "из кожи вон лезть",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/bend_over_backwards.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The hotel staff #bent over backwards# to make us happy.",
+    "ru": "Персонал отеля из кожи вон лез, чтобы нам угодить."
+   },
+   {
+    "en": "I #bent over backwards# for him, and he didn't even say thanks.",
+    "ru": "Я ради него из кожи вон лез, а он даже спасибо не сказал."
+   },
+   {
+    "en": "Parents often #bend over backwards# for their kids.",
+    "ru": "Родители часто готовы на всё ради детей."
+   }
+  ]
  },
  {
   "id": "big_cheese",
@@ -2700,7 +2778,20 @@
   "translation": "большая шишка",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/big_cheese.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #big cheese# is visiting our office tomorrow, so clean your desk.",
+    "ru": "Завтра в офис приезжает большая шишка, так что приберись на столе."
+   },
+   {
+    "en": "He thinks he's a #big cheese# because he has a parking spot.",
+    "ru": "Он считает себя важной птицей, потому что у него есть парковочное место."
+   },
+   {
+    "en": "Ask the #big cheese# — she makes all the decisions.",
+    "ru": "Спроси у главной — она всё решает."
+   }
+  ]
  },
  {
   "id": "bread_and_butter",
@@ -2709,7 +2800,20 @@
   "translation": "основной заработок, хлеб насущный",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/bread_and_butter.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Weddings are the #bread and butter# of our photo studio.",
+    "ru": "Свадьбы — основной заработок нашей фотостудии."
+   },
+   {
+    "en": "For this café, morning coffee is the #bread and butter#.",
+    "ru": "Для этого кафе утренний кофе — главный источник дохода."
+   },
+   {
+    "en": "Small repairs are my #bread and butter#.",
+    "ru": "Мелкий ремонт — мой хлеб с маслом."
+   }
+  ]
  },
  {
   "id": "break_the_bank",
@@ -2718,7 +2822,20 @@
   "translation": "разорить, стоить слишком дорого",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/break_the_bank.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "One more coffee won't #break the bank#.",
+    "ru": "Ещё одна чашка кофе нас не разорит."
+   },
+   {
+    "en": "We found a holiday that doesn't #break the bank#.",
+    "ru": "Мы нашли отпуск, который не разорит."
+   },
+   {
+    "en": "A wedding doesn't have to #break the bank#.",
+    "ru": "Свадьба не обязана стоить целое состояние."
+   }
+  ]
  },
  {
   "id": "bury_the_hatchet",
@@ -2727,7 +2844,20 @@
   "translation": "зарыть топор войны, помириться",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/bury_the_hatchet.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "After ten years, the two brothers finally #buried the hatchet#.",
+    "ru": "Через десять лет братья наконец помирились."
+   },
+   {
+    "en": "Let's #bury the hatchet# and go get a beer.",
+    "ru": "Давай зароем топор войны и пойдём выпьем пива."
+   },
+   {
+    "en": "The neighbors #buried the hatchet# over a shared barbecue.",
+    "ru": "Соседи помирились за общим барбекю."
+   }
+  ]
  },
  {
   "id": "chip_on_your_shoulder",
@@ -2736,7 +2866,20 @@
   "translation": "быть обиженным на весь мир",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/chip_on_your_shoulder.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #has a chip on his shoulder# because he didn't go to university.",
+    "ru": "Он обижен на весь мир, потому что не учился в университете."
+   },
+   {
+    "en": "Don't talk to her today — she #has a chip on her shoulder#.",
+    "ru": "Не разговаривай с ней сегодня — она на всех злится."
+   },
+   {
+    "en": "Since he lost the match, he's had a #chip on his shoulder#.",
+    "ru": "С тех пор как он проиграл матч, он ходит обиженный."
+   }
+  ]
  },
  {
   "id": "cross_that_bridge_when_you_come_to_it",
@@ -2745,7 +2888,20 @@
   "translation": "решать проблемы по мере поступления",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/cross_that_bridge_when_you_come_to_it.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "\"What if it rains on the wedding day?\" — \"We'll #cross that bridge when we come to it#.\"",
+    "ru": "«А если в день свадьбы пойдёт дождь?» — «Будем решать проблемы по мере поступления.»"
+   },
+   {
+    "en": "Don't worry about university yet — #cross that bridge when you come to it#.",
+    "ru": "Не беспокойся пока об университете — решишь, когда дойдёт дело."
+   },
+   {
+    "en": "Taxes next year? We'll #cross that bridge when we come to it#.",
+    "ru": "Налоги в следующем году? Разберёмся, когда придёт время."
+   }
+  ]
  },
  {
   "id": "cry_wolf",
@@ -2754,7 +2910,20 @@
   "translation": "поднимать ложную тревогу",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/cry_wolf.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #cries wolf# so often that nobody believes he's sick.",
+    "ru": "Он так часто поднимает ложную тревогу, что никто не верит, что он болен."
+   },
+   {
+    "en": "If the alarm #cries wolf# every night, people stop listening.",
+    "ru": "Если сигнализация срабатывает зря каждую ночь, люди перестают реагировать."
+   },
+   {
+    "en": "Don't #cry wolf#, or no one will help you when it's real.",
+    "ru": "Не поднимай ложную тревогу, а то никто не поможет, когда будет по-настоящему."
+   }
+  ]
  },
  {
   "id": "dark_horse",
@@ -2763,7 +2932,20 @@
   "translation": "тёмная лошадка",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/dark_horse.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The quiet new guy was the #dark horse# of the talent show.",
+    "ru": "Тихий новичок оказался тёмной лошадкой конкурса талантов."
+   },
+   {
+    "en": "Nobody expected that team to win — a real #dark horse#.",
+    "ru": "Никто не ждал, что эта команда победит — настоящая тёмная лошадка."
+   },
+   {
+    "en": "My grandma is a #dark horse# at karaoke.",
+    "ru": "Моя бабушка — тёмная лошадка в караоке."
+   }
+  ]
  },
  {
   "id": "devils_advocate",
@@ -2772,7 +2954,20 @@
   "translation": "играть роль адвоката дьявола",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/devils_advocate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Let me #play devil's advocate#: what if the customers don't like it?",
+    "ru": "Побуду адвокатом дьявола: а если клиентам не понравится?"
+   },
+   {
+    "en": "He always #plays devil's advocate# just to start an argument.",
+    "ru": "Он всегда спорит ради спора, играя адвоката дьявола."
+   },
+   {
+    "en": "I agree with you, but I'll #play devil's advocate# for a minute.",
+    "ru": "Я с тобой согласен, но минутку побуду адвокатом дьявола."
+   }
+  ]
  },
  {
   "id": "drop_in_the_bucket",
@@ -2781,7 +2976,20 @@
   "translation": "капля в море",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/drop_in_the_bucket.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Ten dollars is #a drop in the bucket# compared to the repair bill.",
+    "ru": "Десять долларов — капля в море по сравнению со счётом за ремонт."
+   },
+   {
+    "en": "Recycling one bottle is #a drop in the bucket#, but it helps.",
+    "ru": "Сдать одну бутылку — капля в море, но это помогает."
+   },
+   {
+    "en": "My savings are #a drop in the bucket# — a flat costs millions.",
+    "ru": "Мои сбережения — капля в море, квартира стоит миллионы."
+   }
+  ]
  },
  {
   "id": "eat_like_a_bird",
@@ -2790,7 +2998,20 @@
   "translation": "есть как птичка",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/eat_like_a_bird.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #eats like a bird# — half a salad and she's full.",
+    "ru": "Она ест как птичка — пол-салата, и сыта."
+   },
+   {
+    "en": "Models often #eat like birds#.",
+    "ru": "Модели часто едят как птички."
+   },
+   {
+    "en": "My son #eats like a bird# at home but like a horse at Grandma's.",
+    "ru": "Дома сын ест как птичка, а у бабушки — за троих."
+   }
+  ]
  },
  {
   "id": "eat_like_a_horse",
@@ -2799,7 +3020,20 @@
   "translation": "есть за троих",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/eat_like_a_horse.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Teenage boys #eat like horses#.",
+    "ru": "Мальчишки-подростки едят за троих."
+   },
+   {
+    "en": "After hiking all day, we #ate like horses#.",
+    "ru": "Весь день в походе — и мы ели за троих."
+   },
+   {
+    "en": "She's tiny, but she #eats like a horse#.",
+    "ru": "Она маленькая, но ест как лошадь."
+   }
+  ]
  },
  {
   "id": "get_a_taste_of_your_own_medicine",
@@ -2808,7 +3042,20 @@
   "translation": "отведать своего же лекарства",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/get_a_taste_of_your_own_medicine.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He always interrupts, so I interrupted him — #a taste of his own medicine#.",
+    "ru": "Он вечно перебивает, так что я перебил его — пусть попробует своё же лекарство."
+   },
+   {
+    "en": "The prankster finally #got a taste of his own medicine#.",
+    "ru": "Шутник наконец сам попал под розыгрыш."
+   },
+   {
+    "en": "Ignore him for a day — #give him a taste of his own medicine#.",
+    "ru": "Поигнорируй его денёк — пусть отведает своего же лекарства."
+   }
+  ]
  },
  {
   "id": "go_cold_turkey",
@@ -2817,7 +3064,20 @@
   "translation": "резко бросить (привычку)",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/go_cold_turkey.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #went cold turkey# and hasn't smoked for a year.",
+    "ru": "Он резко бросил и не курит уже год."
+   },
+   {
+    "en": "I tried to #go cold turkey# on sugar, but I lasted two days.",
+    "ru": "Я пытался резко отказаться от сахара, но продержался два дня."
+   },
+   {
+    "en": "Deleting Instagram was hard, but I #went cold turkey#.",
+    "ru": "Удалить инстаграм было трудно, но я бросил разом."
+   }
+  ]
  },
  {
   "id": "green_with_envy",
@@ -2826,7 +3086,20 @@
   "translation": "позеленеть от зависти",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/green_with_envy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "When she saw my new car, she was #green with envy#.",
+    "ru": "Когда она увидела мою новую машину, она позеленела от зависти."
+   },
+   {
+    "en": "Your holiday photos made me #green with envy#.",
+    "ru": "Твои отпускные фото заставили меня позеленеть от зависти."
+   },
+   {
+    "en": "The other kids were #green with envy# of his new bike.",
+    "ru": "Другие дети ужасно завидовали его новому велосипеду."
+   }
+  ]
  },
  {
   "id": "have_butterflies_in_your_stomach",
@@ -2835,7 +3108,20 @@
   "translation": "волноваться, бабочки в животе",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/have_butterflies_in_your_stomach.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I always #have butterflies in my stomach# before a flight.",
+    "ru": "Перед полётом у меня всегда сосёт под ложечкой."
+   },
+   {
+    "en": "On our first date I #had butterflies in my stomach#.",
+    "ru": "На первом свидании у меня порхали бабочки в животе."
+   },
+   {
+    "en": "Before the exam she #had butterflies in her stomach#.",
+    "ru": "Перед экзаменом она жутко волновалась."
+   }
+  ]
  },
  {
   "id": "hit_the_road",
@@ -2844,7 +3130,20 @@
   "translation": "отправиться в путь",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/hit_the_road.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It's getting late — time to #hit the road#.",
+    "ru": "Уже поздно — пора в путь."
+   },
+   {
+    "en": "We #hit the road# at 5 am to avoid traffic.",
+    "ru": "Мы выехали в пять утра, чтобы не стоять в пробках."
+   },
+   {
+    "en": "After college, they bought a van and #hit the road#.",
+    "ru": "После колледжа они купили фургон и отправились в путешествие."
+   }
+  ]
  },
  {
   "id": "in_the_nick_of_time",
@@ -2853,7 +3152,20 @@
   "translation": "в самый последний момент",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/in_the_nick_of_time.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The firefighters arrived #in the nick of time#.",
+    "ru": "Пожарные приехали в самый последний момент."
+   },
+   {
+    "en": "I submitted my essay #in the nick of time# — 11:59 pm.",
+    "ru": "Я сдал эссе в последний момент — в 23:59."
+   },
+   {
+    "en": "She caught the falling cake #in the nick of time#.",
+    "ru": "Она в последнюю секунду поймала падающий торт."
+   }
+  ]
  },
  {
   "id": "its_not_rocket_science",
@@ -2862,7 +3174,20 @@
   "translation": "это не бином Ньютона",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/its_not_rocket_science.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Just press \"on\". #It's not rocket science#.",
+    "ru": "Просто нажми «вкл». Это не бином Ньютона."
+   },
+   {
+    "en": "Cooking pasta #isn't rocket science#, Dad.",
+    "ru": "Сварить макароны — не высшая математика, пап."
+   },
+   {
+    "en": "Saving money #isn't rocket science#: spend less than you earn.",
+    "ru": "Копить деньги несложно: трать меньше, чем зарабатываешь."
+   }
+  ]
  },
  {
   "id": "keep_something_at_bay",
@@ -2871,7 +3196,20 @@
   "translation": "держать на расстоянии",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/keep_something_at_bay.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I drink lots of tea to #keep colds at bay#.",
+    "ru": "Я пью много чая, чтобы держать простуду на расстоянии."
+   },
+   {
+    "en": "A good fence #keeps the neighbor's dog at bay#.",
+    "ru": "Хороший забор не подпускает соседскую собаку."
+   },
+   {
+    "en": "Coffee #keeps sleep at bay# during night shifts.",
+    "ru": "Кофе помогает не уснуть на ночных сменах."
+   }
+  ]
  },
  {
   "id": "let_the_chips_fall",
@@ -2880,7 +3218,20 @@
   "translation": "будь что будет",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/let_the_chips_fall.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I told the truth. Now #let the chips fall where they may#.",
+    "ru": "Я сказал правду. Теперь будь что будет."
+   },
+   {
+    "en": "We did our best in the interview — #let the chips fall where they may#.",
+    "ru": "Мы постарались на собеседовании — а там будь что будет."
+   },
+   {
+    "en": "I'm sending the email anyway. #Let the chips fall#.",
+    "ru": "Всё равно отправляю письмо. Будь что будет."
+   }
+  ]
  },
  {
   "id": "like_two_peas_in_a_pod",
@@ -2889,7 +3240,20 @@
   "translation": "похожи как две капли воды",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/like_two_peas_in_a_pod.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The twins are #like two peas in a pod#.",
+    "ru": "Близнецы похожи как две капли воды."
+   },
+   {
+    "en": "My dad and my son are #like two peas in a pod# — same jokes, same snoring.",
+    "ru": "Мой папа и сын — одно лицо: те же шутки, тот же храп."
+   },
+   {
+    "en": "These two best friends are #like two peas in a pod#.",
+    "ru": "Эти лучшие подружки — не разлей вода."
+   }
+  ]
  },
  {
   "id": "lose_your_marbles",
@@ -2898,7 +3262,20 @@
   "translation": "сойти с ума, сбрендить",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/lose_your_marbles.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandpa thinks the TV is talking to him. Has he #lost his marbles#?",
+    "ru": "Дед думает, что телевизор с ним разговаривает. Он что, сбрендил?"
+   },
+   {
+    "en": "You want to swim in the sea in January? Have you #lost your marbles#?",
+    "ru": "Хочешь купаться в море в январе? Ты с ума сошёл?"
+   },
+   {
+    "en": "After three weeks with the kids at home, I'm #losing my marbles#.",
+    "ru": "Через три недели с детьми дома я схожу с ума."
+   }
+  ]
  },
  {
   "id": "money_doesnt_grow_on_trees",
@@ -2907,7 +3284,20 @@
   "translation": "деньги на деревьях не растут",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/money_doesnt_grow_on_trees.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Turn off the lights — #money doesn't grow on trees#!",
+    "ru": "Выключай свет — деньги на деревьях не растут!"
+   },
+   {
+    "en": "\"Can I have a new phone?\" — \"#Money doesn't grow on trees#, son.\"",
+    "ru": "«Можно мне новый телефон?» — «Деньги на деревьях не растут, сынок.»"
+   },
+   {
+    "en": "My parents taught me early that #money doesn't grow on trees#.",
+    "ru": "Родители рано объяснили мне, что деньги с неба не падают."
+   }
+  ]
  },
  {
   "id": "nest_egg",
@@ -2916,7 +3306,20 @@
   "translation": "заначка, сбережения",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/nest_egg.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They have a small #nest egg# for their retirement.",
+    "ru": "У них есть небольшая заначка на пенсию."
+   },
+   {
+    "en": "Don't touch our #nest egg# for a new TV!",
+    "ru": "Не трогай наши сбережения ради нового телевизора!"
+   },
+   {
+    "en": "Grandma's #nest egg# was hidden in a cookie tin.",
+    "ru": "Бабушкина заначка была спрятана в коробке из-под печенья."
+   }
+  ]
  },
  {
   "id": "off_the_hook",
@@ -2925,7 +3328,20 @@
   "translation": "выйти сухим из воды",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/off_the_hook.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The police let him #off the hook# with a warning.",
+    "ru": "Полиция отпустила его с предупреждением."
+   },
+   {
+    "en": "My meeting was cancelled — I'm #off the hook# for today!",
+    "ru": "Моё совещание отменили — я сегодня свободен!"
+   },
+   {
+    "en": "You forgot my birthday, but you're #off the hook# because of the flowers.",
+    "ru": "Ты забыл про мой день рождения, но цветы тебя спасли."
+   }
+  ]
  },
  {
   "id": "out_of_the_woods",
@@ -2934,7 +3350,20 @@
   "translation": "опасность миновала",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/out_of_the_woods.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The patient is better, but not #out of the woods# yet.",
+    "ru": "Пациенту лучше, но опасность ещё не миновала."
+   },
+   {
+    "en": "The company made a profit, but it's not #out of the woods#.",
+    "ru": "Компания получила прибыль, но трудности ещё не позади."
+   },
+   {
+    "en": "After the exams I'll finally be #out of the woods#.",
+    "ru": "После экзаменов я наконец выдохну."
+   }
+  ]
  },
  {
   "id": "pass_the_buck",
@@ -2943,7 +3372,20 @@
   "translation": "перекладывать ответственность",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/pass_the_buck.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "When things go wrong, he always #passes the buck#.",
+    "ru": "Когда что-то идёт не так, он всегда сваливает вину на других."
+   },
+   {
+    "en": "Stop #passing the buck# — it was your idea!",
+    "ru": "Хватит перекладывать ответственность — это была твоя идея!"
+   },
+   {
+    "en": "The managers kept #passing the buck#, and nothing got fixed.",
+    "ru": "Менеджеры перекладывали ответственность друг на друга, и ничего не починили."
+   }
+  ]
  },
  {
   "id": "penny_for_your_thoughts",
@@ -2952,7 +3394,20 @@
   "translation": "о чём задумался?",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/penny_for_your_thoughts.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "You've been quiet all evening. #A penny for your thoughts#?",
+    "ru": "Ты весь вечер молчишь. О чём задумался?"
+   },
+   {
+    "en": "She stared out the window. \"#Penny for your thoughts#?\" I asked.",
+    "ru": "Она смотрела в окно. «О чём думаешь?» — спросил я."
+   },
+   {
+    "en": "#A penny for your thoughts# — you look miles away.",
+    "ru": "О чём задумался? Ты словно где-то далеко."
+   }
+  ]
  },
  {
   "id": "pig_out",
@@ -2961,7 +3416,20 @@
   "translation": "обожраться",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/pig_out.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #pigged out# on pizza and watched movies all night.",
+    "ru": "Мы обожрались пиццей и всю ночь смотрели фильмы."
+   },
+   {
+    "en": "Don't #pig out# on snacks before dinner.",
+    "ru": "Не наедайся снеками перед ужином."
+   },
+   {
+    "en": "At the hotel buffet, I #pigged out# every morning.",
+    "ru": "На шведском столе в отеле я каждое утро объедался."
+   }
+  ]
  },
  {
   "id": "pull_yourself_together",
@@ -2970,7 +3438,20 @@
   "translation": "возьми себя в руки",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/pull_yourself_together.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Pull yourself together# — the guests are arriving.",
+    "ru": "Соберись — гости уже приходят."
+   },
+   {
+    "en": "She cried for a minute, then #pulled herself together#.",
+    "ru": "Она поплакала минутку, а потом взяла себя в руки."
+   },
+   {
+    "en": "It's just a broken phone. #Pull yourself together#!",
+    "ru": "Это всего лишь сломанный телефон. Возьми себя в руки!"
+   }
+  ]
  },
  {
   "id": "put_a_sock_in_it",
@@ -2979,7 +3460,20 @@
   "translation": "заткнись, помолчи",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/put_a_sock_in_it.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Put a sock in it#! I'm trying to watch the movie.",
+    "ru": "Помолчи! Я пытаюсь смотреть фильм."
+   },
+   {
+    "en": "He complained for an hour until his wife told him to #put a sock in it#.",
+    "ru": "Он ныл целый час, пока жена не велела ему заткнуться."
+   },
+   {
+    "en": "Hey, singer in the shower — #put a sock in it#!",
+    "ru": "Эй, певец в душе — потише там!"
+   }
+  ]
  },
  {
   "id": "rock_the_boat",
@@ -2988,7 +3482,20 @@
   "translation": "раскачивать лодку, мутить воду",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/rock_the_boat.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Everything is fine at work, so don't #rock the boat#.",
+    "ru": "На работе всё хорошо, так что не мути воду."
+   },
+   {
+    "en": "She didn't want to #rock the boat# by asking for a raise.",
+    "ru": "Она не хотела раскачивать лодку, прося прибавку."
+   },
+   {
+    "en": "New employees are often afraid to #rock the boat#.",
+    "ru": "Новички часто боятся нарушить спокойствие."
+   }
+  ]
  },
  {
   "id": "second_nature",
@@ -2997,7 +3504,20 @@
   "translation": "вторая натура",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/second_nature.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "After years of driving, changing gears is #second nature#.",
+    "ru": "После многих лет за рулём переключать передачи — уже на автомате."
+   },
+   {
+    "en": "For her, speaking English has become #second nature#.",
+    "ru": "Для неё говорить по-английски стало второй натурой."
+   },
+   {
+    "en": "Checking the stove twice is #second nature# to my mom.",
+    "ru": "Дважды проверять плиту у мамы вошло в привычку."
+   }
+  ]
  },
  {
   "id": "skeleton_in_the_closet",
@@ -3006,7 +3526,20 @@
   "translation": "скелет в шкафу, тайна",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/skeleton_in_the_closet.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Every family has a #skeleton in the closet#.",
+    "ru": "В каждой семье есть свой скелет в шкафу."
+   },
+   {
+    "en": "The journalist found the politician's #skeletons in the closet#.",
+    "ru": "Журналист нашёл тёмные тайны политика."
+   },
+   {
+    "en": "My #skeleton in the closet#? I failed my driving test five times.",
+    "ru": "Мой скелет в шкафу? Я пять раз проваливал экзамен на права."
+   }
+  ]
  },
  {
   "id": "smell_a_rat",
@@ -3015,7 +3548,20 @@
   "translation": "чуять неладное",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/smell_a_rat.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The price was too good, so I #smelled a rat#.",
+    "ru": "Цена была слишком хорошей, и я почуял неладное."
+   },
+   {
+    "en": "When the kids were quiet for an hour, Mom #smelled a rat#.",
+    "ru": "Когда дети целый час молчали, мама почуяла подвох."
+   },
+   {
+    "en": "I #smell a rat# — why is he suddenly so nice?",
+    "ru": "Тут что-то нечисто — с чего это он вдруг такой милый?"
+   }
+  ]
  },
  {
   "id": "straight_from_the_horses_mouth",
@@ -3024,7 +3570,20 @@
   "translation": "из первых уст",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/straight_from_the_horses_mouth.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The office is closing — I heard it #straight from the horse's mouth#.",
+    "ru": "Офис закрывается — я слышал это из первых уст."
+   },
+   {
+    "en": "Don't believe rumors; get it #straight from the horse's mouth#.",
+    "ru": "Не верь слухам — узнай всё из первых рук."
+   },
+   {
+    "en": "The coach told me #straight from the horse's mouth#: I'm in the team.",
+    "ru": "Тренер сам мне сказал: я в команде."
+   }
+  ]
  },
  {
   "id": "take_the_bull_by_the_horns",
@@ -3033,7 +3592,20 @@
   "translation": "взять быка за рога",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/take_the_bull_by_the_horns.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #took the bull by the horns# and asked her out.",
+    "ru": "Я взял быка за рога и пригласил её на свидание."
+   },
+   {
+    "en": "If you want a raise, #take the bull by the horns# and ask.",
+    "ru": "Хочешь повышения — бери быка за рога и проси."
+   },
+   {
+    "en": "She #took the bull by the horns# and started her own business.",
+    "ru": "Она взяла быка за рога и открыла своё дело."
+   }
+  ]
  },
  {
   "id": "tie_the_knot",
@@ -3042,7 +3614,20 @@
   "translation": "пожениться",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/tie_the_knot.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They #tied the knot# on a beach in Bali.",
+    "ru": "Они поженились на пляже на Бали."
+   },
+   {
+    "en": "After ten years together, they finally #tied the knot#.",
+    "ru": "После десяти лет вместе они наконец поженились."
+   },
+   {
+    "en": "When are you two going to #tie the knot#? — asked every aunt.",
+    "ru": "«Когда вы уже поженитесь?» — спросила каждая тётя."
+   }
+  ]
  },
  {
   "id": "tongue_in_cheek",
@@ -3051,7 +3636,20 @@
   "translation": "с иронией, в шутку",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/tongue_in_cheek.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "\"I love Mondays,\" he said, #tongue in cheek#.",
+    "ru": "«Обожаю понедельники», — сказал он с иронией."
+   },
+   {
+    "en": "The article was #tongue in cheek#, but some readers got angry.",
+    "ru": "Статья была шуточной, но некоторые читатели разозлились."
+   },
+   {
+    "en": "His advice was totally #tongue in cheek# — don't really eat cake for breakfast.",
+    "ru": "Его совет был шуткой — не ешь на самом деле торт на завтрак."
+   }
+  ]
  },
  {
   "id": "two_heads_are_better_than_one",
@@ -3060,7 +3658,20 @@
   "translation": "ум хорошо, а два лучше",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/two_heads_are_better_than_one.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Can you help me with this puzzle? #Two heads are better than one#.",
+    "ru": "Поможешь с головоломкой? Ум хорошо, а два лучше."
+   },
+   {
+    "en": "Let's plan the trip together — #two heads are better than one#.",
+    "ru": "Давай спланируем поездку вместе — одна голова хорошо, а две лучше."
+   },
+   {
+    "en": "We fixed the bug fast because #two heads are better than one#.",
+    "ru": "Мы быстро починили баг, потому что вдвоём думать легче."
+   }
+  ]
  },
  {
   "id": "up_to_your_ears",
@@ -3069,6 +3680,19 @@
   "translation": "по уши в чём-то",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/idioms/img/up_to_your_ears.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I'm #up to my ears# in work this week.",
+    "ru": "На этой неделе я по уши в работе."
+   },
+   {
+    "en": "They're #up to their ears# in debt after the wedding.",
+    "ru": "После свадьбы они по уши в долгах."
+   },
+   {
+    "en": "With twins, she's #up to her ears# in diapers.",
+    "ru": "С близнецами она по уши в подгузниках."
+   }
+  ]
  }
 ]

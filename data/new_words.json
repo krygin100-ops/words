@@ -2,110 +2,266 @@
  {
   "id": "cluster",
   "word": "cluster",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈklʌstə]",
+  "translation": "скопление, группа, кучка",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "A #cluster# of teenagers stood around one phone.",
+    "ru": "Кучка подростков стояла вокруг одного телефона."
+   },
+   {
+    "en": "Grapes grow in #clusters#.",
+    "ru": "Виноград растёт гроздьями."
+   },
+   {
+    "en": "There's a #cluster# of cafés near the station.",
+    "ru": "У вокзала целое скопление кафе."
+   }
+  ]
  },
  {
   "id": "cylinder",
   "word": "cylinder",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈsɪlɪndə]",
+  "translation": "цилиндр, баллон",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The gas #cylinder# for the barbecue is empty again.",
+    "ru": "Газовый баллон для барбекю снова пустой."
+   },
+   {
+    "en": "My old car has four #cylinders# and a lot of noise.",
+    "ru": "У моей старой машины четыре цилиндра и куча шума."
+   },
+   {
+    "en": "The cat sleeps inside a cardboard #cylinder#.",
+    "ru": "Кот спит внутри картонного цилиндра."
+   }
+  ]
  },
  {
   "id": "expedition",
   "word": "expedition",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌekspəˈdɪʃn]",
+  "translation": "экспедиция, поход",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Our shopping trip with three kids felt like an #expedition#.",
+    "ru": "Поход по магазинам с тремя детьми был похож на экспедицию."
+   },
+   {
+    "en": "The #expedition# reached the top of the mountain.",
+    "ru": "Экспедиция достигла вершины горы."
+   },
+   {
+    "en": "Finding a parking spot downtown is a real #expedition#.",
+    "ru": "Найти парковку в центре — целая экспедиция."
+   }
+  ]
  },
  {
   "id": "interstate",
   "word": "interstate",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌɪntəˈsteɪt]",
+  "translation": "межштатный, автомагистраль (США)",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "We drove all night on the #interstate#.",
+    "ru": "Мы всю ночь ехали по автомагистрали."
+   },
+   {
+    "en": "There's always traffic on the #interstate# on Fridays.",
+    "ru": "По пятницам на трассе всегда пробки."
+   },
+   {
+    "en": "The #interstate# connects the two cities.",
+    "ru": "Межштатная трасса соединяет эти два города."
+   }
+  ]
  },
  {
   "id": "outbreak",
   "word": "outbreak",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈaʊtbreɪk]",
+  "translation": "вспышка (болезни, войны)",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "There was a flu #outbreak# at school, so classes stopped.",
+    "ru": "В школе была вспышка гриппа, и занятия отменили."
+   },
+   {
+    "en": "After the #outbreak#, everyone wore masks.",
+    "ru": "После вспышки болезни все носили маски."
+   },
+   {
+    "en": "An #outbreak# of laughter filled the room.",
+    "ru": "Комнату наполнил взрыв смеха."
+   }
+  ]
  },
  {
   "id": "rehabilitation",
   "word": "rehabilitation",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌriːəˌbɪlɪˈteɪʃn]",
+  "translation": "реабилитация, восстановление",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "After the knee surgery, he had months of #rehabilitation#.",
+    "ru": "После операции на колене у него были месяцы реабилитации."
+   },
+   {
+    "en": "The old factory needs #rehabilitation#, not destruction.",
+    "ru": "Старому заводу нужно восстановление, а не снос."
+   },
+   {
+    "en": "The dog went through #rehabilitation# after the accident.",
+    "ru": "Собака прошла реабилитацию после аварии."
+   }
+  ]
  },
  {
   "id": "resistant",
   "word": "resistant",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[rɪˈzɪstənt]",
+  "translation": "стойкий, устойчивый",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "This phone is water-#resistant#, so I took it into the pool.",
+    "ru": "Этот телефон водостойкий, и я взял его в бассейн."
+   },
+   {
+    "en": "Kids are #resistant# to vegetables.",
+    "ru": "Дети сопротивляются овощам."
+   },
+   {
+    "en": "Some bacteria are #resistant# to antibiotics.",
+    "ru": "Некоторые бактерии устойчивы к антибиотикам."
+   }
+  ]
  },
  {
   "id": "upload",
   "word": "upload",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ʌpˈləʊd]",
+  "translation": "загружать (в сеть)",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "I #uploaded# the photos, but forgot the best one.",
+    "ru": "Я загрузил фото, но забыл самое лучшее."
+   },
+   {
+    "en": "The video takes ages to #upload# on hotel Wi-Fi.",
+    "ru": "На отельном вайфае видео грузится вечность."
+   },
+   {
+    "en": "Don't #upload# that picture — my eyes are closed!",
+    "ru": "Не выкладывай это фото — у меня глаза закрыты!"
+   }
+  ]
  },
  {
   "id": "vector",
   "word": "vector",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈvektə]",
+  "translation": "вектор, переносчик (болезни)",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Mosquitoes are #vectors# of many diseases.",
+    "ru": "Комары — переносчики многих болезней."
+   },
+   {
+    "en": "In math class we drew #vectors# with arrows.",
+    "ru": "На уроке математики мы рисовали векторы стрелками."
+   },
+   {
+    "en": "The designer made the logo as a #vector# image.",
+    "ru": "Дизайнер сделал логотип в векторном виде."
+   }
+  ]
  },
  {
   "id": "colleague",
   "word": "colleague",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈkɒliːɡ]",
+  "translation": "коллега",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "My #colleague# eats my yogurt from the office fridge.",
+    "ru": "Коллега ест мой йогурт из офисного холодильника."
+   },
+   {
+    "en": "I had lunch with a #colleague# from accounting.",
+    "ru": "Я обедал с коллегой из бухгалтерии."
+   },
+   {
+    "en": "Her #colleagues# threw her a surprise party.",
+    "ru": "Коллеги устроили ей вечеринку-сюрприз."
+   }
+  ]
  },
  {
   "id": "adapt",
   "word": "adapt",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[əˈdæpt]",
+  "translation": "приспосабливаться, адаптировать",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Cats #adapt# to a new home faster than their owners.",
+    "ru": "Кошки привыкают к новому дому быстрее хозяев."
+   },
+   {
+    "en": "It took me a month to #adapt# to the time difference.",
+    "ru": "Мне понадобился месяц, чтобы привыкнуть к разнице во времени."
+   },
+   {
+    "en": "They #adapted# the book into a TV series.",
+    "ru": "Книгу экранизировали в сериал."
+   }
+  ]
  },
  {
   "id": "atomic",
   "word": "atomic",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[əˈtɒmɪk]",
+  "translation": "атомный",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "An #atomic# clock is never late — unlike me.",
+    "ru": "Атомные часы никогда не опаздывают — в отличие от меня."
+   },
+   {
+    "en": "The #atomic# bomb changed history.",
+    "ru": "Атомная бомба изменила историю."
+   },
+   {
+    "en": "We learned about #atomic# structure in chemistry.",
+    "ru": "На химии мы изучали строение атома."
+   }
+  ]
  },
  {
   "id": "doctrine",
