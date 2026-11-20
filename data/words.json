@@ -67394,20 +67394,46 @@
   "word": "competitive",
   "transcription": "[kəmˈpɛtɪtɪv]",
   "translation": "конкурентоспособный",
-  "nuance": null,
+  "nuance": "Конкурентоспособный; о человеке — любит побеждать, азартный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/competitive.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Our prices are very #competitive#.",
+    "ru": "У нас очень конкурентоспособные цены."
+   },
+   {
+    "en": "My brother is too #competitive# — even at board games.",
+    "ru": "Мой брат слишком азартный — даже в настольных играх."
+   },
+   {
+    "en": "The job market is #competitive#.",
+    "ru": "На рынке труда высокая конкуренция."
+   }
+  ]
  },
  {
   "id": "2933",
   "word": "competitor",
   "transcription": "[kəmˈpɛtɪtə]",
   "translation": "конкурент",
-  "nuance": null,
+  "nuance": "Конкурент (бизнес), участник соревнования. Rival — соперник (личный).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/competitor.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #competitor# opened a café next door.",
+    "ru": "Конкурент открыл кафе по соседству."
+   },
+   {
+    "en": "There were 50 #competitors# in the race.",
+    "ru": "В забеге было 50 участников."
+   },
+   {
+    "en": "She beat all her #competitors#.",
+    "ru": "Она обошла всех соперников."
+   }
+  ]
  },
  {
   "id": "2934",
@@ -67417,37 +67443,89 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/37313/37313_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She won a singing #competition#.",
+    "ru": "Она выиграла конкурс пения."
+   },
+   {
+    "en": "There's a lot of #competition# for this job.",
+    "ru": "На эту работу большой конкурс."
+   },
+   {
+    "en": "Siblings are in constant #competition#.",
+    "ru": "Братья и сёстры постоянно соревнуются."
+   }
+  ]
  },
  {
   "id": "2935",
   "word": "tear",
   "transcription": "[tɪə]",
   "translation": "слеза",
-  "nuance": null,
+  "nuance": "Слеза (читается «тиэ»). Tear (глагол «рвать») читается «тэа».",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/14252/14252_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She cried #tears# of joy.",
+    "ru": "Она плакала от радости."
+   },
+   {
+    "en": "#Tears# ran down his face during the film.",
+    "ru": "Во время фильма у него текли слёзы."
+   },
+   {
+    "en": "The kid burst into #tears#.",
+    "ru": "Ребёнок расплакался."
+   }
+  ]
  },
  {
   "id": "2936",
   "word": "somewhat",
   "transcription": "[ˈsʌmwɒt]",
   "translation": "слегка",
-  "nuance": null,
+  "nuance": "Слегка, отчасти (книжнее, чем a bit, quite).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/somewhat.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I'm #somewhat# tired.",
+    "ru": "Я несколько устал."
+   },
+   {
+    "en": "The film was #somewhat# boring.",
+    "ru": "Фильм был несколько скучным."
+   },
+   {
+    "en": "Prices have #somewhat# increased.",
+    "ru": "Цены немного выросли."
+   }
+  ]
  },
  {
   "id": "2937",
   "word": "click",
   "transcription": "[klɪk]",
   "translation": "щёлкать, щелчок",
-  "nuance": null,
+  "nuance": "Щёлкать, щелчок; разг. click — сразу понравиться друг другу.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/9860/9860_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Click# the link to download.",
+    "ru": "Нажмите на ссылку, чтобы скачать."
+   },
+   {
+    "en": "I heard a #click# at the door.",
+    "ru": "Я услышал щелчок у двери."
+   },
+   {
+    "en": "We #clicked# the moment we met.",
+    "ru": "Мы сразу нашли общий язык."
+   }
+  ]
  },
  {
   "id": "2938",
@@ -67457,7 +67535,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/3261/3261_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Did you #lock# the door?",
+    "ru": "Ты запер дверь?"
+   },
+   {
+    "en": "The #lock# is broken.",
+    "ru": "Замок сломан."
+   },
+   {
+    "en": "Keep your phone #locked#.",
+    "ru": "Держи телефон заблокированным."
+   }
+  ]
  },
  {
   "id": "2939",
@@ -67467,17 +67558,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unlock.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Unlock# your phone with your face.",
+    "ru": "Разблокируй телефон лицом."
+   },
+   {
+    "en": "I can't #unlock# the door — wrong key.",
+    "ru": "Не могу отпереть дверь — не тот ключ."
+   },
+   {
+    "en": "The game lets you #unlock# new levels.",
+    "ru": "Игра позволяет открывать новые уровни."
+   }
+  ]
  },
  {
   "id": "2940",
   "word": "brave",
   "transcription": "[breɪv]",
   "translation": "храбрый",
-  "nuance": null,
+  "nuance": "Смелый, храбрый. Courageous — мужественный (книжнее).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/36163/36163_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Be #brave# — it's just an injection.",
+    "ru": "Будь смелым — это просто укол."
+   },
+   {
+    "en": "The #brave# firefighter saved the cat.",
+    "ru": "Отважный пожарный спас кота."
+   },
+   {
+    "en": "It was #brave# of you to tell the truth.",
+    "ru": "Было смело с твоей стороны сказать правду."
+   }
+  ]
  },
  {
   "id": "2941",
@@ -67487,67 +67604,158 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/bravery.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He got a medal for #bravery#.",
+    "ru": "Он получил медаль за храбрость."
+   },
+   {
+    "en": "Her #bravery# inspired us all.",
+    "ru": "Её храбрость вдохновила всех нас."
+   },
+   {
+    "en": "It takes #bravery# to start again.",
+    "ru": "Чтобы начать заново, нужна смелость."
+   }
+  ]
  },
  {
   "id": "2942",
   "word": "stomach",
   "transcription": "[ˈstʌmək]",
   "translation": "желудок, живот",
-  "nuance": null,
+  "nuance": "Желудок, живот. Belly — разг. живот; tummy — детское.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2786/2786_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My #stomach# hurts after that pizza.",
+    "ru": "После той пиццы у меня болит живот."
+   },
+   {
+    "en": "I can't do sport on a full #stomach#.",
+    "ru": "Не могу заниматься спортом на полный желудок."
+   },
+   {
+    "en": "I don't have the #stomach# for horror films.",
+    "ru": "У меня кишка тонка для фильмов ужасов."
+   }
+  ]
  },
  {
   "id": "2943",
   "word": "due",
   "transcription": "[djuː]",
   "translation": "должный, положенный",
-  "nuance": null,
+  "nuance": "Положенный, должный, ожидаемый (по сроку). Due to — из-за.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/due.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The rent is #due# on Friday.",
+    "ru": "Арендная плата — до пятницы."
+   },
+   {
+    "en": "The baby is #due# in May.",
+    "ru": "Ребёнок должен родиться в мае."
+   },
+   {
+    "en": "With all #due# respect, you're wrong.",
+    "ru": "При всём уважении, ты неправ."
+   }
+  ]
  },
  {
   "id": "2944",
   "word": "undue",
   "transcription": "[ʌnˈdjuː]",
   "translation": "неподобающий",
-  "nuance": null,
+  "nuance": "Чрезмерный, неуместный (офиц.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/undue.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't put #undue# pressure on the kids.",
+    "ru": "Не давите на детей чрезмерно."
+   },
+   {
+    "en": "There's no need for #undue# worry.",
+    "ru": "Нет нужды чрезмерно волноваться."
+   },
+   {
+    "en": "He received #undue# attention.",
+    "ru": "Ему уделили неподобающее внимание."
+   }
+  ]
  },
  {
   "id": "2945",
   "word": "overdue",
   "transcription": "[ˌəʊvəˈdjuː]",
   "translation": "просроченный",
-  "nuance": null,
+  "nuance": "Просроченный; долгожданный (long overdue).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/overdue.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The library book is a month #overdue#.",
+    "ru": "Библиотечную книгу надо было вернуть месяц назад."
+   },
+   {
+    "en": "The baby is #overdue#.",
+    "ru": "Ребёнок перехаживает."
+   },
+   {
+    "en": "This change is long #overdue#.",
+    "ru": "Эти перемены давно назрели."
+   }
+  ]
  },
  {
   "id": "2946",
   "word": "make up",
   "transcription": "[meɪkʌp]",
   "translation": "помириться",
-  "nuance": null,
+  "nuance": "Помириться (разг.). Также make up — выдумать, краситься.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/make_up_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They argued, but #made up# the next day.",
+    "ru": "Они поругались, но на следующий день помирились."
+   },
+   {
+    "en": "Kiss and #make up#.",
+    "ru": "Поцелуйтесь и помиритесь."
+   },
+   {
+    "en": "Have you #made up# with your sister?",
+    "ru": "Ты помирился с сестрой?"
+   }
+  ]
  },
  {
   "id": "2947",
   "word": "patch up",
   "transcription": "[pæʧʌp]",
   "translation": "уладить",
-  "nuance": null,
+  "nuance": "Уладить, наладить (временно, кое-как). Также залатать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/patch_up.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They tried to #patch up# their marriage.",
+    "ru": "Они пытались наладить брак."
+   },
+   {
+    "en": "Let's #patch up# our differences.",
+    "ru": "Давай уладим наши разногласия."
+   },
+   {
+    "en": "The friends #patched# things #up#.",
+    "ru": "Друзья помирились."
+   }
+  ]
  },
  {
   "id": "2948",
@@ -67557,37 +67765,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/at_least.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#At least# call me if you're late.",
+    "ru": "По крайней мере позвони, если опаздываешь."
+   },
+   {
+    "en": "It'll take #at least# an hour.",
+    "ru": "Это займёт как минимум час."
+   },
+   {
+    "en": "The food was bad, but #at least# it was cheap.",
+    "ru": "Еда была плохая, но хотя бы дешёвая."
+   }
+  ]
  },
  {
   "id": "2949",
   "word": "fork",
   "transcription": "[fɔːk]",
   "translation": "развилка, раздваиваться",
-  "nuance": null,
+  "nuance": "Вилка; развилка.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fork.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Turn left at the #fork# in the road.",
+    "ru": "На развилке поверни налево."
+   },
+   {
+    "en": "The path #forks# after the bridge.",
+    "ru": "После моста тропа раздваивается."
+   },
+   {
+    "en": "Eat with a knife and #fork#.",
+    "ru": "Ешь ножом и вилкой."
+   }
+  ]
  },
  {
   "id": "2950",
   "word": "over",
   "transcription": "[ˈəʊvə]",
   "translation": "заново",
-  "nuance": null,
+  "nuance": "Амер. разг. «заново» (do over, start over). Брит. — again.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/over.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I made a mistake, so I started #over#.",
+    "ru": "Я ошибся, поэтому начал заново."
+   },
+   {
+    "en": "Do it #over#!",
+    "ru": "Переделай!"
+   },
+   {
+    "en": "Let's start all #over# again.",
+    "ru": "Давай начнём всё сначала."
+   }
+  ]
  },
  {
   "id": "2951",
   "word": "steer",
   "transcription": "[stɪə]",
   "translation": "управлять, направлять",
-  "nuance": null,
+  "nuance": "Управлять (рулём), направлять. Steer clear of — избегать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/steer.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #steered# the boat to the shore.",
+    "ru": "Он направил лодку к берегу."
+   },
+   {
+    "en": "She #steered# the conversation to money.",
+    "ru": "Она перевела разговор на деньги."
+   },
+   {
+    "en": "#Steer# clear of that guy.",
+    "ru": "Держись подальше от этого парня."
+   }
+  ]
  },
  {
   "id": "2952",
@@ -67597,27 +67857,66 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6245/6245_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Keep both hands on the #steering wheel#.",
+    "ru": "Держи обе руки на руле."
+   },
+   {
+    "en": "The #steering wheel# is on the right in the UK.",
+    "ru": "В Британии руль справа."
+   },
+   {
+    "en": "The cat sat on the #steering wheel#.",
+    "ru": "Кот сидел на руле."
+   }
+  ]
  },
  {
   "id": "2953",
   "word": "casual",
   "transcription": "[ˈkæʒjʊəl]",
   "translation": "случайный",
-  "nuance": null,
+  "nuance": "Случайный, повседневный, непринуждённый. Ложный друг: не «казуальный».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/casual.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It was just a #casual# meeting in the street.",
+    "ru": "Это была просто случайная встреча на улице."
+   },
+   {
+    "en": "Wear #casual# clothes to the party.",
+    "ru": "Надень повседневную одежду на вечеринку."
+   },
+   {
+    "en": "They have a #casual# relationship.",
+    "ru": "У них несерьёзные отношения."
+   }
+  ]
  },
  {
   "id": "2954",
   "word": "tooth (pl: teeth)",
   "transcription": "[tuːθ]",
   "translation": "зуб",
-  "nuance": null,
+  "nuance": "Мн.ч. teeth. Sweet tooth — сладкоежка.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/10267/10267_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I broke a #tooth# on a nut.",
+    "ru": "Я сломал зуб об орех."
+   },
+   {
+    "en": "Brush your #teeth# twice a day.",
+    "ru": "Чисти зубы дважды в день."
+   },
+   {
+    "en": "She has a sweet #tooth#.",
+    "ru": "Она сладкоежка."
+   }
+  ]
  },
  {
   "id": "2955",
@@ -67627,7 +67926,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2858/2858_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We're out of #toothpaste#.",
+    "ru": "У нас кончилась зубная паста."
+   },
+   {
+    "en": "Who leaves the #toothpaste# cap open?!",
+    "ru": "Кто оставляет тюбик пасты открытым?!"
+   },
+   {
+    "en": "Kids' #toothpaste# tastes like strawberries.",
+    "ru": "Детская паста на вкус как клубника."
+   }
+  ]
  },
  {
   "id": "2956",
@@ -67637,7 +67949,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2694/2694_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Change your #toothbrush# every three months.",
+    "ru": "Меняй зубную щётку каждые три месяца."
+   },
+   {
+    "en": "I forgot my #toothbrush# at the hotel.",
+    "ru": "Я забыл зубную щётку в отеле."
+   },
+   {
+    "en": "My son uses an electric #toothbrush#.",
+    "ru": "Сын пользуется электрической щёткой."
+   }
+  ]
  },
  {
   "id": "2957",
@@ -67647,7 +67972,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/10263/10263_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I have a terrible #toothache#.",
+    "ru": "У меня ужасно болит зуб."
+   },
+   {
+    "en": "A #toothache# is the worst pain.",
+    "ru": "Зубная боль — худшая боль."
+   },
+   {
+    "en": "Too much candy gives you #toothache#.",
+    "ru": "От сладкого болят зубы."
+   }
+  ]
  },
  {
   "id": "2958",
@@ -67657,27 +67995,66 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8362/8362_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Use a #toothpick#, not your finger!",
+    "ru": "Пользуйся зубочисткой, а не пальцем!"
+   },
+   {
+    "en": "The olives came on #toothpicks#.",
+    "ru": "Оливки подали на шпажках."
+   },
+   {
+    "en": "He chewed a #toothpick# like a cowboy.",
+    "ru": "Он жевал зубочистку, как ковбой."
+   }
+  ]
  },
  {
   "id": "2959",
   "word": "faint",
   "transcription": "[feɪnt]",
   "translation": "слабый, неуловимый",
-  "nuance": null,
+  "nuance": "Слабый, едва заметный; чувствовать дурноту. Faint (глагол) — упасть в обморок.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/faint.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There was a #faint# smell of smoke.",
+    "ru": "Пахло слабым дымом."
+   },
+   {
+    "en": "I have a #faint# memory of that day.",
+    "ru": "Я смутно помню тот день."
+   },
+   {
+    "en": "She felt #faint# and sat down.",
+    "ru": "Она почувствовала слабость и села."
+   }
+  ]
  },
  {
   "id": "2960",
   "word": "obsess",
   "transcription": "[əbˈsɛs]",
   "translation": "овладеть (разумом)",
-  "nuance": null,
+  "nuance": "Чаще форма obsessed with — помешан на.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/obsess.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's #obsessed# with football.",
+    "ru": "Он одержим футболом."
+   },
+   {
+    "en": "Don't #obsess# over small mistakes.",
+    "ru": "Не зацикливайся на мелких ошибках."
+   },
+   {
+    "en": "She #obsesses# about her weight.",
+    "ru": "Она зациклена на своём весе."
+   }
+  ]
  },
  {
   "id": "2961",
@@ -67687,7 +68064,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/obsession.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His #obsession# with cleanliness is tiring.",
+    "ru": "Его одержимость чистотой утомляет."
+   },
+   {
+    "en": "Coffee is my #obsession#.",
+    "ru": "Кофе — моя страсть."
+   },
+   {
+    "en": "The #obsession# with likes is unhealthy.",
+    "ru": "Одержимость лайками нездорова."
+   }
+  ]
  },
  {
   "id": "2962",
@@ -67697,27 +68087,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/obsessive.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He has #obsessive# habits — he checks the door five times.",
+    "ru": "У него навязчивые привычки — он пять раз проверяет дверь."
+   },
+   {
+    "en": "She's #obsessive# about tidiness.",
+    "ru": "Она помешана на порядке."
+   },
+   {
+    "en": "#Obsessive# thoughts kept him awake.",
+    "ru": "Навязчивые мысли не давали ему спать."
+   }
+  ]
  },
  {
   "id": "2963",
   "word": "wood",
   "transcription": "[wʊd]",
   "translation": "древесина, лес",
-  "nuance": null,
+  "nuance": "Древесина; the woods — лес (небольшой). Forest — большой лес.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/wood.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The table is made of #wood#.",
+    "ru": "Стол сделан из дерева."
+   },
+   {
+    "en": "We walked in the #woods#.",
+    "ru": "Мы гуляли в лесу."
+   },
+   {
+    "en": "Touch #wood#!",
+    "ru": "Постучи по дереву!"
+   }
+  ]
  },
  {
   "id": "2964",
   "word": "wooden",
   "transcription": "[ˈwʊdn]",
   "translation": "деревянный",
-  "nuance": null,
+  "nuance": "Деревянный; перен. — скованный, неживой.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/wooden.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Kids love #wooden# toys.",
+    "ru": "Дети любят деревянные игрушки."
+   },
+   {
+    "en": "A #wooden# bridge crosses the river.",
+    "ru": "Через реку перекинут деревянный мост."
+   },
+   {
+    "en": "His acting was #wooden#.",
+    "ru": "Он играл деревянно."
+   }
+  ]
  },
  {
   "id": "2965",
@@ -67727,7 +68156,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/woody.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The wine has a #woody# taste.",
+    "ru": "У вина древесный привкус."
+   },
+   {
+    "en": "The perfume smells #woody#.",
+    "ru": "Духи пахнут древесно."
+   },
+   {
+    "en": "The plant has a #woody# stem.",
+    "ru": "У растения одеревеневший стебель."
+   }
+  ]
  },
  {
   "id": "2966",
@@ -67737,7 +68179,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/firewood.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Chop some #firewood#.",
+    "ru": "Наколи дров."
+   },
+   {
+    "en": "We stored #firewood# for the winter.",
+    "ru": "Мы запасли дрова на зиму."
+   },
+   {
+    "en": "The #firewood# is too wet to burn.",
+    "ru": "Дрова слишком сырые, чтобы гореть."
+   }
+  ]
  },
  {
   "id": "2967",
@@ -67747,57 +68202,135 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/woodwork.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandpa's #woodwork# is beautiful.",
+    "ru": "Дедушкины изделия из дерева прекрасны."
+   },
+   {
+    "en": "The old #woodwork# needs painting.",
+    "ru": "Старые деревянные детали нужно покрасить."
+   },
+   {
+    "en": "My son does #woodwork# at school.",
+    "ru": "Сын ходит на уроки столярного дела."
+   }
+  ]
  },
  {
   "id": "2968",
   "word": "sit out",
   "transcription": "[sɪtaʊt]",
   "translation": "высидеть",
-  "nuance": null,
+  "nuance": "Пропустить (участие), переждать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sit_out.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I'll #sit out# this dance.",
+    "ru": "Этот танец я пропущу."
+   },
+   {
+    "en": "He #sat out# the game with an injury.",
+    "ru": "Он пропустил игру из-за травмы."
+   },
+   {
+    "en": "We #sat out# the storm in a café.",
+    "ru": "Мы переждали бурю в кафе."
+   }
+  ]
  },
  {
   "id": "2969",
   "word": "sit through",
   "transcription": "[sɪtθruː]",
   "translation": "высидеть до конца",
-  "nuance": null,
+  "nuance": "Высидеть до конца (что-то скучное).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sit_through.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I had to #sit through# a three-hour meeting.",
+    "ru": "Мне пришлось высидеть трёхчасовое совещание."
+   },
+   {
+    "en": "Kids can't #sit through# a whole film.",
+    "ru": "Дети не могут высидеть целый фильм."
+   },
+   {
+    "en": "We #sat through# all the speeches.",
+    "ru": "Мы высидели все речи."
+   }
+  ]
  },
  {
   "id": "2970",
   "word": "cookie",
   "transcription": "[ˈkʊki]",
   "translation": "печенье",
-  "nuance": null,
+  "nuance": "Амер. cookie; брит. biscuit. Также cookies на сайтах.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8312/8312_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Who ate the last #cookie#?",
+    "ru": "Кто съел последнее печенье?"
+   },
+   {
+    "en": "Grandma bakes the best #cookies#.",
+    "ru": "Бабушка печёт лучшее печенье."
+   },
+   {
+    "en": "Accept #cookies# on this website?",
+    "ru": "Принять куки на этом сайте?"
+   }
+  ]
  },
  {
   "id": "2971",
   "word": "mold (mould)",
   "transcription": "[məʊld]",
   "translation": "плесень",
-  "nuance": null,
+  "nuance": "Амер. mold, брит. mould. Также форма (для выпечки).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/39404/39404_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's #mold# on the bread.",
+    "ru": "На хлебе плесень."
+   },
+   {
+    "en": "#Mould# grows in damp bathrooms.",
+    "ru": "В сырых ванных растёт плесень."
+   },
+   {
+    "en": "Throw out the #mouldy# cheese.",
+    "ru": "Выброси заплесневелый сыр."
+   }
+  ]
  },
  {
   "id": "2972",
   "word": "exhibit",
   "transcription": "[ɪgˈzɪbɪt]",
   "translation": "выставлять, показывать",
-  "nuance": null,
+  "nuance": "Выставлять; книжн. — проявлять (признаки).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/16823/16823_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The museum #exhibits# old cars.",
+    "ru": "Музей выставляет старые машины."
+   },
+   {
+    "en": "She #exhibited# her paintings in Paris.",
+    "ru": "Она выставляла свои картины в Париже."
+   },
+   {
+    "en": "He #exhibited# signs of stress.",
+    "ru": "У него проявлялись признаки стресса."
+   }
+  ]
  },
  {
   "id": "2973",
@@ -67807,67 +68340,158 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/21859/21859_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We went to a photo #exhibition#.",
+    "ru": "Мы сходили на фотовыставку."
+   },
+   {
+    "en": "The #exhibition# opens next week.",
+    "ru": "Выставка открывается на следующей неделе."
+   },
+   {
+    "en": "He made an #exhibition# of himself at the party.",
+    "ru": "Он выставил себя на посмешище на вечеринке."
+   }
+  ]
  },
  {
   "id": "2974",
   "word": "character",
   "transcription": "[ˈkærɪktə]",
   "translation": "персонаж",
-  "nuance": null,
+  "nuance": "Персонаж; характер; разг. a character — оригинал, чудак.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/character.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My favourite #character# is the villain.",
+    "ru": "Мой любимый персонаж — злодей."
+   },
+   {
+    "en": "The book has too many #characters#.",
+    "ru": "В книге слишком много персонажей."
+   },
+   {
+    "en": "She's quite a #character#!",
+    "ru": "Она та ещё штучка!"
+   }
+  ]
  },
  {
   "id": "2975",
   "word": "yell",
   "transcription": "[jɛl]",
   "translation": "кричать, вопить",
-  "nuance": null,
+  "nuance": "Кричать громко (часто сердито). Shout — кричать (нейтр.); scream — визжать.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/37924/37924_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #yell# at me!",
+    "ru": "Не ори на меня!"
+   },
+   {
+    "en": "The coach #yelled# from the side.",
+    "ru": "Тренер кричал с бровки."
+   },
+   {
+    "en": "Kids #yelled# with joy.",
+    "ru": "Дети вопили от радости."
+   }
+  ]
  },
  {
   "id": "2976",
   "word": "master",
   "transcription": "[ˈmɑːstə]",
   "translation": "хозяин",
-  "nuance": null,
+  "nuance": "Хозяин; мастер (знаток). Master's degree — магистратура.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/master.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The dog waited for its #master#.",
+    "ru": "Собака ждала хозяина."
+   },
+   {
+    "en": "He's a #master# of excuses.",
+    "ru": "Он мастер отговорок."
+   },
+   {
+    "en": "She's #master# of the house.",
+    "ru": "Она хозяйка в доме."
+   }
+  ]
  },
  {
   "id": "2977",
   "word": "incentive",
   "transcription": "[ɪnˈsɛntɪv]",
   "translation": "стимул, мотив",
-  "nuance": null,
+  "nuance": "Стимул (внешний, часто деньги). Motivation — мотивация (внутренняя).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/incentive.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Free pizza is a great #incentive# to come.",
+    "ru": "Бесплатная пицца — отличный стимул прийти."
+   },
+   {
+    "en": "Workers get a bonus as an #incentive#.",
+    "ru": "Работники получают премию в качестве стимула."
+   },
+   {
+    "en": "There's no #incentive# to save money.",
+    "ru": "Нет стимула копить деньги."
+   }
+  ]
  },
  {
   "id": "2978",
   "word": "probable",
   "transcription": "[ˈprɒbəbl]",
   "translation": "вероятный, возможный",
-  "nuance": null,
+  "nuance": "Вероятный (книжн.). Likely — чаще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/probable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Rain is #probable# this afternoon.",
+    "ru": "Днём вероятен дождь."
+   },
+   {
+    "en": "The most #probable# reason is the cat.",
+    "ru": "Самая вероятная причина — кот."
+   },
+   {
+    "en": "It's #probable# that he forgot.",
+    "ru": "Вероятно, он забыл."
+   }
+  ]
  },
  {
   "id": "2979",
   "word": "probably",
   "transcription": "[ˈprɒbəbli]",
   "translation": "возможно",
-  "nuance": null,
+  "nuance": "Вероятно, наверное (>50%). Maybe/perhaps — может быть (50/50).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/probably.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I'll #probably# be late.",
+    "ru": "Я, наверное, опоздаю."
+   },
+   {
+    "en": "It's #probably# going to rain.",
+    "ru": "Скорее всего, пойдёт дождь."
+   },
+   {
+    "en": "He's #probably# asleep.",
+    "ru": "Он, наверное, спит."
+   }
+  ]
  },
  {
   "id": "2980",
@@ -67877,7 +68501,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/flight.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Our #flight# was delayed by four hours.",
+    "ru": "Наш рейс задержали на четыре часа."
+   },
+   {
+    "en": "It's a short #flight# to Paris.",
+    "ru": "До Парижа недолгий перелёт."
+   },
+   {
+    "en": "Birds in #flight# are beautiful.",
+    "ru": "Птицы в полёте прекрасны."
+   }
+  ]
  },
  {
   "id": "2981",
@@ -67887,7 +68524,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2323/2323_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Chopping #onions# makes me cry.",
+    "ru": "Я плачу, когда режу лук."
+   },
+   {
+    "en": "Fry the #onion# until golden.",
+    "ru": "Обжарь лук до золотистого цвета."
+   },
+   {
+    "en": "Add a red #onion# to the salad.",
+    "ru": "Добавь в салат красный лук."
+   }
+  ]
  },
  {
   "id": "2982",
