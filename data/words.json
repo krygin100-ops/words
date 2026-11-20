@@ -68544,30 +68544,69 @@
   "word": "consequence",
   "transcription": "[ˈkɒnsɪkwəns]",
   "translation": "последствие",
-  "nuance": null,
+  "nuance": "Последствие (часто плохое). Result — результат (нейтр.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/consequence.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Every action has #consequences#.",
+    "ru": "У каждого поступка есть последствия."
+   },
+   {
+    "en": "As a #consequence# of the rain, the match was cancelled.",
+    "ru": "Из-за дождя матч отменили."
+   },
+   {
+    "en": "Think about the #consequences#!",
+    "ru": "Подумай о последствиях!"
+   }
+  ]
  },
  {
   "id": "2983",
   "word": "mount",
   "transcription": "[maʊnt]",
   "translation": "гора",
-  "nuance": null,
+  "nuance": "Mount — только в названиях гор (Mount Everest, сокр. Mt). Иначе — mountain.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2909/2909_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Mount# Everest is the highest mountain.",
+    "ru": "Эверест — самая высокая гора."
+   },
+   {
+    "en": "We climbed #Mount# Fuji at night.",
+    "ru": "Мы поднялись на Фудзи ночью."
+   },
+   {
+    "en": "The town lies at the foot of #Mount# Etna.",
+    "ru": "Город лежит у подножия Этны."
+   }
+  ]
  },
  {
   "id": "2984",
   "word": "ill",
   "transcription": "[ɪl]",
   "translation": "больной",
-  "nuance": null,
+  "nuance": "Больной (брит., после глагола: be ill). Sick — амер. и «тошнит».",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/28742/28742_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's #ill# with the flu.",
+    "ru": "Он болен гриппом."
+   },
+   {
+    "en": "I feel #ill# after that fish.",
+    "ru": "После той рыбы мне плохо."
+   },
+   {
+    "en": "She was seriously #ill# last year.",
+    "ru": "В прошлом году она серьёзно болела."
+   }
+  ]
  },
  {
   "id": "2985",
@@ -68577,7 +68616,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6637/6637_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She missed school because of #illness#.",
+    "ru": "Она пропустила школу из-за болезни."
+   },
+   {
+    "en": "Stress can cause #illness#.",
+    "ru": "Стресс может вызвать болезнь."
+   },
+   {
+    "en": "After a long #illness#, he returned to work.",
+    "ru": "После долгой болезни он вернулся на работу."
+   }
+  ]
  },
  {
   "id": "2986",
@@ -68587,47 +68639,112 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/summary.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Give me a short #summary# of the film.",
+    "ru": "Перескажи мне фильм вкратце."
+   },
+   {
+    "en": "In #summary#, we need more money.",
+    "ru": "Подводя итог, нам нужно больше денег."
+   },
+   {
+    "en": "Read the #summary# before the meeting.",
+    "ru": "Прочитай сводку перед совещанием."
+   }
+  ]
  },
  {
   "id": "2987",
   "word": "capital",
   "transcription": "[ˈkæpɪtl]",
   "translation": "главный, большой, высший",
-  "nuance": null,
+  "nuance": "Главный; capital letter — заглавная буква; capital punishment — смертная казнь; столица; капитал.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/capital.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Murder is a #capital# crime here.",
+    "ru": "Убийство здесь карается смертной казнью."
+   },
+   {
+    "en": "Write your name in #capital# letters.",
+    "ru": "Напиши имя заглавными буквами."
+   },
+   {
+    "en": "Paris is the #capital# of France.",
+    "ru": "Париж — столица Франции."
+   }
+  ]
  },
  {
   "id": "2988",
   "word": "offend",
   "transcription": "[əˈfɛnd]",
   "translation": "обидеть, оскорбить",
-  "nuance": null,
+  "nuance": "Обидеть (часто непреднамеренно). Insult — оскорбить (намеренно).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/offend.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I didn't mean to #offend# you.",
+    "ru": "Я не хотел тебя обидеть."
+   },
+   {
+    "en": "His joke #offended# everyone.",
+    "ru": "Его шутка всех оскорбила."
+   },
+   {
+    "en": "Don't be #offended# — I'm joking!",
+    "ru": "Не обижайся — я шучу!"
+   }
+  ]
  },
  {
   "id": "2989",
   "word": "towel",
   "transcription": "[ˈtaʊəl]",
   "translation": "полотенце",
-  "nuance": null,
+  "nuance": "Throw in the towel — сдаться.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2593/2593_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I forgot my #towel# at the beach.",
+    "ru": "Я забыл полотенце на пляже."
+   },
+   {
+    "en": "The hotel changes the #towels# every day.",
+    "ru": "В отеле меняют полотенца каждый день."
+   },
+   {
+    "en": "He threw in the #towel# after an hour.",
+    "ru": "Через час он сдался."
+   }
+  ]
  },
  {
   "id": "2990",
   "word": "grateful",
   "transcription": "[ˈgreɪtfʊl]",
   "translation": "благодарный",
-  "nuance": null,
+  "nuance": "Благодарный (чувство). Thankful — синоним.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/grateful.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I'm #grateful# for your help.",
+    "ru": "Я благодарен за твою помощь."
+   },
+   {
+    "en": "We're #grateful# to be alive.",
+    "ru": "Мы благодарны, что живы."
+   },
+   {
+    "en": "Be #grateful# for what you have.",
+    "ru": "Будь благодарен за то, что имеешь."
+   }
+  ]
  },
  {
   "id": "2991",
@@ -68637,57 +68754,135 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/ungrateful.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't be #ungrateful# — Grandma knitted it for you!",
+    "ru": "Не будь неблагодарным — бабушка связала это для тебя!"
+   },
+   {
+    "en": "The cat is an #ungrateful# creature.",
+    "ru": "Кот — неблагодарное существо."
+   },
+   {
+    "en": "He's #ungrateful# for everything.",
+    "ru": "Он ни за что не благодарен."
+   }
+  ]
  },
  {
   "id": "2992",
   "word": "shoulder",
   "transcription": "[ˈʃəʊldə]",
   "translation": "плечо",
-  "nuance": null,
+  "nuance": "Плечо (часть тела). A shoulder to cry on — жилетка, в которую можно поплакать.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2977/2977_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She cried on my #shoulder#.",
+    "ru": "Она плакала у меня на плече."
+   },
+   {
+    "en": "My #shoulders# hurt after the gym.",
+    "ru": "После спортзала у меня болят плечи."
+   },
+   {
+    "en": "The parrot sits on his #shoulder#.",
+    "ru": "Попугай сидит у него на плече."
+   }
+  ]
  },
  {
   "id": "2993",
   "word": "sample",
   "transcription": "[ˈsɑːmpl]",
   "translation": "образец, часть",
-  "nuance": null,
+  "nuance": "Образец, проба; выборка.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sample.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Try a free #sample#!",
+    "ru": "Попробуйте бесплатный образец!"
+   },
+   {
+    "en": "The doctor took a blood #sample#.",
+    "ru": "Врач взял анализ крови."
+   },
+   {
+    "en": "We asked a #sample# of 100 people.",
+    "ru": "Мы опросили выборку из 100 человек."
+   }
+  ]
  },
  {
   "id": "2994",
   "word": "deck",
   "transcription": "[dɛk]",
   "translation": "палуба, настил",
-  "nuance": null,
+  "nuance": "Палуба; терраса/настил; также колода карт (амер.).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/21577/21577_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We had dinner on the #deck#.",
+    "ru": "Мы поужинали на палубе."
+   },
+   {
+    "en": "The ship's #deck# was wet.",
+    "ru": "Палуба корабля была мокрой."
+   },
+   {
+    "en": "We built a wooden #deck# behind the house.",
+    "ru": "Мы построили деревянный настил за домом."
+   }
+  ]
  },
  {
   "id": "2995",
   "word": "talk smb out",
   "transcription": "[tɔːksmbaʊt]",
   "translation": "отговорить",
-  "nuance": null,
+  "nuance": "Talk someone out of — отговорить; talk into — уговорить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/talk_smb_out.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My wife #talked# me #out# of buying a motorbike.",
+    "ru": "Жена отговорила меня от покупки мотоцикла."
+   },
+   {
+    "en": "Try to #talk# him #out# of it.",
+    "ru": "Попробуй его отговорить."
+   },
+   {
+    "en": "Nobody could #talk# her #out# of quitting.",
+    "ru": "Никто не смог отговорить её от увольнения."
+   }
+  ]
  },
  {
   "id": "2996",
   "word": "evolve",
   "transcription": "[ɪˈvɒlv]",
   "translation": "развиваться, эволюционировать",
-  "nuance": null,
+  "nuance": "Развиваться постепенно, эволюционировать. Develop — развивать(ся) (шире).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/evolve.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Languages #evolve# over time.",
+    "ru": "Языки развиваются со временем."
+   },
+   {
+    "en": "The company #evolved# from a garage startup.",
+    "ru": "Компания выросла из стартапа в гараже."
+   },
+   {
+    "en": "Humans #evolved# from apes.",
+    "ru": "Люди произошли от обезьян."
+   }
+  ]
  },
  {
   "id": "2997",
@@ -68697,17 +68892,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/divide.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Divide# the pizza into eight pieces.",
+    "ru": "Раздели пиццу на восемь кусков."
+   },
+   {
+    "en": "Twelve #divided# by three is four.",
+    "ru": "Двенадцать разделить на три — четыре."
+   },
+   {
+    "en": "The issue #divided# the family.",
+    "ru": "Этот вопрос расколол семью."
+   }
+  ]
  },
  {
   "id": "2998",
   "word": "division",
   "transcription": "[dɪˈvɪʒən]",
   "translation": "деление",
-  "nuance": null,
+  "nuance": "Деление; отдел, подразделение; раскол.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/division.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Kids learn #division# at school.",
+    "ru": "Дети учатся делению в школе."
+   },
+   {
+    "en": "The #division# of housework isn't fair.",
+    "ru": "Распределение домашних дел несправедливо."
+   },
+   {
+    "en": "He works in the sales #division#.",
+    "ru": "Он работает в отделе продаж."
+   }
+  ]
  },
  {
   "id": "2999",
@@ -68717,37 +68938,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/subdivide.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The house was #subdivided# into flats.",
+    "ru": "Дом разделили на квартиры."
+   },
+   {
+    "en": "Each chapter is #subdivided# into sections.",
+    "ru": "Каждая глава разбита на разделы."
+   },
+   {
+    "en": "They #subdivided# the land.",
+    "ru": "Они разделили участок."
+   }
+  ]
  },
  {
   "id": "3000",
   "word": "divisive",
   "transcription": "[dɪˈvaɪsɪv]",
   "translation": "разделяющий",
-  "nuance": null,
+  "nuance": "Вызывающий раскол, споры.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/divisive.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Politics is a #divisive# topic.",
+    "ru": "Политика — тема, которая разделяет людей."
+   },
+   {
+    "en": "It was a #divisive# decision.",
+    "ru": "Это было спорное решение, расколовшее людей."
+   },
+   {
+    "en": "Pineapple on pizza is very #divisive#.",
+    "ru": "Ананас на пицце очень разделяет людей."
+   }
+  ]
  },
  {
   "id": "3001",
   "word": "line",
   "transcription": "[laɪn]",
   "translation": "линия, ряд",
-  "nuance": null,
+  "nuance": "Линия, ряд; амер. — очередь (брит. queue).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/4684/4684_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Draw a straight #line#.",
+    "ru": "Нарисуй прямую линию."
+   },
+   {
+    "en": "We waited in #line# for an hour.",
+    "ru": "Мы час стояли в очереди."
+   },
+   {
+    "en": "Stand in #line#, please.",
+    "ru": "Встаньте в очередь, пожалуйста."
+   }
+  ]
  },
  {
   "id": "3002",
   "word": "shape",
   "transcription": "[ʃeɪp]",
   "translation": "форма, формировать",
-  "nuance": null,
+  "nuance": "Форма (внешняя); be in shape — в хорошей форме. Form — форма (вид, анкета).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/shape.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The cake was in the #shape# of a cat.",
+    "ru": "Торт был в форме кота."
+   },
+   {
+    "en": "I need to get in #shape# for summer.",
+    "ru": "Мне нужно прийти в форму к лету."
+   },
+   {
+    "en": "Childhood #shapes# who we are.",
+    "ru": "Детство формирует то, кем мы становимся."
+   }
+  ]
  },
  {
   "id": "3003",
@@ -68757,7 +69030,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/shapeless.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She wore a #shapeless# grey sweater.",
+    "ru": "На ней был бесформенный серый свитер."
+   },
+   {
+    "en": "The cake came out #shapeless#.",
+    "ru": "Торт получился бесформенным."
+   },
+   {
+    "en": "A #shapeless# blob of dough.",
+    "ru": "Бесформенный ком теста."
+   }
+  ]
  },
  {
   "id": "3004",
@@ -68767,67 +69053,158 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/reshape.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The internet #reshaped# the world.",
+    "ru": "Интернет перекроил мир."
+   },
+   {
+    "en": "They #reshaped# the old dress.",
+    "ru": "Они перешили старое платье."
+   },
+   {
+    "en": "We need to #reshape# our plans.",
+    "ru": "Нам нужно перекроить наши планы."
+   }
+  ]
  },
  {
   "id": "3005",
   "word": "come to",
   "transcription": "[kʌmtuː]",
   "translation": "очнуться",
-  "nuance": null,
+  "nuance": "Прийти в сознание (ударение на to). Также come to — составить (сумму).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/come_to.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He fainted but #came to# a minute later.",
+    "ru": "Он потерял сознание, но через минуту пришёл в себя."
+   },
+   {
+    "en": "When I #came to#, I was in hospital.",
+    "ru": "Когда я очнулся, я был в больнице."
+   },
+   {
+    "en": "Splash water on his face — he'll #come to#.",
+    "ru": "Брызни ему водой в лицо — он очнётся."
+   }
+  ]
  },
  {
   "id": "3006",
   "word": "flame",
   "transcription": "[fleɪm]",
   "translation": "пламя, пылать",
-  "nuance": null,
+  "nuance": "Пламя; old flame — бывшая любовь.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/5905/5905_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The candle #flame# danced in the wind.",
+    "ru": "Пламя свечи плясало на ветру."
+   },
+   {
+    "en": "The house was in #flames#.",
+    "ru": "Дом был охвачен пламенем."
+   },
+   {
+    "en": "An old #flame# called me.",
+    "ru": "Мне позвонила старая любовь."
+   }
+  ]
  },
  {
   "id": "3007",
   "word": "underpants",
   "transcription": "[ˈʌndəˌpænts ]",
   "translation": "трусы",
-  "nuance": null,
+  "nuance": "Трусы (мужские/детские). Брит. pants; амер. underwear, briefs.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2303/2303_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Pack enough #underpants# for a week.",
+    "ru": "Возьми трусов на неделю."
+   },
+   {
+    "en": "His #underpants# have little dinosaurs on them.",
+    "ru": "У него трусы с маленькими динозаврами."
+   },
+   {
+    "en": "Kids, put on clean #underpants#!",
+    "ru": "Дети, наденьте чистые трусы!"
+   }
+  ]
  },
  {
   "id": "3008",
   "word": "foreign",
   "transcription": "[ˈfɒrɪn]",
   "translation": "иностранный",
-  "nuance": null,
+  "nuance": "Иностранный, зарубежный; чуждый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/foreign.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Do you speak any #foreign# languages?",
+    "ru": "Ты говоришь на иностранных языках?"
+   },
+   {
+    "en": "It's my first time in a #foreign# country.",
+    "ru": "Я впервые за границей."
+   },
+   {
+    "en": "Jealousy is #foreign# to her.",
+    "ru": "Ревность ей чужда."
+   }
+  ]
  },
  {
   "id": "3009",
   "word": "foreigner",
   "transcription": "[ˈfɒrɪnə]",
   "translation": "иностранец",
-  "nuance": null,
+  "nuance": "Может звучать отчуждённо; вежливее — visitor, people from abroad.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/foreigner.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "As a #foreigner#, I had to fill in more forms.",
+    "ru": "Как иностранцу, мне пришлось заполнить больше анкет."
+   },
+   {
+    "en": "#Foreigners# love the local food.",
+    "ru": "Иностранцам нравится местная еда."
+   },
+   {
+    "en": "I felt like a #foreigner# in my own town.",
+    "ru": "Я чувствовал себя чужим в родном городе."
+   }
+  ]
  },
  {
   "id": "3010",
   "word": "resign",
   "transcription": "[rɪˈzaɪn]",
   "translation": "отказываться, сдавать, уходить",
-  "nuance": null,
+  "nuance": "Уйти в отставку, уволиться (офиц., по собственному). Quit — разг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/resign.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The minister #resigned# after the scandal.",
+    "ru": "После скандала министр ушёл в отставку."
+   },
+   {
+    "en": "She #resigned# from her job.",
+    "ru": "Она уволилась с работы."
+   },
+   {
+    "en": "He #resigned# his post.",
+    "ru": "Он сложил полномочия."
+   }
+  ]
  },
  {
   "id": "3011",
@@ -68837,17 +69214,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/resignation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He handed in his #resignation#.",
+    "ru": "Он подал заявление об уходе."
+   },
+   {
+    "en": "The #resignation# of the coach surprised fans.",
+    "ru": "Отставка тренера удивила болельщиков."
+   },
+   {
+    "en": "We accepted her #resignation#.",
+    "ru": "Мы приняли её отставку."
+   }
+  ]
  },
  {
   "id": "3012",
   "word": "resignation 2",
   "transcription": "[ˌrɛzɪgˈneɪʃən]",
   "translation": "смирение",
-  "nuance": null,
+  "nuance": "Смирение, покорность (перед неизбежным).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/resignation_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He accepted his fate with #resignation#.",
+    "ru": "Он смирился со своей судьбой."
+   },
+   {
+    "en": "She sighed with #resignation#.",
+    "ru": "Она вздохнула со смирением."
+   },
+   {
+    "en": "There was #resignation# in his voice.",
+    "ru": "В его голосе слышалась покорность."
+   }
+  ]
  },
  {
   "id": "3013",
@@ -68857,17 +69260,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/spice.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Indian food uses lots of #spices#.",
+    "ru": "В индийской кухне много специй."
+   },
+   {
+    "en": "Add a little #spice# to the soup.",
+    "ru": "Добавь немного специй в суп."
+   },
+   {
+    "en": "Variety is the #spice# of life.",
+    "ru": "Разнообразие — соль жизни."
+   }
+  ]
  },
  {
   "id": "3014",
   "word": "spicy",
   "transcription": "[ˈspaɪsi]",
   "translation": "острый",
-  "nuance": null,
+  "nuance": "Острый (на вкус); пикантный. Hot — тоже «острый», но может значить «горячий».",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/4719/4719_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "This curry is too #spicy# for me.",
+    "ru": "Это карри для меня слишком острое."
+   },
+   {
+    "en": "Do you like #spicy# food?",
+    "ru": "Любишь острую еду?"
+   },
+   {
+    "en": "The gossip was #spicy#.",
+    "ru": "Сплетни были пикантными."
+   }
+  ]
  },
  {
   "id": "3015",
@@ -68877,7 +69306,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/make_into.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #made# the old shed #into# a study.",
+    "ru": "Мы переделали старый сарай в кабинет."
+   },
+   {
+    "en": "She #made# the leftovers #into# a pie.",
+    "ru": "Она сделала из остатков пирог."
+   },
+   {
+    "en": "They #made# the book #into# a film.",
+    "ru": "Книгу экранизировали."
+   }
+  ]
  },
  {
   "id": "3016",
@@ -68887,7 +69329,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/39212/39212_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Tie# the boat to the tree.",
+    "ru": "Привяжи лодку к дереву."
+   },
+   {
+    "en": "Can you #tie# your shoelaces?",
+    "ru": "Ты умеешь завязывать шнурки?"
+   },
+   {
+    "en": "She #tied# her hair back.",
+    "ru": "Она завязала волосы сзади."
+   }
+  ]
  },
  {
   "id": "3017",
@@ -68897,57 +69352,135 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/39213/39213_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I can't #untie# this knot.",
+    "ru": "Не могу развязать этот узел."
+   },
+   {
+    "en": "#Untie# the dog before you leave.",
+    "ru": "Отвяжи собаку перед уходом."
+   },
+   {
+    "en": "He #untied# his tie and relaxed.",
+    "ru": "Он развязал галстук и расслабился."
+   }
+  ]
  },
  {
   "id": "3018",
   "word": "tie up",
   "transcription": "[taɪʌp]",
   "translation": "завязать",
-  "nuance": null,
+  "nuance": "Завязать, привязать; разг. be tied up — быть занятым.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tie_up.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Tie up# the rubbish bag.",
+    "ru": "Завяжи мусорный пакет."
+   },
+   {
+    "en": "They #tied up# the boat for the night.",
+    "ru": "Они пришвартовали лодку на ночь."
+   },
+   {
+    "en": "I'm #tied up# in meetings all day.",
+    "ru": "Я весь день занят на совещаниях."
+   }
+  ]
  },
  {
   "id": "3019",
   "word": "mark",
   "transcription": "[mɑːk]",
   "translation": "метка, отмечать",
-  "nuance": null,
+  "nuance": "Метка, след, отметка; брит. — оценка.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/39451/39451_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The cat left #marks# on the sofa.",
+    "ru": "Кот оставил следы на диване."
+   },
+   {
+    "en": "#Mark# the date in your calendar.",
+    "ru": "Отметь дату в календаре."
+   },
+   {
+    "en": "She got top #marks# in maths.",
+    "ru": "Она получила высшие оценки по математике."
+   }
+  ]
  },
  {
   "id": "3020",
   "word": "birthmark",
   "transcription": "[ˈbɜːθmɑːk]",
   "translation": "родинка",
-  "nuance": null,
+  "nuance": "Родимое пятно. Mole — родинка (маленькая, тёмная).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/birthmark.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She has a #birthmark# on her arm.",
+    "ru": "У неё на руке родимое пятно."
+   },
+   {
+    "en": "The baby was born with a small #birthmark#.",
+    "ru": "Малыш родился с маленьким родимым пятном."
+   },
+   {
+    "en": "His #birthmark# looks like a heart.",
+    "ru": "Его родимое пятно похоже на сердце."
+   }
+  ]
  },
  {
   "id": "3021",
   "word": "keep up",
   "transcription": "[kiːpʌp]",
   "translation": "успевать за чем-л.",
-  "nuance": null,
+  "nuance": "Успевать, не отставать; продолжать (keep up the good work).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/keep_up.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Slow down — I can't #keep up#!",
+    "ru": "Помедленнее — я не успеваю!"
+   },
+   {
+    "en": "It's hard to #keep up# with the news.",
+    "ru": "Трудно следить за новостями."
+   },
+   {
+    "en": "#Keep up# the good work!",
+    "ru": "Так держать!"
+   }
+  ]
  },
  {
   "id": "3022",
   "word": "tiny",
   "transcription": "[ˈtaɪni]",
   "translation": "крошечный",
-  "nuance": null,
+  "nuance": "Крошечный (сильнее, чем small/little).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tiny.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A #tiny# kitten slept in the box.",
+    "ru": "В коробке спал крошечный котёнок."
+   },
+   {
+    "en": "Our flat is #tiny#.",
+    "ru": "Наша квартира крошечная."
+   },
+   {
+    "en": "Just a #tiny# piece of cake, please.",
+    "ru": "Только крошечный кусочек торта, пожалуйста."
+   }
+  ]
  },
  {
   "id": "3023",
@@ -68957,7 +69490,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/mean_3.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "What does this word #mean#?",
+    "ru": "Что значит это слово?"
+   },
+   {
+    "en": "A red light #means# stop.",
+    "ru": "Красный свет означает «стоп»."
+   },
+   {
+    "en": "Being late again #means# trouble.",
+    "ru": "Опоздать снова — значит проблемы."
+   }
+  ]
  },
  {
   "id": "3024",
@@ -68967,7 +69513,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/meaning.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "What's the #meaning# of life?",
+    "ru": "В чём смысл жизни?"
+   },
+   {
+    "en": "This word has two #meanings#.",
+    "ru": "У этого слова два значения."
+   },
+   {
+    "en": "Her smile was full of #meaning#.",
+    "ru": "Её улыбка была полна смысла."
+   }
+  ]
  },
  {
   "id": "3025",
@@ -68977,7 +69536,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/meaningful.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We had a #meaningful# conversation.",
+    "ru": "У нас был содержательный разговор."
+   },
+   {
+    "en": "She wants a #meaningful# job.",
+    "ru": "Она хочет работу со смыслом."
+   },
+   {
+    "en": "He gave me a #meaningful# look.",
+    "ru": "Он многозначительно на меня посмотрел."
+   }
+  ]
  },
  {
   "id": "3026",
@@ -68987,37 +69559,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/meaningless.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The meeting was #meaningless#.",
+    "ru": "Совещание было бессмысленным."
+   },
+   {
+    "en": "Money is #meaningless# without health.",
+    "ru": "Деньги ничего не значат без здоровья."
+   },
+   {
+    "en": "He said some #meaningless# words.",
+    "ru": "Он сказал какие-то пустые слова."
+   }
+  ]
  },
  {
   "id": "3027",
   "word": "reason",
   "transcription": "[ˈriːzn]",
   "translation": "причина, мотив",
-  "nuance": null,
+  "nuance": "Причина (объяснение). Cause — причина (того, что вызвало событие).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/reason_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "What's the #reason# you're late?",
+    "ru": "Почему ты опоздал?"
+   },
+   {
+    "en": "For some #reason#, the cat hates Mondays.",
+    "ru": "Почему-то кот ненавидит понедельники."
+   },
+   {
+    "en": "There's no #reason# to worry.",
+    "ru": "Нет причин волноваться."
+   }
+  ]
  },
  {
   "id": "3028",
   "word": "carpet",
   "transcription": "[ˈkɑːpɪt]",
   "translation": "ковер",
-  "nuance": null,
+  "nuance": "Ковёр (обычно на весь пол). Rug — коврик.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2249/2249_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The dog was sick on the new #carpet#.",
+    "ru": "Собаку стошнило на новый ковёр."
+   },
+   {
+    "en": "Vacuum the #carpet#, please.",
+    "ru": "Пропылесось ковёр, пожалуйста."
+   },
+   {
+    "en": "They rolled out the red #carpet#.",
+    "ru": "Они расстелили красную ковровую дорожку."
+   }
+  ]
  },
  {
   "id": "3029",
   "word": "embarrass",
   "transcription": "[ɪmˈbærəs]",
   "translation": "смущать, стеснять",
-  "nuance": null,
+  "nuance": "Смущать, ставить в неловкое положение. Ложный друг: embarrassed ≠ «беременная» (pregnant)!",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/embarrass.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #embarrass# me in front of my friends, Mum!",
+    "ru": "Мам, не позорь меня перед друзьями!"
+   },
+   {
+    "en": "His question #embarrassed# her.",
+    "ru": "Его вопрос её смутил."
+   },
+   {
+    "en": "I was so #embarrassed# when I fell.",
+    "ru": "Мне было так неловко, когда я упал."
+   }
+  ]
  },
  {
   "id": "3030",
@@ -69027,17 +69651,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/embarrassment.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My face turned red with #embarrassment#.",
+    "ru": "Моё лицо покраснело от смущения."
+   },
+   {
+    "en": "My dad's dancing is a family #embarrassment#.",
+    "ru": "Папины танцы — позор семьи."
+   },
+   {
+    "en": "To my #embarrassment#, I forgot her name.",
+    "ru": "К моему стыду, я забыл её имя."
+   }
+  ]
  },
  {
   "id": "3031",
   "word": "recognize",
   "transcription": "[ˈrɛkəgnaɪz]",
   "translation": "узнавать",
-  "nuance": null,
+  "nuance": "Узнать (виденное раньше); признавать. Брит. recognise. Find out — узнать (новую информацию)!",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/recognize.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I didn't #recognize# you with short hair!",
+    "ru": "Я не узнал тебя с короткой стрижкой!"
+   },
+   {
+    "en": "Do you #recognize# this song?",
+    "ru": "Узнаёшь эту песню?"
+   },
+   {
+    "en": "The dog #recognized# me after a year.",
+    "ru": "Собака узнала меня через год."
+   }
+  ]
  },
  {
   "id": "3032",
