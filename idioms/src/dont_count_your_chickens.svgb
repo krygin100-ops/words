@@ -1,0 +1,8 @@
+<path d="M10 180 H190"/>
+<g fill="{L}"><ellipse cx="45" cy="160" rx="16" ry="20"/><ellipse cx="85" cy="160" rx="16" ry="20"/><ellipse cx="125" cy="160" rx="16" ry="20"/></g>
+<path d="M75 155 L82 148 L88 158 L95 150" stroke="#000" stroke-width="2"/>
+<circle cx="160" cy="80" r="14" fill="{F}"/>
+<path d="M153 78 Q160 85 167 78" stroke-width="3"/>
+<path d="M160 94 V140 L150 175 M160 140 L170 175 M160 105 L140 120"/>
+<text x="80" y="55" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">1, 2, 3 chicks!</text>
+<text x="80" y="100" font-size="30" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">?</text>

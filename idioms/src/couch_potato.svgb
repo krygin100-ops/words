@@ -1,0 +1,12 @@
+<path d="M15 130 H185 V165 H15 Z" fill="{F}"/>
+<path d="M15 130 V95 Q15 85 25 85 H175 Q185 85 185 95 V130" fill="{F}"/>
+<rect x="5" y="115" width="20" height="50" rx="6" fill="{F}"/>
+<rect x="175" y="115" width="20" height="50" rx="6" fill="{F}"/>
+<path d="M25 165 V180 M175 165 V180"/>
+<ellipse cx="90" cy="110" rx="40" ry="28" fill="{L}"/>
+<g fill="#000"><circle cx="80" cy="102" r="3"/><circle cx="100" cy="102" r="3"/></g>
+<path d="M82 115 Q90 120 98 115" stroke="#000" stroke-width="2"/>
+<rect x="130" y="100" width="22" height="10" rx="3" fill="{L}"/>
+<path d="M60 25 H150 V70 H60 Z" fill="{F}"/>
+<path d="M90 70 L80 80 M120 70 L130 80" stroke-width="3"/>
+<path d="M95 40 L115 48 L95 56 Z" fill="{L}"/>

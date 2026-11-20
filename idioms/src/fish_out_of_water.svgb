@@ -1,0 +1,11 @@
+<path d="M10 150 Q50 140 80 150 V190 H10 Z" fill="{F}"/>
+<path d="M80 165 H190" stroke-width="3"/>
+<path d="M100 130 Q130 100 165 130 Q130 155 100 130 Z" fill="{F}"/>
+<path d="M165 130 L185 115 L182 145 Z" fill="{F}"/>
+<circle cx="115" cy="125" r="6" fill="{L}"/>
+<circle cx="116" cy="125" r="2" fill="#000"/>
+<ellipse cx="105" cy="135" rx="4" ry="3" fill="#000"/>
+<path d="M120 95 Q127 105 120 112 Q113 105 120 95 Z" fill="{L}" stroke="none"/>
+<circle cx="160" cy="60" r="18" fill="{L}"/>
+<path d="M140 90 L130 100 M175 85 L185 95" stroke-width="3"/>
+<text x="60" y="60" font-size="15" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">awkward…</text>

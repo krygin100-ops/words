@@ -1,0 +1,14 @@
+<circle cx="60" cy="90" r="24" fill="{F}"/>
+<circle cx="52" cy="85" r="5" fill="{L}"/>
+<circle cx="68" cy="85" r="5" fill="{L}"/>
+<ellipse cx="60" cy="102" rx="6" ry="5" fill="#000"/>
+<path d="M30 190 Q30 130 60 125 Q90 130 90 190" fill="{F}"/>
+<ellipse cx="145" cy="155" rx="30" ry="18" fill="{F}"/>
+<circle cx="140" cy="115" r="20" fill="{F}"/>
+<path d="M125 103 L122 85 L135 98 M155 103 L158 85 L145 98" fill="{F}"/>
+<circle cx="133" cy="113" r="3" fill="{L}" stroke="none"/>
+<circle cx="147" cy="113" r="3" fill="{L}" stroke="none"/>
+<path d="M135 125 Q125 140 115 132 Q118 125 135 125 Z" fill="{L}"/>
+<path d="M175 155 Q190 140 185 125" stroke-width="5"/>
+<text x="60" y="40" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">…</text>
+<text x="150" y="60" font-size="15" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">say something!</text>

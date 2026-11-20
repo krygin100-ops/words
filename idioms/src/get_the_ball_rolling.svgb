@@ -1,0 +1,7 @@
+<path d="M10 180 L190 120" stroke-width="5"/>
+<circle cx="125" cy="115" r="25" fill="{F}"/>
+<path d="M110 100 Q125 115 140 105 M108 125 Q125 120 140 130" stroke="{L}" stroke-width="3"/>
+<circle cx="60" cy="110" r="14" fill="{F}"/>
+<path d="M65 122 L80 145 L70 170 M80 145 L95 165 M70 132 L100 115 M70 132 L95 125" stroke-width="5"/>
+<path d="M155 95 L170 90 M158 115 L178 112" stroke-width="3"/>
+<text x="100" y="45" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">let's start!</text>

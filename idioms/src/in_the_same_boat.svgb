@@ -1,0 +1,6 @@
+<path d="M10 150 Q60 140 100 150 Q150 160 190 150 V190 H10 Z" fill="{F}"/>
+<path d="M30 130 H170 L150 160 H50 Z" fill="{F}"/>
+<g fill="{F}"><circle cx="60" cy="100" r="12"/><circle cx="100" cy="95" r="12"/><circle cx="140" cy="100" r="12"/></g>
+<path d="M60 112 V130 M100 107 V130 M140 112 V130 M60 118 L100 125 L140 118" stroke-width="4"/>
+<g stroke-width="3"><path d="M55 100 Q60 104 65 100 M95 95 Q100 99 105 95 M135 100 Q140 104 145 100"/></g>
+<text x="100" y="45" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">all together</text>

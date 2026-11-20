@@ -1,0 +1,7 @@
+<path d="M40 120 H160 L145 180 H55 Z" fill="{F}"/>
+<path d="M50 140 H150 M55 160 H145" stroke="#000" stroke-width="3"/>
+<path d="M50 120 Q100 40 150 120" stroke-width="6"/>
+<g fill="{L}"><ellipse cx="70" cy="112" rx="12" ry="15"/><ellipse cx="95" cy="105" rx="12" ry="15"/><ellipse cx="120" cy="108" rx="12" ry="15"/><ellipse cx="85" cy="85" rx="12" ry="15"/><ellipse cx="110" cy="85" rx="12" ry="15"/><ellipse cx="98" cy="62" rx="11" ry="14"/></g>
+<path d="M160 50 L190 80 M190 50 L160 80" stroke-width="5"/>
+<path d="M20 60 L30 50 M15 80 H30" stroke-width="0"/>
+<text x="40" y="45" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">risky!</text>

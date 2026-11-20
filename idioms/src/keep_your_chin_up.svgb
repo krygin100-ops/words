@@ -1,0 +1,7 @@
+<circle cx="100" cy="85" r="35" fill="{F}" transform="rotate(-15 100 85)"/>
+<path d="M82 78 Q88 72 94 78 M106 74 Q112 68 118 74" stroke-width="3"/>
+<path d="M85 100 Q100 112 118 96" stroke-width="4"/>
+<path d="M115 115 L120 125" stroke-width="0"/>
+<path d="M70 190 Q70 135 100 130 Q130 135 130 190" fill="{F}"/>
+<path d="M150 110 V60 M138 72 L150 58 L162 72" stroke-width="5"/>
+<text x="100" y="30" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">stay positive!</text>

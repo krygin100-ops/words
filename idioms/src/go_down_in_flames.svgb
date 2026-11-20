@@ -1,0 +1,7 @@
+<path d="M30 30 L120 120" stroke-width="3" stroke-dasharray="6 5"/>
+<path d="M110 105 L160 150 L140 160 L95 120 Z" fill="{F}"/>
+<path d="M95 120 L80 100 L100 95 L110 105" fill="{L}"/>
+<path d="M100 95 Q85 70 105 55 Q100 75 115 70 Q105 85 120 90" fill="{L}"/>
+<path d="M150 160 L130 140 M160 150 L175 130" stroke-width="0"/>
+<path d="M10 185 H190"/>
+<text x="150" y="70" font-size="15" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">total fail!</text>

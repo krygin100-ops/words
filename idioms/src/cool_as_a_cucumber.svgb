@@ -1,0 +1,8 @@
+<path d="M60 180 Q40 100 75 40 Q95 25 115 40 Q155 100 135 180 Q100 200 60 180 Z" fill="{F}"/>
+<g fill="{L}" stroke="none"><circle cx="80" cy="140" r="3"/><circle cx="115" cy="150" r="3"/><circle cx="95" cy="170" r="3"/></g>
+<rect x="68" y="80" width="25" height="15" rx="4" fill="#000"/>
+<rect x="102" y="80" width="25" height="15" rx="4" fill="#000"/>
+<path d="M93 86 H102" stroke="#000" stroke-width="3"/>
+<path d="M82 112 Q100 120 118 110" stroke-width="3"/>
+<g fill="{L}" stroke="none"><path d="M160 60 L163 50 L166 60 L176 63 L166 66 L163 76 L160 66 L150 63 Z"/></g>
+<text x="40" y="45" font-size="15" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">chill</text>

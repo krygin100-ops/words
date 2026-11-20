@@ -1,0 +1,10 @@
+<path d="M30 110 H170 L160 180 H40 Z" fill="{F}"/>
+<path d="M25 110 H175" stroke-width="7"/>
+<circle cx="100" cy="95" r="20" fill="{F}"/>
+<circle cx="93" cy="92" r="4" fill="{L}"/>
+<circle cx="107" cy="92" r="4" fill="{L}"/>
+<ellipse cx="100" cy="103" rx="5" ry="4" fill="#000"/>
+<path d="M75 100 L60 80 M125 100 L140 80" stroke-width="5"/>
+<path d="M50 70 Q45 55 55 45 M150 70 Q145 55 155 45 M100 60 Q95 45 105 35" stroke-width="3"/>
+<g fill="{L}" stroke="none"><path d="M60 185 Q65 170 70 185 Z M95 185 Q100 168 105 185 Z M130 185 Q135 170 140 185 Z"/></g>
+<text x="100" y="22" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">trouble!</text>
