@@ -21298,452 +21298,1014 @@
  {
   "id": "physique",
   "word": "physique",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[fɪˈziːk]",
+  "translation": "телосложение",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "He has the #physique# of a Greek god and the diet of a teenager.",
+    "ru": "У него телосложение греческого бога и питание подростка."
+   },
+   {
+    "en": "Swimmers have a strong #physique#.",
+    "ru": "У пловцов крепкое телосложение."
+   },
+   {
+    "en": "She has a slim #physique#.",
+    "ru": "У неё стройная фигура."
+   }
+  ]
  },
  {
   "id": "unprotected",
   "word": "unprotected",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌʌnprəˈtektɪd]",
+  "translation": "незащищённый",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "I left my cake #unprotected#, and the dog found it.",
+    "ru": "Я оставил торт без присмотра, и собака его нашла."
+   },
+   {
+    "en": "Don't use #unprotected# Wi-Fi for banking.",
+    "ru": "Не пользуйся незащищённым вайфаем для банка."
+   },
+   {
+    "en": "Your skin is #unprotected# from the sun.",
+    "ru": "Твоя кожа не защищена от солнца."
+   }
+  ]
  },
  {
   "id": "specialize",
   "word": "specialize",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈspeʃəlaɪz]",
+  "translation": "специализироваться",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "This café #specializes# in coffee and slow service.",
+    "ru": "Это кафе специализируется на кофе и медленном обслуживании."
+   },
+   {
+    "en": "She #specializes# in children's dentistry.",
+    "ru": "Она специализируется на детской стоматологии."
+   },
+   {
+    "en": "I #specialize# in losing keys.",
+    "ru": "Я специалист по потере ключей."
+   }
+  ]
  },
  {
   "id": "amplitude",
   "word": "amplitude",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈæmplɪtjuːd]",
+  "translation": "амплитуда, размах",
   "level": "B2",
   "image": null,
-  "examples": null
- },
- {
-  "id": "assay",
-  "word": "assay",
-  "transcription": null,
-  "translation": null,
-  "level": "B2",
-  "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The #amplitude# of my mood swings on Monday is huge.",
+    "ru": "Амплитуда моих перепадов настроения в понедельник огромна."
+   },
+   {
+    "en": "The sound wave has a large #amplitude#.",
+    "ru": "У звуковой волны большая амплитуда."
+   },
+   {
+    "en": "The #amplitude# of the earthquake was measured.",
+    "ru": "Измерили амплитуду землетрясения."
+   }
+  ]
  },
  {
   "id": "boomer",
   "word": "boomer",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈbuːmə]",
+  "translation": "бумер (поколение 1946–64)",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "My son calls me a #boomer# when I don't understand his memes. I'm 35.",
+    "ru": "Сын называет меня бумером, когда я не понимаю его мемы. Мне 35."
+   },
+   {
+    "en": "Many #boomers# are retiring now.",
+    "ru": "Многие бумеры сейчас выходят на пенсию."
+   },
+   {
+    "en": "\"OK, #boomer#,\" said my niece.",
+    "ru": "«Окей, бумер», — сказала моя племянница."
+   }
+  ]
  },
  {
   "id": "conveyor",
   "word": "conveyor",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[kənˈveɪə]",
+  "translation": "конвейер, транспортёр",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "I watched the sushi #conveyor# for an hour and ate 20 plates.",
+    "ru": "Я час смотрел на суши-конвейер и съел 20 тарелок."
+   },
+   {
+    "en": "Bags move along the #conveyor# belt.",
+    "ru": "Сумки едут по ленте транспортёра."
+   },
+   {
+    "en": "The factory #conveyor# never stops.",
+    "ru": "Заводской конвейер никогда не останавливается."
+   }
+  ]
  },
  {
   "id": "disapproval",
   "word": "disapproval",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌdɪsəˈpruːvl]",
+  "translation": "неодобрение",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "My cat looked at my new haircut with clear #disapproval#.",
+    "ru": "Кот посмотрел на мою новую стрижку с явным неодобрением."
+   },
+   {
+    "en": "She shook her head in #disapproval#.",
+    "ru": "Она неодобрительно покачала головой."
+   },
+   {
+    "en": "There was public #disapproval# of the plan.",
+    "ru": "Общество не одобрило план."
+   }
+  ]
  },
  {
   "id": "electronically",
   "word": "electronically",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ɪˌlekˈtrɒnɪkli]",
+  "translation": "электронно",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Please send the documents #electronically#. Grandma sent them by post.",
+    "ru": "Пожалуйста, отправьте документы в электронном виде. Бабушка отправила почтой."
+   },
+   {
+    "en": "You can pay #electronically#.",
+    "ru": "Можно оплатить электронно."
+   },
+   {
+    "en": "The votes are counted #electronically#.",
+    "ru": "Голоса подсчитываются электронно."
+   }
+  ]
  },
  {
   "id": "eyesight",
   "word": "eyesight",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈaɪsaɪt]",
+  "translation": "зрение",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "My #eyesight# is great — I can see a cookie from across the room.",
+    "ru": "У меня отличное зрение — вижу печенье через всю комнату."
+   },
+   {
+    "en": "Screens can damage your #eyesight#.",
+    "ru": "Экраны могут испортить зрение."
+   },
+   {
+    "en": "Grandpa's #eyesight# is getting worse.",
+    "ru": "Зрение у деда ухудшается."
+   }
+  ]
  },
  {
   "id": "generational",
   "word": "generational",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌdʒenəˈreɪʃənl]",
+  "translation": "поколенческий",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Our fight about the TV volume is a #generational# conflict.",
+    "ru": "Наш спор о громкости телевизора — конфликт поколений."
+   },
+   {
+    "en": "#Generational# wealth helps families.",
+    "ru": "Богатство, передающееся из поколения в поколение, помогает семьям."
+   },
+   {
+    "en": "There's a #generational# gap in music taste.",
+    "ru": "Во вкусах в музыке видна разница поколений."
+   }
+  ]
  },
  {
   "id": "impractical",
   "word": "impractical",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ɪmˈpræktɪkl]",
+  "translation": "непрактичный",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "White sofas are #impractical# in a house with kids.",
+    "ru": "Белый диван непрактичен в доме с детьми."
+   },
+   {
+    "en": "High heels are #impractical# for hiking.",
+    "ru": "Высокие каблуки непрактичны для похода."
+   },
+   {
+    "en": "It's a beautiful but #impractical# idea.",
+    "ru": "Это красивая, но непрактичная идея."
+   }
+  ]
  },
  {
   "id": "predicament",
   "word": "predicament",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[prɪˈdɪkəmənt]",
+  "translation": "затруднительное положение",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Locked out in my pajamas — what a #predicament#!",
+    "ru": "Захлопнул дверь, стою в пижаме — вот так положение!"
+   },
+   {
+    "en": "I understand your #predicament#.",
+    "ru": "Я понимаю твоё затруднительное положение."
+   },
+   {
+    "en": "They're in a financial #predicament#.",
+    "ru": "У них финансовые трудности."
+   }
+  ]
  },
  {
   "id": "rosy",
   "word": "rosy",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈrəʊzi]",
+  "translation": "розовый; радужный",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The kids came in from the snow with #rosy# cheeks.",
+    "ru": "Дети пришли со снега с румяными щеками."
+   },
+   {
+    "en": "The future doesn't look #rosy#.",
+    "ru": "Будущее выглядит не радужно."
+   },
+   {
+    "en": "He paints a #rosy# picture of everything.",
+    "ru": "Он всё рисует в розовом цвете."
+   }
+  ]
  },
  {
   "id": "scandalous",
   "word": "scandalous",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈskændələs]",
+  "translation": "скандальный, возмутительный",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Ten dollars for a tiny coffee is #scandalous#!",
+    "ru": "Десять долларов за крошечный кофе — возмутительно!"
+   },
+   {
+    "en": "The newspaper printed #scandalous# photos.",
+    "ru": "Газета напечатала скандальные фото."
+   },
+   {
+    "en": "Grandma found the singer's dress #scandalous#.",
+    "ru": "Бабушка сочла платье певицы неприличным."
+   }
+  ]
  },
  {
   "id": "sinus",
   "word": "sinus",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈsaɪnəs]",
+  "translation": "пазуха (носа), синус",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Every spring my #sinuses# turn into a waterfall.",
+    "ru": "Каждую весну мои пазухи превращаются в водопад."
+   },
+   {
+    "en": "He has a #sinus# infection.",
+    "ru": "У него гайморит."
+   },
+   {
+    "en": "Spicy food clears my #sinuses#.",
+    "ru": "Острая еда прочищает мне нос."
+   }
+  ]
  },
  {
   "id": "unintended",
   "word": "unintended",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌʌnɪnˈtendɪd]",
+  "translation": "непреднамеренный",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The #unintended# result of my diet: I'm always angry.",
+    "ru": "Непредвиденный результат моей диеты: я всегда злой."
+   },
+   {
+    "en": "The law had #unintended# consequences.",
+    "ru": "У закона были непредвиденные последствия."
+   },
+   {
+    "en": "It was an #unintended# insult.",
+    "ru": "Это было ненамеренное оскорбление."
+   }
+  ]
  },
  {
   "id": "uplift",
   "word": "uplift",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ʌpˈlɪft]",
+  "translation": "подъём; поднимать дух",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "A good song can #uplift# a bad day.",
+    "ru": "Хорошая песня может поднять настроение в плохой день."
+   },
+   {
+    "en": "The news gave an #uplift# to the team.",
+    "ru": "Новость подняла дух команды."
+   },
+   {
+    "en": "The town got an economic #uplift#.",
+    "ru": "В городе случился экономический подъём."
+   }
+  ]
  },
  {
   "id": "comma",
   "word": "comma",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈkɒmə]",
+  "translation": "запятая",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "\"Let's eat, Grandma!\" — a #comma# saves lives.",
+    "ru": "«Давай есть, бабушка!» — запятая спасает жизни."
+   },
+   {
+    "en": "Put a #comma# after \"however\".",
+    "ru": "Поставь запятую после «however»."
+   },
+   {
+    "en": "My son doesn't believe in #commas#.",
+    "ru": "Сын не верит в запятые."
+   }
+  ]
  },
  {
   "id": "departmental",
   "word": "departmental",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌdiːpɑːtˈmentl]",
+  "translation": "ведомственный, отдельский",
   "level": "B1",
   "image": null,
-  "examples": null
- },
- {
-  "id": "distal",
-  "word": "distal",
-  "transcription": null,
-  "translation": null,
-  "level": "B2",
-  "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The #departmental# meeting could have been an email.",
+    "ru": "Совещание отдела могло быть письмом."
+   },
+   {
+    "en": "Each team has a #departmental# budget.",
+    "ru": "У каждой команды бюджет отдела."
+   },
+   {
+    "en": "We have a #departmental# party on Friday.",
+    "ru": "В пятницу у нас вечеринка отдела."
+   }
+  ]
  },
  {
   "id": "divisional",
   "word": "divisional",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[dɪˈvɪʒənl]",
+  "translation": "дивизионный, отдела",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Our team won the #divisional# title.",
+    "ru": "Наша команда выиграла титул дивизиона."
+   },
+   {
+    "en": "The #divisional# manager visits on Monday.",
+    "ru": "Руководитель подразделения приедет в понедельник."
+   },
+   {
+    "en": "It's a #divisional# decision.",
+    "ru": "Это решение подразделения."
+   }
+  ]
  },
  {
   "id": "faithfully",
   "word": "faithfully",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈfeɪθfəli]",
+  "translation": "верно, преданно",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The dog waited #faithfully# by the door all day.",
+    "ru": "Пёс весь день преданно ждал у двери."
+   },
+   {
+    "en": "Yours #faithfully#, John Smith.",
+    "ru": "С уважением, Джон Смит."
+   },
+   {
+    "en": "She #faithfully# visits her grandma every Sunday.",
+    "ru": "Она неизменно навещает бабушку каждое воскресенье."
+   }
+  ]
  },
  {
   "id": "impulsive",
   "word": "impulsive",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ɪmˈpʌlsɪv]",
+  "translation": "импульсивный",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "My most #impulsive# purchase: a trampoline for a tiny flat.",
+    "ru": "Моя самая импульсивная покупка — батут для крошечной квартиры."
+   },
+   {
+    "en": "He's very #impulsive# with money.",
+    "ru": "Он очень импульсивно тратит деньги."
+   },
+   {
+    "en": "Don't make #impulsive# decisions.",
+    "ru": "Не принимай импульсивных решений."
+   }
+  ]
  },
  {
   "id": "incense",
   "word": "incense",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈɪnsens]",
+  "translation": "благовония",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The yoga studio burns so much #incense# I can't breathe.",
+    "ru": "В студии йоги жгут столько благовоний, что дышать нечем."
+   },
+   {
+    "en": "The temple smelled of #incense#.",
+    "ru": "Храм пах благовониями."
+   },
+   {
+    "en": "She lit an #incense# stick.",
+    "ru": "Она зажгла ароматическую палочку."
+   }
+  ]
  },
  {
   "id": "misinformation",
   "word": "misinformation",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌmɪsɪnfəˈmeɪʃn]",
+  "translation": "дезинформация",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandma's group chat is full of #misinformation# and cat photos.",
+    "ru": "Чат бабушки полон дезинформации и фото котиков."
+   },
+   {
+    "en": "#Misinformation# spreads fast online.",
+    "ru": "Ложная информация быстро распространяется в сети."
+   },
+   {
+    "en": "The ad contained #misinformation#.",
+    "ru": "В рекламе была недостоверная информация."
+   }
+  ]
  },
  {
   "id": "nervously",
   "word": "nervously",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈnɜːvəsli]",
+  "translation": "нервно",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "He laughed #nervously# when the boss asked about the report.",
+    "ru": "Он нервно засмеялся, когда начальник спросил про отчёт."
+   },
+   {
+    "en": "She waited #nervously# for the results.",
+    "ru": "Она нервно ждала результатов."
+   },
+   {
+    "en": "The dog looked #nervously# at the vet.",
+    "ru": "Пёс нервно поглядывал на ветеринара."
+   }
+  ]
  },
  {
   "id": "polio",
   "word": "polio",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈpəʊliəʊ]",
+  "translation": "полиомиелит",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Kids get a vaccine against #polio#.",
+    "ru": "Детям делают прививку от полиомиелита."
+   },
+   {
+    "en": "#Polio# is almost gone from the world.",
+    "ru": "Полиомиелит почти исчез в мире."
+   },
+   {
+    "en": "My great-uncle had #polio# as a child.",
+    "ru": "Мой двоюродный дед в детстве болел полиомиелитом."
+   }
+  ]
  },
  {
   "id": "potency",
   "word": "potency",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈpəʊtənsi]",
+  "translation": "сила, действенность",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The #potency# of Grandma's coffee can wake the dead.",
+    "ru": "Сила бабушкиного кофе может поднять мёртвого."
+   },
+   {
+    "en": "The medicine loses #potency# over time.",
+    "ru": "Со временем лекарство теряет силу."
+   },
+   {
+    "en": "The #potency# of the argument convinced everyone.",
+    "ru": "Убедительность аргумента всех убедила."
+   }
+  ]
  },
  {
   "id": "reassurance",
   "word": "reassurance",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌriːəˈʃʊərəns]",
+  "translation": "заверение, успокоение",
   "level": "B2",
   "image": null,
-  "examples": null
- },
- {
-  "id": "sectarian",
-  "word": "sectarian",
-  "transcription": null,
-  "translation": null,
-  "level": "B2",
-  "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Kids need #reassurance# that monsters don't live under the bed.",
+    "ru": "Детям нужно, чтобы их убедили, что под кроватью нет монстров."
+   },
+   {
+    "en": "She looked at me for #reassurance#.",
+    "ru": "Она посмотрела на меня, ища поддержки."
+   },
+   {
+    "en": "The doctor's words gave us #reassurance#.",
+    "ru": "Слова врача нас успокоили."
+   }
+  ]
  },
  {
   "id": "transverse",
   "word": "transverse",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈtrænzvɜːs]",
+  "translation": "поперечный",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Make a #transverse# cut across the bread.",
+    "ru": "Сделай поперечный надрез на хлебе."
+   },
+   {
+    "en": "The #transverse# beams hold the roof.",
+    "ru": "Поперечные балки держат крышу."
+   },
+   {
+    "en": "It was a #transverse# fracture.",
+    "ru": "Это был поперечный перелом."
+   }
+  ]
  },
  {
   "id": "unrestricted",
   "word": "unrestricted",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌʌnrɪˈstrɪktɪd]",
+  "translation": "неограниченный",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Kids with #unrestricted# access to candy are a disaster.",
+    "ru": "Дети с неограниченным доступом к конфетам — катастрофа."
+   },
+   {
+    "en": "The hotel offers #unrestricted# Wi-Fi.",
+    "ru": "В отеле безлимитный вайфай."
+   },
+   {
+    "en": "Parking here is #unrestricted# on Sundays.",
+    "ru": "По воскресеньям парковка здесь без ограничений."
+   }
+  ]
  },
  {
   "id": "visualize",
   "word": "visualize",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈvɪʒuəlaɪz]",
+  "translation": "представлять, визуализировать",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "#Visualize# yourself on a beach. Now open your eyes — it's Monday.",
+    "ru": "Представь себя на пляже. Теперь открой глаза — понедельник."
+   },
+   {
+    "en": "I can't #visualize# the room without furniture.",
+    "ru": "Не могу представить комнату без мебели."
+   },
+   {
+    "en": "The app #visualizes# your spending.",
+    "ru": "Приложение наглядно показывает твои траты."
+   }
+  ]
  },
  {
   "id": "bane",
   "word": "bane",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[beɪn]",
+  "translation": "бич, проклятие",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Mosquitoes are the #bane# of my summer.",
+    "ru": "Комары — проклятие моего лета."
+   },
+   {
+    "en": "Traffic is the #bane# of city life.",
+    "ru": "Пробки — бич городской жизни."
+   },
+   {
+    "en": "Paperwork is the #bane# of my existence.",
+    "ru": "Бумажная волокита — моё вечное проклятие."
+   }
+  ]
  },
  {
   "id": "culmination",
   "word": "culmination",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌkʌlmɪˈneɪʃn]",
+  "translation": "кульминация, вершина",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The #culmination# of my cooking career: pancakes that weren't burnt.",
+    "ru": "Вершина моей кулинарной карьеры — неподгоревшие блины."
+   },
+   {
+    "en": "The wedding was the #culmination# of a long romance.",
+    "ru": "Свадьба стала кульминацией долгого романа."
+   },
+   {
+    "en": "This award is the #culmination# of years of work.",
+    "ru": "Эта награда — итог многолетней работы."
+   }
+  ]
  },
  {
   "id": "decomposition",
   "word": "decomposition",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌdiːkɒmpəˈzɪʃn]",
+  "translation": "разложение",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The banana in my bag is in an advanced state of #decomposition#.",
+    "ru": "Банан в моей сумке на поздней стадии разложения."
+   },
+   {
+    "en": "Bacteria help the #decomposition# of leaves.",
+    "ru": "Бактерии помогают разложению листьев."
+   },
+   {
+    "en": "#Decomposition# makes good soil.",
+    "ru": "Перегной даёт хорошую почву."
+   }
+  ]
  },
  {
   "id": "disparate",
   "word": "disparate",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈdɪspərət]",
+  "translation": "разрозненный, несопоставимый",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Our family is a group of #disparate# people united by food.",
+    "ru": "Наша семья — группа совершенно разных людей, объединённых едой."
+   },
+   {
+    "en": "They combined #disparate# ideas into one plan.",
+    "ru": "Они объединили разрозненные идеи в один план."
+   },
+   {
+    "en": "The two reports are #disparate#.",
+    "ru": "Эти два отчёта несопоставимы."
+   }
+  ]
  },
  {
   "id": "electrician",
   "word": "electrician",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ɪˌlekˈtrɪʃn]",
+  "translation": "электрик",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The #electrician# fixed one light and broke two others.",
+    "ru": "Электрик починил одну лампу и сломал две другие."
+   },
+   {
+    "en": "Call an #electrician# — don't touch it yourself!",
+    "ru": "Вызови электрика — сам не трогай!"
+   },
+   {
+    "en": "My dad is an #electrician#.",
+    "ru": "Мой папа — электрик."
+   }
+  ]
  },
  {
   "id": "fledged",
   "word": "fledged",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[fledʒd]",
+  "translation": "оперившийся (full-fledged — полноценный)",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Our side project became a full-#fledged# business.",
+    "ru": "Наш побочный проект стал полноценным бизнесом."
+   },
+   {
+    "en": "He's now a fully #fledged# doctor.",
+    "ru": "Теперь он полноценный врач."
+   },
+   {
+    "en": "The baby birds are #fledged# and ready to fly.",
+    "ru": "Птенцы оперились и готовы летать."
+   }
+  ]
  },
  {
   "id": "forcefully",
   "word": "forcefully",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈfɔːsfəli]",
+  "translation": "энергично, решительно",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "She argued #forcefully# for a four-day week.",
+    "ru": "Она решительно выступала за четырёхдневную рабочую неделю."
+   },
+   {
+    "en": "He closed the door #forcefully#.",
+    "ru": "Он с силой закрыл дверь."
+   },
+   {
+    "en": "The police #forcefully# removed the protesters.",
+    "ru": "Полиция силой разогнала протестующих."
+   }
+  ]
  },
  {
   "id": "godly",
   "word": "godly",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈɡɒdli]",
+  "translation": "благочестивый",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandma is a #godly# woman who never misses church.",
+    "ru": "Бабушка — благочестивая женщина, никогда не пропускает церковь."
+   },
+   {
+    "en": "He lived a simple, #godly# life.",
+    "ru": "Он жил простой праведной жизнью."
+   },
+   {
+    "en": "They're a #godly# family.",
+    "ru": "Это набожная семья."
+   }
+  ]
  },
  {
   "id": "liquidation",
   "word": "liquidation",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌlɪkwɪˈdeɪʃn]",
+  "translation": "ликвидация, распродажа",
   "level": "B1",
   "image": null,
-  "examples": null
- },
- {
-  "id": "microscopy",
-  "word": "microscopy",
-  "transcription": null,
-  "translation": null,
-  "level": "B2",
-  "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The shop is in #liquidation# — everything is 70% off.",
+    "ru": "Магазин закрывается — всё со скидкой 70%."
+   },
+   {
+    "en": "The company went into #liquidation#.",
+    "ru": "Компания пошла под ликвидацию."
+   },
+   {
+    "en": "#Liquidation# of the assets took a year.",
+    "ru": "Ликвидация активов заняла год."
+   }
+  ]
  },
  {
   "id": "orchestral",
   "word": "orchestral",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ɔːˈkestrəl]",
+  "translation": "оркестровый",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The film has a beautiful #orchestral# soundtrack.",
+    "ru": "У фильма красивый оркестровый саундтрек."
+   },
+   {
+    "en": "She loves #orchestral# music.",
+    "ru": "Она обожает оркестровую музыку."
+   },
+   {
+    "en": "My son's recorder solo was not very #orchestral#.",
+    "ru": "Соло сына на блокфлейте было не очень оркестровым."
+   }
+  ]
  },
  {
   "id": "polarization",
   "word": "polarization",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌpəʊləraɪˈzeɪʃn]",
+  "translation": "поляризация, раскол",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Political #polarization# makes family dinners difficult.",
+    "ru": "Политическая поляризация осложняет семейные ужины."
+   },
+   {
+    "en": "#Polarization# in society is growing.",
+    "ru": "Раскол в обществе растёт."
+   },
+   {
+    "en": "These sunglasses have #polarization# lenses.",
+    "ru": "У этих очков поляризационные линзы."
+   }
+  ]
  },
  {
   "id": "recruiter",
   "word": "recruiter",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[rɪˈkruːtə]",
+  "translation": "рекрутер",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "A #recruiter# called me about a job I didn't apply for.",
+    "ru": "Мне позвонил рекрутер по поводу работы, на которую я не откликался."
+   },
+   {
+    "en": "The #recruiter# asked about my salary.",
+    "ru": "Рекрутер спросил о моей зарплате."
+   },
+   {
+    "en": "Army #recruiters# visited the school.",
+    "ru": "В школу приходили армейские вербовщики."
+   }
+  ]
  },
  {
   "id": "tragically",
   "word": "tragically",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈtrædʒɪkli]",
+  "translation": "трагически",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "My ice cream #tragically# fell on the sand.",
+    "ru": "Моё мороженое трагически упало на песок."
+   },
+   {
+    "en": "He died #tragically# young.",
+    "ru": "Он трагически погиб молодым."
+   },
+   {
+    "en": "The plan failed #tragically#.",
+    "ru": "План с треском провалился."
+   }
+  ]
  },
  {
   "id": "unprofessional",
   "word": "unprofessional",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌʌnprəˈfeʃənl]",
+  "translation": "непрофессиональный",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Wearing pajamas on a video call is #unprofessional#. Below the camera is fine.",
+    "ru": "Сидеть на видеозвонке в пижаме непрофессионально. Ниже камеры — можно."
+   },
+   {
+    "en": "His behavior was #unprofessional#.",
+    "ru": "Его поведение было непрофессиональным."
+   },
+   {
+    "en": "Don't send #unprofessional# emails to clients.",
+    "ru": "Не отправляй клиентам непрофессиональные письма."
+   }
+  ]
  },
  {
   "id": "antidote",
   "word": "antidote",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈæntidəʊt]",
+  "translation": "противоядие",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Laughter is the best #antidote# to a bad day.",
+    "ru": "Смех — лучшее противоядие от плохого дня."
+   },
+   {
+    "en": "The doctor gave him an #antidote# for the snake bite.",
+    "ru": "Врач дал ему противоядие от укуса змеи."
+   },
+   {
+    "en": "Travel is my #antidote# to stress.",
+    "ru": "Путешествия — моё противоядие от стресса."
+   }
+  ]
  },
  {
   "id": "attractiveness",
