@@ -1,0 +1,7 @@
+<circle cx="100" cy="50" r="18" fill="{F}"/>
+<path d="M75 130 Q75 75 100 75 Q125 75 125 130" fill="{F}"/>
+<path d="M78 95 L45 110 M122 95 L155 110"/>
+<rect x="25" y="105" width="25" height="22" fill="{L}"/>
+<rect x="150" y="105" width="25" height="22" fill="{L}"/>
+<path d="M37 105 V127 M162 105 V127" stroke="#000" stroke-width="3"/>
+<text x="100" y="175" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">FREE!</text>

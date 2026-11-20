@@ -1,0 +1,7 @@
+<rect x="20" y="100" width="160" height="80" fill="{F}"/>
+<circle cx="100" cy="65" r="20" fill="{F}"/>
+<path d="M75 100 Q75 85 100 85 Q125 85 125 100" fill="{F}"/>
+<path d="M100 85 L95 100 L100 115 L105 100 Z" fill="#000"/>
+<rect x="130" y="80" width="10" height="30" rx="5" fill="{L}"/>
+<path d="M30 60 Q40 45 30 30 M170 60 Q160 45 170 30" stroke-width="3"/>
+<text x="100" y="150" font-size="22" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">NEWS</text>

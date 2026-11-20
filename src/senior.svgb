@@ -1,0 +1,7 @@
+<circle cx="80" cy="60" r="22" fill="{F}"/>
+<path d="M60 45 Q80 30 100 45" stroke="{L}" stroke-width="5"/>
+<path d="M72 60 H80 M84 60 H92" stroke-width="3"/>
+<path d="M50 190 Q50 95 80 95 Q110 95 110 190" fill="{F}"/>
+<circle cx="150" cy="110" r="14" fill="{F}"/>
+<path d="M135 190 Q135 135 150 135 Q165 135 165 190" fill="{F}"/>
+<text x="80" y="25" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">elder</text>

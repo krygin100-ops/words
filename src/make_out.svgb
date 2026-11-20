@@ -1,0 +1,6 @@
+<rect x="40" y="40" width="120" height="80" rx="6" fill="{F}" opacity="0.6"/>
+<text x="100" y="90" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif" opacity="0.6">H?LL0</text>
+<circle cx="60" cy="160" r="22" fill="{F}"/>
+<path d="M45 158 H55 M65 156 L75 160" stroke-width="3"/>
+<path d="M50 172 H70" stroke-width="3"/>
+<text x="140" y="165" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">hello?</text>

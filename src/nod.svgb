@@ -1,0 +1,5 @@
+<circle cx="100" cy="100" r="40" fill="{F}" transform="rotate(15 100 100)"/>
+<path d="M85 100 Q90 105 95 100 M105 103 Q110 108 115 103" stroke-width="3"/>
+<path d="M90 120 Q100 128 112 122" stroke-width="3"/>
+<path d="M150 70 Q160 90 150 110 M145 105 L150 112 L158 106" stroke-width="3"/>
+<text x="100" y="185" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">yes yes</text>

@@ -1,0 +1,5 @@
+<circle cx="110" cy="40" r="15" fill="{F}"/>
+<path d="M108 55 L100 95 M100 95 L80 120 M100 95 L125 115 M103 70 L80 50 M103 70 L130 55" stroke-width="7"/>
+<path d="M60 180 L80 165 L60 150 L80 135 L60 120 M80 120 L100 135" stroke-width="5"/>
+<path d="M40 180 H120" stroke-width="5"/>
+<text x="160" y="150" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">boing!</text>

@@ -1,0 +1,4 @@
+<circle cx="55" cy="100" r="30" fill="{F}"/>
+<circle cx="145" cy="100" r="30" fill="{F}"/>
+<text x="100" y="112" font-size="34" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">≈</text>
+<g fill="{L}" stroke="none"><circle cx="45" cy="95" r="4"/><circle cx="65" cy="95" r="4"/><circle cx="135" cy="95" r="4"/><circle cx="155" cy="95" r="4"/></g>

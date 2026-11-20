@@ -1,0 +1,4 @@
+<path d="M20 100 Q60 80 120 85 Q170 90 185 100 Q170 115 120 120 Q60 125 20 105 Z" fill="{F}"/>
+<rect x="75" y="80" width="60" height="30" rx="8" fill="{L}" transform="rotate(-10 105 95)"/>
+<g fill="#000" stroke="none"><circle cx="95" cy="95" r="3"/><circle cx="105" cy="93" r="3"/><circle cx="115" cy="91" r="3"/></g>
+<text x="100" y="160" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">ouch</text>
