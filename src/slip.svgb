@@ -1,0 +1,6 @@
+<path d="M10 180 H190"/>
+<ellipse cx="60" cy="178" rx="20" ry="4" fill="{L}" stroke="none"/>
+<path d="M50 175 Q60 165 70 175 L68 160 Q60 150 52 160 Z" fill="{F}"/>
+<circle cx="130" cy="60" r="15" fill="{F}"/>
+<path d="M125 75 L110 120 M110 120 L70 140 M110 120 L140 150 M120 90 L90 70 M120 90 L155 85" stroke-width="7"/>
+<text x="160" y="40" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">whoa!</text>

@@ -1,0 +1,6 @@
+<circle cx="100" cy="100" r="45" fill="{F}"/>
+<circle cx="85" cy="95" r="3.5" fill="{L}" stroke="none"/>
+<circle cx="115" cy="95" r="3.5" fill="{L}" stroke="none"/>
+<path d="M85 120 Q100 125 115 118" stroke-width="3"/>
+<path d="M140 40 L170 20 M150 60 L185 55" stroke-width="3" stroke-dasharray="4 4"/>
+<text x="100" y="185" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">seems so...</text>

@@ -1,0 +1,6 @@
+<rect x="20" y="80" width="40" height="40" fill="{F}" opacity="0.5"/>
+<path d="M65 100 H85 M77 92 L85 100 L77 108" stroke-width="4"/>
+<rect x="90" y="80" width="40" height="40" fill="{F}"/>
+<path d="M135 100 H155 M147 92 L155 100 L147 108" stroke-width="4"/>
+<rect x="160" y="80" width="30" height="40" fill="{F}" opacity="0.6"/>
+<text x="110" y="150" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">next</text>

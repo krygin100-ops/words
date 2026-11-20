@@ -1,0 +1,9 @@
+<circle cx="100" cy="80" r="35" fill="{F}"/>
+<path d="M78 70 L95 76 M122 70 L105 76" stroke-width="5"/>
+<circle cx="88" cy="82" r="3.5" fill="{L}" stroke="none"/>
+<circle cx="112" cy="82" r="3.5" fill="{L}" stroke="none"/>
+<path d="M85 100 H115" stroke-width="5"/>
+<path d="M65 190 Q65 125 100 125 Q135 125 135 190" fill="{F}"/>
+<path d="M135 140 L160 110"/>
+<circle cx="165" cy="100" r="12" fill="{F}"/>
+<text x="50" y="40" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">I WILL!</text>

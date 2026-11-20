@@ -1,0 +1,8 @@
+<rect x="20" y="70" width="40" height="110" fill="{F}"/>
+<rect x="140" y="70" width="40" height="110" fill="{F}"/>
+<circle cx="100" cy="100" r="22" fill="{F}"/>
+<path d="M60 125 H140 V145 H60 Z" fill="{F}"/>
+<circle cx="92" cy="97" r="3.5" fill="{L}" stroke="none"/>
+<circle cx="108" cy="97" r="3.5" fill="{L}" stroke="none"/>
+<path d="M92 110 Q100 105 108 110" stroke-width="3"/>
+<text x="100" y="50" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">help!</text>

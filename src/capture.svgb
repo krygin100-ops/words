@@ -1,0 +1,7 @@
+<path d="M40 40 V160 H160 V40" stroke-width="5"/>
+<path d="M40 40 H160" stroke-width="5"/>
+<path d="M60 40 V160 M80 40 V160 M100 40 V160 M120 40 V160 M140 40 V160" stroke-width="3"/>
+<ellipse cx="100" cy="125" rx="25" ry="18" fill="{F}"/>
+<circle cx="120" cy="110" r="12" fill="{F}"/>
+<circle cx="124" cy="107" r="3" fill="{L}" stroke="none"/>
+<text x="100" y="190" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">gotcha!</text>

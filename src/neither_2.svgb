@@ -1,0 +1,6 @@
+<circle cx="55" cy="90" r="20" fill="{F}"/>
+<circle cx="145" cy="90" r="20" fill="{F}"/>
+<path d="M30 190 Q30 125 55 125 Q80 125 80 190 M120 190 Q120 125 145 125 Q170 125 170 190" fill="{F}"/>
+<path d="M45 92 Q55 86 65 92 M135 92 Q145 86 155 92" stroke-width="3"/>
+<text x="55" y="50" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">not me</text>
+<text x="145" y="50" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">me neither</text>

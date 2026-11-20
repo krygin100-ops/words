@@ -1,0 +1,5 @@
+<circle cx="60" cy="100" r="35" fill="{F}" opacity="0.3"/>
+<circle cx="140" cy="100" r="35" fill="{F}"/>
+<path d="M60 100 m-20 0 a20 20 0 1 0 40 0" stroke-width="2" stroke-dasharray="3 6" opacity="0.5"/>
+<path d="M120 100 L135 115 L160 85" stroke="#000" stroke-width="6"/>
+<text x="100" y="175" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">clear</text>
