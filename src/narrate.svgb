@@ -1,0 +1,8 @@
+<circle cx="60" cy="100" r="25" fill="{F}"/>
+<path d="M50 96 Q56 92 62 96" stroke-width="3"/>
+<ellipse cx="62" cy="112" rx="7" ry="5" fill="#000"/>
+<path d="M30 190 Q30 140 60 140 Q90 140 90 190" fill="{F}"/>
+<rect x="100" y="80" width="80" height="60" rx="3" fill="{F}"/>
+<path d="M140 80 V140" stroke="#000" stroke-width="3"/>
+<path d="M108 95 H132 M108 110 H132 M148 95 H172 M148 110 H172 M148 125 H165" stroke="#000" stroke-width="3"/>
+<text x="120" y="45" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">once upon a time…</text>

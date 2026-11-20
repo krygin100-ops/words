@@ -1,0 +1,9 @@
+<circle cx="60" cy="100" r="25" fill="{F}"/>
+<circle cx="52" cy="96" r="3.5" fill="{L}" stroke="none"/>
+<path d="M64 94 L74 96" stroke-width="3"/>
+<path d="M52 112 Q62 116 70 110" stroke-width="3"/>
+<path d="M30 190 Q30 140 60 140 Q90 140 90 190" fill="{F}"/>
+<path d="M90 150 L130 135" stroke-width="6"/>
+<rect x="135" y="110" width="45" height="45" rx="5" fill="{L}"/>
+<text x="157" y="141" font-size="24" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">?</text>
+<text x="130" y="60" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">wink wink…</text>

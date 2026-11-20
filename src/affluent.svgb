@@ -1,0 +1,9 @@
+<path d="M10 180 H190"/>
+<path d="M30 180 V100 L100 50 L170 100 V180" fill="{F}"/>
+<rect x="85" y="130" width="30" height="50" fill="#000"/>
+<g fill="{L}"><circle cx="55" cy="155" r="14"/><circle cx="145" cy="155" r="14"/></g>
+<text x="55" y="161" font-size="14" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">$</text>
+<text x="145" y="161" font-size="14" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">$</text>
+<path d="M100 40 V20 M90 30 L100 18 L110 30" stroke-width="0"/>
+<rect x="135" y="55" width="20" height="30" fill="{F}"/>
+<g fill="#000"><rect x="55" y="110" width="20" height="15"/><rect x="125" y="110" width="20" height="15"/></g>

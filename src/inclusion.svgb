@@ -1,0 +1,6 @@
+<circle cx="100" cy="100" r="70" stroke-width="6"/>
+<g fill="{F}"><circle cx="75" cy="80" r="14"/><circle cx="125" cy="80" r="14"/><circle cx="75" cy="125" r="14"/></g>
+<circle cx="125" cy="125" r="14" fill="{L}"/>
+<path d="M185 125 Q160 130 140 125" stroke-width="3"/>
+<path d="M150 118 L140 125 L150 132" stroke-width="3"/>
+<text x="175" y="185" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">join!</text>
