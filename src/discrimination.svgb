@@ -1,0 +1,5 @@
+<g fill="{F}"><circle cx="40" cy="80" r="15"/><circle cx="80" cy="80" r="15"/><circle cx="120" cy="80" r="15"/></g>
+<rect x="148" y="65" width="30" height="30" fill="{L}"/>
+<path d="M140 50 V170" stroke-width="5" stroke-dasharray="10 6"/>
+<path d="M20 120 H130 M160 120 H180" stroke-width="3"/>
+<text x="80" y="160" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">≠</text>

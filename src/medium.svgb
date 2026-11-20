@@ -1,0 +1,5 @@
+<circle cx="100" cy="100" r="35" fill="{F}"/>
+<path d="M20 100 H60 M140 100 H180 M50 90 L60 100 L50 110 M170 90 L180 100 L170 110" stroke-width="4"/>
+<path d="M85 85 L115 115 M115 85 L85 115" stroke="#000" stroke-width="0"/>
+<text x="100" y="108" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">via</text>
+<circle cx="20" cy="100" r="8" fill="{F}"/>

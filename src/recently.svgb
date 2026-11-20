@@ -1,0 +1,6 @@
+<rect x="30" y="50" width="140" height="125" rx="8" fill="{F}"/>
+<path d="M30 80 H170"/>
+<path d="M60 35 V60 M140 35 V60"/>
+<g fill="#000"><rect x="45" y="95" width="20" height="20"/><rect x="75" y="95" width="20" height="20"/><rect x="105" y="95" width="20" height="20"/><rect x="135" y="95" width="20" height="20"/><rect x="45" y="130" width="20" height="20"/><rect x="75" y="130" width="20" height="20"/></g>
+<rect x="105" y="130" width="20" height="20" fill="{L}"/>
+<rect x="75" y="130" width="20" height="20" fill="{L}" opacity="0.5"/>

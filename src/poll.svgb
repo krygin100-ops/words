@@ -1,0 +1,5 @@
+<rect x="40" y="90" width="120" height="90" fill="{F}"/>
+<rect x="70" y="85" width="60" height="10" fill="#000"/>
+<rect x="80" y="30" width="40" height="50" fill="{L}"/>
+<path d="M88 50 L96 58 L112 42" stroke="#000" stroke-width="4"/>
+<text x="100" y="145" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">VOTE</text>
