@@ -74294,20 +74294,46 @@
   "word": "nonetheless",
   "transcription": "[ˌnʌnðəˈlɛs]",
   "translation": "тем не менее",
-  "nuance": null,
+  "nuance": "= nevertheless (книжн.). Разг. — anyway, still.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/nonetheless.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The film was long. #Nonetheless#, I loved it.",
+    "ru": "Фильм был длинным. Тем не менее он мне очень понравился."
+   },
+   {
+    "en": "It was raining, but we went #nonetheless#.",
+    "ru": "Шёл дождь, но мы всё равно пошли."
+   },
+   {
+    "en": "He's annoying, but I love him #nonetheless#.",
+    "ru": "Он раздражает, но я его всё-таки люблю."
+   }
+  ]
  },
  {
   "id": "3233",
   "word": "borrow",
   "transcription": "[ˈbɒrəʊ]",
   "translation": "брать взаймы",
-  "nuance": null,
+  "nuance": "Borrow — взять (у кого-то); lend — дать (кому-то). Частая путаница!",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/borrow.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Can I #borrow# your pen?",
+    "ru": "Можно взять твою ручку?"
+   },
+   {
+    "en": "I #borrowed# money from my brother.",
+    "ru": "Я занял денег у брата."
+   },
+   {
+    "en": "He #borrowed# my charger and never gave it back.",
+    "ru": "Он взял мою зарядку и так и не вернул."
+   }
+  ]
  },
  {
   "id": "3234",
@@ -74317,27 +74343,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/borrower.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The bank checks every #borrower#.",
+    "ru": "Банк проверяет каждого заёмщика."
+   },
+   {
+    "en": "#Borrowers# must pay on time.",
+    "ru": "Заёмщики должны платить вовремя."
+   },
+   {
+    "en": "Neither a #borrower# nor a lender be.",
+    "ru": "Не бери в долг и не давай в долг."
+   }
+  ]
  },
  {
   "id": "3235",
   "word": "come down",
   "transcription": "[kʌmdaʊn]",
   "translation": "сводиться",
-  "nuance": null,
+  "nuance": "Come down to — сводиться к. Также come down — спускаться, снижаться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/come_down.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It all #comes down# to money.",
+    "ru": "Всё сводится к деньгам."
+   },
+   {
+    "en": "The decision #comes down# to you.",
+    "ru": "Решение зависит от тебя."
+   },
+   {
+    "en": "When it #comes down# to it, family is what matters.",
+    "ru": "В конечном счёте важна семья."
+   }
+  ]
  },
  {
   "id": "3236",
   "word": "article",
   "transcription": "[ˈɑːtɪkl]",
   "translation": "вещь, изделие",
-  "nuance": null,
+  "nuance": "Предмет, вещь (офиц.). Также статья, артикль.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/article_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Check every #article# of clothing before washing.",
+    "ru": "Проверяй каждую вещь перед стиркой."
+   },
+   {
+    "en": "Lost #articles# are kept at reception.",
+    "ru": "Потерянные вещи хранятся на ресепшене."
+   },
+   {
+    "en": "It's a household #article#.",
+    "ru": "Это предмет домашнего обихода."
+   }
+  ]
  },
  {
   "id": "3237",
@@ -74347,37 +74412,89 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/25936/25936_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The kids jumped in every #puddle#.",
+    "ru": "Дети прыгали в каждую лужу."
+   },
+   {
+    "en": "I stepped in a #puddle# in my new shoes.",
+    "ru": "Я наступил в лужу в новых туфлях."
+   },
+   {
+    "en": "The dog drank from a #puddle#.",
+    "ru": "Собака пила из лужи."
+   }
+  ]
  },
  {
   "id": "3238",
   "word": "claim",
   "transcription": "[kleɪm]",
   "translation": "требовать, претендовать",
-  "nuance": null,
+  "nuance": "Утверждать; требовать, заявлять права. Ложный друг: не «рекламировать».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/claim.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #claimed# she had never seen him.",
+    "ru": "Она утверждала, что никогда его не видела."
+   },
+   {
+    "en": "He #claimed# the last piece of cake.",
+    "ru": "Он заявил права на последний кусок торта."
+   },
+   {
+    "en": "You can #claim# your money back.",
+    "ru": "Вы можете потребовать деньги обратно."
+   }
+  ]
  },
  {
   "id": "3239",
   "word": "reclaim",
   "transcription": "[rɪˈkleɪm]",
   "translation": "вернуть, востребовать",
-  "nuance": null,
+  "nuance": "Вернуть себе, востребовать; baggage reclaim — выдача багажа.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/reclaim.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Reclaim# your bags at carousel 3.",
+    "ru": "Получите багаж на ленте 3."
+   },
+   {
+    "en": "They #reclaimed# land from the sea.",
+    "ru": "Они отвоевали землю у моря."
+   },
+   {
+    "en": "She #reclaimed# her old job.",
+    "ru": "Она вернула себе прежнюю работу."
+   }
+  ]
  },
  {
   "id": "3240",
   "word": "govern",
   "transcription": "[ˈgʌvən]",
   "translation": "управлять",
-  "nuance": null,
+  "nuance": "Управлять (государством), регулировать. Rule — править.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/govern.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Who #governs# the country?",
+    "ru": "Кто управляет страной?"
+   },
+   {
+    "en": "The rules #govern# how we act.",
+    "ru": "Правила определяют, как мы действуем."
+   },
+   {
+    "en": "My cat #governs# this house.",
+    "ru": "Мой кот управляет этим домом."
+   }
+  ]
  },
  {
   "id": "3241",
@@ -74387,7 +74504,20 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/21906/21906_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #government# raised taxes again.",
+    "ru": "Правительство снова подняло налоги."
+   },
+   {
+    "en": "She works for the #government#.",
+    "ru": "Она работает на государство."
+   },
+   {
+    "en": "People protested against the #government#.",
+    "ru": "Люди протестовали против правительства."
+   }
+  ]
  },
  {
   "id": "3242",
@@ -74397,37 +74527,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/governor.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #governor# of California spoke on TV.",
+    "ru": "Губернатор Калифорнии выступил по телевизору."
+   },
+   {
+    "en": "He was elected #governor#.",
+    "ru": "Его избрали губернатором."
+   },
+   {
+    "en": "The prison #governor# met the journalists.",
+    "ru": "Начальник тюрьмы встретился с журналистами."
+   }
+  ]
  },
  {
   "id": "3243",
   "word": "governance",
   "transcription": "[ˈgʌvənəns]",
   "translation": "управление",
-  "nuance": null,
+  "nuance": "Офиц./деловое: управление (система). Government — правительство.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/governance.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Good #governance# reduces corruption.",
+    "ru": "Хорошее управление снижает коррупцию."
+   },
+   {
+    "en": "The company improved its #governance#.",
+    "ru": "Компания улучшила систему управления."
+   },
+   {
+    "en": "They discussed internet #governance#.",
+    "ru": "Они обсуждали регулирование интернета."
+   }
+  ]
  },
  {
   "id": "3244",
   "word": "overseas",
   "transcription": "[ˌəʊvəˈsiːz]",
   "translation": "за рубежом, особ. за морем",
-  "nuance": null,
+  "nuance": "За рубежом (особ. за морем). Abroad — синоним, чаще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/overseas.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She studied #overseas#.",
+    "ru": "Она училась за границей."
+   },
+   {
+    "en": "They sell products #overseas#.",
+    "ru": "Они продают товары за рубеж."
+   },
+   {
+    "en": "#Overseas# students pay more.",
+    "ru": "Иностранные студенты платят больше."
+   }
+  ]
  },
  {
   "id": "3245",
   "word": "ugly",
   "transcription": "[ˈʌgli]",
   "translation": "безобразный, уродливый",
-  "nuance": null,
+  "nuance": "Уродливый, безобразный; перен. — неприятный, опасный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/ugly.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "That's an #ugly# sweater — I love it!",
+    "ru": "Это уродливый свитер — обожаю его!"
+   },
+   {
+    "en": "The building is #ugly#.",
+    "ru": "Здание уродливое."
+   },
+   {
+    "en": "Things got #ugly# at the meeting.",
+    "ru": "На собрании всё стало плохо."
+   }
+  ]
  },
  {
   "id": "3246",
@@ -74437,7 +74619,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/ugliness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #ugliness# of the building shocked tourists.",
+    "ru": "Уродство здания шокировало туристов."
+   },
+   {
+    "en": "War shows human #ugliness#.",
+    "ru": "Война показывает уродливую сторону людей."
+   },
+   {
+    "en": "Beauty and #ugliness# are subjective.",
+    "ru": "Красота и уродство субъективны."
+   }
+  ]
  },
  {
   "id": "3247",
@@ -74447,67 +74642,158 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/free.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Is this seat #free#?",
+    "ru": "Это место свободно?"
+   },
+   {
+    "en": "Entry is #free# for kids.",
+    "ru": "Для детей вход бесплатный."
+   },
+   {
+    "en": "Are you #free# on Saturday?",
+    "ru": "Ты свободен в субботу?"
+   }
+  ]
  },
  {
   "id": "3248",
   "word": "for free",
   "transcription": "[fɔːfriː]",
   "translation": "бесплатно",
-  "nuance": null,
+  "nuance": "= free / for nothing. Разг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/for_free.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I got these tickets #for free#.",
+    "ru": "Я получил эти билеты бесплатно."
+   },
+   {
+    "en": "Nothing comes #for free#.",
+    "ru": "Ничего не даётся даром."
+   },
+   {
+    "en": "They fixed my phone #for free#.",
+    "ru": "Они бесплатно починили мой телефон."
+   }
+  ]
  },
  {
   "id": "3249",
   "word": "fool",
   "transcription": "[fuːl]",
   "translation": "дурак, дурачить",
-  "nuance": null,
+  "nuance": "Дурак (сущ.), дурачить. Kid — шутить (мягче).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fool.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't be a #fool#!",
+    "ru": "Не будь дураком!"
+   },
+   {
+    "en": "He #fooled# everyone with his story.",
+    "ru": "Он всех одурачил своей историей."
+   },
+   {
+    "en": "April #Fool#'s Day is on April 1.",
+    "ru": "День дурака — 1 апреля."
+   }
+  ]
  },
  {
   "id": "3250",
   "word": "foolish",
   "transcription": "[ˈfuːlɪʃ]",
   "translation": "глупый, дурашливый",
-  "nuance": null,
+  "nuance": "Глупый (поступок), неразумный. Stupid — грубее.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/foolish.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "That was a #foolish# idea.",
+    "ru": "Это была глупая идея."
+   },
+   {
+    "en": "I felt #foolish# when I fell.",
+    "ru": "Я почувствовал себя глупо, когда упал."
+   },
+   {
+    "en": "Don't be #foolish# — take an umbrella.",
+    "ru": "Не глупи — возьми зонт."
+   }
+  ]
  },
  {
   "id": "3251",
   "word": "margin",
   "transcription": "[ˈmɑːʤɪn]",
   "translation": "маржа, накрутка",
-  "nuance": null,
+  "nuance": "Маржа, наценка; запас (margin of error).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/margin_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The shop has a 30% #margin# on clothes.",
+    "ru": "У магазина 30% наценки на одежду."
+   },
+   {
+    "en": "Profit #margins# are small in food.",
+    "ru": "В продуктах маленькая маржа."
+   },
+   {
+    "en": "We have a small #margin# for error.",
+    "ru": "У нас небольшой запас на ошибку."
+   }
+  ]
  },
  {
   "id": "3252",
   "word": "streak",
   "transcription": "[striːk]",
   "translation": "полоса, след, струя",
-  "nuance": null,
+  "nuance": "Полоса, прядь; серия (winning streak); черта характера.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/streak.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She has a #streak# of blue in her hair.",
+    "ru": "У неё синяя прядь в волосах."
+   },
+   {
+    "en": "Our team is on a winning #streak#.",
+    "ru": "Наша команда на победной серии."
+   },
+   {
+    "en": "He has a stubborn #streak#.",
+    "ru": "Ему свойственно упрямство."
+   }
+  ]
  },
  {
   "id": "3253",
   "word": "by chance",
   "transcription": "[baɪʧɑːns]",
   "translation": "случайно",
-  "nuance": null,
+  "nuance": "Случайно (не планируя). By accident — случайно (часто неудачно).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/by_chance.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We met #by chance# at the airport.",
+    "ru": "Мы случайно встретились в аэропорту."
+   },
+   {
+    "en": "I found the ring #by chance#.",
+    "ru": "Я случайно нашёл кольцо."
+   },
+   {
+    "en": "Do you have a pen, #by# any #chance#?",
+    "ru": "У тебя случайно нет ручки?"
+   }
+  ]
  },
  {
   "id": "3254",
@@ -74517,17 +74803,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/moderate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Drink in #moderate# amounts.",
+    "ru": "Пей умеренно."
+   },
+   {
+    "en": "The weather is #moderate# in spring.",
+    "ru": "Весной погода умеренная."
+   },
+   {
+    "en": "He has #moderate# political views.",
+    "ru": "У него умеренные политические взгляды."
+   }
+  ]
  },
  {
   "id": "3255",
   "word": "immoderate",
   "transcription": "[ɪˈmɒdərɪt]",
   "translation": "неумеренный",
-  "nuance": null,
+  "nuance": "Книжное; excessive — чаще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/immoderate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Immoderate# eating made him ill.",
+    "ru": "Неумеренная еда довела его до болезни."
+   },
+   {
+    "en": "The price rise was #immoderate#.",
+    "ru": "Повышение цен было чрезмерным."
+   },
+   {
+    "en": "His #immoderate# laughter annoyed everyone.",
+    "ru": "Его неумеренный смех всех раздражал."
+   }
+  ]
  },
  {
   "id": "3256",
@@ -74537,7 +74849,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/moderation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Everything in #moderation#.",
+    "ru": "Всё хорошо в меру."
+   },
+   {
+    "en": "Eat sweets in #moderation#.",
+    "ru": "Ешь сладкое умеренно."
+   },
+   {
+    "en": "The forum needs more #moderation#.",
+    "ru": "Форуму нужно больше модерации."
+   }
+  ]
  },
  {
   "id": "3257",
@@ -74547,17 +74872,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/satellite.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #satellite# sends TV signals.",
+    "ru": "Спутник передаёт телесигнал."
+   },
+   {
+    "en": "The Moon is Earth's #satellite#.",
+    "ru": "Луна — спутник Земли."
+   },
+   {
+    "en": "We watched the #satellite# images of the storm.",
+    "ru": "Мы смотрели спутниковые снимки шторма."
+   }
+  ]
  },
  {
   "id": "3258",
   "word": "impair",
   "transcription": "[ɪmˈpeə]",
   "translation": "ухудшать, ослаблять и т.д.",
-  "nuance": null,
+  "nuance": "Ухудшить, ослабить (офиц./мед.). Damage — повредить (сильнее).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/impair.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Alcohol #impairs# your driving.",
+    "ru": "Алкоголь ухудшает вождение."
+   },
+   {
+    "en": "Loud music can #impair# hearing.",
+    "ru": "Громкая музыка может ослабить слух."
+   },
+   {
+    "en": "His vision is #impaired#.",
+    "ru": "У него нарушено зрение."
+   }
+  ]
  },
  {
   "id": "3259",
@@ -74567,47 +74918,112 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/impairment.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He has a hearing #impairment#.",
+    "ru": "У него нарушение слуха."
+   },
+   {
+    "en": "Visual #impairment# makes reading hard.",
+    "ru": "Нарушение зрения затрудняет чтение."
+   },
+   {
+    "en": "The drug causes memory #impairment#.",
+    "ru": "Лекарство вызывает нарушение памяти."
+   }
+  ]
  },
  {
   "id": "3260",
   "word": "damage",
   "transcription": "[ˈdæmɪʤ]",
   "translation": "вред, повреждать",
-  "nuance": null,
+  "nuance": "Повреждение (неисчисляемое, без -s!); damages — компенсация (юр.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/damage.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The storm caused a lot of #damage#.",
+    "ru": "Буря нанесла большой ущерб."
+   },
+   {
+    "en": "Don't #damage# the books.",
+    "ru": "Не порть книги."
+   },
+   {
+    "en": "Sun can #damage# your skin.",
+    "ru": "Солнце может повредить кожу."
+   }
+  ]
  },
  {
   "id": "3261",
   "word": "fellow",
   "transcription": "[ˈfɛləʊ]",
   "translation": "товарищ по чему-либо",
-  "nuance": null,
+  "nuance": "Fellow + сущ. — «товарищ по»: fellow citizen, fellow traveller.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fellow_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My #fellow# students helped me.",
+    "ru": "Мне помогли однокурсники."
+   },
+   {
+    "en": "Help your #fellow# man.",
+    "ru": "Помогай ближнему."
+   },
+   {
+    "en": "We chatted with #fellow# passengers.",
+    "ru": "Мы болтали с попутчиками."
+   }
+  ]
  },
  {
   "id": "3262",
   "word": "fellowship",
   "transcription": "[ˈfɛləʊʃɪp]",
   "translation": "товарищество, братство",
-  "nuance": null,
+  "nuance": "Товарищество, братство; грант (научный).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fellowship.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's a strong #fellowship# among the volunteers.",
+    "ru": "Среди волонтёров крепкое товарищество."
+   },
+   {
+    "en": "The church #fellowship# meets on Sundays.",
+    "ru": "Церковное братство собирается по воскресеньям."
+   },
+   {
+    "en": "He got a research #fellowship#.",
+    "ru": "Он получил исследовательский грант."
+   }
+  ]
  },
  {
   "id": "3263",
   "word": "workshop",
   "transcription": "[ˈwɜːkʃɒp]",
   "translation": "мастерская, студия",
-  "nuance": null,
+  "nuance": "Мастерская; семинар, мастер-класс.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6225/6225_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandpa spends all day in his #workshop#.",
+    "ru": "Дедушка весь день проводит в мастерской."
+   },
+   {
+    "en": "We went to a pottery #workshop#.",
+    "ru": "Мы ходили на мастер-класс по гончарному делу."
+   },
+   {
+    "en": "The #workshop# smells of wood.",
+    "ru": "В мастерской пахнет деревом."
+   }
+  ]
  },
  {
   "id": "3264",
@@ -74617,7 +75033,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/master_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It takes years to #master# a language.",
+    "ru": "Чтобы овладеть языком, нужны годы."
+   },
+   {
+    "en": "She #mastered# the guitar in a year.",
+    "ru": "Она освоила гитару за год."
+   },
+   {
+    "en": "I've #mastered# the art of napping.",
+    "ru": "Я овладел искусством дневного сна."
+   }
+  ]
  },
  {
   "id": "3265",
@@ -74627,7 +75056,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/mastery.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His #mastery# of the piano is amazing.",
+    "ru": "Его владение фортепиано поражает."
+   },
+   {
+    "en": "She has complete #mastery# of English.",
+    "ru": "Она в совершенстве владеет английским."
+   },
+   {
+    "en": "The chef showed his #mastery#.",
+    "ru": "Шеф-повар продемонстрировал мастерство."
+   }
+  ]
  },
  {
   "id": "3266",
@@ -74637,17 +75079,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/currency.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "What #currency# do they use in Thailand?",
+    "ru": "Какая валюта в Таиланде?"
+   },
+   {
+    "en": "Exchange #currency# at the bank.",
+    "ru": "Обменяй валюту в банке."
+   },
+   {
+    "en": "Kindness is a universal #currency#.",
+    "ru": "Доброта — универсальная валюта."
+   }
+  ]
  },
  {
   "id": "3267",
   "word": "cryptocurrency",
   "transcription": "[cryptocurrency]",
   "translation": "криптовалюта",
-  "nuance": null,
+  "nuance": "Разг. — crypto.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/cryptocurrency.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He lost money on #cryptocurrency#.",
+    "ru": "Он потерял деньги на криптовалюте."
+   },
+   {
+    "en": "Bitcoin is the best-known #cryptocurrency#.",
+    "ru": "Биткойн — самая известная криптовалюта."
+   },
+   {
+    "en": "My nephew only talks about #cryptocurrency#.",
+    "ru": "Мой племянник говорит только о криптовалюте."
+   }
+  ]
  },
  {
   "id": "3268",
@@ -74657,77 +75125,181 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/taste.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "This soup #tastes# great.",
+    "ru": "У этого супа отличный вкус."
+   },
+   {
+    "en": "She has good #taste# in clothes.",
+    "ru": "У неё хороший вкус в одежде."
+   },
+   {
+    "en": "#Taste# the sauce before adding salt.",
+    "ru": "Попробуй соус, прежде чем солить."
+   }
+  ]
  },
  {
   "id": "3269",
   "word": "tasty",
   "transcription": "[ˈteɪsti]",
   "translation": "вкусный",
-  "nuance": null,
+  "nuance": "Вкусный (о еде, разг.). Delicious — очень вкусный.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/32340/32340_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandma's cookies are so #tasty#.",
+    "ru": "Бабушкино печенье такое вкусное."
+   },
+   {
+    "en": "That was a #tasty# meal!",
+    "ru": "Это была вкусная еда!"
+   },
+   {
+    "en": "Healthy food can be #tasty# too.",
+    "ru": "Здоровая еда тоже может быть вкусной."
+   }
+  ]
  },
  {
   "id": "3270",
   "word": "tasteful",
   "transcription": "[ˈteɪstfʊl]",
   "translation": "вкусный, сделанный со вкусом",
-  "nuance": null,
+  "nuance": "Со вкусом, изысканный (НЕ о еде!). Tasty — вкусный (еда).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tasteful.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The room is decorated in a #tasteful# way.",
+    "ru": "Комната оформлена со вкусом."
+   },
+   {
+    "en": "She wore a #tasteful# black dress.",
+    "ru": "На ней было элегантное чёрное платье."
+   },
+   {
+    "en": "The jokes were #tasteful#.",
+    "ru": "Шутки были в рамках приличия."
+   }
+  ]
  },
  {
   "id": "3271",
   "word": "tasteless",
   "transcription": "[ˈteɪstlɪs]",
   "translation": "безвкусный",
-  "nuance": null,
+  "nuance": "Пресный (еда); безвкусный, неуместный (о шутке, дизайне).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tasteless.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The hospital food was #tasteless#.",
+    "ru": "Больничная еда была безвкусной."
+   },
+   {
+    "en": "That joke was #tasteless#.",
+    "ru": "Это была безвкусная шутка."
+   },
+   {
+    "en": "The wallpaper is #tasteless#.",
+    "ru": "Обои безвкусные."
+   }
+  ]
  },
  {
   "id": "3272",
   "word": "distaste",
   "transcription": "[ˌdɪsˈteɪst]",
   "translation": "отвращение",
-  "nuance": null,
+  "nuance": "Неприязнь, отвращение (сдержанное). Disgust — сильное отвращение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/distaste.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She looked at the bugs with #distaste#.",
+    "ru": "Она с отвращением посмотрела на жуков."
+   },
+   {
+    "en": "He has a #distaste# for crowds.",
+    "ru": "Он не любит толпы."
+   },
+   {
+    "en": "I have a #distaste# for early mornings.",
+    "ru": "У меня неприязнь к ранним утрам."
+   }
+  ]
  },
  {
   "id": "3273",
   "word": "hatred",
   "transcription": "[ˈheɪtrɪd]",
   "translation": "ненависть",
-  "nuance": null,
+  "nuance": "Ненависть (сильное чувство). Hate — глагол и сущ.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/hatred.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Racial #hatred# is a crime.",
+    "ru": "Расовая ненависть — преступление."
+   },
+   {
+    "en": "Her #hatred# of Mondays is famous.",
+    "ru": "Её ненависть к понедельникам знаменита."
+   },
+   {
+    "en": "Love can turn into #hatred#.",
+    "ru": "Любовь может перерасти в ненависть."
+   }
+  ]
  },
  {
   "id": "3274",
   "word": "dress",
   "transcription": "[drɛs]",
   "translation": "одеваться",
-  "nuance": null,
+  "nuance": "Одеваться (dress / get dressed). Put on — надеть (конкретную вещь).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2781/2781_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I'll #dress# and be ready in five minutes.",
+    "ru": "Оденусь и буду готов через пять минут."
+   },
+   {
+    "en": "She #dresses# well.",
+    "ru": "Она хорошо одевается."
+   },
+   {
+    "en": "#Dress# warmly — it's cold.",
+    "ru": "Одевайся теплее — холодно."
+   }
+  ]
  },
  {
   "id": "3275",
   "word": "pregnant",
   "transcription": "[ˈprɛgnənt]",
   "translation": "беременная",
-  "nuance": null,
+  "nuance": "Беременная. Ловушка: embarrassed ≠ pregnant!",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6484/6484_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She's #pregnant# with twins.",
+    "ru": "Она беременна близнецами."
+   },
+   {
+    "en": "My sister is three months #pregnant#.",
+    "ru": "Моя сестра на третьем месяце беременности."
+   },
+   {
+    "en": "They're trying to get #pregnant#.",
+    "ru": "Они пытаются забеременеть."
+   }
+  ]
  },
  {
   "id": "3276",
@@ -74737,17 +75309,43 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/11250/11250_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Pregnancy# lasts about nine months.",
+    "ru": "Беременность длится около девяти месяцев."
+   },
+   {
+    "en": "She had an easy #pregnancy#.",
+    "ru": "Беременность у неё прошла легко."
+   },
+   {
+    "en": "Do a #pregnancy# test.",
+    "ru": "Сделай тест на беременность."
+   }
+  ]
  },
  {
   "id": "3277",
   "word": "private",
   "transcription": "[ˈpraɪvɪt]",
   "translation": "частный, личный",
-  "nuance": null,
+  "nuance": "Частный, личный. In private — наедине.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/private.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It's a #private# beach.",
+    "ru": "Это частный пляж."
+   },
+   {
+    "en": "Can we talk in #private#?",
+    "ru": "Можем поговорить наедине?"
+   },
+   {
+    "en": "That's my #private# life!",
+    "ru": "Это моя личная жизнь!"
+   }
+  ]
  },
  {
   "id": "3278",
@@ -74757,17 +75355,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/privately.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Can I speak to you #privately#?",
+    "ru": "Можно поговорить с вами наедине?"
+   },
+   {
+    "en": "#Privately#, she thought he was wrong.",
+    "ru": "Про себя она считала, что он неправ."
+   },
+   {
+    "en": "The school is #privately# owned.",
+    "ru": "Школа находится в частной собственности."
+   }
+  ]
  },
  {
   "id": "3279",
   "word": "collaborate",
   "transcription": "[kəˈlæbəreɪt]",
   "translation": "сотрудничать",
-  "nuance": null,
+  "nuance": "Сотрудничать (над проектом); негатив. — с врагом. Work together — разг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/collaborate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Two artists #collaborated# on the album.",
+    "ru": "Два артиста вместе работали над альбомом."
+   },
+   {
+    "en": "We need to #collaborate# with other teams.",
+    "ru": "Нам нужно сотрудничать с другими командами."
+   },
+   {
+    "en": "They #collaborated# with the enemy.",
+    "ru": "Они сотрудничали с врагом."
+   }
+  ]
  },
  {
   "id": "3280",
@@ -74777,7 +75401,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/collaboration.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The film is a #collaboration# of three countries.",
+    "ru": "Фильм — совместная работа трёх стран."
+   },
+   {
+    "en": "Thanks for your #collaboration#.",
+    "ru": "Спасибо за сотрудничество."
+   },
+   {
+    "en": "The song is a #collaboration# between two singers.",
+    "ru": "Песня — коллаборация двух певцов."
+   }
+  ]
  },
  {
   "id": "3281",
@@ -74787,7 +75424,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/hostage.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The robbers took three #hostages#.",
+    "ru": "Грабители взяли трёх заложников."
+   },
+   {
+    "en": "The #hostages# were released after two days.",
+    "ru": "Заложников освободили через два дня."
+   },
+   {
+    "en": "The kids held the TV remote #hostage#.",
+    "ru": "Дети взяли пульт в заложники."
+   }
+  ]
  },
  {
   "id": "3282",
