@@ -7636,452 +7636,1058 @@
  {
   "id": "microphone",
   "word": "microphone",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈmaɪkrəfəʊn]",
+  "translation": "микрофон",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "At karaoke, my uncle never gives back the #microphone#.",
+    "ru": "В караоке дядя никогда не отдаёт микрофон."
+   },
+   {
+    "en": "Your #microphone# is off — we can't hear you!",
+    "ru": "У тебя выключен микрофон — мы тебя не слышим!"
+   },
+   {
+    "en": "She tapped the #microphone#: \"Is this on?\"",
+    "ru": "Она постучала по микрофону: «Это работает?»"
+   }
+  ]
  },
  {
   "id": "miniature",
   "word": "miniature",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈmɪnətʃə]",
+  "translation": "миниатюрный; миниатюра",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Our dog is a #miniature# poodle with a giant attitude.",
+    "ru": "Наш пёс — миниатюрный пудель с огромным самомнением."
+   },
+   {
+    "en": "He builds #miniature# trains in the garage.",
+    "ru": "Он собирает миниатюрные поезда в гараже."
+   },
+   {
+    "en": "The museum has #miniature# paintings.",
+    "ru": "В музее есть картины-миниатюры."
+   }
+  ]
  },
  {
   "id": "occupational",
   "word": "occupational",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌɒkjuˈpeɪʃənl]",
+  "translation": "профессиональный",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Back pain is an #occupational# hazard of office life.",
+    "ru": "Боль в спине — профессиональный риск офисной жизни."
+   },
+   {
+    "en": "She's an #occupational# therapist.",
+    "ru": "Она эрготерапевт."
+   },
+   {
+    "en": "Burnout is an #occupational# problem.",
+    "ru": "Выгорание — профессиональная проблема."
+   }
+  ]
  },
  {
   "id": "philosopher",
   "word": "philosopher",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[fəˈlɒsəfə]",
+  "translation": "философ",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "After midnight, every taxi driver becomes a #philosopher#.",
+    "ru": "После полуночи каждый таксист становится философом."
+   },
+   {
+    "en": "Socrates was a Greek #philosopher#.",
+    "ru": "Сократ был греческим философом."
+   },
+   {
+    "en": "My cat looks like a #philosopher# staring at the wall.",
+    "ru": "Мой кот похож на философа, глядя в стену."
+   }
+  ]
  },
  {
   "id": "prose",
   "word": "prose",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[prəʊz]",
+  "translation": "проза",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Her emails are written in beautiful #prose#.",
+    "ru": "Её письма написаны красивой прозой."
+   },
+   {
+    "en": "He writes poetry, not #prose#.",
+    "ru": "Он пишет стихи, а не прозу."
+   },
+   {
+    "en": "The novel's #prose# is simple and clear.",
+    "ru": "Проза романа простая и ясная."
+   }
+  ]
  },
  {
   "id": "radioactive",
   "word": "radioactive",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌreɪdiəʊˈæktɪv]",
+  "translation": "радиоактивный",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The leftovers in our fridge look #radioactive#.",
+    "ru": "Остатки еды в нашем холодильнике выглядят радиоактивными."
+   },
+   {
+    "en": "#Radioactive# waste must be stored safely.",
+    "ru": "Радиоактивные отходы нужно хранить безопасно."
+   },
+   {
+    "en": "After the scandal, he was politically #radioactive#.",
+    "ru": "После скандала с ним никто не хотел связываться."
+   }
+  ]
  },
  {
   "id": "realization",
   "word": "realization",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌriːəlaɪˈzeɪʃn]",
+  "translation": "осознание; осуществление",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The #realization# hit me: I left the oven on.",
+    "ru": "Меня осенило: я не выключил духовку."
+   },
+   {
+    "en": "The #realization# of our dream took ten years.",
+    "ru": "Осуществление нашей мечты заняло десять лет."
+   },
+   {
+    "en": "She came to the #realization# that she hated her job.",
+    "ru": "Она осознала, что ненавидит свою работу."
+   }
+  ]
  },
  {
   "id": "slogan",
   "word": "slogan",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈsləʊɡən]",
+  "translation": "лозунг, слоган",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The café's #slogan#: \"Coffee first, talk later.\"",
+    "ru": "Слоган кафе: «Сначала кофе, потом разговоры»."
+   },
+   {
+    "en": "Protesters shouted #slogans#.",
+    "ru": "Протестующие выкрикивали лозунги."
+   },
+   {
+    "en": "Every election has the same #slogans#.",
+    "ru": "На каждых выборах одни и те же лозунги."
+   }
+  ]
  },
  {
   "id": "unpopular",
   "word": "unpopular",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ʌnˈpɒpjələ]",
+  "translation": "непопулярный",
   "level": "B2",
   "image": null,
-  "examples": null
- },
- {
-  "id": "viii",
-  "word": "viii",
-  "transcription": null,
-  "translation": null,
-  "level": "B1",
-  "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "#Unpopular# opinion: I like Mondays.",
+    "ru": "Непопулярное мнение: я люблю понедельники."
+   },
+   {
+    "en": "The new tax is very #unpopular#.",
+    "ru": "Новый налог очень непопулярен."
+   },
+   {
+    "en": "He was #unpopular# at school.",
+    "ru": "В школе его не любили."
+   }
+  ]
  },
  {
   "id": "illustrate",
   "word": "illustrate",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈɪləstreɪt]",
+  "translation": "иллюстрировать, показывать",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Let me #illustrate# with an example: my empty fridge.",
+    "ru": "Позволь показать на примере: мой пустой холодильник."
+   },
+   {
+    "en": "She #illustrates# children's books.",
+    "ru": "Она иллюстрирует детские книги."
+   },
+   {
+    "en": "This chart #illustrates# the problem.",
+    "ru": "Этот график наглядно показывает проблему."
+   }
+  ]
  },
  {
   "id": "limitation",
   "word": "limitation",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌlɪmɪˈteɪʃn]",
+  "translation": "ограничение",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Know your #limitations#: I can't cook, so I order.",
+    "ru": "Знай свои ограничения: я не умею готовить, поэтому заказываю."
+   },
+   {
+    "en": "The free version has many #limitations#.",
+    "ru": "У бесплатной версии много ограничений."
+   },
+   {
+    "en": "There's a time #limitation# on the offer.",
+    "ru": "Предложение действует ограниченное время."
+   }
+  ]
  },
  {
   "id": "analogy",
   "word": "analogy",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[əˈnælədʒi]",
+  "translation": "аналогия",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "By #analogy#, my brain is a browser with 50 tabs open.",
+    "ru": "По аналогии, мой мозг — браузер с 50 открытыми вкладками."
+   },
+   {
+    "en": "The teacher used an #analogy# to explain electricity.",
+    "ru": "Учитель объяснил электричество через аналогию."
+   },
+   {
+    "en": "It's a bad #analogy#, but you get the idea.",
+    "ru": "Аналогия так себе, но идея понятна."
+   }
+  ]
  },
  {
   "id": "consolidation",
   "word": "consolidation",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[kənˌsɒlɪˈdeɪʃn]",
+  "translation": "объединение, укрепление",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Loan #consolidation# turned five debts into one big one.",
+    "ru": "Объединение кредитов превратило пять долгов в один большой."
+   },
+   {
+    "en": "The company went through #consolidation#.",
+    "ru": "Компания прошла через слияние."
+   },
+   {
+    "en": "Sleep helps the #consolidation# of memory.",
+    "ru": "Сон помогает закреплению памяти."
+   }
+  ]
  },
  {
   "id": "cubic",
   "word": "cubic",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈkjuːbɪk]",
+  "translation": "кубический",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The fridge is 300 liters, or 0.3 #cubic# meters of snacks.",
+    "ru": "Холодильник на 300 литров — это 0,3 кубометра вкусняшек."
+   },
+   {
+    "en": "The tank holds two #cubic# meters of water.",
+    "ru": "Бак вмещает два кубометра воды."
+   },
+   {
+    "en": "We measured the room in #cubic# feet.",
+    "ru": "Мы измерили комнату в кубических футах."
+   }
+  ]
  },
  {
   "id": "detector",
   "word": "detector",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[dɪˈtektə]",
+  "translation": "детектор, датчик",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The smoke #detector# beeps every time I make toast.",
+    "ru": "Датчик дыма пищит каждый раз, когда я жарю тост."
+   },
+   {
+    "en": "My mom is a human lie #detector#.",
+    "ru": "Моя мама — живой детектор лжи."
+   },
+   {
+    "en": "Walk through the metal #detector#, please.",
+    "ru": "Пройдите через металлоискатель, пожалуйста."
+   }
+  ]
  },
  {
   "id": "funk",
   "word": "funk",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[fʌŋk]",
+  "translation": "фанк; хандра",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "I've been in a #funk# since the holidays ended.",
+    "ru": "С тех пор как кончились праздники, я хандрю."
+   },
+   {
+    "en": "Dad dances to old #funk# music in the kitchen.",
+    "ru": "Папа танцует на кухне под старый фанк."
+   },
+   {
+    "en": "A walk will get you out of your #funk#.",
+    "ru": "Прогулка выведет тебя из хандры."
+   }
+  ]
  },
  {
   "id": "greatness",
   "word": "greatness",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈɡreɪtnəs]",
+  "translation": "величие",
   "level": "B2",
   "image": null,
-  "examples": null
- },
- {
-  "id": "hooker",
-  "word": "hooker",
-  "transcription": null,
-  "translation": null,
-  "level": "B2",
-  "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "My son thinks he's destined for #greatness#. For now, he's destined for homework.",
+    "ru": "Сын думает, что ему суждено величие. Пока ему суждена домашка."
+   },
+   {
+    "en": "The #greatness# of the mountains made us quiet.",
+    "ru": "Величие гор заставило нас замолчать."
+   },
+   {
+    "en": "Some are born to #greatness#.",
+    "ru": "Некоторые рождаются для великих дел."
+   }
+  ]
  },
  {
   "id": "hourly",
   "word": "hourly",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈaʊəli]",
+  "translation": "ежечасный, почасовой",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The bus runs #hourly#, except when you need it.",
+    "ru": "Автобус ходит каждый час, кроме случаев, когда он нужен."
+   },
+   {
+    "en": "She's paid an #hourly# rate.",
+    "ru": "Ей платят почасово."
+   },
+   {
+    "en": "Check the #hourly# weather forecast.",
+    "ru": "Посмотри почасовой прогноз погоды."
+   }
+  ]
  },
  {
   "id": "induction",
   "word": "induction",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ɪnˈdʌkʃn]",
+  "translation": "введение в должность, индукция",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "My #induction# at the new job was one coffee and a password.",
+    "ru": "Моё введение в должность на новой работе — одна чашка кофе и пароль."
+   },
+   {
+    "en": "We bought an #induction# stove.",
+    "ru": "Мы купили индукционную плиту."
+   },
+   {
+    "en": "The #induction# ceremony was on Friday.",
+    "ru": "Церемония посвящения была в пятницу."
+   }
+  ]
  },
  {
   "id": "linguistic",
   "word": "linguistic",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[lɪŋˈɡwɪstɪk]",
+  "translation": "лингвистический, языковой",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Ordering coffee in Italy was a #linguistic# adventure.",
+    "ru": "Заказать кофе в Италии было языковым приключением."
+   },
+   {
+    "en": "Kids have amazing #linguistic# skills.",
+    "ru": "У детей потрясающие языковые способности."
+   },
+   {
+    "en": "She studies #linguistic# history.",
+    "ru": "Она изучает историю языка."
+   }
+  ]
  },
  {
   "id": "magistrate",
   "word": "magistrate",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈmædʒɪstreɪt]",
+  "translation": "мировой судья",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "He appeared before the #magistrate# for a parking fine.",
+    "ru": "Он предстал перед мировым судьёй из-за штрафа за парковку."
+   },
+   {
+    "en": "The #magistrate# gave him a warning.",
+    "ru": "Мировой судья вынес ему предупреждение."
+   },
+   {
+    "en": "The case went to the #magistrates'# court.",
+    "ru": "Дело передали в мировой суд."
+   }
+  ]
  },
  {
   "id": "municipality",
   "word": "municipality",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[mjuːˌnɪsɪˈpæləti]",
+  "translation": "муниципалитет",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The #municipality# fixed the road two weeks before the election.",
+    "ru": "Муниципалитет починил дорогу за две недели до выборов."
+   },
+   {
+    "en": "Each #municipality# has its own rules.",
+    "ru": "В каждом муниципалитете свои правила."
+   },
+   {
+    "en": "Call the #municipality# about the trash.",
+    "ru": "Позвони в муниципалитет насчёт мусора."
+   }
+  ]
  },
  {
   "id": "relaxation",
   "word": "relaxation",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌriːlækˈseɪʃn]",
+  "translation": "расслабление, отдых",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "My idea of #relaxation#: phone off, kids asleep.",
+    "ru": "Мой идеал отдыха: телефон выключен, дети спят."
+   },
+   {
+    "en": "Try yoga for #relaxation#.",
+    "ru": "Попробуй йогу для расслабления."
+   },
+   {
+    "en": "The spa is a place of total #relaxation#.",
+    "ru": "Спа — место полного расслабления."
+   }
+  ]
  },
  {
   "id": "respectable",
   "word": "respectable",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[rɪˈspektəbl]",
+  "translation": "приличный, респектабельный",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Put on a #respectable# shirt — we're meeting her parents.",
+    "ru": "Надень приличную рубашку — мы знакомимся с её родителями."
+   },
+   {
+    "en": "He has a #respectable# job at a bank.",
+    "ru": "У него солидная работа в банке."
+   },
+   {
+    "en": "We finished in a #respectable# fifth place.",
+    "ru": "Мы заняли достойное пятое место."
+   }
+  ]
  },
  {
   "id": "respectful",
   "word": "respectful",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[rɪˈspektfl]",
+  "translation": "уважительный, вежливый",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Kids, be #respectful# — Grandpa's telling the same story again.",
+    "ru": "Дети, ведите себя уважительно — дедушка опять рассказывает ту же историю."
+   },
+   {
+    "en": "Please be #respectful# in the temple.",
+    "ru": "Пожалуйста, ведите себя уважительно в храме."
+   },
+   {
+    "en": "He's always #respectful# to older people.",
+    "ru": "Он всегда уважителен к старшим."
+   }
+  ]
  },
  {
   "id": "severity",
   "word": "severity",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[sɪˈverəti]",
+  "translation": "тяжесть, строгость",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The doctor asked about the #severity# of the pain.",
+    "ru": "Врач спросил, насколько сильна боль."
+   },
+   {
+    "en": "Nobody understood the #severity# of the storm.",
+    "ru": "Никто не понимал, насколько серьёзен шторм."
+   },
+   {
+    "en": "The #severity# of the punishment surprised everyone.",
+    "ru": "Строгость наказания всех удивила."
+   }
+  ]
  },
  {
   "id": "spontaneous",
   "word": "spontaneous",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[spɒnˈteɪniəs]",
+  "translation": "спонтанный",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Our #spontaneous# road trip ended in a village with no petrol.",
+    "ru": "Наша спонтанная поездка закончилась в деревне без бензина."
+   },
+   {
+    "en": "The crowd broke into #spontaneous# applause.",
+    "ru": "Толпа разразилась аплодисментами."
+   },
+   {
+    "en": "I love #spontaneous# people.",
+    "ru": "Я люблю спонтанных людей."
+   }
+  ]
  },
  {
   "id": "theorem",
   "word": "theorem",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈθɪərəm]",
+  "translation": "теорема",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Pythagoras' #theorem# is the only one I remember.",
+    "ru": "Теорема Пифагора — единственная, которую я помню."
+   },
+   {
+    "en": "He proved a difficult #theorem#.",
+    "ru": "Он доказал сложную теорему."
+   },
+   {
+    "en": "My #theorem#: socks disappear in the washing machine.",
+    "ru": "Моя теорема: носки исчезают в стиральной машине."
+   }
+  ]
  },
  {
   "id": "tract",
   "word": "tract",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[trækt]",
+  "translation": "участок; тракт (анат.)",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "They bought a large #tract# of land.",
+    "ru": "Они купили большой участок земли."
+   },
+   {
+    "en": "The infection is in the respiratory #tract#.",
+    "ru": "Инфекция в дыхательных путях."
+   },
+   {
+    "en": "Spicy food upsets my digestive #tract#.",
+    "ru": "Острая еда расстраивает мой желудок."
+   }
+  ]
  },
  {
   "id": "wildly",
   "word": "wildly",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈwaɪldli]",
+  "translation": "дико, бурно",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The dog wagged his tail #wildly# when I came home.",
+    "ru": "Пёс бешено вилял хвостом, когда я пришёл домой."
+   },
+   {
+    "en": "Prices vary #wildly# from shop to shop.",
+    "ru": "Цены сильно отличаются от магазина к магазину."
+   },
+   {
+    "en": "The fans cheered #wildly#.",
+    "ru": "Болельщики бурно ликовали."
+   }
+  ]
  },
  {
   "id": "delegate",
   "word": "delegate",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈdelɪɡeɪt]",
+  "translation": "делегат; поручать",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "A good boss knows how to #delegate#. A great one delegates everything.",
+    "ru": "Хороший начальник умеет делегировать. Великий — делегирует всё."
+   },
+   {
+    "en": "Each country sent two #delegates#.",
+    "ru": "Каждая страна прислала двух делегатов."
+   },
+   {
+    "en": "I #delegated# the dishes to my son.",
+    "ru": "Я поручил посуду сыну."
+   }
+  ]
  },
  {
   "id": "offender",
   "word": "offender",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[əˈfendə]",
+  "translation": "правонарушитель",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The repeat #offender# in our office keeps stealing pens.",
+    "ru": "Рецидивист в нашем офисе постоянно ворует ручки."
+   },
+   {
+    "en": "Young #offenders# need help, not just prison.",
+    "ru": "Молодым правонарушителям нужна помощь, а не только тюрьма."
+   },
+   {
+    "en": "First-time #offenders# often get a warning.",
+    "ru": "Впервые нарушившие часто получают предупреждение."
+   }
+  ]
  },
  {
   "id": "alphabet",
   "word": "alphabet",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈælfəbet]",
+  "translation": "алфавит",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "My son knows the whole #alphabet#, but only as a song.",
+    "ru": "Сын знает весь алфавит, но только в виде песенки."
+   },
+   {
+    "en": "The Russian #alphabet# has 33 letters.",
+    "ru": "В русском алфавите 33 буквы."
+   },
+   {
+    "en": "Put the names in #alphabetical# order.",
+    "ru": "Расставь имена в алфавитном порядке."
+   }
+  ]
  },
  {
   "id": "bikini",
   "word": "bikini",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[bɪˈkiːni]",
+  "translation": "бикини",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "I bought a #bikini# in January as motivation. It's still in the box.",
+    "ru": "Я купила бикини в январе для мотивации. Он всё ещё в коробке."
+   },
+   {
+    "en": "She wore a red #bikini# on the beach.",
+    "ru": "На пляже она была в красном бикини."
+   },
+   {
+    "en": "Is it #bikini# weather yet?",
+    "ru": "Уже погода для бикини?"
+   }
+  ]
  },
  {
   "id": "bracelet",
   "word": "bracelet",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈbreɪslət]",
+  "translation": "браслет",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "My daughter made me a #bracelet# from pasta.",
+    "ru": "Дочка сделала мне браслет из макарон."
+   },
+   {
+    "en": "She wears a gold #bracelet#.",
+    "ru": "Она носит золотой браслет."
+   },
+   {
+    "en": "The fitness #bracelet# says I walked 300 steps today.",
+    "ru": "Фитнес-браслет говорит, что сегодня я прошёл 300 шагов."
+   }
+  ]
  },
  {
   "id": "capsule",
   "word": "capsule",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈkæpsjuːl]",
+  "translation": "капсула",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "We buried a time #capsule# in the garden in 2010. Nobody remembers where.",
+    "ru": "В 2010 году мы закопали в саду капсулу времени. Никто не помнит где."
+   },
+   {
+    "en": "Take one #capsule# with water.",
+    "ru": "Принимайте одну капсулу, запивая водой."
+   },
+   {
+    "en": "Our coffee machine uses #capsules#.",
+    "ru": "Наша кофемашина работает на капсулах."
+   }
+  ]
  },
  {
   "id": "confederate",
   "word": "confederate",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[kənˈfedərət]",
+  "translation": "союзник, сообщник; конфедеративный",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The thief had a #confederate# waiting in the car.",
+    "ru": "У вора в машине ждал сообщник."
+   },
+   {
+    "en": "The #Confederate# army lost the war.",
+    "ru": "Армия Конфедерации проиграла войну."
+   },
+   {
+    "en": "My brother was my #confederate# in stealing cookies.",
+    "ru": "Брат был моим сообщником в краже печенья."
+   }
+  ]
  },
  {
   "id": "dissertation",
   "word": "dissertation",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌdɪsəˈteɪʃn]",
+  "translation": "диссертация, дипломная работа",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "My #dissertation# took two years; the coffee bill was worse.",
+    "ru": "Диссертация заняла два года, а счёт за кофе — ещё хуже."
+   },
+   {
+    "en": "She's writing her #dissertation# on ancient Rome.",
+    "ru": "Она пишет диссертацию о Древнем Риме."
+   },
+   {
+    "en": "Submit your #dissertation# by May.",
+    "ru": "Сдайте дипломную работу до мая."
+   }
+  ]
  },
  {
   "id": "functionality",
   "word": "functionality",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌfʌŋkʃəˈnæləti]",
+  "translation": "функциональность",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The new update removed the only #functionality# I used.",
+    "ru": "Новое обновление убрало единственную функцию, которой я пользовался."
+   },
+   {
+    "en": "The app has limited #functionality# offline.",
+    "ru": "Без интернета у приложения ограниченные функции."
+   },
+   {
+    "en": "We care about design and #functionality#.",
+    "ru": "Нам важны и дизайн, и функциональность."
+   }
+  ]
  },
  {
   "id": "gamma",
   "word": "gamma",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈɡæmə]",
+  "translation": "гамма (буква), гамма-лучи",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "#Gamma# rays are dangerous.",
+    "ru": "Гамма-лучи опасны."
+   },
+   {
+    "en": "It's the third letter: alpha, beta, #gamma#.",
+    "ru": "Это третья буква: альфа, бета, гамма."
+   },
+   {
+    "en": "The comic hero got his powers from #gamma# radiation.",
+    "ru": "Герой комикса получил суперсилу от гамма-излучения."
+   }
+  ]
  },
  {
   "id": "indictment",
   "word": "indictment",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ɪnˈdaɪtmənt]",
+  "translation": "обвинительный акт; обвинение",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The #indictment# listed twenty crimes.",
+    "ru": "В обвинительном акте было перечислено двадцать преступлений."
+   },
+   {
+    "en": "The empty fridge is an #indictment# of my cooking skills.",
+    "ru": "Пустой холодильник — приговор моим кулинарным навыкам."
+   },
+   {
+    "en": "He was arrested after the #indictment#.",
+    "ru": "Его арестовали после предъявления обвинения."
+   }
+  ]
  },
  {
   "id": "irregular",
   "word": "irregular",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ɪˈreɡjələ]",
+  "translation": "неправильный, нерегулярный",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "English #irregular# verbs are my enemies.",
+    "ru": "Неправильные глаголы английского — мои враги."
+   },
+   {
+    "en": "My sleep is very #irregular#.",
+    "ru": "У меня очень нерегулярный сон."
+   },
+   {
+    "en": "The shape of the pool is #irregular#.",
+    "ru": "У бассейна неправильная форма."
+   }
+  ]
  },
  {
   "id": "juicy",
   "word": "juicy",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈdʒuːsi]",
+  "translation": "сочный; пикантный",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "The peach was so #juicy# it ran down my arm.",
+    "ru": "Персик был такой сочный, что сок потёк по руке."
+   },
+   {
+    "en": "She has some #juicy# gossip about the boss.",
+    "ru": "У неё есть пикантные сплетни про начальника."
+   },
+   {
+    "en": "I want a big #juicy# burger.",
+    "ru": "Хочу большой сочный бургер."
+   }
+  ]
  },
  {
   "id": "psychiatrist",
   "word": "psychiatrist",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[saɪˈkaɪətrɪst]",
+  "translation": "психиатр",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "After a week with the kids, I need a #psychiatrist#.",
+    "ru": "После недели с детьми мне нужен психиатр."
+   },
+   {
+    "en": "The #psychiatrist# prescribed medication.",
+    "ru": "Психиатр выписал лекарство."
+   },
+   {
+    "en": "She's a child #psychiatrist#.",
+    "ru": "Она детский психиатр."
+   }
+  ]
  },
  {
   "id": "stimulation",
   "word": "stimulation",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌstɪmjuˈleɪʃn]",
+  "translation": "стимуляция",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Babies need a lot of #stimulation# — and a lot of sleep.",
+    "ru": "Малышам нужно много стимуляции — и много сна."
+   },
+   {
+    "en": "The city gives too much #stimulation#: noise, lights, people.",
+    "ru": "Город перегружает впечатлениями: шум, свет, люди."
+   },
+   {
+    "en": "Coffee gives me some mental #stimulation#.",
+    "ru": "Кофе немного меня стимулирует."
+   }
+  ]
  },
  {
   "id": "stylish",
   "word": "stylish",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˈstaɪlɪʃ]",
+  "translation": "стильный",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandma is more #stylish# than me.",
+    "ru": "Бабушка стильнее меня."
+   },
+   {
+    "en": "They have a small but #stylish# flat.",
+    "ru": "У них маленькая, но стильная квартира."
+   },
+   {
+    "en": "He looks #stylish# even in a raincoat.",
+    "ru": "Он выглядит стильно даже в дождевике."
+   }
+  ]
  },
  {
   "id": "unwilling",
   "word": "unwilling",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ʌnˈwɪlɪŋ]",
+  "translation": "не желающий, неохотный",
   "level": "B2",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "My cat is #unwilling# to leave the warm laptop.",
+    "ru": "Кот не желает покидать тёплый ноутбук."
+   },
+   {
+    "en": "He was #unwilling# to admit his mistake.",
+    "ru": "Он не хотел признавать ошибку."
+   },
+   {
+    "en": "She's an #unwilling# participant in the family photo.",
+    "ru": "Она неохотно участвует в семейном фото."
+   }
+  ]
  },
  {
   "id": "misunderstanding",
   "word": "misunderstanding",
-  "transcription": null,
-  "translation": null,
+  "transcription": "[ˌmɪsʌndəˈstændɪŋ]",
+  "translation": "недоразумение",
   "level": "B1",
   "image": null,
-  "examples": null
+  "examples": [
+   {
+    "en": "It was a #misunderstanding#: I said \"duck\", he heard \"truck\".",
+    "ru": "Это было недоразумение: я сказал «утка», а он услышал «грузовик»."
+   },
+   {
+    "en": "Let's clear up this #misunderstanding#.",
+    "ru": "Давай проясним это недоразумение."
+   },
+   {
+    "en": "Most fights start with a #misunderstanding#.",
+    "ru": "Большинство ссор начинаются с недопонимания."
+   }
+  ]
  },
  {
   "id": "emphasize",
