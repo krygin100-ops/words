@@ -51294,80 +51294,184 @@
   "word": "brute",
   "transcription": "[bruːt]",
   "translation": "животное, зверь, грубый",
-  "nuance": null,
+  "nuance": "Сущ. — грубое, жестокое существо (оскорбительно). Brute force — грубая сила.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/brute.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's a #brute# — he kicked the dog.",
+    "ru": "Он скотина — пнул собаку."
+   },
+   {
+    "en": "Don't be a #brute#!",
+    "ru": "Не будь зверем!"
+   },
+   {
+    "en": "They used #brute# force to open the door.",
+    "ru": "Они открыли дверь грубой силой."
+   }
+  ]
  },
  {
   "id": "2233",
   "word": "brutal",
   "transcription": "[ˈbruːtl]",
   "translation": "жестокий, зверский",
-  "nuance": null,
+  "nuance": "Жестокий, зверский; разг. — суровый, беспощадный (brutal honesty, brutal exam).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/brutal.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The winter here is #brutal#.",
+    "ru": "Зима здесь жестокая."
+   },
+   {
+    "en": "It was a #brutal# attack.",
+    "ru": "Это было зверское нападение."
+   },
+   {
+    "en": "Thanks for your #brutal# honesty.",
+    "ru": "Спасибо за беспощадную честность."
+   }
+  ]
  },
  {
   "id": "2234",
   "word": "brutality",
   "transcription": "[bruːˈtælɪti]",
   "translation": "жестокость, зверство",
-  "nuance": null,
+  "nuance": "Жестокость, зверство (о насилии). Cruelty — жестокость шире (и к животным).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/brutality.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "People protested against police #brutality#.",
+    "ru": "Люди протестовали против жестокости полиции."
+   },
+   {
+    "en": "The #brutality# of the war shocked the world.",
+    "ru": "Жестокость войны потрясла мир."
+   },
+   {
+    "en": "The film shows the #brutality# of prison life.",
+    "ru": "Фильм показывает жестокость тюремной жизни."
+   }
+  ]
  },
  {
   "id": "2235",
   "word": "belt",
   "transcription": "[bɛlt]",
   "translation": "пояс, опоясывать",
-  "nuance": null,
+  "nuance": "Ремень, пояс. Tighten one's belt — затянуть пояс, экономить.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/38763/38763_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "After Christmas, I need a bigger #belt#.",
+    "ru": "После Рождества мне нужен ремень побольше."
+   },
+   {
+    "en": "Fasten your seat #belt#.",
+    "ru": "Пристегни ремень безопасности."
+   },
+   {
+    "en": "He has a black #belt# in karate.",
+    "ru": "У него чёрный пояс по карате."
+   }
+  ]
  },
  {
   "id": "2236",
   "word": "miss",
   "transcription": "[mɪs]",
   "translation": "пропускать, упустить",
-  "nuance": null,
+  "nuance": "Пропустить, опоздать на, промахнуться. Также miss — скучать по (другое значение).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/miss_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #missed# the bus by ten seconds.",
+    "ru": "Я опоздал на автобус на десять секунд."
+   },
+   {
+    "en": "Don't #miss# this chance!",
+    "ru": "Не упусти этот шанс!"
+   },
+   {
+    "en": "You #missed# a spot.",
+    "ru": "Ты пропустил пятно."
+   }
+  ]
  },
  {
   "id": "2237",
   "word": "recent",
   "transcription": "[ˈriːsnt]",
   "translation": "недавний, последний",
-  "nuance": null,
+  "nuance": "Недавний. Latest — самый свежий; last — последний по порядку (может и окончательный).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/recent.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Have you seen her #recent# photos?",
+    "ru": "Ты видел её недавние фото?"
+   },
+   {
+    "en": "In #recent# years, prices doubled.",
+    "ru": "За последние годы цены удвоились."
+   },
+   {
+    "en": "His most #recent# film was terrible.",
+    "ru": "Его последний фильм был ужасен."
+   }
+  ]
  },
  {
   "id": "2238",
   "word": "recently",
   "transcription": "[ˈriːsntli]",
   "translation": "в последнее время",
-  "nuance": null,
+  "nuance": "Недавно (обычно с Present Perfect). Lately — в последнее время (о повторяющемся).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/recently.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I've #recently# started running.",
+    "ru": "Я недавно начал бегать."
+   },
+   {
+    "en": "Have you seen any good films #recently#?",
+    "ru": "Ты смотрел недавно что-нибудь хорошее?"
+   },
+   {
+    "en": "The shop opened #recently#.",
+    "ru": "Магазин открылся недавно."
+   }
+  ]
  },
  {
   "id": "2239",
   "word": "reject",
   "transcription": "[ˈriːʤɛkt]",
   "translation": "отвергать",
-  "nuance": null,
+  "nuance": "Отвергнуть резко/окончательно. Refuse — отказаться; decline — вежливо отклонить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/reject.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The bank #rejected# my loan application.",
+    "ru": "Банк отклонил мою заявку на кредит."
+   },
+   {
+    "en": "The cat #rejected# the expensive food.",
+    "ru": "Кот отверг дорогой корм."
+   },
+   {
+    "en": "She #rejected# his proposal.",
+    "ru": "Она отвергла его предложение."
+   }
+  ]
  },
  {
   "id": "2240",
@@ -51377,267 +51481,618 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/rejection.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "After ten #rejections#, she got the job.",
+    "ru": "После десяти отказов она получила работу."
+   },
+   {
+    "en": "Fear of #rejection# stops many people.",
+    "ru": "Страх быть отвергнутым останавливает многих."
+   },
+   {
+    "en": "The body's #rejection# of the new kidney worried doctors.",
+    "ru": "Отторжение новой почки беспокоило врачей."
+   }
+  ]
  },
  {
   "id": "2241",
   "word": "leaf (pl: leaves)",
   "transcription": "[liːf]",
   "translation": "лист",
-  "nuance": null,
+  "nuance": "Мн.ч. leaves (не leafs!). Turn over a new leaf — начать с чистого листа.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/5077/5077_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Autumn #leaves# cover the garden.",
+    "ru": "Осенние листья покрывают сад."
+   },
+   {
+    "en": "A #leaf# fell on my head.",
+    "ru": "Мне на голову упал лист."
+   },
+   {
+    "en": "Turn over a new #leaf#.",
+    "ru": "Начни новую жизнь."
+   }
+  ]
  },
  {
   "id": "2242",
   "word": "locate",
   "transcription": "[ləʊˈkeɪt]",
   "translation": "определить местоположение",
-  "nuance": null,
+  "nuance": "Найти местоположение; be located — располагаться. Find — проще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/locate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The app #locates# the nearest café.",
+    "ru": "Приложение находит ближайшее кафе."
+   },
+   {
+    "en": "Police #located# the stolen car.",
+    "ru": "Полиция обнаружила угнанную машину."
+   },
+   {
+    "en": "The hotel is #located# near the beach.",
+    "ru": "Отель расположен у пляжа."
+   }
+  ]
  },
  {
   "id": "2243",
   "word": "location",
   "transcription": "[ləʊˈkeɪʃən]",
   "translation": "местонахождение",
-  "nuance": null,
+  "nuance": "Местоположение, место (съёмки). Place — место вообще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/location.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #location# of the hotel is perfect.",
+    "ru": "Расположение отеля идеальное."
+   },
+   {
+    "en": "Turn on #location# on your phone.",
+    "ru": "Включи геолокацию на телефоне."
+   },
+   {
+    "en": "The film was shot on #location# in Iceland.",
+    "ru": "Фильм снимали на натуре в Исландии."
+   }
+  ]
  },
  {
   "id": "2244",
   "word": "reason",
   "transcription": "[ˈriːzn]",
   "translation": "разум, благоразумие",
-  "nuance": null,
+  "nuance": "Разум, здравый смысл (также причина — другое значение).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/reason.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Listen to #reason#!",
+    "ru": "Прислушайся к голосу разума!"
+   },
+   {
+    "en": "She lost all #reason# when she saw the sale.",
+    "ru": "Она потеряла всякий разум, увидев распродажу."
+   },
+   {
+    "en": "It stands to #reason#.",
+    "ru": "Это логично."
+   }
+  ]
  },
  {
   "id": "2245",
   "word": "reasonable",
   "transcription": "[ˈriːznəbl]",
   "translation": "разумный",
-  "nuance": null,
+  "nuance": "Разумный, здравый; о цене — умеренный, приемлемый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/reasonable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Be #reasonable# — we can't buy a horse.",
+    "ru": "Будь благоразумен — мы не можем купить лошадь."
+   },
+   {
+    "en": "The prices here are #reasonable#.",
+    "ru": "Цены здесь приемлемые."
+   },
+   {
+    "en": "That's a #reasonable# question.",
+    "ru": "Это разумный вопрос."
+   }
+  ]
  },
  {
   "id": "2246",
   "word": "treasure",
   "transcription": "[ˈtrɛʒə]",
   "translation": "сокровище",
-  "nuance": null,
+  "nuance": "Сокровище (буквально и перен. о человеке). Глагол treasure — дорожить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/treasure.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The kids found a \"#treasure#\" — an old coin.",
+    "ru": "Дети нашли «сокровище» — старую монетку."
+   },
+   {
+    "en": "Pirates buried the #treasure# on the island.",
+    "ru": "Пираты зарыли сокровище на острове."
+   },
+   {
+    "en": "Grandma is a real #treasure#.",
+    "ru": "Бабушка — настоящее сокровище."
+   }
+  ]
  },
  {
   "id": "2247",
   "word": "treasury",
   "transcription": "[ˈtrɛʒ(ə)ri]",
   "translation": "казначейство",
-  "nuance": null,
+  "nuance": "Казначейство, казна. В Британии/США — министерство финансов.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/treasury.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #Treasury# controls government money.",
+    "ru": "Казначейство управляет государственными деньгами."
+   },
+   {
+    "en": "He works at the #Treasury#.",
+    "ru": "Он работает в Министерстве финансов."
+   },
+   {
+    "en": "The club #treasury# is empty.",
+    "ru": "Казна клуба пуста."
+   }
+  ]
  },
  {
   "id": "2248",
   "word": "former",
   "transcription": "[ˈfɔːmə]",
   "translation": "бывший",
-  "nuance": null,
+  "nuance": "Бывший (официально). Ex- — разг. (my ex). The former / the latter — первый / последний из двух.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/former.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My #former# boss now works for me.",
+    "ru": "Мой бывший начальник теперь работает на меня."
+   },
+   {
+    "en": "She's a #former# Olympic champion.",
+    "ru": "Она бывшая олимпийская чемпионка."
+   },
+   {
+    "en": "Of the two options, I prefer the #former#.",
+    "ru": "Из двух вариантов я предпочитаю первый."
+   }
+  ]
  },
  {
   "id": "2249",
   "word": "formerly",
   "transcription": "[ˈfɔːməli]",
   "translation": "прежде",
-  "nuance": null,
+  "nuance": "Официальнее, чем before / used to be.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/formerly.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The café was #formerly# a bank.",
+    "ru": "Раньше в этом кафе был банк."
+   },
+   {
+    "en": "#Formerly# a teacher, he now writes books.",
+    "ru": "Бывший учитель, теперь он пишет книги."
+   },
+   {
+    "en": "The street was #formerly# called Lenin Street.",
+    "ru": "Раньше улица называлась улицей Ленина."
+   }
+  ]
  },
  {
   "id": "2250",
   "word": "sign",
   "transcription": "[saɪn]",
   "translation": "знак",
-  "nuance": null,
+  "nuance": "Знак, табличка, признак. Также глагол sign — подписать.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/35505/35505_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Read the #sign# — no dogs allowed.",
+    "ru": "Прочитай табличку — собакам нельзя."
+   },
+   {
+    "en": "Is it a good #sign# when the cat purrs?",
+    "ru": "Это хороший знак, когда кот мурлычет?"
+   },
+   {
+    "en": "Give me a #sign# when you're ready.",
+    "ru": "Подай мне знак, когда будешь готов."
+   }
+  ]
  },
  {
   "id": "2251",
   "word": "failure",
   "transcription": "[ˈfeɪljə]",
   "translation": "неудача, провал",
-  "nuance": null,
+  "nuance": "Неудача, провал; отказ (техники). Fail — глагол.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/failure.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My first cake was a total #failure#.",
+    "ru": "Мой первый торт был полным провалом."
+   },
+   {
+    "en": "Engine #failure# caused the delay.",
+    "ru": "Задержка из-за отказа двигателя."
+   },
+   {
+    "en": "#Failure# is part of success.",
+    "ru": "Неудача — часть успеха."
+   }
+  ]
  },
  {
   "id": "2252",
   "word": "recycle",
   "transcription": "[ˌriːˈsaɪkl]",
   "translation": "перерабатывать",
-  "nuance": null,
+  "nuance": "Перерабатывать; разг. — повторно использовать старое (с иронией).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/38206/38206_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #recycle# all our bottles.",
+    "ru": "Мы сдаём все бутылки на переработку."
+   },
+   {
+    "en": "Paper can be #recycled# many times.",
+    "ru": "Бумагу можно перерабатывать много раз."
+   },
+   {
+    "en": "He #recycles# the same jokes every year.",
+    "ru": "Он каждый год повторяет одни и те же шутки."
+   }
+  ]
  },
  {
   "id": "2253",
   "word": "caution",
   "transcription": "[ˈkɔːʃən]",
   "translation": "осторожность, предостережение",
-  "nuance": null,
+  "nuance": "Осторожность (офиц.), предупреждение. Care — забота/осторожность (проще).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/caution.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Use #caution# on wet roads.",
+    "ru": "Будьте осторожны на мокрой дороге."
+   },
+   {
+    "en": "The doctor gave him a #caution# about smoking.",
+    "ru": "Врач предостерёг его насчёт курения."
+   },
+   {
+    "en": "#Caution#: hot coffee!",
+    "ru": "Осторожно: горячий кофе!"
+   }
+  ]
  },
  {
   "id": "2254",
   "word": "cautious",
   "transcription": "[ˈkɔːʃəs]",
   "translation": "осторожный",
-  "nuance": null,
+  "nuance": "Осмотрительный (продуманно). Careful — внимательный, аккуратный (проще).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/cautious.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Be #cautious# with strangers online.",
+    "ru": "Будь осторожен с незнакомцами в интернете."
+   },
+   {
+    "en": "She's a #cautious# driver.",
+    "ru": "Она осторожный водитель."
+   },
+   {
+    "en": "Investors are #cautious# right now.",
+    "ru": "Сейчас инвесторы осторожничают."
+   }
+  ]
  },
  {
   "id": "2255",
   "word": "labour",
   "transcription": "[ˈleɪbə]",
   "translation": "труд, трудиться",
-  "nuance": null,
+  "nuance": "Труд (физический), рабочая сила; также роды (in labour). Амер. labor.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/labour.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Building the house took years of #labour#.",
+    "ru": "Строительство дома заняло годы труда."
+   },
+   {
+    "en": "Cheap #labour# made the shirts cheap.",
+    "ru": "Дешёвая рабочая сила сделала рубашки дешёвыми."
+   },
+   {
+    "en": "She was in #labour# for ten hours.",
+    "ru": "Она рожала десять часов."
+   }
+  ]
  },
  {
   "id": "2256",
   "word": "labourer",
   "transcription": "[ˈleɪbərə]",
   "translation": "чернорабочий",
-  "nuance": null,
+  "nuance": "Разнорабочий, физический труд. Worker — шире.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/labourer.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Farm #labourers# start work at dawn.",
+    "ru": "Батраки на ферме начинают работу на рассвете."
+   },
+   {
+    "en": "He worked as a #labourer# on a building site.",
+    "ru": "Он работал разнорабочим на стройке."
+   },
+   {
+    "en": "#Labourers# dug the road by hand.",
+    "ru": "Рабочие вырыли дорогу вручную."
+   }
+  ]
  },
  {
   "id": "2257",
   "word": "laborious",
   "transcription": "[ləˈbɔːrɪəs]",
   "translation": "трудоемкий",
-  "nuance": null,
+  "nuance": "Трудоёмкий, муторный (с оттенком скуки). Hard — проще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/laborious.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Cleaning the oven is #laborious#.",
+    "ru": "Мыть духовку — трудоёмкое дело."
+   },
+   {
+    "en": "It was a #laborious# process.",
+    "ru": "Это был трудоёмкий процесс."
+   },
+   {
+    "en": "Writing by hand is slow and #laborious#.",
+    "ru": "Писать от руки — медленно и утомительно."
+   }
+  ]
  },
  {
   "id": "2258",
   "word": "do without",
   "transcription": "[duːwɪˈðaʊt]",
   "translation": "обойтись без",
-  "nuance": null,
+  "nuance": "Обойтись без (сознательно, без проблем). Go without — обходиться (часто вынужденно, с лишением).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/do_without.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I can't #do without# coffee in the morning.",
+    "ru": "Не могу обойтись утром без кофе."
+   },
+   {
+    "en": "We'll have to #do without# a car.",
+    "ru": "Придётся обойтись без машины."
+   },
+   {
+    "en": "Kids can #do without# so many toys.",
+    "ru": "Детям не нужно столько игрушек."
+   }
+  ]
  },
  {
   "id": "2259",
   "word": "go without",
   "transcription": "[gəʊwɪˈðaʊt]",
   "translation": "обходиться без",
-  "nuance": null,
+  "nuance": "Обходиться без (вынужденное лишение, тяжелее, чем do without).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/go_without.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #went without# sleep for two days.",
+    "ru": "Он два дня обходился без сна."
+   },
+   {
+    "en": "Many families #go without# basic food.",
+    "ru": "Многие семьи живут без самого необходимого."
+   },
+   {
+    "en": "I'd rather #go without# than eat that.",
+    "ru": "Лучше уж останусь голодным, чем буду это есть."
+   }
+  ]
  },
  {
   "id": "2260",
   "word": "spot",
   "transcription": "[spɒt]",
   "translation": "место",
-  "nuance": null,
+  "nuance": "Конкретное место, точка. Place — место вообще. Также spot — пятно, заметить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/spot.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We found a nice #spot# for a picnic.",
+    "ru": "Мы нашли хорошее место для пикника."
+   },
+   {
+    "en": "This is my favourite #spot# in the city.",
+    "ru": "Это моё любимое место в городе."
+   },
+   {
+    "en": "The cat has a sunny #spot# by the window.",
+    "ru": "У кота есть солнечное местечко у окна."
+   }
+  ]
  },
  {
   "id": "2261",
   "word": "offence (offense)",
   "transcription": "[əˈfɛns]",
   "translation": "преступление, нарушение",
-  "nuance": null,
+  "nuance": "Правонарушение; также обида (take offence — обидеться). No offence — без обид.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/offence.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Drunk driving is a serious #offence#.",
+    "ru": "Вождение в нетрезвом виде — серьёзное правонарушение."
+   },
+   {
+    "en": "It's his first #offence#.",
+    "ru": "Это его первое нарушение."
+   },
+   {
+    "en": "No #offence#, but your cooking is terrible.",
+    "ru": "Без обид, но ты ужасно готовишь."
+   }
+  ]
  },
  {
   "id": "2262",
   "word": "gang",
   "transcription": "[gæŋ]",
   "translation": "банда, шайка",
-  "nuance": null,
+  "nuance": "Банда; разг. — компания друзей (the gang).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/gang.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A #gang# of teenagers hangs out by the shop.",
+    "ru": "Компания подростков тусуется у магазина."
+   },
+   {
+    "en": "Police arrested the whole #gang#.",
+    "ru": "Полиция арестовала всю банду."
+   },
+   {
+    "en": "The old #gang# met for a reunion.",
+    "ru": "Старая компания собралась на встречу."
+   }
+  ]
  },
  {
   "id": "2263",
   "word": "pursuit",
   "transcription": "[pəˈsjuːt]",
   "translation": "преследование",
-  "nuance": null,
+  "nuance": "Преследование; стремление; занятие (leisure pursuits).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/pursuit.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The police were in #pursuit# of the thief.",
+    "ru": "Полиция преследовала вора."
+   },
+   {
+    "en": "The #pursuit# of happiness.",
+    "ru": "Стремление к счастью."
+   },
+   {
+    "en": "Reading is my favourite #pursuit#.",
+    "ru": "Чтение — моё любимое занятие."
+   }
+  ]
  },
  {
   "id": "2264",
   "word": "age",
   "transcription": "[eɪʤ]",
   "translation": "век, эпоха",
-  "nuance": null,
+  "nuance": "Эпоха, век; разг. for ages — очень долго.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/age.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We live in the #age# of smartphones.",
+    "ru": "Мы живём в эпоху смартфонов."
+   },
+   {
+    "en": "The Stone #Age# was long ago.",
+    "ru": "Каменный век был давно."
+   },
+   {
+    "en": "I haven't seen you for #ages#!",
+    "ru": "Сто лет тебя не видел!"
+   }
+  ]
  },
  {
   "id": "2265",
   "word": "middle ages",
   "transcription": "[ˈmɪdlˈeɪʤɪz]",
   "translation": "средневековье",
-  "nuance": null,
+  "nuance": "Пишется с заглавных: the Middle Ages.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/39846/39846_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Life in the #Middle Ages# was hard.",
+    "ru": "Жизнь в Средневековье была тяжёлой."
+   },
+   {
+    "en": "The castle dates from the #Middle Ages#.",
+    "ru": "Замок построен в Средние века."
+   },
+   {
+    "en": "My dad's phone is from the #Middle Ages#.",
+    "ru": "Папин телефон — из Средневековья."
+   }
+  ]
  },
  {
   "id": "2266",
   "word": "rise (rose, risen)",
   "transcription": "[raɪz]",
   "translation": "подниматься, повышение",
-  "nuance": null,
+  "nuance": "Rise — подниматься (само); raise — поднимать (что-то). Брит. pay rise, амер. raise.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/rise.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Prices keep #rising#.",
+    "ru": "Цены продолжают расти."
+   },
+   {
+    "en": "The sun #rises# at six.",
+    "ru": "Солнце встаёт в шесть."
+   },
+   {
+    "en": "I asked for a pay #rise#.",
+    "ru": "Я попросил прибавку к зарплате."
+   }
+  ]
  },
  {
   "id": "2267",
@@ -51647,147 +52102,342 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sunrise.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We got up early to watch the #sunrise#.",
+    "ru": "Мы встали рано, чтобы посмотреть на восход."
+   },
+   {
+    "en": "The #sunrise# over the sea was amazing.",
+    "ru": "Восход над морем был потрясающим."
+   },
+   {
+    "en": "The farmers work from #sunrise# to sunset.",
+    "ru": "Фермеры работают от рассвета до заката."
+   }
+  ]
  },
  {
   "id": "2268",
   "word": "regret",
   "transcription": "[rɪˈgrɛt]",
   "translation": "сожалеть, сожаление",
-  "nuance": null,
+  "nuance": "Сожалеть (о сделанном). Офиц. «We regret to inform you» — с сожалением сообщаем. Sorry — разг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/regret.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #regret# eating the whole pizza.",
+    "ru": "Жалею, что съел целую пиццу."
+   },
+   {
+    "en": "We #regret# to inform you the flight is cancelled.",
+    "ru": "С сожалением сообщаем, что рейс отменён."
+   },
+   {
+    "en": "No #regrets#!",
+    "ru": "Ни о чём не жалею!"
+   }
+  ]
  },
  {
   "id": "2269",
   "word": "regrettable",
   "transcription": "[rɪˈgrɛtəbl]",
   "translation": "прискорбный",
-  "nuance": null,
+  "nuance": "Официальное (в заявлениях). Разг.: a shame, a pity.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/regrettable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It's #regrettable# that he lost his job.",
+    "ru": "Достойно сожаления, что он потерял работу."
+   },
+   {
+    "en": "It was a #regrettable# mistake.",
+    "ru": "Это была досадная ошибка."
+   },
+   {
+    "en": "The incident is deeply #regrettable#.",
+    "ru": "Инцидент вызывает глубокое сожаление."
+   }
+  ]
  },
  {
   "id": "2270",
   "word": "reserve",
   "transcription": "[rɪˈzɜːv]",
   "translation": "бронировать",
-  "nuance": null,
+  "nuance": "Reserve — чуть официальнее, чем book.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/reserve_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #reserved# a table for two.",
+    "ru": "Я забронировал столик на двоих."
+   },
+   {
+    "en": "Seats can be #reserved# online.",
+    "ru": "Места можно забронировать онлайн."
+   },
+   {
+    "en": "This parking space is #reserved#.",
+    "ru": "Это парковочное место зарезервировано."
+   }
+  ]
  },
  {
   "id": "2271",
   "word": "reservation",
   "transcription": "[ˌrɛzəˈveɪʃən]",
   "translation": "бронирование",
-  "nuance": null,
+  "nuance": "Бронь; также сомнения (have reservations about).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/reservation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Do you have a #reservation#?",
+    "ru": "У вас есть бронь?"
+   },
+   {
+    "en": "I made a #reservation# at the restaurant.",
+    "ru": "Я забронировал ресторан."
+   },
+   {
+    "en": "I have some #reservations# about the plan.",
+    "ru": "У меня есть сомнения насчёт плана."
+   }
+  ]
  },
  {
   "id": "2272",
   "word": "yet",
   "transcription": "[jɛt]",
   "translation": "всё же",
-  "nuance": null,
+  "nuance": "Yet = but, however (книжнее, с оттенком неожиданности). Также yet — ещё (в отриц.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/yet_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The cake looked terrible, #yet# it tasted great.",
+    "ru": "Торт выглядел ужасно, и всё же был вкусным."
+   },
+   {
+    "en": "He's rich, #yet# unhappy.",
+    "ru": "Он богат, но всё же несчастлив."
+   },
+   {
+    "en": "Simple #yet# effective.",
+    "ru": "Просто, но эффективно."
+   }
+  ]
  },
  {
   "id": "2273",
   "word": "youth",
   "transcription": "[juːθ]",
   "translation": "молодёжь, молодость",
-  "nuance": null,
+  "nuance": "Молодость; молодёжь (the youth); a youth — юнец (часто неодобр.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/youth.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "In my #youth#, I could eat a whole pizza.",
+    "ru": "В молодости я мог съесть целую пиццу."
+   },
+   {
+    "en": "The #youth# of today love TikTok.",
+    "ru": "Нынешняя молодёжь любит тикток."
+   },
+   {
+    "en": "He spent his #youth# in the village.",
+    "ru": "Он провёл молодость в деревне."
+   }
+  ]
  },
  {
   "id": "2274",
   "word": "youthful",
   "transcription": "[ˈjuːθfʊl]",
   "translation": "юный, юношеский",
-  "nuance": null,
+  "nuance": "Моложавый, юношеский (положительно). Young — молодой (возраст).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/youthful.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandma has a #youthful# spirit.",
+    "ru": "У бабушки молодой дух."
+   },
+   {
+    "en": "She looks #youthful# for her age.",
+    "ru": "Она выглядит моложаво для своего возраста."
+   },
+   {
+    "en": "His #youthful# mistakes taught him a lot.",
+    "ru": "Его юношеские ошибки многому его научили."
+   }
+  ]
  },
  {
   "id": "2275",
   "word": "surround",
   "transcription": "[səˈraʊnd]",
   "translation": "окружать",
-  "nuance": null,
+  "nuance": "Окружать. Encircle — книжнее, кольцом.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/surround.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Mountains #surround# the town.",
+    "ru": "Город окружён горами."
+   },
+   {
+    "en": "The kids #surrounded# the ice cream van.",
+    "ru": "Дети окружили фургон с мороженым."
+   },
+   {
+    "en": "She's #surrounded# by cats.",
+    "ru": "Она окружена кошками."
+   }
+  ]
  },
  {
   "id": "2276",
   "word": "surroundings",
   "transcription": "[səˈraʊndɪŋz]",
   "translation": "окружение",
-  "nuance": null,
+  "nuance": "Окрестности, обстановка (только мн.ч.). Environment — среда (шире, абстрактнее).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/surroundings.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The hotel has beautiful #surroundings#.",
+    "ru": "Вокруг отеля красивые места."
+   },
+   {
+    "en": "Kids need familiar #surroundings#.",
+    "ru": "Детям нужна привычная обстановка."
+   },
+   {
+    "en": "The cat checked out its new #surroundings#.",
+    "ru": "Кот изучил новое окружение."
+   }
+  ]
  },
  {
   "id": "2277",
   "word": "vital",
   "transcription": "[ˈvaɪtl]",
   "translation": "жизненный, жизненно важный",
-  "nuance": null,
+  "nuance": "Жизненно важный (сильнее, чем important). Essential — необходимый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/vital.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Water is #vital# for life.",
+    "ru": "Вода жизненно необходима."
+   },
+   {
+    "en": "Sleep is #vital# for kids.",
+    "ru": "Сон крайне важен для детей."
+   },
+   {
+    "en": "It's #vital# that you call me.",
+    "ru": "Очень важно, чтобы ты мне позвонил."
+   }
+  ]
  },
  {
   "id": "2278",
   "word": "vitality",
   "transcription": "[vaɪˈtælɪti]",
   "translation": "жизнеспособность",
-  "nuance": null,
+  "nuance": "Жизненная энергия, бодрость. Energy — проще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/vitality.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandpa is full of #vitality# at 90.",
+    "ru": "Дедушка полон жизненных сил в свои 90."
+   },
+   {
+    "en": "The new park brought #vitality# to the area.",
+    "ru": "Новый парк оживил район."
+   },
+   {
+    "en": "Exercise improves #vitality#.",
+    "ru": "Спорт повышает жизненный тонус."
+   }
+  ]
  },
  {
   "id": "2279",
   "word": "wrong",
   "transcription": "[rɒŋ]",
   "translation": "не тот",
-  "nuance": null,
+  "nuance": "«Не тот» — с существительным: the wrong train, wrong address.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/wrong.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I took the #wrong# bus.",
+    "ru": "Я сел не на тот автобус."
+   },
+   {
+    "en": "Sorry, #wrong# number.",
+    "ru": "Извините, ошиблись номером."
+   },
+   {
+    "en": "He married the #wrong# woman.",
+    "ru": "Он женился не на той женщине."
+   }
+  ]
  },
  {
   "id": "2280",
   "word": "insect",
   "transcription": "[ˈɪnsɛkt]",
   "translation": "насекомое",
-  "nuance": null,
+  "nuance": "Научное/общее. Bug — разг. (жучок, насекомое); амер. bug — любое насекомое.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/7134/7134_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "An #insect# flew into my soup.",
+    "ru": "Мне в суп залетело насекомое."
+   },
+   {
+    "en": "My son collects #insects#.",
+    "ru": "Сын собирает насекомых."
+   },
+   {
+    "en": "#Insect# repellent is a must here.",
+    "ru": "Средство от насекомых здесь обязательно."
+   }
+  ]
  },
  {
   "id": "2281",
   "word": "construction (site)",
   "transcription": "[kənˈstrʌkʃən]",
   "translation": "стройка",
-  "nuance": null,
+  "nuance": "Construction — строительство; construction site — стройплощадка (брит. также building site).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/19537/19537_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #construction site# next door starts at 7 a.m.",
+    "ru": "Стройка по соседству начинается в 7 утра."
+   },
+   {
+    "en": "Wear a helmet on the #construction# site.",
+    "ru": "На стройке надевай каску."
+   },
+   {
+    "en": "The road is under #construction#.",
+    "ru": "Дорога ремонтируется."
+   }
+  ]
  },
  {
   "id": "2282",
