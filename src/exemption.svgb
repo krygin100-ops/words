@@ -1,0 +1,5 @@
+<rect x="40" y="30" width="120" height="150" rx="6" fill="{F}"/>
+<text x="100" y="65" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">PASS</text>
+<path d="M60 90 H140 M60 110 H140" stroke="#000" stroke-width="3"/>
+<circle cx="110" cy="145" r="20" stroke="#000" stroke-width="4"/>
+<path d="M100 145 L107 152 L122 136" stroke="#000" stroke-width="4"/>

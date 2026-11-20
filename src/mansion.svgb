@@ -1,0 +1,6 @@
+<path d="M10 180 H190"/>
+<path d="M20 180 V90 H180 V180" fill="{F}"/>
+<path d="M10 90 L100 40 L190 90 Z" fill="{F}"/>
+<g fill="#000"><rect x="35" y="105" width="20" height="25"/><rect x="65" y="105" width="20" height="25"/><rect x="115" y="105" width="20" height="25"/><rect x="145" y="105" width="20" height="25"/><rect x="35" y="145" width="20" height="25"/><rect x="145" y="145" width="20" height="25"/></g>
+<rect x="85" y="140" width="30" height="40" fill="#000"/>
+<circle cx="100" cy="70" r="10" fill="#000"/>

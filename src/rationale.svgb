@@ -1,0 +1,7 @@
+<circle cx="70" cy="110" r="25" fill="{F}"/>
+<path d="M58 105 L66 108 M82 105 L74 108" stroke-width="3"/>
+<path d="M60 125 H80" stroke-width="3"/>
+<path d="M40 190 Q40 140 70 140 Q100 140 100 190" fill="{F}"/>
+<path d="M105 40 H185 V100 H135 L120 115 V100 H105 Z" fill="{F}"/>
+<text x="145" y="65" font-size="15" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">because:</text>
+<text x="145" y="88" font-size="15" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">1, 2, 3</text>

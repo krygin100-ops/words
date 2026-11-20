@@ -1,0 +1,9 @@
+<rect x="20" y="40" width="160" height="110" rx="12" fill="{F}"/>
+<rect x="35" y="55" width="40" height="35" fill="#000"/>
+<rect x="85" y="55" width="40" height="35" fill="#000"/>
+<rect x="135" y="55" width="30" height="35" fill="#000"/>
+<circle cx="55" cy="75" r="8" fill="{F}"/>
+<circle cx="105" cy="75" r="8" fill="{F}"/>
+<circle cx="50" cy="160" r="12" fill="#000" stroke-width="5"/>
+<circle cx="150" cy="160" r="12" fill="#000" stroke-width="5"/>
+<text x="100" y="125" font-size="16" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">8:15 AM</text>

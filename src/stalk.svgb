@@ -1,0 +1,11 @@
+<ellipse cx="70" cy="150" rx="35" ry="15" fill="{F}"/>
+<circle cx="105" cy="140" r="14" fill="{F}"/>
+<path d="M98 128 L95 115 L105 126 M110 128 L115 115 L105 126" fill="{F}"/>
+<circle cx="110" cy="138" r="3" fill="{L}" stroke="none"/>
+<path d="M35 145 Q15 130 20 110"/>
+<path d="M50 165 V178 M85 165 V178"/>
+<ellipse cx="165" cy="160" rx="12" ry="8" fill="{F}"/>
+<circle cx="175" cy="155" r="5" fill="{F}"/>
+<path d="M153 162 Q140 165 135 155" stroke-width="2"/>
+<text x="90" y="80" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">sneak...</text>
+<path d="M10 180 H190"/>

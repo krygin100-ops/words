@@ -1,0 +1,4 @@
+<rect x="40" y="40" width="120" height="120" rx="8" fill="{F}"/>
+<text x="100" y="95" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">TAX</text>
+<path d="M30 30 L170 170" stroke-width="8"/>
+<text x="100" y="190" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">you're free!</text>

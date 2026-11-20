@@ -1,0 +1,4 @@
+<circle cx="100" cy="120" r="16" fill="{F}"/>
+<path d="M100 136 V170 L90 190 M100 170 L110 190 M100 145 L70 95 M100 145 L130 95"/>
+<rect x="55" y="50" width="90" height="45" rx="6" fill="{F}"/>
+<text x="100" y="78" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">RULES</text>

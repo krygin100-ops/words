@@ -1,0 +1,7 @@
+<ellipse cx="90" cy="120" rx="55" ry="40" fill="{F}"/>
+<circle cx="145" cy="90" r="30" fill="{F}"/>
+<path d="M125 65 L115 40 L135 60 M160 65 L170 40 L155 60" fill="{F}"/>
+<path d="M135 85 L148 90 M165 85 L152 90" stroke-width="4"/>
+<path d="M140 108 L145 102 L150 108 L155 102 L160 108" stroke-width="3"/>
+<path d="M50 155 V180 M75 158 V180 M105 158 V180 M125 155 V180"/>
+<text x="60" y="55" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">GRRR</text>

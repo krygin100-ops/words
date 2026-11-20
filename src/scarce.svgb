@@ -1,0 +1,4 @@
+<path d="M40 60 H160 V170 H40 Z" stroke-width="5"/>
+<path d="M40 100 H160 M40 140 H160" stroke-width="3"/>
+<circle cx="140" cy="125" r="10" fill="{F}"/>
+<text x="100" y="40" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">almost none</text>

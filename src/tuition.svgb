@@ -1,0 +1,6 @@
+<path d="M20 70 L100 40 L180 70 L100 100 Z" fill="{F}"/>
+<path d="M50 85 V120 Q100 145 150 120 V85" fill="{F}"/>
+<path d="M165 75 V120" stroke-width="3"/>
+<circle cx="70" cy="165" r="20" fill="{L}"/>
+<text x="70" y="172" font-size="20" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">$</text>
+<text x="140" y="172" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">fees</text>

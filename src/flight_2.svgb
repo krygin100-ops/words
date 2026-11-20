@@ -1,0 +1,5 @@
+<circle cx="130" cy="50" r="15" fill="{F}"/>
+<path d="M125 65 L110 110 L85 130 M110 110 L130 145 L120 180 M118 80 L145 90 L155 80 M118 80 L90 80" stroke-width="7"/>
+<path d="M20 70 H70 M15 100 H65 M25 130 H70" stroke-width="4"/>
+<path d="M160 30 L175 20 M165 50 L185 50" stroke-width="3"/>
+<text x="50" y="180" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">RUN!</text>

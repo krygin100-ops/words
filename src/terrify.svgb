@@ -1,0 +1,5 @@
+<path d="M50 180 V90 Q50 30 100 30 Q150 30 150 90 V180 L135 165 L120 180 L100 165 L80 180 L65 165 Z" fill="{F}"/>
+<ellipse cx="80" cy="85" rx="9" ry="13" fill="#000"/>
+<ellipse cx="120" cy="85" rx="9" ry="13" fill="#000"/>
+<ellipse cx="100" cy="125" rx="12" ry="16" fill="#000"/>
+<text x="170" y="50" font-size="24" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">BOO!</text>

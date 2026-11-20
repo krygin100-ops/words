@@ -1,0 +1,5 @@
+<path d="M20 180 H180"/>
+<path d="M60 60 L130 50 Q155 45 158 52 Q158 60 140 62 L65 70 Z" fill="{F}"/>
+<path d="M100 60 V175" stroke-width="2" stroke-dasharray="6 6"/>
+<path d="M92 165 L100 177 L108 165 M92 72 L100 62 L108 72" stroke-width="3"/>
+<text x="150" y="120" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">10 km</text>
