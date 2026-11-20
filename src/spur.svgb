@@ -1,0 +1,5 @@
+<path d="M20 120 H100 Q130 120 130 90 V40" stroke-width="12"/>
+<path d="M100 120 L150 140" stroke-width="7"/>
+<circle cx="160" cy="145" r="15" fill="{F}"/>
+<g stroke-width="4"><path d="M160 125 V115 M175 135 L185 128 M178 150 L190 152 M165 162 L170 172 M148 160 L140 168"/></g>
+<text x="60" y="170" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">giddy-up!</text>

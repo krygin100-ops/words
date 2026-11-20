@@ -1,0 +1,5 @@
+<g fill="{F}"><circle cx="30" cy="70" r="12"/><circle cx="70" cy="70" r="12"/><circle cx="110" cy="70" r="12"/><circle cx="150" cy="70" r="12"/></g>
+<path d="M30 82 V140 L22 175 M30 140 L38 175 M70 82 V140 L62 175 M70 140 L78 175 M110 82 V140 L102 175 M110 140 L118 175 M150 82 V140 L142 175 M150 140 L158 175"/>
+<g fill="{L}"><rect x="20" y="100" width="20" height="16"/><rect x="60" y="100" width="20" height="16"/><rect x="100" y="100" width="20" height="16"/><rect x="140" y="100" width="20" height="16"/></g>
+<g font-size="12" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif"><text x="30" y="113">1</text><text x="70" y="113">2</text><text x="110" y="113">3</text><text x="150" y="113">4</text></g>
+<path d="M10 40 H190" stroke-width="3" stroke-dasharray="8 6"/>

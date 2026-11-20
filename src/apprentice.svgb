@@ -1,0 +1,7 @@
+<circle cx="60" cy="55" r="20" fill="{F}"/>
+<path d="M60 75 V140 L45 185 M60 140 L75 185 M60 95 L95 110"/>
+<circle cx="140" cy="95" r="14" fill="{F}"/>
+<path d="M140 109 V150 L130 185 M140 150 L150 185 M140 120 L115 110"/>
+<path d="M95 110 H115" stroke-width="5"/>
+<path d="M130 82 H150 L145 72 H135 Z" fill="{L}"/>
+<text x="150" y="50" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">learning…</text>

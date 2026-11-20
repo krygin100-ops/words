@@ -1,0 +1,6 @@
+<path d="M25 150 A75 75 0 0 1 175 150" stroke-width="8"/>
+<path d="M25 150 A75 75 0 0 1 60 88" stroke-width="14"/>
+<path d="M100 150 L145 95" stroke-width="6"/>
+<circle cx="100" cy="150" r="12" fill="{F}"/>
+<path d="M40 110 L50 115 M70 85 L76 93 M100 75 V85 M130 85 L124 93 M160 110 L150 115" stroke-width="4"/>
+<text x="100" y="190" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">PSI</text>

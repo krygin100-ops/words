@@ -1,0 +1,4 @@
+<rect x="20" y="60" width="160" height="60" rx="10" stroke-width="6"/>
+<rect x="30" y="70" width="140" height="40" rx="5" fill="{L}"/>
+<text x="100" y="98" font-size="20" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">FULL</text>
+<text x="100" y="170" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">totally!</text>

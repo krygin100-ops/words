@@ -1,0 +1,4 @@
+<path d="M100 190 V120" stroke-width="3" stroke-dasharray="5 5"/>
+<g stroke-width="5"><path d="M100 80 V30 M100 80 L140 45 M100 80 L150 85 M100 80 L135 120 M100 80 L60 120 M100 80 L50 85 M100 80 L60 45"/></g>
+<g fill="{L}" stroke="none"><circle cx="100" cy="25" r="6"/><circle cx="145" cy="40" r="6"/><circle cx="156" cy="85" r="6"/><circle cx="140" cy="125" r="6"/><circle cx="55" cy="125" r="6"/><circle cx="44" cy="85" r="6"/><circle cx="55" cy="40" r="6"/></g>
+<text x="160" y="180" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">BOOM</text>

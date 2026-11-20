@@ -1,0 +1,7 @@
+<circle cx="40" cy="90" r="16" fill="{F}"/>
+<path d="M40 106 V145 L30 180 M40 145 L50 180 M40 115 L110 105"/>
+<circle cx="120" cy="104" r="12" fill="{F}"/>
+<circle cx="165" cy="90" r="16" fill="{F}"/>
+<path d="M165 106 V145 L155 180 M165 145 L175 180"/>
+<path d="M135 85 L145 75 M135 120 L145 130 M138 103 H150" stroke-width="3"/>
+<text x="150" y="45" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">poke!</text>

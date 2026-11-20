@@ -1,0 +1,5 @@
+<circle cx="65" cy="60" r="18" fill="{F}"/>
+<circle cx="135" cy="60" r="18" fill="{F}"/>
+<path d="M57 62 Q65 68 73 62 M127 62 Q135 68 143 62" stroke-width="3"/>
+<path d="M65 78 V135 L50 180 M65 135 L80 180 M135 78 V135 L120 180 M135 135 L150 180 M65 92 L100 85 L135 92 M65 92 L40 115 M135 92 L160 115"/>
+<text x="100" y="25" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">hey pal!</text>
