@@ -1,0 +1,5 @@
+<g fill="{F}" opacity="0.5"><circle cx="40" cy="100" r="14"/><circle cx="160" cy="100" r="14"/></g>
+<circle cx="100" cy="90" r="18" fill="{F}"/>
+<path d="M100 108 V150 L85 180 M100 150 L115 180 M100 120 L75 105 M100 120 L125 105"/>
+<path d="M95 92 Q100 98 105 92" stroke-width="2"/>
+<text x="100" y="45" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">I'm in!</text>

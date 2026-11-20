@@ -1,0 +1,7 @@
+<circle cx="60" cy="80" r="22" fill="{F}"/>
+<path d="M45 90 Q60 110 75 90" fill="{L}"/>
+<path d="M30 190 Q30 115 60 115 Q90 115 90 190" fill="{F}"/>
+<path d="M100 40 H185 V100 H130 L115 115 V100 H100 Z" fill="{F}"/>
+<circle cx="142" cy="65" r="12" fill="{L}"/>
+<path d="M137 80 H147" stroke="#000" stroke-width="3"/>
+<text x="142" y="95" font-size="12" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">tip:</text>

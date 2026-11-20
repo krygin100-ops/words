@@ -1,0 +1,5 @@
+<rect x="25" y="30" width="150" height="150" rx="6" fill="{F}"/>
+<text x="60" y="65" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">9:00</text>
+<text x="60" y="105" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">12:00</text>
+<text x="60" y="145" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">15:00</text>
+<path d="M90 60 H155 M90 100 H155 M90 140 H155" stroke="#000" stroke-width="6"/>

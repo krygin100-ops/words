@@ -1,0 +1,7 @@
+<rect x="15" y="110" width="50" height="70" fill="{F}"/>
+<rect x="135" y="110" width="50" height="70" fill="{F}"/>
+<circle cx="40" cy="85" r="16" fill="{F}"/>
+<circle cx="160" cy="85" r="16" fill="{F}"/>
+<path d="M60 75 L80 65 M140 75 L120 65" stroke-width="5"/>
+<text x="100" y="40" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">PRO vs CON</text>
+<path d="M90 90 L100 80 L110 90" stroke-width="3"/>

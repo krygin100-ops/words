@@ -1,0 +1,5 @@
+<path d="M10 180 L80 70 L120 120 L150 90 L190 180 Z" fill="{F}"/>
+<circle cx="80" cy="45" r="12" fill="{F}"/>
+<path d="M80 57 V70 M80 60 L65 45 M80 60 L95 45"/>
+<path d="M90 30 V10 L110 15 L90 22" fill="{L}"/>
+<text x="150" y="50" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">yes!</text>

@@ -1,0 +1,4 @@
+<g fill="{F}"><circle cx="40" cy="90" r="14"/><circle cx="100" cy="85" r="14"/><circle cx="160" cy="90" r="14"/></g>
+<path d="M24 170 Q24 110 40 110 Q56 110 56 170 M84 170 Q84 105 100 105 Q116 105 116 170 M144 170 Q144 110 160 110 Q176 110 176 170" fill="{F}"/>
+<path d="M30 110 L20 75 M50 110 L60 75 M90 105 L80 70 M110 105 L120 70 M150 110 L140 75 M170 110 L180 75" stroke-width="5"/>
+<text x="100" y="40" font-size="24" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">HOORAY!</text>

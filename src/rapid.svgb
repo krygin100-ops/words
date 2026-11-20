@@ -1,0 +1,4 @@
+<circle cx="140" cy="100" r="30" fill="{F}"/>
+<path d="M20 75 H95 M10 100 H95 M25 125 H95" stroke-width="5"/>
+<path d="M160 70 L175 55 M165 130 L180 145" stroke-width="3"/>
+<text x="140" y="108" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">zoom</text>

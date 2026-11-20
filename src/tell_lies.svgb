@@ -1,0 +1,9 @@
+<circle cx="70" cy="90" r="30" fill="{F}"/>
+<circle cx="60" cy="82" r="3.5" fill="{L}" stroke="none"/>
+<circle cx="80" cy="82" r="3.5" fill="{L}" stroke="none"/>
+<path d="M100 90 H180" stroke-width="12"/>
+<path d="M60 108 Q70 113 80 106" stroke-width="3"/>
+<path d="M160 80 Q170 70 165 60 M150 82 L140 70" stroke-width="3"/>
+<circle cx="163" cy="56" r="5" fill="{L}" stroke="none"/>
+<path d="M40 190 Q40 130 70 130 Q100 130 100 190" fill="{F}"/>
+<text x="140" y="40" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">honest!</text>

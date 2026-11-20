@@ -1,0 +1,5 @@
+<path d="M20 100 H150" stroke-width="7"/>
+<path d="M140 75 L175 100 L140 125" stroke-width="7"/>
+<circle cx="40" cy="100" r="10" fill="{F}"/>
+<rect x="60" y="40" width="80" height="30" rx="15" fill="{F}"/>
+<text x="100" y="62" font-size="16" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">NEXT</text>

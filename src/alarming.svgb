@@ -1,0 +1,6 @@
+<circle cx="100" cy="110" r="50" fill="{F}"/>
+<path d="M100 110 V80 M100 110 L120 120" stroke="#000" stroke-width="5"/>
+<circle cx="65" cy="55" r="15" fill="{F}"/>
+<circle cx="135" cy="55" r="15" fill="{F}"/>
+<path d="M30 70 L15 60 M30 100 H10 M170 70 L185 60 M170 100 H190" stroke-width="5"/>
+<text x="100" y="25" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">RING!</text>

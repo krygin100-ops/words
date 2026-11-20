@@ -1,0 +1,7 @@
+<ellipse cx="100" cy="110" rx="45" ry="35" fill="{L}"/>
+<circle cx="100" cy="80" r="25" fill="{F}"/>
+<path d="M90 82 Q95 78 100 82 M100 82 Q105 78 110 82" stroke-width="2"/>
+<circle cx="100" cy="92" r="4" fill="{L}" stroke="none"/>
+<path d="M60 40 L140 40 M100 40 V55" stroke-width="0"/>
+<g fill="{L}" stroke="none"><path d="M40 50 L43 40 L46 50 L56 53 L46 56 L43 66 L40 56 L30 53 Z"/><path d="M160 50 L163 40 L166 50 L176 53 L166 56 L163 66 L160 56 L150 53 Z"/></g>
+<text x="100" y="180" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">born!</text>

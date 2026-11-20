@@ -1,0 +1,5 @@
+<rect x="90" y="40" width="20" height="140" fill="{F}"/>
+<circle cx="40" cy="110" r="15" fill="{L}"/>
+<path d="M60 110 H85" stroke-width="3" stroke-dasharray="4 4"/>
+<path d="M130 90 L160 120 M160 90 L130 120" stroke-width="6"/>
+<text x="100" y="30" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">STOP IT</text>
