@@ -1,0 +1,9 @@
+<circle cx="70" cy="110" r="30" fill="{F}"/>
+<circle cx="80" cy="102" r="4" fill="{L}" stroke="none"/>
+<circle cx="92" cy="102" r="4" fill="{L}" stroke="none"/>
+<path d="M65 125 Q72 130 80 124" stroke-width="3"/>
+<path d="M40 190 Q40 150 70 150 Q100 150 100 190" fill="{F}"/>
+<rect x="20" y="40" width="50" height="35" fill="{F}" opacity="0.6"/>
+<path d="M120 60 Q140 40 165 55 Q180 35 175 70" stroke-width="0"/>
+<g fill="{L}" stroke="none"><path d="M150 50 L155 35 L160 50 L175 55 L160 60 L155 75 L150 60 L135 55 Z"/></g>
+<text x="155" y="110" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">ooh shiny!</text>

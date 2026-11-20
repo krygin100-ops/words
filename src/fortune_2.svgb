@@ -1,0 +1,5 @@
+<path d="M100 165 Q50 140 50 110 Q50 85 75 85 Q60 60 85 50 Q100 60 100 85 Q100 60 115 50 Q140 60 125 85 Q150 85 150 110 Q150 140 100 165 Z" fill="{F}"/>
+<path d="M100 165 V190" stroke-width="6"/>
+<path d="M75 85 Q100 100 125 85" stroke="#000" stroke-width="3"/>
+<g fill="{L}" stroke="none"><path d="M40 40 L43 30 L46 40 L56 43 L46 46 L43 56 L40 46 L30 43 Z"/><path d="M160 40 L163 30 L166 40 L176 43 L166 46 L163 56 L160 46 L150 43 Z"/></g>
+<text x="100" y="125" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">lucky!</text>

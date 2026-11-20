@@ -1,0 +1,5 @@
+<circle cx="45" cy="100" r="22" fill="{L}"/>
+<path d="M75 100 H95 M87 92 L97 100 L87 108" stroke-width="4"/>
+<g fill="{L}"><circle cx="125" cy="80" r="16"/><circle cx="165" cy="80" r="16"/><circle cx="125" cy="125" r="16"/><circle cx="165" cy="125" r="16"/></g>
+<text x="45" y="160" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">cat</text>
+<text x="145" y="170" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">cats</text>

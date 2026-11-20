@@ -1,0 +1,8 @@
+<circle cx="35" cy="90" r="16" fill="{F}"/>
+<circle cx="165" cy="90" r="16" fill="{F}"/>
+<path d="M28 88 L36 92 M42 86 L36 92 M158 86 L164 92 M172 88 L164 92" stroke="#000" stroke-width="3"/>
+<path d="M35 106 V150 L25 185 M35 150 L45 185 M165 106 V150 L155 185 M165 150 L175 185"/>
+<circle cx="100" cy="70" r="16" fill="{L}"/>
+<path d="M93 72 Q100 78 107 72" stroke="#000" stroke-width="3"/>
+<path d="M100 86 V140 L90 180 M100 140 L110 180 M100 100 L60 110 M100 100 L140 110"/>
+<text x="100" y="30" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">calm down…</text>

@@ -1,0 +1,7 @@
+<circle cx="60" cy="70" r="18" fill="{F}"/>
+<path d="M52 72 Q60 78 68 72" stroke-width="3"/>
+<path d="M60 88 V140 L45 180 M60 140 L75 180 M60 100 L90 80"/>
+<rect x="110" y="40" width="70" height="100" rx="4" fill="{F}"/>
+<text x="145" y="65" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">MENU</text>
+<path d="M120 80 H170 M120 95 H170 M120 110 H160" stroke="#000" stroke-width="3"/>
+<text x="60" y="30" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">one pizza!</text>

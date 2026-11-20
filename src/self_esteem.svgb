@@ -1,0 +1,7 @@
+<rect x="110" y="30" width="70" height="110" rx="35" fill="{F}"/>
+<circle cx="145" cy="75" r="14" fill="{L}"/>
+<path d="M140 75 Q145 80 150 75" stroke="#000" stroke-width="2"/>
+<circle cx="60" cy="75" r="18" fill="{F}"/>
+<path d="M52 77 Q60 83 68 77" stroke-width="3"/>
+<path d="M60 93 V140 L45 180 M60 140 L75 180 M60 105 L35 85 M60 105 L85 85"/>
+<text x="145" y="170" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">lookin' good!</text>

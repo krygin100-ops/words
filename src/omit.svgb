@@ -1,0 +1,6 @@
+<path d="M20 100 H180" stroke-width="3"/>
+<g fill="{L}"><circle cx="40" cy="100" r="12"/><circle cx="80" cy="100" r="12"/><circle cx="160" cy="100" r="12"/></g>
+<circle cx="120" cy="100" r="12" stroke-width="3" stroke-dasharray="4 4"/>
+<path d="M90 75 Q120 40 150 75" stroke-width="4"/>
+<path d="M140 68 L150 78 L155 64" stroke-width="4"/>
+<text x="120" y="150" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">skip!</text>

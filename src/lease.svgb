@@ -1,0 +1,6 @@
+<path d="M20 180 V100 L70 60 L120 100 V180 Z" fill="{F}"/>
+<rect x="60" y="130" width="20" height="50" fill="#000"/>
+<rect x="125" y="70" width="60" height="80" rx="4" fill="{L}"/>
+<text x="155" y="98" font-size="14" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">FOR</text>
+<text x="155" y="118" font-size="14" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">RENT</text>
+<path d="M155 150 V180" stroke-width="5"/>

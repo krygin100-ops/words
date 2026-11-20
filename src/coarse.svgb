@@ -1,0 +1,4 @@
+<rect x="30" y="70" width="140" height="70" fill="{F}"/>
+<g fill="{L}" stroke="none"><circle cx="45" cy="80" r="5"/><circle cx="70" cy="95" r="6"/><circle cx="100" cy="80" r="5"/><circle cx="125" cy="100" r="7"/><circle cx="155" cy="85" r="5"/><circle cx="55" cy="120" r="6"/><circle cx="90" cy="125" r="5"/><circle cx="140" cy="125" r="6"/></g>
+<path d="M30 70 L40 60 L50 70 L60 58 L70 70 L80 60 L90 70 L100 58 L110 70 L120 60 L130 70 L140 58 L150 70 L160 60 L170 70" stroke-width="4"/>
+<text x="100" y="175" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">rough!</text>

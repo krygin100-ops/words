@@ -1,0 +1,6 @@
+<rect x="40" y="70" width="120" height="15" fill="{F}"/>
+<path d="M55 85 V160 M145 85 V160"/>
+<rect x="70" y="30" width="30" height="40" fill="{F}" transform="rotate(-5 85 50)"/>
+<circle cx="100" cy="125" r="20" stroke-width="4" stroke-dasharray="6 5"/>
+<text x="100" y="132" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">?</text>
+<text x="100" y="190" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">not here</text>
