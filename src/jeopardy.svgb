@@ -1,0 +1,7 @@
+<path d="M10 120 H90" stroke-width="6"/>
+<path d="M90 120 L190 190" stroke-width="0"/>
+<circle cx="70" cy="80" r="14" fill="{F}"/>
+<path d="M70 94 V115 M70 100 L45 85 M70 100 L95 85"/>
+<path d="M90 120 V190" stroke-width="3" stroke-dasharray="6 6"/>
+<path d="M100 110 L150 30 L200 110 Z" fill="{F}" transform="translate(-20 0)"/>
+<text x="130" y="100" font-size="44" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">!</text>

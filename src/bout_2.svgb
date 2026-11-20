@@ -1,0 +1,7 @@
+<rect x="15" y="150" width="170" height="10" fill="{F}"/>
+<path d="M20 150 V60 M180 150 V60 M20 80 H180 M20 110 H180" stroke-width="3"/>
+<circle cx="70" cy="110" r="22" fill="{F}"/>
+<circle cx="130" cy="110" r="22" fill="{F}"/>
+<circle cx="95" cy="110" r="12" fill="{L}"/>
+<circle cx="105" cy="100" r="12" fill="{L}"/>
+<text x="100" y="45" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">ROUND 1</text>

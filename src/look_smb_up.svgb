@@ -1,0 +1,5 @@
+<rect x="30" y="30" width="100" height="140" rx="5" fill="{F}"/>
+<path d="M45 55 H115 M45 80 H115 M45 105 H115 M45 130 H115 M45 155 H115" stroke="#000" stroke-width="4"/>
+<circle cx="130" cy="110" r="30" stroke-width="7"/>
+<path d="M150 132 L180 165" stroke-width="10"/>
+<text x="130" y="118" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">Bob</text>

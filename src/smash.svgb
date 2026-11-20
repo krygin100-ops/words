@@ -1,0 +1,5 @@
+<rect x="20" y="70" width="40" height="60" rx="5" fill="{F}" transform="rotate(-20 40 100)"/>
+<path d="M45 85 L130 85" stroke-width="8"/>
+<path d="M140 120 L130 80 L150 100 L160 70 L165 105 L185 95 L170 125 Z" fill="{L}"/>
+<g fill="{F}"><path d="M120 150 L135 140 L140 160 Z"/><path d="M160 160 L175 150 L180 175 Z"/><path d="M140 175 L150 168 L155 185 Z"/></g>
+<text x="80" y="170" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">SMASH</text>
