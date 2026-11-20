@@ -1,0 +1,7 @@
+<circle cx="100" cy="85" r="35" fill="{F}"/>
+<path d="M95 52 Q100 40 108 50" stroke-width="3"/>
+<circle cx="88" cy="85" r="3.5" fill="{L}" stroke="none"/>
+<circle cx="112" cy="85" r="3.5" fill="{L}" stroke="none"/>
+<circle cx="100" cy="102" r="7" fill="{L}"/>
+<path d="M60 190 Q60 125 100 125 Q140 125 140 190" fill="{F}"/>
+<text x="165" y="50" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">goo</text>

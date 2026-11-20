@@ -1,0 +1,7 @@
+<rect x="20" y="50" width="50" height="70" rx="4" fill="{F}"/>
+<rect x="75" y="50" width="50" height="70" rx="4" fill="{F}"/>
+<rect x="130" y="50" width="50" height="70" rx="4" fill="{F}"/>
+<text x="45" y="95" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">E1</text>
+<text x="100" y="95" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">E2</text>
+<text x="155" y="95" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">E3</text>
+<path d="M20 150 H180 M170 140 L180 150 L170 160" stroke-width="3"/>

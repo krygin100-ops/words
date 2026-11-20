@@ -1,0 +1,6 @@
+<path d="M80 30 H120 V80 L160 160 Q165 180 145 180 H55 Q35 180 40 160 L80 80 Z" fill="{F}"/>
+<path d="M70 30 H130"/>
+<path d="M58 140 H142 L155 165 Q155 172 145 172 H55 Q45 172 45 165 Z" fill="{L}"/>
+<g fill="#000" stroke="none"><circle cx="90" cy="155" r="5"/><circle cx="115" cy="150" r="4"/></g>
+<path d="M90 120 Q85 105 95 100 M110 120 Q105 110 115 105" stroke-width="3"/>
+<text x="165" y="60" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">pH 1</text>

@@ -1,0 +1,5 @@
+<ellipse cx="100" cy="140" rx="60" ry="20" fill="{F}"/>
+<path d="M40 140 V125 Q100 105 160 125 V140" fill="{F}"/>
+<rect x="90" y="100" width="20" height="18" fill="{F}"/>
+<path d="M60 60 L100 30 L140 60 V80 H60 Z" fill="{L}"/>
+<text x="100" y="72" font-size="16" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">DANGER</text>

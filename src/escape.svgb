@@ -1,0 +1,6 @@
+<rect x="20" y="40" width="70" height="120" fill="{F}"/>
+<path d="M20 40 V160 M37 40 V160 M54 40 V160 M71 40 V160 M90 40 V160" stroke="#000" stroke-width="5"/>
+<path d="M54 90 V160" stroke="{L}" stroke-width="3" stroke-dasharray="3 3"/>
+<circle cx="140" cy="70" r="14" fill="{F}"/>
+<path d="M138 84 L130 120 L110 150 M130 120 L150 155 M135 95 L160 85 M135 95 L115 100" stroke-width="7"/>
+<text x="160" y="185" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">free!</text>
