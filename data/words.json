@@ -62794,40 +62794,92 @@
   "word": "ride",
   "transcription": "[raɪd]",
   "translation": "ездить",
-  "nuance": null,
+  "nuance": "Ride — ехать (на велосипеде, лошади, как пассажир); drive — вести машину.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6045/6045_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #ride# my bike to work.",
+    "ru": "Я езжу на работу на велосипеде."
+   },
+   {
+    "en": "Can you #ride# a horse?",
+    "ru": "Ты умеешь ездить верхом?"
+   },
+   {
+    "en": "We #rode# the bus for two hours.",
+    "ru": "Мы ехали на автобусе два часа."
+   }
+  ]
  },
  {
   "id": "2733",
   "word": "long for",
   "transcription": "[lɒŋfɔː]",
   "translation": "желать или скучать",
-  "nuance": null,
+  "nuance": "Книжное: сильно желать, тосковать. Miss — скучать (разг.); want — хотеть.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/36877/36877_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #long for# a holiday by the sea.",
+    "ru": "Я мечтаю об отпуске на море."
+   },
+   {
+    "en": "She #longed for# home.",
+    "ru": "Она тосковала по дому."
+   },
+   {
+    "en": "Kids #long for# summer all winter.",
+    "ru": "Дети всю зиму ждут не дождутся лета."
+   }
+  ]
  },
  {
   "id": "2734",
   "word": "longing",
   "transcription": "[ˈlɒŋɪŋ]",
   "translation": "желание",
-  "nuance": null,
+  "nuance": "Тоска, страстное желание.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/longing.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She looked at the cake with #longing#.",
+    "ru": "Она с тоской смотрела на торт."
+   },
+   {
+    "en": "A #longing# for home.",
+    "ru": "Тоска по дому."
+   },
+   {
+    "en": "He felt a deep #longing# for his childhood.",
+    "ru": "Он сильно тосковал по детству."
+   }
+  ]
  },
  {
   "id": "2735",
   "word": "fair",
   "transcription": "[feə]",
   "translation": "справедливый, честный",
-  "nuance": null,
+  "nuance": "Справедливый, честный. It's not fair — дети говорят постоянно. Также fair — ярмарка.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fair_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "That's not #fair#!",
+    "ru": "Это нечестно!"
+   },
+   {
+    "en": "It was a #fair# game.",
+    "ru": "Это была честная игра."
+   },
+   {
+    "en": "The price is #fair#.",
+    "ru": "Цена справедливая."
+   }
+  ]
  },
  {
   "id": "2736",
@@ -62837,7 +62889,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fairness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Kids have a strong sense of #fairness#.",
+    "ru": "У детей обострённое чувство справедливости."
+   },
+   {
+    "en": "#Fairness# is important in sport.",
+    "ru": "Справедливость важна в спорте."
+   },
+   {
+    "en": "I question the #fairness# of the decision.",
+    "ru": "Я сомневаюсь в справедливости решения."
+   }
+  ]
  },
  {
   "id": "2737",
@@ -62847,27 +62912,66 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unfair.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Life is #unfair#.",
+    "ru": "Жизнь несправедлива."
+   },
+   {
+    "en": "It's #unfair# that he gets the bigger piece!",
+    "ru": "Нечестно, что ему достался кусок больше!"
+   },
+   {
+    "en": "That's an #unfair# question.",
+    "ru": "Это некорректный вопрос."
+   }
+  ]
  },
  {
   "id": "2738",
   "word": "gender",
   "transcription": "[ˈʤɛndə]",
   "translation": "пол",
-  "nuance": null,
+  "nuance": "Пол (социальный). Sex — пол (биологический) / секс; в анкетах часто gender.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/gender.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The form asks for your #gender#.",
+    "ru": "В анкете спрашивают ваш пол."
+   },
+   {
+    "en": "They don't want to know the baby's #gender#.",
+    "ru": "Они не хотят знать пол ребёнка."
+   },
+   {
+    "en": "#Gender# equality is important.",
+    "ru": "Гендерное равенство важно."
+   }
+  ]
  },
  {
   "id": "2739",
   "word": "journey",
   "transcription": "[ˈʤɜːni]",
   "translation": "путешествие",
-  "nuance": null,
+  "nuance": "Поездка (сам путь из A в B). Trip — поездка (туда и обратно); travel — путешествия (вообще).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/11393/11393_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Have a safe #journey#!",
+    "ru": "Счастливого пути!"
+   },
+   {
+    "en": "The #journey# took ten hours with three kids.",
+    "ru": "Поездка заняла десять часов с тремя детьми."
+   },
+   {
+    "en": "Life is a #journey#.",
+    "ru": "Жизнь — это путешествие."
+   }
+  ]
  },
  {
   "id": "2740",
@@ -62877,17 +62981,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/spy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My neighbour #spies on# us from the window.",
+    "ru": "Сосед шпионит за нами из окна."
+   },
+   {
+    "en": "He worked as a #spy# in the war.",
+    "ru": "Во время войны он был шпионом."
+   },
+   {
+    "en": "The cat #spies on# the birds all day.",
+    "ru": "Кот весь день следит за птицами."
+   }
+  ]
  },
  {
   "id": "2741",
   "word": "espionage",
   "transcription": "[ˌɛspɪəˈnɑːʒ]",
   "translation": "шпионаж",
-  "nuance": null,
+  "nuance": "Книжное/офиц. Spying — разг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/espionage.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He was arrested for #espionage#.",
+    "ru": "Его арестовали за шпионаж."
+   },
+   {
+    "en": "Industrial #espionage# is a real problem.",
+    "ru": "Промышленный шпионаж — реальная проблема."
+   },
+   {
+    "en": "The film is about Cold War #espionage#.",
+    "ru": "Фильм о шпионаже времён холодной войны."
+   }
+  ]
  },
  {
   "id": "2742",
@@ -62897,57 +63027,135 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/ask_out.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He finally #asked# her #out#.",
+    "ru": "Он наконец пригласил её на свидание."
+   },
+   {
+    "en": "She #asked# me #out# for coffee.",
+    "ru": "Она пригласила меня на кофе."
+   },
+   {
+    "en": "Don't be shy — just #ask# her #out#!",
+    "ru": "Не стесняйся — просто пригласи её!"
+   }
+  ]
  },
  {
   "id": "2743",
   "word": "take out",
   "transcription": "[teɪkaʊt]",
   "translation": "взять сходить",
-  "nuance": null,
+  "nuance": "Сводить куда-то (и обычно заплатить). Также take out — вынести (мусор), вынуть.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/take_out.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Dad #took# us #out# for pizza.",
+    "ru": "Папа сводил нас в пиццерию."
+   },
+   {
+    "en": "Let me #take# you #out# to dinner.",
+    "ru": "Позволь пригласить тебя на ужин."
+   },
+   {
+    "en": "He #took# his mum #out# for her birthday.",
+    "ru": "Он сводил маму куда-нибудь на день рождения."
+   }
+  ]
  },
  {
   "id": "2744",
   "word": "go out",
   "transcription": "[gəʊaʊt]",
   "translation": "сходить куда-нибудь",
-  "nuance": null,
+  "nuance": "Выбраться куда-то; go out with — встречаться (романтически).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/go_out.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Let's #go out# tonight!",
+    "ru": "Давай сходим куда-нибудь сегодня вечером!"
+   },
+   {
+    "en": "We rarely #go out# since the baby was born.",
+    "ru": "С рождения малыша мы редко куда-то выбираемся."
+   },
+   {
+    "en": "They've been #going out# for a year.",
+    "ru": "Они встречаются уже год."
+   }
+  ]
  },
  {
   "id": "2745",
   "word": "flat",
   "transcription": "[flæt]",
   "translation": "квартира",
-  "nuance": null,
+  "nuance": "Брит. flat; амер. apartment.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8491/8491_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We live in a small #flat# on the fifth floor.",
+    "ru": "Мы живём в маленькой квартире на пятом этаже."
+   },
+   {
+    "en": "They're looking for a #flat# to rent.",
+    "ru": "Они ищут квартиру в аренду."
+   },
+   {
+    "en": "The #flat# has no lift.",
+    "ru": "В доме нет лифта."
+   }
+  ]
  },
  {
   "id": "2746",
   "word": "capacity",
   "transcription": "[kəˈpæsɪti]",
   "translation": "способность, возможность",
-  "nuance": null,
+  "nuance": "Способность (книжн.); in one's capacity as — в качестве. Также вместимость.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/capacity_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She has a great #capacity# for hard work.",
+    "ru": "У неё огромная способность к тяжёлому труду."
+   },
+   {
+    "en": "He has the #capacity# to become a leader.",
+    "ru": "У него есть потенциал стать лидером."
+   },
+   {
+    "en": "In his #capacity# as manager, he signed the papers.",
+    "ru": "В качестве менеджера он подписал документы."
+   }
+  ]
  },
  {
   "id": "2747",
   "word": "incapacity",
   "transcription": "[ˌɪnkəˈpæsɪti]",
   "translation": "неспособность",
-  "nuance": null,
+  "nuance": "Неспособность; нетрудоспособность (офиц.). Inability — синоним, чаще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/incapacity.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His #incapacity# to say no causes problems.",
+    "ru": "Его неспособность отказать создаёт проблемы."
+   },
+   {
+    "en": "The illness led to #incapacity# for work.",
+    "ru": "Болезнь привела к нетрудоспособности."
+   },
+   {
+    "en": "Her #incapacity# to cook is legendary.",
+    "ru": "Её неспособность готовить легендарна."
+   }
+  ]
  },
  {
   "id": "2748",
@@ -62957,37 +63165,89 @@
   "nuance": null,
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2614/2614_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A glass of red #wine#, please.",
+    "ru": "Бокал красного вина, пожалуйста."
+   },
+   {
+    "en": "This #wine# goes well with cheese.",
+    "ru": "Это вино хорошо сочетается с сыром."
+   },
+   {
+    "en": "They make #wine# in their garage.",
+    "ru": "Они делают вино у себя в гараже."
+   }
+  ]
  },
  {
   "id": "2749",
   "word": "winery",
   "transcription": "[ˈwaɪnəri]",
   "translation": "винный завод",
-  "nuance": null,
+  "nuance": "Винодельня. Vineyard — виноградник.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/winery.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We visited a #winery# in France.",
+    "ru": "Мы посетили винодельню во Франции."
+   },
+   {
+    "en": "The #winery# offers free tastings.",
+    "ru": "Винодельня предлагает бесплатную дегустацию."
+   },
+   {
+    "en": "His family owns a small #winery#.",
+    "ru": "Его семье принадлежит маленькая винодельня."
+   }
+  ]
  },
  {
   "id": "2750",
   "word": "put together",
   "transcription": "[pʊttəˈgɛðə]",
   "translation": "собирать, соединять",
-  "nuance": null,
+  "nuance": "Собрать (из частей), составить.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/26817/26817_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It took me hours to #put together# the bookshelf.",
+    "ru": "Я часами собирал книжную полку."
+   },
+   {
+    "en": "She #put together# a great team.",
+    "ru": "Она собрала отличную команду."
+   },
+   {
+    "en": "#Put together# a short presentation.",
+    "ru": "Подготовь короткую презентацию."
+   }
+  ]
  },
  {
   "id": "2751",
   "word": "piece together",
   "transcription": "[piːstəˈgɛðə]",
   "translation": "собрать (по кускам)",
-  "nuance": null,
+  "nuance": "Собрать по кусочкам (информацию, предмет).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/piece_together.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Police #pieced together# what happened.",
+    "ru": "Полиция восстановила картину событий."
+   },
+   {
+    "en": "I #pieced together# the broken vase.",
+    "ru": "Я собрал разбитую вазу по кусочкам."
+   },
+   {
+    "en": "We #pieced together# the story from her diary.",
+    "ru": "Мы восстановили историю по её дневнику."
+   }
+  ]
  },
  {
   "id": "2752",
@@ -62997,37 +63257,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fit_together.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The puzzle pieces don't #fit together#.",
+    "ru": "Кусочки пазла не подходят друг к другу."
+   },
+   {
+    "en": "The two of them #fit together# perfectly.",
+    "ru": "Они идеально подходят друг другу."
+   },
+   {
+    "en": "Suddenly everything #fit together#.",
+    "ru": "Вдруг всё сложилось."
+   }
+  ]
  },
  {
   "id": "2753",
   "word": "figure out",
   "transcription": "[ˈfɪgəraʊt]",
   "translation": "понять, придумать",
-  "nuance": null,
+  "nuance": "Разг.: понять, разобраться, вычислить. Очень частое.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/figure_out.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I can't #figure out# how this works.",
+    "ru": "Не могу понять, как это работает."
+   },
+   {
+    "en": "We'll #figure# it #out#.",
+    "ru": "Разберёмся."
+   },
+   {
+    "en": "She #figured out# who ate the cake.",
+    "ru": "Она вычислила, кто съел торт."
+   }
+  ]
  },
  {
   "id": "2754",
   "word": "sort out",
   "transcription": "[sɔːtaʊt]",
   "translation": "разобраться",
-  "nuance": null,
+  "nuance": "Брит. разг.: уладить, разобраться, навести порядок.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sort_out.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Let's #sort out# the problem.",
+    "ru": "Давай разберёмся с проблемой."
+   },
+   {
+    "en": "I need to #sort out# my papers.",
+    "ru": "Мне нужно разобрать документы."
+   },
+   {
+    "en": "Don't worry — I'll #sort# it #out#.",
+    "ru": "Не волнуйся — я всё улажу."
+   }
+  ]
  },
  {
   "id": "2755",
   "word": "work out",
   "transcription": "[wɜːkaʊt]",
   "translation": "найти решение",
-  "nuance": null,
+  "nuance": "Найти решение, вычислить; также получиться, тренироваться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/work_out_3.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #worked out# a plan.",
+    "ru": "Мы выработали план."
+   },
+   {
+    "en": "I can't #work out# the answer.",
+    "ru": "Не могу найти ответ."
+   },
+   {
+    "en": "Let's #work out# how much we owe.",
+    "ru": "Давай посчитаем, сколько мы должны."
+   }
+  ]
  },
  {
   "id": "2756",
@@ -63037,7 +63349,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/responsible.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Who's #responsible# for this mess?",
+    "ru": "Кто ответственен за этот бардак?"
+   },
+   {
+    "en": "She's very #responsible# for her age.",
+    "ru": "Она очень ответственная для своего возраста."
+   },
+   {
+    "en": "Parents are #responsible# for their kids.",
+    "ru": "Родители несут ответственность за детей."
+   }
+  ]
  },
  {
   "id": "2757",
@@ -63047,47 +63372,112 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/irresponsible.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It was #irresponsible# to leave the door open.",
+    "ru": "Оставить дверь открытой было безответственно."
+   },
+   {
+    "en": "He's charming but #irresponsible#.",
+    "ru": "Он обаятельный, но безответственный."
+   },
+   {
+    "en": "#Irresponsible# drivers cause accidents.",
+    "ru": "Безответственные водители становятся причиной аварий."
+   }
+  ]
  },
  {
   "id": "2758",
   "word": "responsibility",
   "transcription": "[rɪsˌpɒnsəˈbɪlɪti]",
   "translation": "обязанность",
-  "nuance": null,
+  "nuance": "Обязанность, ответственность. Duty — долг (моральный/служебный).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/responsibility.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Feeding the cat is your #responsibility#.",
+    "ru": "Кормить кота — твоя обязанность."
+   },
+   {
+    "en": "She takes #responsibility# for her mistakes.",
+    "ru": "Она берёт ответственность за свои ошибки."
+   },
+   {
+    "en": "With great power comes great #responsibility#.",
+    "ru": "С большой силой приходит большая ответственность."
+   }
+  ]
  },
  {
   "id": "2759",
   "word": "sentence",
   "transcription": "[ˈsɛntəns]",
   "translation": "приговор",
-  "nuance": null,
+  "nuance": "Приговор, срок (также «предложение» в грамматике).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sentence_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The judge gave him a five-year #sentence#.",
+    "ru": "Судья приговорил его к пяти годам."
+   },
+   {
+    "en": "He's serving a life #sentence#.",
+    "ru": "Он отбывает пожизненный срок."
+   },
+   {
+    "en": "The #sentence# was too light.",
+    "ru": "Приговор был слишком мягким."
+   }
+  ]
  },
  {
   "id": "2760",
   "word": "switch",
   "transcription": "[swɪʧ]",
   "translation": "переключать, переключатель",
-  "nuance": null,
+  "nuance": "Переключать, сменить; выключатель.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/38753/38753_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Switch# off the lights, please.",
+    "ru": "Выключи свет, пожалуйста."
+   },
+   {
+    "en": "The light #switch# is behind the door.",
+    "ru": "Выключатель за дверью."
+   },
+   {
+    "en": "She #switched# jobs last year.",
+    "ru": "В прошлом году она сменила работу."
+   }
+  ]
  },
  {
   "id": "2761",
   "word": "cancel",
   "transcription": "[ˈkænsəl]",
   "translation": "отменять",
-  "nuance": null,
+  "nuance": "Брит. cancelled, амер. canceled.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/cancel.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They #cancelled# the flight.",
+    "ru": "Рейс отменили."
+   },
+   {
+    "en": "Can I #cancel# my order?",
+    "ru": "Можно отменить заказ?"
+   },
+   {
+    "en": "The match was #cancelled# due to rain.",
+    "ru": "Матч отменили из-за дождя."
+   }
+  ]
  },
  {
   "id": "2762",
@@ -63097,17 +63487,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/cancellation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #cancellation# fee is 50 dollars.",
+    "ru": "Штраф за отмену — 50 долларов."
+   },
+   {
+    "en": "Flight #cancellations# ruined our holiday.",
+    "ru": "Отмены рейсов испортили нам отпуск."
+   },
+   {
+    "en": "We got a table thanks to a #cancellation#.",
+    "ru": "Мы получили столик благодаря отмене брони."
+   }
+  ]
  },
  {
   "id": "2763",
   "word": "scratch",
   "transcription": "[skræʧ]",
   "translation": "царапать, царапина",
-  "nuance": null,
+  "nuance": "Царапать, чесать; from scratch — с нуля.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/15335/15335_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The cat #scratched# the new sofa.",
+    "ru": "Кот поцарапал новый диван."
+   },
+   {
+    "en": "He #scratched# his head.",
+    "ru": "Он почесал голову."
+   },
+   {
+    "en": "We built it from #scratch#.",
+    "ru": "Мы сделали это с нуля."
+   }
+  ]
  },
  {
   "id": "2764",
@@ -63117,47 +63533,112 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/source.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "What's the #source# of this information?",
+    "ru": "Каков источник этой информации?"
+   },
+   {
+    "en": "The river's #source# is in the mountains.",
+    "ru": "Исток реки в горах."
+   },
+   {
+    "en": "Fruit is a good #source# of vitamins.",
+    "ru": "Фрукты — хороший источник витаминов."
+   }
+  ]
  },
  {
   "id": "2765",
   "word": "sheet",
   "transcription": "[ʃiːt]",
   "translation": "лист",
-  "nuance": null,
+  "nuance": "Лист (бумаги), простыня; пласт.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8349/8349_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Write on a clean #sheet# of paper.",
+    "ru": "Пиши на чистом листе бумаги."
+   },
+   {
+    "en": "Change the bed #sheets#.",
+    "ru": "Поменяй постельное бельё."
+   },
+   {
+    "en": "The rain came down in #sheets#.",
+    "ru": "Дождь лил стеной."
+   }
+  ]
  },
  {
   "id": "2766",
   "word": "manage",
   "transcription": "[ˈmænɪʤ]",
   "translation": "справляться, управлять",
-  "nuance": null,
+  "nuance": "Справляться (с трудом), управлять. Cope — справляться (эмоционально).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/manage.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "How do you #manage# with three kids?",
+    "ru": "Как ты справляешься с тремя детьми?"
+   },
+   {
+    "en": "She #manages# a team of ten.",
+    "ru": "Она руководит командой из десяти человек."
+   },
+   {
+    "en": "I can #manage#, thanks.",
+    "ru": "Справлюсь, спасибо."
+   }
+  ]
  },
  {
   "id": "2767",
   "word": "management",
   "transcription": "[ˈmænɪʤmənt]",
   "translation": "управление",
-  "nuance": null,
+  "nuance": "Управление; руководство (люди).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/management.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #management# decided to close the shop.",
+    "ru": "Руководство решило закрыть магазин."
+   },
+   {
+    "en": "Time #management# is my weak point.",
+    "ru": "Тайм-менеджмент — моё слабое место."
+   },
+   {
+    "en": "She studies business #management#.",
+    "ru": "Она изучает управление бизнесом."
+   }
+  ]
  },
  {
   "id": "2768",
   "word": "manage to",
   "transcription": "[ˈmænɪʤtuː]",
   "translation": "справиться с (задачей)",
-  "nuance": null,
+  "nuance": "Суметь (с трудом). Could — мог (вообще); managed to — удалось (в конкретной ситуации).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/manage_to.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I finally #managed to# open the jar.",
+    "ru": "Я наконец сумел открыть банку."
+   },
+   {
+    "en": "Did you #manage to# find a parking space?",
+    "ru": "Тебе удалось найти парковку?"
+   },
+   {
+    "en": "She #managed to# finish on time.",
+    "ru": "Ей удалось закончить вовремя."
+   }
+  ]
  },
  {
   "id": "2769",
@@ -63167,17 +63648,43 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/manage_without.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I can't #manage without# my glasses.",
+    "ru": "Я не могу обойтись без очков."
+   },
+   {
+    "en": "We'll #manage without# a car.",
+    "ru": "Мы обойдёмся без машины."
+   },
+   {
+    "en": "How did people #manage without# phones?",
+    "ru": "Как люди обходились без телефонов?"
+   }
+  ]
  },
  {
   "id": "2770",
   "word": "corner",
   "transcription": "[ˈkɔːnə]",
   "translation": "угол",
-  "nuance": null,
+  "nuance": "Угол (комнаты, улицы). Angle — угол (геом.). Around the corner — скоро.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/3382/3382_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The shop is just around the #corner#.",
+    "ru": "Магазин прямо за углом."
+   },
+   {
+    "en": "Put the plant in the #corner#.",
+    "ru": "Поставь растение в угол."
+   },
+   {
+    "en": "Christmas is just around the #corner#.",
+    "ru": "Рождество уже на носу."
+   }
+  ]
  },
  {
   "id": "2771",
@@ -63187,37 +63694,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/cornered.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A #cornered# cat can be dangerous.",
+    "ru": "Загнанная в угол кошка может быть опасна."
+   },
+   {
+    "en": "He felt #cornered# by the questions.",
+    "ru": "Вопросы загнали его в угол."
+   },
+   {
+    "en": "The #cornered# thief gave up.",
+    "ru": "Загнанный в угол вор сдался."
+   }
+  ]
  },
  {
   "id": "2772",
   "word": "fright",
   "transcription": "[fraɪt]",
   "translation": "испуг",
-  "nuance": null,
+  "nuance": "Испуг (внезапный). Fear — страх (вообще).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/35571/35571_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "You gave me a #fright#!",
+    "ru": "Ты меня напугал!"
+   },
+   {
+    "en": "She screamed in #fright#.",
+    "ru": "Она закричала от испуга."
+   },
+   {
+    "en": "Stage #fright# is common.",
+    "ru": "Боязнь сцены — частое явление."
+   }
+  ]
  },
  {
   "id": "2773",
   "word": "frighten",
   "transcription": "[ˈfraɪtn]",
   "translation": "пугать",
-  "nuance": null,
+  "nuance": "Пугать (= scare, чуть книжнее). Frightened — испуганный.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6916/6916_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #frighten# the baby.",
+    "ru": "Не пугай малыша."
+   },
+   {
+    "en": "Thunder #frightens# the dog.",
+    "ru": "Гром пугает собаку."
+   },
+   {
+    "en": "The price #frightened# me.",
+    "ru": "Цена меня напугала."
+   }
+  ]
  },
  {
   "id": "2774",
   "word": "frightful",
   "transcription": "[ˈfraɪtfʊl]",
   "translation": "ужасный",
-  "nuance": null,
+  "nuance": "Брит., старомодно: ужасный, кошмарный (часто с преувеличением).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/frightful.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The traffic was #frightful#.",
+    "ru": "Пробки были ужасные."
+   },
+   {
+    "en": "What a #frightful# mess!",
+    "ru": "Какой ужасный бардак!"
+   },
+   {
+    "en": "He has #frightful# manners.",
+    "ru": "У него ужасные манеры."
+   }
+  ]
  },
  {
   "id": "2775",
@@ -63227,7 +63786,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Make sure the ladder is #stable#.",
+    "ru": "Убедись, что лестница устойчива."
+   },
+   {
+    "en": "She has a #stable# job.",
+    "ru": "У неё стабильная работа."
+   },
+   {
+    "en": "The patient is in #stable# condition.",
+    "ru": "Состояние пациента стабильное."
+   }
+  ]
  },
  {
   "id": "2776",
@@ -63237,7 +63809,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unstable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "This chair is #unstable# — don't stand on it.",
+    "ru": "Этот стул неустойчивый — не вставай на него."
+   },
+   {
+    "en": "The weather is #unstable# this week.",
+    "ru": "Погода на этой неделе неустойчивая."
+   },
+   {
+    "en": "He's emotionally #unstable#.",
+    "ru": "Он эмоционально неуравновешен."
+   }
+  ]
  },
  {
   "id": "2777",
@@ -63247,7 +63832,20 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stability.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Kids need #stability#.",
+    "ru": "Детям нужна стабильность."
+   },
+   {
+    "en": "The country needs political #stability#.",
+    "ru": "Стране нужна политическая стабильность."
+   },
+   {
+    "en": "Check the #stability# of the shelf.",
+    "ru": "Проверь устойчивость полки."
+   }
+  ]
  },
  {
   "id": "2778",
@@ -63257,37 +63855,89 @@
   "nuance": null,
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/instability.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Political #instability# scares investors.",
+    "ru": "Политическая нестабильность пугает инвесторов."
+   },
+   {
+    "en": "Emotional #instability# is hard to live with.",
+    "ru": "С эмоциональной нестабильностью трудно жить."
+   },
+   {
+    "en": "The #instability# of prices worries people.",
+    "ru": "Нестабильность цен беспокоит людей."
+   }
+  ]
  },
  {
   "id": "2779",
   "word": "stabilise",
   "transcription": "[ˈsteɪbɪlaɪz]",
   "translation": "стабилизировать",
-  "nuance": null,
+  "nuance": "Брит. stabilise, амер. stabilize.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stabilise.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The doctors #stabilised# the patient.",
+    "ru": "Врачи стабилизировали состояние пациента."
+   },
+   {
+    "en": "Prices have #stabilised#.",
+    "ru": "Цены стабилизировались."
+   },
+   {
+    "en": "Use a tripod to #stabilise# the camera.",
+    "ru": "Используй штатив, чтобы зафиксировать камеру."
+   }
+  ]
  },
  {
   "id": "2780",
   "word": "occur to",
   "transcription": "[əˈkɜːtuː]",
   "translation": "прийти в голову",
-  "nuance": null,
+  "nuance": "Прийти в голову (подлежащее — мысль, не человек!).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/occur_to.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It never #occurred to# me to ask.",
+    "ru": "Мне и в голову не пришло спросить."
+   },
+   {
+    "en": "Did it #occur to# you to call?",
+    "ru": "Тебе не пришло в голову позвонить?"
+   },
+   {
+    "en": "A great idea #occurred to# her in the shower.",
+    "ru": "В душе ей пришла в голову отличная идея."
+   }
+  ]
  },
  {
   "id": "2781",
   "word": "associate",
   "transcription": "[əˈsəʊʃɪɪt]",
   "translation": "общаться, связываться",
-  "nuance": null,
+  "nuance": "Общаться, водиться (associate with); ассоциировать. Hang out — разг. «тусоваться».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/associate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #associate# with those people.",
+    "ru": "Не общайся с этими людьми."
+   },
+   {
+    "en": "I #associate# summer with watermelon.",
+    "ru": "У меня лето ассоциируется с арбузом."
+   },
+   {
+    "en": "He's #associated# with the company.",
+    "ru": "Он связан с этой компанией."
+   }
+  ]
  },
  {
   "id": "2782",
