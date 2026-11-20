@@ -88094,500 +88094,1150 @@
   "word": "on foot",
   "transcription": "[ɒnfʊt]",
   "translation": "пешком",
-  "nuance": null,
+  "nuance": "on foot — пешком (не by foot!). Walk — идти пешком (глагол): I walk to work = I go to work on foot.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/on_foot.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The shop is five minutes away #on foot#.",
+    "ru": "До магазина пять минут пешком."
+   },
+   {
+    "en": "We explored the old town #on foot#.",
+    "ru": "Мы обошли старый город пешком."
+   },
+   {
+    "en": "My car broke down, so I'm #on foot# this week.",
+    "ru": "Машина сломалась, так что на этой неделе я пешком."
+   }
+  ]
  },
  {
   "id": "3833",
   "word": "abroad",
   "transcription": "[əˈbrɔːd]",
   "translation": "за границу",
-  "nuance": null,
+  "nuance": "abroad — за границу/за границей (наречие, без to/in: go abroad). Overseas — за морем (чаще амер./брит. о далёких странах).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/abroad.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "This is my first time #abroad#. I'm nervous!",
+    "ru": "Я впервые за границей. Волнуюсь!"
+   },
+   {
+    "en": "She wants to study #abroad# next year.",
+    "ru": "Она хочет учиться за границей в следующем году."
+   },
+   {
+    "en": "Don't forget to call when you're #abroad#.",
+    "ru": "Не забудь позвонить, когда будешь за границей."
+   }
+  ]
  },
  {
   "id": "3834",
   "word": "secure",
   "transcription": "[sɪˈkjʊə]",
   "translation": "безопасный, надёжный",
-  "nuance": null,
+  "nuance": "secure — надёжный, защищённый; о чувствах — уверенный, спокойный. Safe — безопасный (без опасности), stable — стабильный. Глагол secure — обеспечить, закрепить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/secure.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Is this bridge #secure#? It's shaking.",
+    "ru": "Этот мост надёжный? Он трясётся."
+   },
+   {
+    "en": "Keep your passwords #secure#.",
+    "ru": "Храни пароли в надёжном месте."
+   },
+   {
+    "en": "She feels #secure# in her new job.",
+    "ru": "Она чувствует себя уверенно на новой работе."
+   }
+  ]
  },
  {
   "id": "3835",
   "word": "insecure",
   "transcription": "[ˌɪnsɪˈkjʊə]",
   "translation": "небезопасный",
-  "nuance": null,
+  "nuance": "insecure — ненадёжный, незащищённый; о человеке — неуверенный в себе, закомплексованный (частое значение!). Unsafe — опасный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/insecure.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "This website is #insecure# — don't enter your card.",
+    "ru": "Этот сайт небезопасен — не вводи данные карты."
+   },
+   {
+    "en": "He's #insecure# about his big ears.",
+    "ru": "Он комплексует из-за своих больших ушей."
+   },
+   {
+    "en": "The ladder looks #insecure#.",
+    "ru": "Лестница выглядит ненадёжной."
+   }
+  ]
  },
  {
   "id": "3836",
   "word": "security",
   "transcription": "[sɪˈkjʊərɪti]",
   "translation": "безопасность",
-  "nuance": null,
+  "nuance": "security — безопасность, защищённость; охрана (служба). Safety — безопасность (от несчастных случаев), security — защита от угроз/преступлений.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/security.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Airport #security# took my water bottle.",
+    "ru": "Служба безопасности в аэропорту забрала мою бутылку воды."
+   },
+   {
+    "en": "Money gives you a feeling of #security#.",
+    "ru": "Деньги дают чувство защищённости."
+   },
+   {
+    "en": "Call #security# — there's a goose in the office!",
+    "ru": "Вызовите охрану — в офисе гусь!"
+   }
+  ]
  },
  {
   "id": "3837",
   "word": "entitle",
   "transcription": "[ɪnˈtaɪtl]",
   "translation": "давать право (по заслугам)",
-  "nuance": null,
+  "nuance": "entitle — давать право; be entitled to — иметь право. entitled (разг.) — «считающий, что всё ему положено» (негатив). Также «озаглавить».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/entitle_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The ticket #entitles# you to a free drink.",
+    "ru": "Билет даёт право на бесплатный напиток."
+   },
+   {
+    "en": "After ten years, you're #entitled# to a bonus.",
+    "ru": "После десяти лет работы вам положена премия."
+   },
+   {
+    "en": "He thinks he's #entitled# to everything.",
+    "ru": "Он думает, что ему все должны."
+   }
+  ]
  },
  {
   "id": "3838",
   "word": "floor",
   "transcription": "[flɔː]",
   "translation": "этаж",
-  "nuance": null,
+  "nuance": "floor — этаж; пол. Ловушка: брит. ground floor = 1-й этаж, first floor = 2-й; в амер. first floor = 1-й. Storey — этаж (о высоте здания).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/11343/11343_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I live on the fifth #floor#. No lift.",
+    "ru": "Я живу на пятом этаже. Без лифта."
+   },
+   {
+    "en": "The keys fell on the #floor#.",
+    "ru": "Ключи упали на пол."
+   },
+   {
+    "en": "Which #floor# is the café on?",
+    "ru": "На каком этаже кафе?"
+   }
+  ]
  },
  {
   "id": "3839",
   "word": "surprise",
   "transcription": "[səˈpraɪz]",
   "translation": "удивлять, удивление",
-  "nuance": null,
+  "nuance": "surprise — удивлять, удивление, сюрприз. Amaze/astonish — изумлять (сильнее), shock — шокировать. take smb by surprise — застать врасплох.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8517/8517_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Surprise#! Happy birthday!",
+    "ru": "Сюрприз! С днём рождения!"
+   },
+   {
+    "en": "Nothing #surprises# me anymore.",
+    "ru": "Меня уже ничего не удивляет."
+   },
+   {
+    "en": "To my #surprise#, the cat liked the bath.",
+    "ru": "К моему удивлению, коту понравилась ванна."
+   }
+  ]
  },
  {
   "id": "3840",
   "word": "surprisingly",
   "transcription": "[səˈpraɪzɪŋli]",
   "translation": "как ни странно",
-  "nuance": null,
+  "nuance": "surprisingly — на удивление, как ни странно. Unexpectedly — неожиданно, oddly/strangely — странным образом. Not surprisingly — «неудивительно».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/surprisingly.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Surprisingly#, the cheap phone works great.",
+    "ru": "Как ни странно, дешёвый телефон работает отлично."
+   },
+   {
+    "en": "The test was #surprisingly# easy.",
+    "ru": "Тест оказался на удивление лёгким."
+   },
+   {
+    "en": "#Surprisingly#, nobody was late.",
+    "ru": "Как ни удивительно, никто не опоздал."
+   }
+  ]
  },
  {
   "id": "3841",
   "word": "sex",
   "transcription": "[sɛks]",
   "translation": "пол",
-  "nuance": null,
+  "nuance": "sex — биологический пол (в анкетах); также секс. Gender — гендер, пол (социальный аспект); в анкетах сейчас часто gender.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sex.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Write your name, age and #sex# on the form.",
+    "ru": "Укажите в анкете имя, возраст и пол."
+   },
+   {
+    "en": "Do you know the #sex# of the baby?",
+    "ru": "Вы знаете пол ребёнка?"
+   },
+   {
+    "en": "The test is the same for both #sexes#.",
+    "ru": "Тест одинаков для обоих полов."
+   }
+  ]
  },
  {
   "id": "3842",
   "word": "sexual",
   "transcription": "[ˈsɛksjʊəl]",
   "translation": "половой",
-  "nuance": null,
+  "nuance": "sexual — половой, сексуальный (нейтр.-мед./юр.). Sexy — сексуальный, привлекательный (разг.). Ловушка: sexual ≠ sexy.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sexual.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "This disease is not #sexually# transmitted.",
+    "ru": "Это заболевание не передаётся половым путём."
+   },
+   {
+    "en": "Children learn about #sexual# health at school.",
+    "ru": "Дети изучают половое здоровье в школе."
+   },
+   {
+    "en": "The company has strict rules against #sexual# harassment.",
+    "ru": "В компании строгие правила против сексуальных домогательств."
+   }
+  ]
  },
  {
   "id": "3843",
   "word": "get about",
   "transcription": "[gɛtəˈbaʊt]",
   "translation": "передвигаться (на чём-то)",
-  "nuance": null,
+  "nuance": "get about (брит.) — передвигаться, ездить; о новостях — распространяться. Get around — то же (амер. чаще), travel — путешествовать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/get_about.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandpa #gets about# on his old bicycle.",
+    "ru": "Дедушка передвигается на своём старом велосипеде."
+   },
+   {
+    "en": "It's easy to #get about# the city by tram.",
+    "ru": "По городу легко передвигаться на трамвае."
+   },
+   {
+    "en": "News #gets about# fast in a small village.",
+    "ru": "В маленькой деревне новости разлетаются быстро."
+   }
+  ]
  },
  {
   "id": "3844",
   "word": "get around",
   "transcription": "[gɛtəˈraʊnd]",
   "translation": "передвигаться",
-  "nuance": null,
+  "nuance": "get around — передвигаться; также обойти (правило: get around the rules), найти время (get around to doing). Travel — путешествовать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/get_around.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "How do you #get around# without a car?",
+    "ru": "Как ты передвигаешься без машины?"
+   },
+   {
+    "en": "Bikes are the best way to #get around# Amsterdam.",
+    "ru": "Велосипед — лучший способ передвигаться по Амстердаму."
+   },
+   {
+    "en": "She #gets around# — she's been everywhere!",
+    "ru": "Она много где бывает — везде успела побывать!"
+   }
+  ]
  },
  {
   "id": "3845",
   "word": "exchange",
   "transcription": "[ɪksˈʧeɪnʤ]",
   "translation": "обмен",
-  "nuance": null,
+  "nuance": "exchange — обмен; обменивать. in exchange for — «в обмен на». Swap — разг. «поменяться», trade — меняться, торговать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/exchange.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "In #exchange# for pizza, I'll fix your laptop.",
+    "ru": "В обмен на пиццу починю тебе ноутбук."
+   },
+   {
+    "en": "Where can I #exchange# money?",
+    "ru": "Где можно обменять деньги?"
+   },
+   {
+    "en": "She went on a student #exchange# to Spain.",
+    "ru": "Она поехала по студенческому обмену в Испанию."
+   }
+  ]
  },
  {
   "id": "3846",
   "word": "interchange",
   "transcription": "[ˌɪntə(ː)ˈʧeɪnʤ]",
   "translation": "взаимообмен",
-  "nuance": null,
+  "nuance": "interchange — взаимообмен (идей, книжн.); транспортная развязка. interchangeable — взаимозаменяемый. Exchange — проще и чаще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/interchange.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The meeting was a lively #interchange# of ideas.",
+    "ru": "Встреча была живым обменом идеями."
+   },
+   {
+    "en": "The parts are #interchangeable#.",
+    "ru": "Детали взаимозаменяемы."
+   },
+   {
+    "en": "Take the next motorway #interchange#.",
+    "ru": "Съезжай на следующей развязке."
+   }
+  ]
  },
  {
   "id": "3847",
   "word": "leather",
   "transcription": "[ˈlɛðə]",
   "translation": "кожаный, кожа",
-  "nuance": null,
+  "nuance": "leather — кожа (выделанная, материал) и «кожаный». Кожа человека — skin! Fake leather/faux leather — искусственная кожа.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/5979/5979_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He wears a #leather# jacket even in summer.",
+    "ru": "Он носит кожаную куртку даже летом."
+   },
+   {
+    "en": "This sofa is made of real #leather#.",
+    "ru": "Этот диван из натуральной кожи."
+   },
+   {
+    "en": "My #leather# shoes are older than me.",
+    "ru": "Мои кожаные туфли старше меня."
+   }
+  ]
  },
  {
   "id": "3848",
   "word": "basement",
   "transcription": "[ˈbeɪsmənt]",
   "translation": "подвал",
-  "nuance": null,
+  "nuance": "basement — подвал, цокольный этаж (жилой или нет). Cellar — погреб (для вина, хранения), dungeon — темница.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8223/8223_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We keep old bikes in the #basement#.",
+    "ru": "Мы храним старые велосипеды в подвале."
+   },
+   {
+    "en": "The #basement# flooded after the rain.",
+    "ru": "После дождя подвал затопило."
+   },
+   {
+    "en": "He turned the #basement# into a gym.",
+    "ru": "Он превратил подвал в спортзал."
+   }
+  ]
  },
  {
   "id": "3849",
   "word": "instance",
   "transcription": "[ˈɪnstəns]",
   "translation": "пример, экземпляр",
-  "nuance": null,
+  "nuance": "instance — пример, случай (книжн.); в IT — экземпляр. Case — случай (чаще), example — пример. in the first instance — в первую очередь.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/instance.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "In this #instance#, I agree with you. Rarely happens.",
+    "ru": "В этом случае я с тобой согласен. Редко бывает."
+   },
+   {
+    "en": "There were several #instances# of cheating.",
+    "ru": "Было несколько случаев списывания."
+   },
+   {
+    "en": "The server runs two #instances# of the app.",
+    "ru": "На сервере работают два экземпляра приложения."
+   }
+  ]
  },
  {
   "id": "3850",
   "word": "for instance",
   "transcription": "[fɔːrˈɪnstəns]",
   "translation": "например",
-  "nuance": null,
+  "nuance": "for instance — например (= for example; чуть разнообразнее в речи). Such as — такие как (перед списком), e.g. — письменное сокращение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/for_instance.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I love fruit — #for instance#, mangoes.",
+    "ru": "Я люблю фрукты — например, манго."
+   },
+   {
+    "en": "Some birds, #for instance# penguins, can't fly.",
+    "ru": "Некоторые птицы, например пингвины, не летают."
+   },
+   {
+    "en": "Take Paul, #for instance# — he never cooks.",
+    "ru": "Возьмём, к примеру, Пола — он никогда не готовит."
+   }
+  ]
  },
  {
   "id": "3851",
   "word": "sheep (pl:sheep)",
   "transcription": "[ʃiːp]",
   "translation": "овца",
-  "nuance": null,
+  "nuance": "sheep — овца, мн. ч. тоже sheep (не sheeps!). Lamb — ягнёнок/баранина, ram — баран. black sheep — «паршивая овца/белая ворона».",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2489/2489_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I counted #sheep#, but I still couldn't sleep.",
+    "ru": "Я считал овец, но так и не уснул."
+   },
+   {
+    "en": "The #sheep# blocked the road for ten minutes.",
+    "ru": "Овцы перегородили дорогу на десять минут."
+   },
+   {
+    "en": "He's the black #sheep# of the family.",
+    "ru": "Он белая ворона в семье."
+   }
+  ]
  },
  {
   "id": "3852",
   "word": "sufficient",
   "transcription": "[səˈfɪʃənt]",
   "translation": "достаточный",
-  "nuance": null,
+  "nuance": "sufficient — достаточный (формальное). Enough — разг. и нейтр. (enough food). Adequate — приемлемый по качеству/количеству.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sufficient.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Is one pizza #sufficient# for five people? No.",
+    "ru": "Одной пиццы хватит на пятерых? Нет."
+   },
+   {
+    "en": "We don't have #sufficient# evidence.",
+    "ru": "У нас недостаточно доказательств."
+   },
+   {
+    "en": "Two hours of sleep is not #sufficient#.",
+    "ru": "Двух часов сна недостаточно."
+   }
+  ]
  },
  {
   "id": "3853",
   "word": "insufficient",
   "transcription": "[ˌɪnsəˈfɪʃənt]",
   "translation": "недостаточный",
-  "nuance": null,
+  "nuance": "insufficient — недостаточный (офиц.: insufficient funds). Разг. — not enough. Inadequate — неудовлетворительный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/insufficient.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The flight was cancelled due to #insufficient# passengers.",
+    "ru": "Рейс отменили из-за недостаточного числа пассажиров."
+   },
+   {
+    "en": "#Insufficient# funds — your card was declined.",
+    "ru": "Недостаточно средств — ваша карта отклонена."
+   },
+   {
+    "en": "His excuse was #insufficient#.",
+    "ru": "Его оправдание было неубедительным."
+   }
+  ]
  },
  {
   "id": "3854",
   "word": "sufficiency",
   "transcription": "[səˈfɪʃənsi]",
   "translation": "достаточность",
-  "nuance": null,
+  "nuance": "sufficiency — достаточность (книжн.). Чаще в self-sufficiency — самодостаточность, самообеспечение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sufficiency.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The country aims for food #sufficiency#.",
+    "ru": "Страна стремится к продовольственной самодостаточности."
+   },
+   {
+    "en": "Check the #sufficiency# of your savings for retirement.",
+    "ru": "Проверь, хватит ли сбережений на пенсию."
+   },
+   {
+    "en": "Self-#sufficiency# is the dream of every farmer.",
+    "ru": "Самообеспечение — мечта любого фермера."
+   }
+  ]
  },
  {
   "id": "3855",
   "word": "insufficiency",
   "transcription": "[ˌɪnsəˈfɪʃənsi]",
   "translation": "недостаточность",
-  "nuance": null,
+  "nuance": "insufficiency — недостаточность (мед. термин, книжн.). В быту — lack, shortage (нехватка).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/insufficiency.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The doctor diagnosed heart #insufficiency#.",
+    "ru": "Врач диагностировал сердечную недостаточность."
+   },
+   {
+    "en": "The #insufficiency# of data made the study weak.",
+    "ru": "Нехватка данных сделала исследование слабым."
+   },
+   {
+    "en": "Due to #insufficiency# of staff, the shop closed early.",
+    "ru": "Из-за нехватки персонала магазин закрылся раньше."
+   }
+  ]
  },
  {
   "id": "3856",
   "word": "vulnerable",
   "transcription": "[ˈvʌlnərəbl]",
   "translation": "уязвимый, чувствительный",
-  "nuance": null,
+  "nuance": "vulnerable — уязвимый, беззащитный (физически, эмоционально). Sensitive — чувствительный, weak — слабый, exposed — незащищённый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/vulnerable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Babies are very #vulnerable# to cold.",
+    "ru": "Младенцы очень уязвимы к холоду."
+   },
+   {
+    "en": "I felt #vulnerable# telling him my secret.",
+    "ru": "Я чувствовал себя беззащитным, рассказывая ему свой секрет."
+   },
+   {
+    "en": "Old computers are #vulnerable# to viruses.",
+    "ru": "Старые компьютеры уязвимы для вирусов."
+   }
+  ]
  },
  {
   "id": "3857",
   "word": "invulnerable",
   "transcription": "[ɪnˈvʌlnərəbl]",
   "translation": "неуязвимый",
-  "nuance": null,
+  "nuance": "invulnerable — неуязвимый (книжн.). Indestructible — неразрушимый, untouchable — неприкасаемый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/invulnerable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "In the game, the hero is #invulnerable# for ten seconds.",
+    "ru": "В игре герой неуязвим десять секунд."
+   },
+   {
+    "en": "Teenagers often feel #invulnerable#.",
+    "ru": "Подростки часто чувствуют себя неуязвимыми."
+   },
+   {
+    "en": "No system is #invulnerable# to hackers.",
+    "ru": "Ни одна система не защищена от хакеров полностью."
+   }
+  ]
  },
  {
   "id": "3858",
   "word": "vulnerability",
   "transcription": "[ˌvʌlnərəˈbɪlɪti]",
   "translation": "уязвимость",
-  "nuance": null,
+  "nuance": "vulnerability — уязвимость (эмоц., техн.). Weakness — слабость, flaw — недостаток, изъян.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/vulnerability.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Showing #vulnerability# takes courage.",
+    "ru": "Показать свою уязвимость — нужна смелость."
+   },
+   {
+    "en": "Hackers found a #vulnerability# in the app.",
+    "ru": "Хакеры нашли уязвимость в приложении."
+   },
+   {
+    "en": "His #vulnerability# made him more likeable.",
+    "ru": "Его уязвимость сделала его симпатичнее."
+   }
+  ]
  },
  {
   "id": "3859",
   "word": "invulnerability",
   "transcription": "[ɪnˌvʌlnərəˈbɪlɪti]",
   "translation": "неуязвимость",
-  "nuance": null,
+  "nuance": "invulnerability — неуязвимость (книжн.). Часто в сочетании sense/feeling of invulnerability.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/invulnerability.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The superhero's #invulnerability# makes the film boring.",
+    "ru": "Неуязвимость супергероя делает фильм скучным."
+   },
+   {
+    "en": "Youth gives a false sense of #invulnerability#.",
+    "ru": "Молодость даёт ложное ощущение неуязвимости."
+   },
+   {
+    "en": "Nobody believes in the #invulnerability# of the system now.",
+    "ru": "Теперь никто не верит в неуязвимость системы."
+   }
+  ]
  },
  {
   "id": "3860",
   "word": "solution",
   "transcription": "[səˈluːʃən]",
   "translation": "решение, ответ",
-  "nuance": null,
+  "nuance": "solution — решение (проблемы), ответ (задачи); в химии — раствор. Decision — решение как выбор (make a decision), answer — ответ.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/solution.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I found a #solution#: we order pizza.",
+    "ru": "Я нашёл решение: заказываем пиццу."
+   },
+   {
+    "en": "Check your #solutions# at the back of the book.",
+    "ru": "Проверь свои ответы в конце учебника."
+   },
+   {
+    "en": "There's no easy #solution# to this problem.",
+    "ru": "У этой проблемы нет простого решения."
+   }
+  ]
  },
  {
   "id": "3861",
   "word": "sail",
   "transcription": "[seɪl]",
   "translation": "парус, плыть (о судне)",
-  "nuance": null,
+  "nuance": "sail — парус; плыть на судне (о судне и людях), отплывать. Swim — плыть самому (вплавь)! Float — держаться на воде.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/7294/7294_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #sailed# to the island in a tiny boat.",
+    "ru": "Мы доплыли до острова на крошечной лодке."
+   },
+   {
+    "en": "The wind filled the #sails#.",
+    "ru": "Ветер наполнил паруса."
+   },
+   {
+    "en": "The ship #sails# at noon.",
+    "ru": "Корабль отплывает в полдень."
+   }
+  ]
  },
  {
   "id": "3862",
   "word": "sailor",
   "transcription": "[ˈseɪlə]",
   "translation": "моряк",
-  "nuance": null,
+  "nuance": "sailor — моряк, матрос; также яхтсмен. Seaman — матрос (офиц.), mariner — мореход (книжн.). swear like a sailor — ругаться как сапожник.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/5507/5507_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandpa was a #sailor# and has tattoos to prove it.",
+    "ru": "Дедушка был моряком, и у него есть татуировки в доказательство."
+   },
+   {
+    "en": "The #sailors# sang songs on deck.",
+    "ru": "Моряки пели песни на палубе."
+   },
+   {
+    "en": "He swears like a #sailor#.",
+    "ru": "Он ругается как сапожник."
+   }
+  ]
  },
  {
   "id": "3863",
   "word": "change",
   "transcription": "[ʧeɪnʤ]",
   "translation": "сдача, мелочь",
-  "nuance": null,
+  "nuance": "change (неисч.) — сдача, мелочь. Coins — монеты. small change — мелочь (и переносно «мелочи»). Также «изменение»!",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/change.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Keep the #change#.",
+    "ru": "Сдачи не надо."
+   },
+   {
+    "en": "Do you have any #change# for the parking machine?",
+    "ru": "У тебя есть мелочь для паркомата?"
+   },
+   {
+    "en": "The cashier gave me the wrong #change#.",
+    "ru": "Кассир дал мне неправильную сдачу."
+   }
+  ]
  },
  {
   "id": "3864",
   "word": "stick (stuck, stuck)",
   "transcription": "[stɪk]",
   "translation": "приклеить",
-  "nuance": null,
+  "nuance": "stick (stuck, stuck) — приклеить, прилипнуть; застрять (get stuck). stick to — придерживаться. Glue — клеить клеем (конкретно).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stick.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Stick# a note on the fridge.",
+    "ru": "Приклей записку на холодильник."
+   },
+   {
+    "en": "The gum #stuck# to my shoe.",
+    "ru": "Жвачка прилипла к моей обуви."
+   },
+   {
+    "en": "The door is #stuck# again.",
+    "ru": "Дверь опять заело."
+   }
+  ]
  },
  {
   "id": "3865",
   "word": "sticky",
   "transcription": "[ˈstɪki]",
   "translation": "липкий",
-  "nuance": null,
+  "nuance": "sticky — липкий; о погоде — душный, влажный; разг. — щекотливый, неловкий (sticky situation). Gooey — тягуче-липкий.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/25307/25307_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My hands are #sticky# from the honey.",
+    "ru": "У меня руки липкие от мёда."
+   },
+   {
+    "en": "It's a #sticky# day — 35 degrees and humid.",
+    "ru": "Сегодня душно и липко — 35 градусов и влажно."
+   },
+   {
+    "en": "We're in a #sticky# situation.",
+    "ru": "Мы в щекотливой ситуации."
+   }
+  ]
  },
  {
   "id": "3866",
   "word": "sticker",
   "transcription": "[ˈstɪkə]",
   "translation": "наклейка",
-  "nuance": null,
+  "nuance": "sticker — наклейка, стикер. Label — этикетка (с информацией), sticky note/Post-it — липкий листок.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/35425/35425_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My laptop is covered in #stickers#.",
+    "ru": "Мой ноутбук обклеен наклейками."
+   },
+   {
+    "en": "The kids got a #sticker# for good behaviour.",
+    "ru": "Детям дали наклейку за хорошее поведение."
+   },
+   {
+    "en": "Peel off the price #sticker# before you give the gift.",
+    "ru": "Отклей ценник, прежде чем дарить подарок."
+   }
+  ]
  },
  {
   "id": "3867",
   "word": "stickiness",
   "transcription": "[ˈstɪkɪnəs]",
   "translation": "липкость",
-  "nuance": null,
+  "nuance": "stickiness — липкость; в маркетинге — способность удерживать пользователей. В быту чаще перефразируют: how sticky it is.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stickiness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #stickiness# of the floor told us about the party.",
+    "ru": "Липкость пола рассказала нам о вечеринке."
+   },
+   {
+    "en": "Add water to reduce the #stickiness# of the dough.",
+    "ru": "Добавь воды, чтобы тесто было менее липким."
+   },
+   {
+    "en": "The #stickiness# of the app keeps users coming back.",
+    "ru": "«Цепкость» приложения заставляет пользователей возвращаться."
+   }
+  ]
  },
  {
   "id": "3868",
   "word": "keep off",
   "transcription": "[kiːpɒf]",
   "translation": "избегать, не трогать",
-  "nuance": null,
+  "nuance": "keep off — не ступать, не трогать (на табличках: Keep off the grass); избегать (еды, темы). Avoid — избегать (нейтр.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/keep_off.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Keep off# the grass!",
+    "ru": "По газону не ходить!"
+   },
+   {
+    "en": "Try to #keep off# sugar for a week.",
+    "ru": "Попробуй неделю обходиться без сахара."
+   },
+   {
+    "en": "Let's #keep off# politics at dinner.",
+    "ru": "Давай не будем касаться политики за ужином."
+   }
+  ]
  },
  {
   "id": "3869",
   "word": "stay off",
   "transcription": "[steɪɒf]",
   "translation": "держаться подальше",
-  "nuance": null,
+  "nuance": "stay off — держаться подальше, не пользоваться (разг.). stay off work/school — не ходить на работу/в школу. Keep off — ближе к запрету.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stay_off.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Stay off# your phone during dinner.",
+    "ru": "Не сиди в телефоне за ужином."
+   },
+   {
+    "en": "The doctor told him to #stay off# work for a week.",
+    "ru": "Врач велел ему неделю не выходить на работу."
+   },
+   {
+    "en": "#Stay off# the ice — it's thin!",
+    "ru": "Не выходи на лёд — он тонкий!"
+   }
+  ]
  },
  {
   "id": "3870",
   "word": "require",
   "transcription": "[rɪˈkwaɪə]",
   "translation": "требовать",
-  "nuance": null,
+  "nuance": "require — требовать, нуждаться (офиц.). Need — разг. «нуждаться», demand — требовать настойчиво. be required to — «обязан».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/require.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "This job #requires# patience. Lots of it.",
+    "ru": "Эта работа требует терпения. Много терпения."
+   },
+   {
+    "en": "All passengers are #required# to wear seatbelts.",
+    "ru": "Все пассажиры обязаны пристегнуться."
+   },
+   {
+    "en": "The recipe #requires# three eggs. I have one.",
+    "ru": "Для рецепта нужно три яйца. У меня одно."
+   }
+  ]
  },
  {
   "id": "3871",
   "word": "requirement",
   "transcription": "[rɪˈkwaɪəmənt]",
   "translation": "требование",
-  "nuance": null,
+  "nuance": "requirement — требование, необходимое условие (офиц.). Condition — условие, demand — требование (настойчивое).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/requirement.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Good English is a #requirement# for this job.",
+    "ru": "Хороший английский — обязательное требование для этой работы."
+   },
+   {
+    "en": "What are the entry #requirements#?",
+    "ru": "Какие требования для поступления?"
+   },
+   {
+    "en": "My only #requirement# is a quiet room.",
+    "ru": "Моё единственное требование — тихая комната."
+   }
+  ]
  },
  {
   "id": "3872",
   "word": "invent",
   "transcription": "[ɪnˈvɛnt]",
   "translation": "изобретать",
-  "nuance": null,
+  "nuance": "invent — изобретать (новое); выдумывать (историю, оправдание). Discover — открыть (существующее), create — создать, make up — выдумать (разг.).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6019/6019_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Who #invented# Mondays? I want to talk to them.",
+    "ru": "Кто придумал понедельники? Хочу с ним поговорить."
+   },
+   {
+    "en": "Edison didn't #invent# the light bulb alone.",
+    "ru": "Эдисон изобрёл лампочку не в одиночку."
+   },
+   {
+    "en": "He #invented# a story about a lost dog.",
+    "ru": "Он придумал историю о потерянной собаке."
+   }
+  ]
  },
  {
   "id": "3873",
   "word": "invention",
   "transcription": "[ɪnˈvɛnʃən]",
   "translation": "изобретение",
-  "nuance": null,
+  "nuance": "invention — изобретение; вымысел. Discovery — открытие, innovation — нововведение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/invention.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The wheel was a great #invention#.",
+    "ru": "Колесо было великим изобретением."
+   },
+   {
+    "en": "Sliced bread — the best #invention# ever.",
+    "ru": "Нарезанный хлеб — лучшее изобретение всех времён."
+   },
+   {
+    "en": "His story was pure #invention#.",
+    "ru": "Его история была чистым вымыслом."
+   }
+  ]
  },
  {
   "id": "3874",
   "word": "inventive",
   "transcription": "[ɪnˈvɛntɪv]",
   "translation": "изобретательный",
-  "nuance": null,
+  "nuance": "inventive — изобретательный, оригинальный. Creative — творческий, resourceful — находчивый, imaginative — с богатой фантазией.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/inventive.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Kids are very #inventive# when they're bored.",
+    "ru": "Дети очень изобретательны, когда им скучно."
+   },
+   {
+    "en": "She found an #inventive# way to hide vegetables in pasta.",
+    "ru": "Она нашла изобретательный способ спрятать овощи в пасту."
+   },
+   {
+    "en": "The film has an #inventive# plot.",
+    "ru": "У фильма оригинальный сюжет."
+   }
+  ]
  },
  {
   "id": "3875",
   "word": "inventiveness",
   "transcription": "[ɪnˈvɛntɪvnəs]",
   "translation": "изобретательность",
-  "nuance": null,
+  "nuance": "inventiveness — изобретательность (книжн.). Creativity — креативность (чаще), ingenuity — находчивость, смекалка.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/inventiveness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I admire her #inventiveness# in the kitchen.",
+    "ru": "Я восхищаюсь её изобретательностью на кухне."
+   },
+   {
+    "en": "The project needs more #inventiveness#.",
+    "ru": "Проекту нужно больше изобретательности."
+   },
+   {
+    "en": "His #inventiveness# with excuses is impressive.",
+    "ru": "Его изобретательность в отговорках впечатляет."
+   }
+  ]
  },
  {
   "id": "3876",
   "word": "happen",
   "transcription": "[ˈhæpən]",
   "translation": "случиться, происходить",
-  "nuance": null,
+  "nuance": "happen — случиться, произойти. happen to do — «случайно, оказаться». Occur — формальнее, take place — о запланированном событии.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/happen.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "What #happened# to your hair?!",
+    "ru": "Что случилось с твоими волосами?!"
+   },
+   {
+    "en": "Accidents #happen#.",
+    "ru": "Всякое бывает."
+   },
+   {
+    "en": "Do you #happen# to know where my keys are?",
+    "ru": "Ты случайно не знаешь, где мои ключи?"
+   }
+  ]
  },
  {
   "id": "3877",
   "word": "mishap",
   "transcription": "[ˈmɪshæp]",
   "translation": "несчастье",
-  "nuance": null,
+  "nuance": "mishap — неприятность, мелкое происшествие (не трагедия!). Accident — авария, несчастный случай, disaster — катастрофа. Перевод «несчастье» сильноват.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/mishap.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We had a little #mishap# with the cake. It's on the floor.",
+    "ru": "У нас небольшая неприятность с тортом. Он на полу."
+   },
+   {
+    "en": "The trip went without #mishap#.",
+    "ru": "Поездка прошла без происшествий."
+   },
+   {
+    "en": "After a few #mishaps#, the show began.",
+    "ru": "После нескольких накладок шоу началось."
+   }
+  ]
  },
  {
   "id": "3878",
   "word": "primary",
   "transcription": "[ˈpraɪməri]",
   "translation": "первичный, главный",
-  "nuance": null,
+  "nuance": "primary — главный, первичный; primary school — начальная школа (брит.). Main — главный (разг.), basic — базовый, primary ≠ «примитивный».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/primary.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Our #primary# goal is to survive Monday.",
+    "ru": "Наша главная цель — пережить понедельник."
+   },
+   {
+    "en": "She teaches at a #primary# school.",
+    "ru": "Она преподаёт в начальной школе."
+   },
+   {
+    "en": "Red, blue and yellow are #primary# colours.",
+    "ru": "Красный, синий и жёлтый — основные цвета."
+   }
+  ]
  },
  {
   "id": "3879",
   "word": "yard",
   "transcription": "[jɑːd]",
   "translation": "двор",
-  "nuance": null,
+  "nuance": "yard — двор (амер. — с газоном у дома; брит. — мощёный двор); также ярд (0,9 м). Garden — брит. сад/участок, courtyard — внутренний двор.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/yard.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The kids are playing in the #yard#.",
+    "ru": "Дети играют во дворе."
+   },
+   {
+    "en": "Our dog digs holes all over the #yard#.",
+    "ru": "Наша собака роет ямы по всему двору."
+   },
+   {
+    "en": "The school #yard# is empty in summer.",
+    "ru": "Летом школьный двор пустует."
+   }
+  ]
  },
  {
   "id": "3880",
   "word": "backyard",
   "transcription": "[ˌbækˈjɑːd]",
   "translation": "задний двор",
-  "nuance": null,
+  "nuance": "backyard — задний двор (амер.). Брит. — back garden. NIMBY (not in my backyard) — против стройки рядом со своим домом.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/backyard.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We had a barbecue in the #backyard#.",
+    "ru": "Мы устроили барбекю на заднем дворе."
+   },
+   {
+    "en": "A raccoon lives in our #backyard#.",
+    "ru": "На нашем заднем дворе живёт енот."
+   },
+   {
+    "en": "Not in my #backyard#!",
+    "ru": "Только не у меня под боком!"
+   }
+  ]
  },
  {
   "id": "3881",
   "word": "direct",
   "transcription": "[dɪˈrɛkt]",
   "translation": "направлять",
-  "nuance": null,
+  "nuance": "direct — направлять, указывать дорогу; руководить; режиссировать. Guide — вести, сопровождать; lead — возглавлять. Прил. direct — прямой.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/direct_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Could you #direct# me to the station?",
+    "ru": "Подскажите, как пройти к вокзалу?"
+   },
+   {
+    "en": "She #directed# her anger at the printer.",
+    "ru": "Она направила свою злость на принтер."
+   },
+   {
+    "en": "He #directed# three films.",
+    "ru": "Он снял три фильма как режиссёр."
+   }
+  ]
  },
  {
   "id": "3882",
