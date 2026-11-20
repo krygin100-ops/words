@@ -1,0 +1,6 @@
+<path d="M100 30 V170" stroke-width="10"/>
+<circle cx="140" cy="100" r="18" fill="{F}"/>
+<path d="M30 80 L80 100 L30 120" stroke-width="4"/>
+<path d="M85 85 L60 70 M85 115 L60 130" stroke-width="3" stroke-dasharray="4 4"/>
+<path d="M155 85 L180 70 M158 100 H185 M155 115 L180 130" stroke-width="3"/>
+<text x="100" y="20" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">BOING</text>

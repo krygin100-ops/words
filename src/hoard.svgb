@@ -1,0 +1,6 @@
+<path d="M30 180 Q30 120 100 110 Q170 120 170 180 Z" fill="{F}"/>
+<g fill="{L}"><circle cx="70" cy="140" r="12"/><circle cx="100" cy="128" r="12"/><circle cx="130" cy="142" r="12"/><circle cx="85" cy="160" r="12"/><circle cx="118" cy="162" r="12"/><circle cx="100" cy="100" r="12"/></g>
+<circle cx="155" cy="70" r="15" fill="{F}"/>
+<path d="M148 68 L155 66 L162 68" stroke-width="3"/>
+<path d="M150 82 Q155 88 160 82" stroke-width="3"/>
+<text x="60" y="55" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">MINE!</text>

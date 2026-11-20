@@ -1,0 +1,7 @@
+<path d="M20 160 H180" stroke-width="6"/>
+<path d="M30 160 L70 120 H150 L170 160" stroke-width="4"/>
+<circle cx="60" cy="100" r="15" fill="{F}"/>
+<rect x="45" y="95" width="30" height="8" fill="#000"/>
+<path d="M75 110 L140 115 M120 115 L115 140" stroke-width="7"/>
+<circle cx="160" cy="40" r="20" fill="{L}"/>
+<text x="110" y="70" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">relax~</text>

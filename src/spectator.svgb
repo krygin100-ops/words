@@ -1,0 +1,6 @@
+<path d="M20 150 H180 V190 H20 Z" fill="{F}"/>
+<g fill="{F}"><circle cx="50" cy="120" r="15"/><circle cx="100" cy="115" r="15"/><circle cx="150" cy="120" r="15"/></g>
+<path d="M35 150 Q35 135 50 135 Q65 135 65 150 M85 150 Q85 130 100 130 Q115 130 115 150 M135 150 Q135 135 150 135 Q165 135 165 150" fill="{F}"/>
+<g fill="{L}" stroke="none"><circle cx="45" cy="118" r="3.5"/><circle cx="55" cy="118" r="3.5"/><circle cx="95" cy="113" r="3.5"/><circle cx="105" cy="113" r="3.5"/><circle cx="145" cy="118" r="3.5"/><circle cx="155" cy="118" r="3.5"/></g>
+<circle cx="100" cy="45" r="15" fill="{L}"/>
+<path d="M60 45 H80 M120 45 H140" stroke-width="3"/>

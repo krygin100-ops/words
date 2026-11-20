@@ -1,0 +1,6 @@
+<circle cx="60" cy="80" r="16" fill="{F}"/>
+<path d="M60 96 V140 L50 180 M60 140 L70 180 M60 110 L95 105"/>
+<circle cx="140" cy="80" r="16" fill="{F}"/>
+<path d="M140 96 V140 L130 180 M140 140 L150 180 M140 110 L115 120"/>
+<path d="M95 105 L125 108" stroke-width="3" stroke-dasharray="4 4"/>
+<text x="100" y="40" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">c'mon, do it!</text>

@@ -1,0 +1,6 @@
+<circle cx="70" cy="60" r="16" fill="{F}"/>
+<path d="M62 56 L70 62 L78 56" stroke-width="3"/>
+<path d="M70 76 V120 L50 150 M70 120 L95 140 M70 90 L40 70 M70 90 L100 65" stroke-width="6"/>
+<circle cx="140" cy="140" r="16" fill="{F}" transform="rotate(180 140 140)"/>
+<path d="M140 124 V80 L120 55 M140 80 L160 55 M140 110 L115 120 M140 110 L165 120" stroke-width="6"/>
+<text x="150" y="35" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">wheee</text>

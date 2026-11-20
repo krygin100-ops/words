@@ -1,0 +1,6 @@
+<path d="M20 120 Q60 80 120 90 Q170 95 185 120 Q170 140 120 145 Q60 150 20 120 Z" fill="{F}"/>
+<path d="M90 90 L110 60 L120 92" fill="{F}"/>
+<circle cx="150" cy="110" r="5" fill="{L}" stroke="none"/>
+<path d="M160 130 L165 122 L170 130 L175 122 L180 130" stroke="{L}" stroke-width="3"/>
+<circle cx="40" cy="60" r="10" fill="{L}"/>
+<text x="40" y="35" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">eek</text>

@@ -1,0 +1,5 @@
+<circle cx="150" cy="70" r="14" fill="{F}"/>
+<path d="M148 84 L140 120 L120 150 M140 120 L160 150 L155 180 M145 95 L170 85 M145 95 L125 105" stroke-width="6"/>
+<g fill="{F}"><circle cx="40" cy="70" r="14"/><circle cx="80" cy="65" r="14"/></g>
+<path d="M40 84 L45 120 L30 150 M45 120 L60 150 M42 95 L70 90 M80 79 L85 120 L70 150 M85 120 L100 150 M82 90 L110 85" stroke-width="6"/>
+<text x="60" y="30" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">get him!</text>

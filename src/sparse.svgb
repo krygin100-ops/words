@@ -1,0 +1,5 @@
+<path d="M10 180 H190"/>
+<path d="M40 180 V140 M40 150 Q30 140 35 130 M40 155 Q52 145 48 135" stroke-width="4"/>
+<path d="M140 180 V120 M140 135 Q125 125 132 112 M140 145 Q155 135 150 122" stroke-width="4"/>
+<circle cx="95" cy="175" r="4" fill="{L}"/>
+<text x="100" y="60" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">here &amp; there</text>
