@@ -127194,500 +127194,1150 @@
   "word": "suffocate",
   "transcription": "[ˈsʌfəkeɪt]",
   "translation": "задыхаться",
-  "nuance": null,
+  "nuance": "suffocate — задыхаться, задушить (без воздуха); переносно — душить. Choke — давиться, душить; strangle — душить (руками).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/suffocate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I'm #suffocating# in this tiny office!",
+    "ru": "Я задыхаюсь в этом крошечном офисе!"
+   },
+   {
+    "en": "Don't put plastic bags near babies — they can #suffocate#.",
+    "ru": "Не держите пакеты рядом с младенцами — они могут задохнуться."
+   },
+   {
+    "en": "Too many rules #suffocate# creativity.",
+    "ru": "Слишком много правил душат творчество."
+   }
+  ]
  },
  {
   "id": "5534",
   "word": "suffocation",
   "transcription": "[ˌsʌfəˈkeɪʃən]",
   "translation": "удушение",
-  "nuance": null,
+  "nuance": "suffocation — удушье, удушение (от нехватки воздуха). Strangulation — удушение (руками, верёвкой), asphyxia — асфиксия.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/suffocation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Firefighters saved him from #suffocation#.",
+    "ru": "Пожарные спасли его от удушья."
+   },
+   {
+    "en": "There's a risk of #suffocation# with small toys.",
+    "ru": "Мелкие игрушки создают риск удушья."
+   },
+   {
+    "en": "The feeling of #suffocation# in crowds scares me.",
+    "ru": "Меня пугает чувство удушья в толпе."
+   }
+  ]
  },
  {
   "id": "5535",
   "word": "standpoint",
   "transcription": "[ˈstændpɔɪnt]",
   "translation": "точка зрения",
-  "nuance": null,
+  "nuance": "standpoint — точка зрения, позиция (книжн.). Point of view — точка зрения (разг.), perspective — перспектива, viewpoint — взгляд.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/standpoint.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "From my #standpoint#, the plan is too risky.",
+    "ru": "С моей точки зрения, план слишком рискованный."
+   },
+   {
+    "en": "From a financial #standpoint#, it's a disaster.",
+    "ru": "С финансовой точки зрения это катастрофа."
+   },
+   {
+    "en": "Look at it from the kids' #standpoint#.",
+    "ru": "Посмотри на это с точки зрения детей."
+   }
+  ]
  },
  {
   "id": "5536",
   "word": "barren",
   "transcription": "[ˈbærən]",
   "translation": "бесплодный",
-  "nuance": null,
+  "nuance": "barren — бесплодный (земля), пустой, безжизненный; устар. — бесплодная (о женщине). Infertile — бесплодный (мед.), empty — пустой.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/barren.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The land was dry and #barren#.",
+    "ru": "Земля была сухой и бесплодной."
+   },
+   {
+    "en": "The kitchen looks #barren# without my plants.",
+    "ru": "Без моих растений кухня выглядит пустой."
+   },
+   {
+    "en": "It was a #barren# year for new ideas.",
+    "ru": "Это был бесплодный год на новые идеи."
+   }
+  ]
  },
  {
   "id": "5537",
   "word": "barrenness",
   "transcription": "[ˈbærənnɪs]",
   "translation": "бесплодие",
-  "nuance": null,
+  "nuance": "barrenness — бесплодность, пустота (книжн.). Emptiness — пустота, infertility — бесплодие.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/barrenness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #barrenness# of the desert is beautiful.",
+    "ru": "Безжизненность пустыни прекрасна."
+   },
+   {
+    "en": "Nothing grows due to the #barrenness# of the soil.",
+    "ru": "Ничего не растёт из-за бесплодия почвы."
+   },
+   {
+    "en": "The #barrenness# of the room made it feel cold.",
+    "ru": "Пустота комнаты делала её холодной."
+   }
+  ]
  },
  {
   "id": "5538",
   "word": "jeopardy",
   "transcription": "[ˈʤɛpədi]",
   "translation": "опасность (серьёзная)",
-  "nuance": null,
+  "nuance": "jeopardy (ДжЕпэди) — опасность, угроза (in jeopardy). Danger — опасность, risk — риск, threat — угроза. Jeopardy! — амер. телевикторина.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/jeopardy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His job is in #jeopardy#.",
+    "ru": "Его работа под угрозой."
+   },
+   {
+    "en": "Smoking puts your health in #jeopardy#.",
+    "ru": "Курение подвергает опасности ваше здоровье."
+   },
+   {
+    "en": "The whole project is in #jeopardy#.",
+    "ru": "Весь проект под угрозой."
+   }
+  ]
  },
  {
   "id": "5539",
   "word": "jeopardize",
   "transcription": "[ˈʤɛpədaɪz]",
   "translation": "подвергать опасности",
-  "nuance": null,
+  "nuance": "jeopardise (брит.) / jeopardize (амер.) — подвергать опасности, ставить под угрозу. Endanger — подвергать опасности, risk — рисковать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/jeopardize.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #jeopardise# your future for one party.",
+    "ru": "Не ставь под угрозу будущее ради одной вечеринки."
+   },
+   {
+    "en": "The scandal #jeopardised# the deal.",
+    "ru": "Скандал поставил под угрозу сделку."
+   },
+   {
+    "en": "Bad weather could #jeopardise# the flight.",
+    "ru": "Плохая погода может сорвать рейс."
+   }
+  ]
  },
  {
   "id": "5540",
   "word": "grind (ground, groud)",
   "transcription": "[graɪnd]",
   "translation": "молоть, измельчать",
-  "nuance": null,
+  "nuance": "grind (ground, ground) — молоть, измельчать; скрипеть (зубами); сущ. — рутина, тяжкий труд. Crush — давить, mill — молоть.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/38077/38077_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Grind# the coffee just before brewing.",
+    "ru": "Мели кофе прямо перед заваркой."
+   },
+   {
+    "en": "He #grinds# his teeth at night.",
+    "ru": "Он скрипит зубами по ночам."
+   },
+   {
+    "en": "The daily #grind# is killing me.",
+    "ru": "Каждодневная рутина меня убивает."
+   }
+  ]
  },
  {
   "id": "5541",
   "word": "highway",
   "transcription": "[ˈhaɪweɪ]",
   "translation": "шоссе",
-  "nuance": null,
+  "nuance": "highway — шоссе, автомагистраль (амер.); брит. — дорога общего пользования. Motorway — автострада (брит.), road — дорога.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/highway.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We drove along the #highway# all night.",
+    "ru": "Мы всю ночь ехали по шоссе."
+   },
+   {
+    "en": "The #highway# was closed due to snow.",
+    "ru": "Шоссе закрыли из-за снега."
+   },
+   {
+    "en": "It's my way or the #highway#!",
+    "ru": "Либо по-моему, либо скатертью дорога!"
+   }
+  ]
  },
  {
   "id": "5542",
   "word": "freeway",
   "transcription": "[ˈfriːweɪ]",
   "translation": "автострада",
-  "nuance": null,
+  "nuance": "freeway (амер.) — автострада (без светофоров, часто бесплатная). Motorway — брит., expressway — скоростная магистраль, toll road — платная дорога.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/freeway.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #freeway# is jammed at 5 p.m.",
+    "ru": "В 5 вечера автострада стоит."
+   },
+   {
+    "en": "Take the #freeway# — it's faster.",
+    "ru": "Езжай по автостраде — так быстрее."
+   },
+   {
+    "en": "LA is famous for its #freeways#.",
+    "ru": "Лос-Анджелес знаменит своими автострадами."
+   }
+  ]
  },
  {
   "id": "5543",
   "word": "sober up",
   "transcription": "[ˈsəʊbərʌp]",
   "translation": "протрезветь",
-  "nuance": null,
+  "nuance": "sober up — протрезветь; переносно — отрезвить (стать серьёзнее). Calm down — успокоиться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sober_up.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Drink some coffee and #sober up#!",
+    "ru": "Выпей кофе и протрезвей!"
+   },
+   {
+    "en": "He #sobered up# when he saw the police.",
+    "ru": "Он мигом протрезвел, увидев полицию."
+   },
+   {
+    "en": "The bad news #sobered# us #up#.",
+    "ru": "Плохие новости нас отрезвили."
+   }
+  ]
  },
  {
   "id": "5544",
   "word": "apiece",
   "transcription": "[əˈpiːs]",
   "translation": "каждый, за штуку",
-  "nuance": null,
+  "nuance": "apiece — каждый, за штуку, на человека (книжн.-разг.). Each — каждый, per person — с человека, a piece — за штуку.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/apiece.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The tickets cost ten euros #apiece#.",
+    "ru": "Билеты стоят по десять евро за штуку."
+   },
+   {
+    "en": "The kids got two cookies #apiece#.",
+    "ru": "Детям дали по два печенья каждому."
+   },
+   {
+    "en": "We paid fifty dollars #apiece#.",
+    "ru": "Мы заплатили по пятьдесят долларов с человека."
+   }
+  ]
  },
  {
   "id": "5545",
   "word": "muck",
   "transcription": "[mʌk]",
   "translation": "грязь, мусор, навоз",
-  "nuance": null,
+  "nuance": "muck — грязь, навоз (разг. брит.); muck around/about — валять дурака; muck up — испортить. Dirt — грязь, mud — слякоть.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/muck.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Wipe the #muck# off your boots!",
+    "ru": "Вытри грязь с ботинок!"
+   },
+   {
+    "en": "The farmer spread #muck# on the field.",
+    "ru": "Фермер разбросал навоз по полю."
+   },
+   {
+    "en": "Don't #muck# around — we're late!",
+    "ru": "Не валяй дурака — мы опаздываем!"
+   }
+  ]
  },
  {
   "id": "5546",
   "word": "butt",
   "transcription": "[bʌt]",
   "translation": "торец, зад",
-  "nuance": null,
+  "nuance": "butt — разг. зад, задница (амер.); окурок; приклад; объект (насмешек). Bottom — попа (мягче), end — конец, торец.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/butt.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He sat on his #butt# all day.",
+    "ru": "Он весь день просидел на заднице."
+   },
+   {
+    "en": "Don't throw cigarette #butts# on the beach!",
+    "ru": "Не бросайте окурки на пляже!"
+   },
+   {
+    "en": "He's the #butt# of every joke.",
+    "ru": "Он объект всех шуток."
+   }
+  ]
  },
  {
   "id": "5547",
   "word": "grit",
   "transcription": "[grɪt]",
   "translation": "крошка, песок, гравий",
-  "nuance": null,
+  "nuance": "grit — песок, крупа, гравий; разг. — стойкость, мужество. Sand — песок, courage — смелость, determination — решимость.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/grit.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's #grit# in my shoe.",
+    "ru": "У меня в ботинке песок."
+   },
+   {
+    "en": "They spread #grit# on the icy roads.",
+    "ru": "На обледенелые дороги посыпали песок."
+   },
+   {
+    "en": "It takes #grit# to finish a marathon.",
+    "ru": "Нужна стойкость, чтобы закончить марафон."
+   }
+  ]
  },
  {
   "id": "5548",
   "word": "gritty",
   "transcription": "[ˈgrɪti]",
   "translation": "песчаный",
-  "nuance": null,
+  "nuance": "gritty — песчаный, скрипучий; суровый, реалистичный (о фильме); стойкий. Sandy — песчаный, tough — жёсткий, realistic — реалистичный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/gritty.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The bread was #gritty# — did you drop it?",
+    "ru": "Хлеб скрипел на зубах — ты его ронял?"
+   },
+   {
+    "en": "It's a #gritty# crime drama.",
+    "ru": "Это суровая криминальная драма."
+   },
+   {
+    "en": "She's a #gritty# player — she never gives up.",
+    "ru": "Она стойкий игрок — никогда не сдаётся."
+   }
+  ]
  },
  {
   "id": "5549",
   "word": "gospel",
   "transcription": "[ˈgɒspəl]",
   "translation": "евангелие",
-  "nuance": null,
+  "nuance": "gospel — Евангелие; госпел (муз.); take as gospel — принимать за чистую монету. the gospel truth — чистая правда.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/24039/24039_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The priest read from the #Gospel#.",
+    "ru": "Священник читал Евангелие."
+   },
+   {
+    "en": "We sang #gospel# music in church.",
+    "ru": "Мы пели госпел в церкви."
+   },
+   {
+    "en": "Don't take his words as #gospel#.",
+    "ru": "Не принимай его слова за истину в последней инстанции."
+   }
+  ]
  },
  {
   "id": "5550",
   "word": "deaf",
   "transcription": "[dɛf]",
   "translation": "глухой",
-  "nuance": null,
+  "nuance": "deaf — глухой; turn a deaf ear — пропускать мимо ушей. Hard of hearing — слабослышащий (мягче). Deaf (с заглавной) — культурная общность глухих.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/4748/4748_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandpa is a bit #deaf# — speak up!",
+    "ru": "Дедушка немного глуховат — говори громче!"
+   },
+   {
+    "en": "She was born #deaf#.",
+    "ru": "Она родилась глухой."
+   },
+   {
+    "en": "He's #deaf# to all advice.",
+    "ru": "Он глух ко всем советам."
+   }
+  ]
  },
  {
   "id": "5551",
   "word": "butterfly",
   "transcription": "[ˈbʌtəflaɪ]",
   "translation": "бабочка",
-  "nuance": null,
+  "nuance": "butterfly — бабочка. butterflies in one's stomach — волнение. Moth — моль/ночная бабочка, caterpillar — гусеница. butterfly stroke — баттерфляй.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/26200/26200_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A #butterfly# landed on my hand.",
+    "ru": "Бабочка села мне на руку."
+   },
+   {
+    "en": "I have #butterflies# in my stomach before exams.",
+    "ru": "Перед экзаменами у меня всё трепещет внутри."
+   },
+   {
+    "en": "She's a social #butterfly#.",
+    "ru": "Она душа компании."
+   }
+  ]
  },
  {
   "id": "5552",
   "word": "bliss",
   "transcription": "[blɪs]",
   "translation": "блаженство",
-  "nuance": null,
+  "nuance": "bliss — блаженство, полное счастье. Happiness — счастье, joy — радость, heaven — рай.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/bliss.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A day off with no plans — pure #bliss#!",
+    "ru": "Выходной без планов — чистое блаженство!"
+   },
+   {
+    "en": "Ignorance is #bliss#.",
+    "ru": "Меньше знаешь — крепче спишь."
+   },
+   {
+    "en": "They lived in married #bliss#.",
+    "ru": "Они жили в супружеском блаженстве."
+   }
+  ]
  },
  {
   "id": "5553",
   "word": "blissful",
   "transcription": "[ˈblɪsfʊl]",
   "translation": "блаженный",
-  "nuance": null,
+  "nuance": "blissful — блаженный, безмятежный. blissfully unaware — в блаженном неведении. Happy — счастливый, peaceful — умиротворённый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/blissful.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We spent a #blissful# week by the sea.",
+    "ru": "Мы провели блаженную неделю у моря."
+   },
+   {
+    "en": "The baby fell into a #blissful# sleep.",
+    "ru": "Малыш погрузился в сладкий сон."
+   },
+   {
+    "en": "He was #blissfully# unaware of the problem.",
+    "ru": "Он и не подозревал о проблеме."
+   }
+  ]
  },
  {
   "id": "5554",
   "word": "obsolete",
   "transcription": "[ˈɒbsəliːt]",
   "translation": "устарелый",
-  "nuance": null,
+  "nuance": "obsolete — устаревший, вышедший из употребления. Outdated — устаревший, old-fashioned — старомодный, out of date — просроченный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/obsolete.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My phone is already #obsolete#.",
+    "ru": "Мой телефон уже устарел."
+   },
+   {
+    "en": "Typewriters became #obsolete#.",
+    "ru": "Печатные машинки устарели."
+   },
+   {
+    "en": "That law is #obsolete#.",
+    "ru": "Этот закон устарел."
+   }
+  ]
  },
  {
   "id": "5555",
   "word": "jolt",
   "transcription": "[ʤəʊlt]",
   "translation": "толчок, встряска",
-  "nuance": null,
+  "nuance": "jolt — толчок, встряска; резко трясти, потрясти. Shock — шок, bump — удар, jerk — рывок.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/jolt.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The bus stopped with a #jolt#.",
+    "ru": "Автобус остановился с толчком."
+   },
+   {
+    "en": "The news gave me a #jolt#.",
+    "ru": "Новость меня встряхнула."
+   },
+   {
+    "en": "Coffee gives me a #jolt# of energy.",
+    "ru": "Кофе даёт мне заряд энергии."
+   }
+  ]
  },
  {
   "id": "5556",
   "word": "rupture",
   "transcription": "[ˈrʌpʧə]",
   "translation": "разрыв",
-  "nuance": null,
+  "nuance": "rupture — разрыв (трубы, органа, отношений); лопнуть. Burst — лопнуть, break — разрыв, split — раскол.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/rupture.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A pipe #ruptured# in the basement.",
+    "ru": "В подвале лопнула труба."
+   },
+   {
+    "en": "He had a #ruptured# appendix.",
+    "ru": "У него был разрыв аппендикса."
+   },
+   {
+    "en": "The argument caused a #rupture# in their friendship.",
+    "ru": "Ссора привела к разрыву их дружбы."
+   }
+  ]
  },
  {
   "id": "5557",
   "word": "cuisine",
   "transcription": "[kwi(ː)ˈziːn]",
   "translation": "кухня",
-  "nuance": null,
+  "nuance": "cuisine (квизИн) — кухня (стиль готовки). Kitchen — кухня (помещение)! Food — еда, cooking — готовка.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/cuisine.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I love Italian #cuisine#.",
+    "ru": "Обожаю итальянскую кухню."
+   },
+   {
+    "en": "The hotel is known for its #cuisine#.",
+    "ru": "Отель славится своей кухней."
+   },
+   {
+    "en": "Local #cuisine# includes a lot of fish.",
+    "ru": "Местная кухня включает много рыбы."
+   }
+  ]
  },
  {
   "id": "5558",
   "word": "be late",
   "transcription": "[biːleɪt]",
   "translation": "опоздать",
-  "nuance": null,
+  "nuance": "be late — опоздать (for smth). Delay — задержка, behind schedule — с отставанием. Ловушка: my late father — мой покойный отец!",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/be_late.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Sorry I'm #late# — the cat sat on my keys.",
+    "ru": "Простите за опоздание — кот сел на мои ключи."
+   },
+   {
+    "en": "Don't #be late# for your interview!",
+    "ru": "Не опоздай на собеседование!"
+   },
+   {
+    "en": "The train #was late# again.",
+    "ru": "Поезд снова опоздал."
+   }
+  ]
  },
  {
   "id": "5559",
   "word": "feeble",
   "transcription": "[ˈfiːbl]",
   "translation": "слабый, немощный",
-  "nuance": null,
+  "nuance": "feeble — слабый, немощный; неубедительный (excuse/attempt). Weak — слабый, frail — хилый, lame — неубедительный (разг.).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/25044/25044_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandma is getting #feeble#.",
+    "ru": "Бабушка слабеет."
+   },
+   {
+    "en": "That's a #feeble# excuse.",
+    "ru": "Это неубедительная отговорка."
+   },
+   {
+    "en": "He made a #feeble# attempt at a joke.",
+    "ru": "Он вяло попытался пошутить."
+   }
+  ]
  },
  {
   "id": "5560",
   "word": "budge",
   "transcription": "[bʌʤ]",
   "translation": "сдвинуть",
-  "nuance": null,
+  "nuance": "budge — сдвинуть(ся), шевельнуться (обычно в отрицании); уступить. Move — двигаться, shift — сдвинуть, give in — уступить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/budge.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The cat won't #budge# from my chair.",
+    "ru": "Кот ни на сантиметр не сдвигается с моего стула."
+   },
+   {
+    "en": "The door won't #budge#.",
+    "ru": "Дверь не поддаётся."
+   },
+   {
+    "en": "She won't #budge# on the price.",
+    "ru": "Она не уступит в цене."
+   }
+  ]
  },
  {
   "id": "5561",
   "word": "adultery",
   "transcription": "[əˈdʌltəri]",
   "translation": "прелюбодеяние, неверность",
-  "nuance": null,
+  "nuance": "adultery — супружеская измена, прелюбодеяние (офиц., юр., религ.). Cheating — измена (разг.), affair — роман на стороне.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/adultery.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Adultery# was once a crime.",
+    "ru": "Когда-то супружеская измена была преступлением."
+   },
+   {
+    "en": "The novel is about #adultery# and guilt.",
+    "ru": "Роман о прелюбодеянии и чувстве вины."
+   },
+   {
+    "en": "She divorced him for #adultery#.",
+    "ru": "Она развелась с ним из-за измены."
+   }
+  ]
  },
  {
   "id": "5562",
   "word": "zeal",
   "transcription": "[ziːl]",
   "translation": "рвение, усердие",
-  "nuance": null,
+  "nuance": "zeal — рвение, усердие, пыл. Enthusiasm — энтузиазм, passion — страсть, fervour — пыл.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/zeal.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He cleaned the kitchen with great #zeal#.",
+    "ru": "Он с большим рвением убрал кухню."
+   },
+   {
+    "en": "Her #zeal# for learning is amazing.",
+    "ru": "Её рвение к учёбе поражает."
+   },
+   {
+    "en": "Religious #zeal# can be dangerous.",
+    "ru": "Религиозный фанатизм может быть опасен."
+   }
+  ]
  },
  {
   "id": "5563",
   "word": "zealous",
   "transcription": "[ˈzɛləs]",
   "translation": "усердный",
-  "nuance": null,
+  "nuance": "zealous — усердный, ревностный, ярый. Enthusiastic — увлечённый, eager — рьяный, keen — увлечённый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/zealous.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She's a #zealous# student.",
+    "ru": "Она усердная студентка."
+   },
+   {
+    "en": "The #zealous# guard checked every bag.",
+    "ru": "Ретивый охранник проверял каждую сумку."
+   },
+   {
+    "en": "He's a #zealous# fan of the team.",
+    "ru": "Он ярый фанат команды."
+   }
+  ]
  },
  {
   "id": "5564",
   "word": "overzealous",
   "transcription": "[ˌəʊvəˈzɛləs]",
   "translation": "чрезмерно усердный",
-  "nuance": null,
+  "nuance": "overzealous — чрезмерно усердный, ретивый (негатив). Excessive — чрезмерный, over the top — разг. «перебор».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/overzealous.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #overzealous# security guard searched my sandwich.",
+    "ru": "Слишком ретивый охранник обыскал мой бутерброд."
+   },
+   {
+    "en": "Don't be #overzealous# with the salt.",
+    "ru": "Не переусердствуй с солью."
+   },
+   {
+    "en": "An #overzealous# fan ran onto the pitch.",
+    "ru": "Чересчур рьяный фанат выбежал на поле."
+   }
+  ]
  },
  {
   "id": "5565",
   "word": "blow up",
   "transcription": "[bləʊʌp]",
   "translation": "взорвать",
-  "nuance": null,
+  "nuance": "blow up — взорвать(ся); надуть (шарик); вспылить; увеличить (фото). Explode — взорваться, inflate — надуть, lose it — сорваться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/blow_up.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They #blew up# the old bridge.",
+    "ru": "Они взорвали старый мост."
+   },
+   {
+    "en": "Can you #blow up# the balloons?",
+    "ru": "Можешь надуть шарики?"
+   },
+   {
+    "en": "He #blew up# at me for being late.",
+    "ru": "Он взорвался на меня из-за опоздания."
+   }
+  ]
  },
  {
   "id": "5566",
   "word": "cub",
   "transcription": "[kʌb]",
   "translation": "детеныш",
-  "nuance": null,
+  "nuance": "cub — детёныш (медведя, льва, волка, лисы); новичок. Puppy — щенок, kitten — котёнок, calf — телёнок.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/cub.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A bear #cub# played in the river.",
+    "ru": "Медвежонок играл в реке."
+   },
+   {
+    "en": "The lion protected her #cubs#.",
+    "ru": "Львица защищала своих детёнышей."
+   },
+   {
+    "en": "He's a #cub# reporter — just started.",
+    "ru": "Он начинающий репортёр — только начал."
+   }
+  ]
  },
  {
   "id": "5567",
   "word": "binge",
   "transcription": "[bɪnʤ]",
   "translation": "кутёж, загул, пьянка",
-  "nuance": null,
+  "nuance": "binge — загул, разгул; разг. — делать что-то запоем (binge-watch). Spree — разгул (shopping spree), feast — пир.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/binge.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I went on a chocolate #binge#.",
+    "ru": "Я устроил шоколадный загул."
+   },
+   {
+    "en": "They #binged# the whole series in a weekend.",
+    "ru": "Они запоем посмотрели весь сериал за выходные."
+   },
+   {
+    "en": "#Binge# drinking is dangerous.",
+    "ru": "Пьянство запоем опасно."
+   }
+  ]
  },
  {
   "id": "5568",
   "word": "crouch",
   "transcription": "[kraʊʧ]",
   "translation": "присесть, припасть к земле",
-  "nuance": null,
+  "nuance": "crouch — присесть на корточки, пригнуться, припасть. Squat — сесть на корточки, kneel — встать на колени, bend — наклониться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/crouch.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #crouched# behind the sofa.",
+    "ru": "Она присела за диваном."
+   },
+   {
+    "en": "The cat #crouched#, ready to jump.",
+    "ru": "Кот припал к земле, готовый прыгнуть."
+   },
+   {
+    "en": "#Crouch# down so you don't get wet.",
+    "ru": "Пригнись, чтобы не намокнуть."
+   }
+  ]
  },
  {
   "id": "5569",
   "word": "dwarf",
   "transcription": "[dwɔːf]",
   "translation": "карлик, гном",
-  "nuance": null,
+  "nuance": "dwarf — гном (сказки), карлик; глагол — затмевать (размером). О людях корректно — person of short stature. Gnome — садовый гном.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/5450/5450_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Snow White lived with seven #dwarfs#.",
+    "ru": "Белоснежка жила с семью гномами."
+   },
+   {
+    "en": "The new building #dwarfs# the old church.",
+    "ru": "Новое здание затмевает старую церковь."
+   },
+   {
+    "en": "#Dwarf# planets are smaller than Earth.",
+    "ru": "Карликовые планеты меньше Земли."
+   }
+  ]
  },
  {
   "id": "5570",
   "word": "inexplicable",
   "transcription": "[ɪnˈɛksplɪkəbl]",
   "translation": "необъяснимый",
-  "nuance": null,
+  "nuance": "inexplicable — необъяснимый. Mysterious — загадочный, unexplained — невыясненный, strange — странный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/inexplicable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His #inexplicable# fear of buttons is funny.",
+    "ru": "Его необъяснимый страх перед пуговицами забавен."
+   },
+   {
+    "en": "The car broke down for some #inexplicable# reason.",
+    "ru": "Машина сломалась по какой-то необъяснимой причине."
+   },
+   {
+    "en": "It's #inexplicable# how he got the job.",
+    "ru": "Непонятно, как он получил эту работу."
+   }
+  ]
  },
  {
   "id": "5571",
   "word": "explicable",
   "transcription": "[ˈɛksplɪkəbl]",
   "translation": "объяснимый",
-  "nuance": null,
+  "nuance": "explicable — объяснимый (книжн., реже inexplicable). Understandable — понятный, explainable — объяснимый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/explicable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His anger is #explicable# — he hasn't slept.",
+    "ru": "Его злость объяснима — он не спал."
+   },
+   {
+    "en": "Most strange events are #explicable#.",
+    "ru": "Большинство странных событий объяснимы."
+   },
+   {
+    "en": "The delay is #explicable# but annoying.",
+    "ru": "Задержка объяснима, но раздражает."
+   }
+  ]
  },
  {
   "id": "5572",
   "word": "ample",
   "transcription": "[ˈæmpl]",
   "translation": "обильный, широкий",
-  "nuance": null,
+  "nuance": "ample — обильный, достаточный с запасом, просторный. Plenty of — много, enough — достаточно, abundant — обильный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/ample.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's #ample# room in the car.",
+    "ru": "В машине полно места."
+   },
+   {
+    "en": "We have #ample# time — relax.",
+    "ru": "У нас уйма времени — расслабься."
+   },
+   {
+    "en": "She has #ample# experience.",
+    "ru": "У неё богатый опыт."
+   }
+  ]
  },
  {
   "id": "5573",
   "word": "scaffold",
   "transcription": "[ˈskæfəld]",
   "translation": "помост",
-  "nuance": null,
+  "nuance": "scaffold — эшафот (историч.); помост, леса. Platform — платформа, stage — сцена, gallows — виселица.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/scaffold.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The criminal was led to the #scaffold#.",
+    "ru": "Преступника повели на эшафот."
+   },
+   {
+    "en": "Workers stood on a #scaffold#.",
+    "ru": "Рабочие стояли на помосте."
+   },
+   {
+    "en": "The #scaffold# was built for the execution.",
+    "ru": "Эшафот построили для казни."
+   }
+  ]
  },
  {
   "id": "5574",
   "word": "scaffolding",
   "transcription": "[ˈskæfəldɪŋ]",
   "translation": "строительные леса",
-  "nuance": null,
+  "nuance": "scaffolding — строительные леса (неисч.). Framework — каркас, structure — конструкция.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/scaffolding.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The building is covered in #scaffolding#.",
+    "ru": "Здание в строительных лесах."
+   },
+   {
+    "en": "Workers fell from the #scaffolding#.",
+    "ru": "Рабочие упали со строительных лесов."
+   },
+   {
+    "en": "The #scaffolding# will come down next week.",
+    "ru": "Леса снимут на следующей неделе."
+   }
+  ]
  },
  {
   "id": "5575",
   "word": "colonel",
   "transcription": "[ˈkɜːnl]",
   "translation": "полковник",
-  "nuance": null,
+  "nuance": "colonel (КЁнэл!) — полковник. Странное произношение. General — генерал, major — майор, captain — капитан.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/39107/39107_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #colonel# gave the order.",
+    "ru": "Полковник отдал приказ."
+   },
+   {
+    "en": "He retired as a #colonel#.",
+    "ru": "Он вышел в отставку полковником."
+   },
+   {
+    "en": "#Colonel# Sanders started KFC.",
+    "ru": "Полковник Сандерс основал KFC."
+   }
+  ]
  },
  {
   "id": "5576",
   "word": "vault",
   "transcription": "[vɔːlt]",
   "translation": "свод, небосвод",
-  "nuance": null,
+  "nuance": "vault — свод; сейф, хранилище; склеп; глагол — перепрыгнуть (с опорой). pole vault — прыжок с шестом. Dome — купол.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/36891/36891_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The church has a beautiful #vault#.",
+    "ru": "В церкви красивый свод."
+   },
+   {
+    "en": "The money is kept in a bank #vault#.",
+    "ru": "Деньги хранятся в банковском хранилище."
+   },
+   {
+    "en": "He #vaulted# over the fence.",
+    "ru": "Он перемахнул через забор."
+   }
+  ]
  },
  {
   "id": "5577",
   "word": "snag",
   "transcription": "[snæg]",
   "translation": "коряга или загвоздка",
-  "nuance": null,
+  "nuance": "snag — загвоздка, препятствие; зацепка (на ткани); коряга; разг. глагол — урвать. Problem — проблема, catch — подвох.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/snag.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's one #snag# — we have no money.",
+    "ru": "Есть одна загвоздка — у нас нет денег."
+   },
+   {
+    "en": "My jumper #snagged# on a nail.",
+    "ru": "Мой свитер зацепился за гвоздь."
+   },
+   {
+    "en": "The boat hit a #snag# in the river.",
+    "ru": "Лодка наткнулась на корягу в реке."
+   }
+  ]
  },
  {
   "id": "5578",
   "word": "prick",
   "transcription": "[prɪk]",
   "translation": "колоть",
-  "nuance": null,
+  "nuance": "prick — колоть, уколоть; укол; грубое ругательство «придурок, козёл» (вульг.!). Stab — колоть ножом, poke — тыкать.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/5539/5539_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #pricked# my finger on a needle.",
+    "ru": "Я уколол палец иголкой."
+   },
+   {
+    "en": "The cactus #pricked# me.",
+    "ru": "Кактус меня уколол."
+   },
+   {
+    "en": "Don't be such a #prick#!",
+    "ru": "Не будь таким козлом!"
+   }
+  ]
  },
  {
   "id": "5579",
   "word": "mandatory",
   "transcription": "[ˈmændətəri]",
   "translation": "обязательный",
-  "nuance": null,
+  "nuance": "mandatory — обязательный (офиц.). Compulsory — обязательный (по закону, школа), required — требуемый, obligatory — обязательный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/mandatory.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Wearing a helmet is #mandatory#.",
+    "ru": "Ношение шлема обязательно."
+   },
+   {
+    "en": "The meeting is #mandatory# for all staff.",
+    "ru": "Собрание обязательно для всех сотрудников."
+   },
+   {
+    "en": "Is it #mandatory# to tip here?",
+    "ru": "Здесь обязательно оставлять чаевые?"
+   }
+  ]
  },
  {
   "id": "5580",
   "word": "deplete",
   "transcription": "[dɪˈpliːt]",
   "translation": "истощать",
-  "nuance": null,
+  "nuance": "deplete — истощать, исчерпывать (ресурсы). Exhaust — исчерпать, drain — опустошить, use up — израсходовать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/deplete.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Long meetings #deplete# my energy.",
+    "ru": "Долгие совещания истощают мою энергию."
+   },
+   {
+    "en": "We've #depleted# our savings.",
+    "ru": "Мы исчерпали свои сбережения."
+   },
+   {
+    "en": "Fishing has #depleted# the ocean.",
+    "ru": "Рыболовство истощило океан."
+   }
+  ]
  },
  {
   "id": "5581",
   "word": "depletion",
   "transcription": "[dɪˈpliːʃən]",
   "translation": "истощение",
-  "nuance": null,
+  "nuance": "depletion — истощение, исчерпание. Exhaustion — истощение (тж. усталость), reduction — сокращение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/depletion.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Ozone #depletion# is dangerous.",
+    "ru": "Истощение озонового слоя опасно."
+   },
+   {
+    "en": "The #depletion# of resources worries scientists.",
+    "ru": "Истощение ресурсов беспокоит учёных."
+   },
+   {
+    "en": "Stress causes #depletion# of vitamins.",
+    "ru": "Стресс приводит к истощению витаминов."
+   }
+  ]
  },
  {
   "id": "5582",
   "word": "ribbon",
   "transcription": "[ˈrɪbən]",
   "translation": "лента",
-  "nuance": null,
+  "nuance": "ribbon — лента, ленточка; бант. Tape — лента (клейкая), bow — бант, band — повязка.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/36360/36360_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She tied her hair with a red #ribbon#.",
+    "ru": "Она завязала волосы красной лентой."
+   },
+   {
+    "en": "The mayor cut the #ribbon#.",
+    "ru": "Мэр перерезал ленточку."
+   },
+   {
+    "en": "The gift had a big #ribbon#.",
+    "ru": "На подарке был большой бант."
+   }
+  ]
  },
  {
   "id": "5583",
