@@ -1,4 +1,4 @@
-<circle cx="100" cy="90" r="50" fill="{F}" opacity="0.5"/>
-<text x="100" y="105" font-size="40" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif" opacity="0.5">hi</text>
-<circle cx="100" cy="90" r="70" stroke-width="3" stroke-dasharray="4 6" opacity="0.6"/>
+<circle cx="100" cy="90" r="50" fill="{F}" opacity="0.8"/>
+<text x="100" y="105" font-size="40" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif" opacity="0.8">hi</text>
+<circle cx="100" cy="90" r="70" stroke-width="3" stroke-dasharray="4 6" opacity="0.9"/>
 <text x="100" y="185" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">barely...</text>
