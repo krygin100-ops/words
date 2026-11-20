@@ -1,0 +1,8 @@
+<rect x="20" y="70" width="160" height="120" fill="{F}"/>
+<g fill="{L}"><rect x="30" y="80" width="40" height="30" rx="2"/><rect x="80" y="90" width="40" height="30" rx="2"/><rect x="130" y="80" width="40" height="30" rx="2"/><rect x="40" y="120" width="40" height="30" rx="2"/><rect x="110" y="125" width="40" height="30" rx="2"/></g>
+<circle cx="100" cy="60" r="20" fill="{F}"/>
+<circle cx="93" cy="56" r="4" fill="{L}"/>
+<circle cx="107" cy="56" r="4" fill="{L}"/>
+<path d="M80 60 Q72 55 78 48 M120 60 Q128 55 122 48" stroke-width="3"/>
+<path d="M93 70 Q100 66 107 70" stroke-width="2"/>
+<text x="100" y="25" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">so much work!</text>

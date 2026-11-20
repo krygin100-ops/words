@@ -1,0 +1,7 @@
+<g fill="{L}"><circle cx="50" cy="60" r="12"/><circle cx="100" cy="40" r="12"/><circle cx="150" cy="70" r="12"/><circle cx="80" cy="100" r="12"/><circle cx="130" cy="120" r="12"/></g>
+<path d="M50 75 V90 M100 55 V70 M150 85 V100" stroke-width="2" stroke-dasharray="3 3"/>
+<circle cx="100" cy="160" r="14" fill="{F}"/>
+<path d="M93 162 Q100 167 107 162" stroke-width="3"/>
+<path d="M100 174 V190 M100 180 L80 170 M100 180 L120 170" stroke-width="4"/>
+<text x="40" y="160" font-size="13" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">whatever</text>
+<text x="40" y="176" font-size="13" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">happens!</text>

@@ -1,0 +1,9 @@
+<circle cx="70" cy="120" r="30" fill="{F}"/>
+<path d="M60 112 H67 M73 112 H80" stroke-width="3"/>
+<path d="M62 132 H78" stroke-width="3"/>
+<path d="M40 190 Q40 150 70 150 Q100 150 100 190" fill="{F}"/>
+<circle cx="110" cy="85" r="5" fill="{L}"/>
+<ellipse cx="150" cy="50" rx="35" ry="28" fill="{F}"/>
+<text x="150" y="60" font-size="26" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">?</text>
+<circle cx="170" cy="150" r="16" fill="{L}"/>
+<text x="170" y="156" font-size="14" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">1¢</text>

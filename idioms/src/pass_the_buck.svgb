@@ -1,0 +1,10 @@
+<circle cx="45" cy="90" r="16" fill="{F}"/>
+<circle cx="155" cy="90" r="16" fill="{F}"/>
+<path d="M38 92 Q45 97 52 92" stroke-width="3"/>
+<circle cx="150" cy="88" r="3" fill="{L}"/>
+<circle cx="160" cy="88" r="3" fill="{L}"/>
+<path d="M45 106 V145 L35 180 M45 145 L55 180 M45 118 L80 105 M155 106 V145 L145 180 M155 145 L165 180"/>
+<rect x="85" y="80" width="35" height="40" rx="3" fill="{L}"/>
+<text x="102" y="105" font-size="11" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">TASK</text>
+<path d="M125 100 H140 M133 94 L141 100 L133 106" stroke-width="3"/>
+<text x="45" y="45" font-size="13" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">your job now</text>

@@ -1,0 +1,8 @@
+<circle cx="80" cy="70" r="30" fill="{F}"/>
+<circle cx="70" cy="62" r="7" fill="{L}"/>
+<circle cx="92" cy="66" r="4" fill="{L}"/>
+<path d="M65 85 Q75 92 80 85 Q85 78 95 88" stroke-width="3"/>
+<path d="M80 40 Q75 25 85 20" stroke-width="3"/>
+<path d="M80 100 V135 M80 110 L55 125 M80 110 L105 125" stroke-width="5"/>
+<g fill="{L}"><circle cx="120" cy="165" r="8"/><circle cx="145" cy="175" r="8"/><circle cx="165" cy="160" r="8"/><circle cx="105" cy="180" r="8"/><circle cx="180" cy="180" r="8"/></g>
+<text x="155" y="45" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">bonkers!</text>

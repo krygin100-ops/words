@@ -1,0 +1,10 @@
+<path d="M10 120 Q15 60 60 55 L90 50 L105 70 L85 90 Q60 110 50 140" fill="{F}"/>
+<path d="M60 55 L55 35 L70 50" fill="{F}"/>
+<circle cx="75" cy="65" r="3" fill="{L}" stroke="none"/>
+<path d="M90 80 L105 75" stroke-width="3"/>
+<path d="M110 50 H190 V95 H130 L115 110 V95 H110 Z" fill="{L}"/>
+<text x="150" y="70" font-size="12" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">the facts:</text>
+<text x="150" y="86" font-size="12" text-anchor="middle" fill="#000" stroke="none" font-family="sans-serif">firsthand!</text>
+<circle cx="140" cy="150" r="13" fill="{F}"/>
+<path d="M140 163 V190"/>
+<path d="M125 145 Q118 150 125 158" stroke-width="3"/>

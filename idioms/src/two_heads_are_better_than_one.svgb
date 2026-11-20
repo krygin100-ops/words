@@ -1,0 +1,8 @@
+<circle cx="70" cy="70" r="22" fill="{F}"/>
+<circle cx="130" cy="70" r="22" fill="{F}"/>
+<path d="M62 72 Q70 78 78 72 M122 72 Q130 78 138 72" stroke-width="3"/>
+<path d="M70 92 V140 L58 180 M70 140 L82 180 M130 92 V140 L118 180 M130 140 L142 180 M70 105 L100 112 L130 105"/>
+<path d="M100 10 Q120 10 120 30 Q120 40 112 45 V52 H88 V45 Q80 40 80 30 Q80 10 100 10 Z" fill="{L}"/>
+<path d="M85 55 L75 50 M115 55 L125 50" stroke-width="0"/>
+<path d="M75 45 L88 38 M125 45 L112 38" stroke-width="3"/>
+<text x="100" y="195" font-size="13" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">teamwork!</text>

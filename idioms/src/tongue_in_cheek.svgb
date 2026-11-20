@@ -1,0 +1,7 @@
+<circle cx="100" cy="95" r="45" fill="{F}"/>
+<circle cx="83" cy="85" r="4" fill="{L}" stroke="none"/>
+<path d="M110 82 L125 85" stroke-width="4"/>
+<path d="M80 115 Q95 120 110 112" stroke-width="3"/>
+<ellipse cx="128" cy="110" rx="12" ry="9" fill="{L}" opacity="0.6"/>
+<path d="M70 190 Q70 145 100 140 Q130 145 130 190" fill="{F}"/>
+<text x="165" y="45" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">;) just joking</text>

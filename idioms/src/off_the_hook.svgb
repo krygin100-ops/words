@@ -1,0 +1,8 @@
+<path d="M100 10 V90 Q100 115 80 115 Q60 115 60 95" stroke-width="7"/>
+<path d="M60 95 L52 103" stroke-width="5"/>
+<path d="M95 150 Q120 130 150 150 Q120 170 95 150 Z" fill="{F}"/>
+<path d="M150 150 L170 138 L168 162 Z" fill="{F}"/>
+<circle cx="108" cy="146" r="3" fill="{L}" stroke="none"/>
+<path d="M103 154 Q108 158 113 154" stroke-width="2"/>
+<path d="M80 130 L90 140 M70 140 L85 150" stroke-width="3"/>
+<text x="150" y="60" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">free! phew</text>

@@ -1,0 +1,7 @@
+<path d="M20 110 Q100 40 180 110 Q100 150 20 110 Z" fill="{F}"/>
+<circle cx="75" cy="105" r="20" fill="{L}"/>
+<circle cx="125" cy="105" r="20" fill="{L}"/>
+<g fill="#000"><circle cx="69" cy="100" r="3"/><circle cx="81" cy="100" r="3"/><circle cx="119" cy="100" r="3"/><circle cx="131" cy="100" r="3"/></g>
+<path d="M68 110 Q75 116 82 110 M118 110 Q125 116 132 110" stroke="#000" stroke-width="2"/>
+<path d="M180 110 Q190 100 188 90" stroke-width="4"/>
+<text x="100" y="175" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">exactly alike!</text>

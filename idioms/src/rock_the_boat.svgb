@@ -1,0 +1,11 @@
+<path d="M10 150 Q60 130 100 150 Q150 170 190 150 V190 H10 Z" fill="{F}"/>
+<path d="M30 120 H170 L150 150 H50 Z" fill="{F}" transform="rotate(-12 100 135)"/>
+<circle cx="70" cy="95" r="12" fill="{F}"/>
+<circle cx="130" cy="85" r="12" fill="{F}"/>
+<circle cx="66" cy="93" r="3" fill="{L}"/>
+<circle cx="74" cy="93" r="3" fill="{L}"/>
+<path d="M126 87 Q130 92 134 87" stroke-width="2"/>
+<path d="M130 97 V115 M130 103 L150 90 M130 103 L110 92" stroke-width="4"/>
+<path d="M70 107 V125" stroke-width="4"/>
+<path d="M30 80 Q20 100 30 120 M170 60 Q180 80 170 100" stroke-width="3"/>
+<text x="100" y="35" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">stop it! trouble!</text>

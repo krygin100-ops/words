@@ -1,0 +1,8 @@
+<path d="M10 185 H190"/>
+<g fill="{F}"><path d="M20 185 L40 90 L60 185 Z"/><path d="M50 185 L70 70 L90 185 Z"/><path d="M5 185 L18 120 L32 185 Z"/></g>
+<circle cx="150" cy="40" r="20" fill="{L}"/>
+<circle cx="140" cy="120" r="13" fill="{F}"/>
+<path d="M133 122 Q140 128 147 122" stroke-width="3"/>
+<path d="M140 133 V160 L130 185 M140 160 L150 185 M140 142 L120 128 M140 142 L160 128"/>
+<path d="M95 150 H115 M107 143 L117 150 L107 157" stroke-width="3"/>
+<text x="150" y="85" font-size="13" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">safe now!</text>
