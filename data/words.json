@@ -14526,7 +14526,20 @@
   "translation": "студент",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/undergraduate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "As an #undergraduate#, he lived on noodles.",
+    "ru": "Будучи студентом, он жил на лапше."
+   },
+   {
+    "en": "She's an #undergraduate# at Oxford.",
+    "ru": "Она студентка Оксфорда."
+   },
+   {
+    "en": "#Undergraduates# can use the library until midnight.",
+    "ru": "Студенты могут пользоваться библиотекой до полуночи."
+   }
+  ]
  },
  {
   "id": "662",
@@ -14535,7 +14548,20 @@
   "translation": "выпуск",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/graduation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandma cried at my #graduation#. So did I.",
+    "ru": "Бабушка плакала на моём выпускном. И я тоже."
+   },
+   {
+    "en": "After #graduation#, she moved to Berlin.",
+    "ru": "После выпуска она переехала в Берлин."
+   },
+   {
+    "en": "The #graduation# ceremony lasted four hours.",
+    "ru": "Выпускная церемония длилась четыре часа."
+   }
+  ]
  },
  {
   "id": "663",
@@ -14544,7 +14570,20 @@
   "translation": "аспирант",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/postgraduate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's a #postgraduate# student writing about bees.",
+    "ru": "Он аспирант, пишет о пчёлах."
+   },
+   {
+    "en": "#Postgraduate# courses are expensive.",
+    "ru": "Программы магистратуры и аспирантуры дорогие."
+   },
+   {
+    "en": "As a #postgraduate#, she teaches first-year students.",
+    "ru": "Как аспирантка, она преподаёт первокурсникам."
+   }
+  ]
  },
  {
   "id": "664",
@@ -14553,7 +14592,20 @@
   "translation": "заплатка, латать",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/patch.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Mum sewed a #patch# on my torn jeans.",
+    "ru": "Мама пришила заплатку на мои рваные джинсы."
+   },
+   {
+    "en": "He #patched# the hole in the tyre.",
+    "ru": "Он залатал дырку в шине."
+   },
+   {
+    "en": "The new software #patch# fixed the bug.",
+    "ru": "Новый патч исправил ошибку."
+   }
+  ]
  },
  {
   "id": "665",
@@ -14562,7 +14614,20 @@
   "translation": "шина",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tire.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We got a flat #tyre# in the middle of nowhere.",
+    "ru": "У нас спустило колесо посреди глуши."
+   },
+   {
+    "en": "Check the #tyre# pressure before the trip.",
+    "ru": "Перед поездкой проверь давление в шинах."
+   },
+   {
+    "en": "He changed the #tyre# in ten minutes.",
+    "ru": "Он поменял шину за десять минут."
+   }
+  ]
  },
  {
   "id": "666",
@@ -14571,7 +14636,20 @@
   "translation": "если не",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unless.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't call me #unless# it's an emergency.",
+    "ru": "Не звони мне, если это не срочно."
+   },
+   {
+    "en": "#Unless# you hurry, we'll miss the train.",
+    "ru": "Если ты не поторопишься, мы опоздаем на поезд."
+   },
+   {
+    "en": "The cat won't eat #unless# I watch him.",
+    "ru": "Кот не ест, если я на него не смотрю."
+   }
+  ]
  },
  {
   "id": "667",
@@ -14580,7 +14658,20 @@
   "translation": "сменить, сдвинуть",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/shift.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Can you #shift# the sofa a little to the left?",
+    "ru": "Можешь чуть сдвинуть диван влево?"
+   },
+   {
+    "en": "She works the night #shift# at the hospital.",
+    "ru": "Она работает в ночную смену в больнице."
+   },
+   {
+    "en": "The wind #shifted# and the smoke came our way.",
+    "ru": "Ветер сменился, и дым пошёл на нас."
+   }
+  ]
  },
  {
   "id": "668",
@@ -14589,7 +14680,20 @@
   "translation": "ловкий, изворотливый",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/shifty.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I don't trust him — he has #shifty# eyes.",
+    "ru": "Я ему не доверяю — у него бегающие глаза."
+   },
+   {
+    "en": "A #shifty# man tried to sell us a \"gold\" watch.",
+    "ru": "Изворотливый тип пытался продать нам «золотые» часы."
+   },
+   {
+    "en": "The dog looked #shifty# — something was missing from the table.",
+    "ru": "Собака выглядела подозрительно — со стола что-то пропало."
+   }
+  ]
  },
  {
   "id": "669",
@@ -14598,7 +14702,20 @@
   "translation": "капот, кожух",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/hood.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Smoke was coming from under the #hood#.",
+    "ru": "Из-под капота шёл дым."
+   },
+   {
+    "en": "He opened the #hood# and pretended to understand.",
+    "ru": "Он открыл капот и сделал вид, что разбирается."
+   },
+   {
+    "en": "Clean the cooker #hood# — it's full of grease.",
+    "ru": "Почисти вытяжку — она вся в жире."
+   }
+  ]
  },
  {
   "id": "670",
@@ -14607,7 +14724,20 @@
   "translation": "тратить (впустую)",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/waste_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #waste# your money on lottery tickets.",
+    "ru": "Не трать деньги на лотерейные билеты."
+   },
+   {
+    "en": "I #wasted# the whole evening scrolling my phone.",
+    "ru": "Я потратил весь вечер на листание телефона."
+   },
+   {
+    "en": "Don't #waste# food.",
+    "ru": "Не выбрасывай еду."
+   }
+  ]
  },
  {
   "id": "671",
@@ -14616,7 +14746,20 @@
   "translation": "расточительный, разорительный",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/wasteful.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Buying bottled water is #wasteful#.",
+    "ru": "Покупать воду в бутылках расточительно."
+   },
+   {
+    "en": "The #wasteful# use of paper annoys me.",
+    "ru": "Меня раздражает расточительное использование бумаги."
+   },
+   {
+    "en": "He's #wasteful# with electricity.",
+    "ru": "Он расточительно тратит электричество."
+   }
+  ]
  },
  {
   "id": "672",
@@ -14625,7 +14768,20 @@
   "translation": "заметить",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/notice.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Did you #notice# my new haircut? No?",
+    "ru": "Ты заметил мою новую стрижку? Нет?"
+   },
+   {
+    "en": "I #noticed# a spider on the ceiling. Now I can't sleep.",
+    "ru": "Я заметил паука на потолке. Теперь не могу уснуть."
+   },
+   {
+    "en": "Nobody #noticed# that he left early.",
+    "ru": "Никто не заметил, что он ушёл пораньше."
+   }
+  ]
  },
  {
   "id": "673",
@@ -14634,7 +14790,20 @@
   "translation": "незамеченный",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unnoticed.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I left the party #unnoticed#.",
+    "ru": "Я ушёл с вечеринки незамеченным."
+   },
+   {
+    "en": "The mistake went #unnoticed# for a year.",
+    "ru": "Ошибка оставалась незамеченной год."
+   },
+   {
+    "en": "His hard work didn't go #unnoticed#.",
+    "ru": "Его усердная работа не осталась незамеченной."
+   }
+  ]
  },
  {
   "id": "674",
@@ -14643,7 +14812,20 @@
   "translation": "огромный",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/enormous.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They have an #enormous# dog that thinks it's a puppy.",
+    "ru": "У них огромная собака, которая считает себя щенком."
+   },
+   {
+    "en": "The pizza was #enormous#. We finished it.",
+    "ru": "Пицца была огромной. Мы её доели."
+   },
+   {
+    "en": "It was an #enormous# mistake.",
+    "ru": "Это была огромная ошибка."
+   }
+  ]
  },
  {
   "id": "675",
@@ -14652,7 +14834,20 @@
   "translation": "крюк, зацеплять",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8589/8589_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Hang your coat on the #hook#.",
+    "ru": "Повесь пальто на крючок."
+   },
+   {
+    "en": "The fish swallowed the #hook#.",
+    "ru": "Рыба заглотила крючок."
+   },
+   {
+    "en": "He #hooked# the bag with his umbrella.",
+    "ru": "Он зацепил сумку зонтиком."
+   }
+  ]
  },
  {
   "id": "676",
@@ -14661,7 +14856,20 @@
   "translation": "крючковатый, кривой",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/hooked.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The witch had a #hooked# nose.",
+    "ru": "У ведьмы был крючковатый нос."
+   },
+   {
+    "en": "An old man with a #hooked# stick walked by.",
+    "ru": "Мимо прошёл старик с изогнутой палкой."
+   },
+   {
+    "en": "Eagles have #hooked# beaks.",
+    "ru": "У орлов загнутые клювы."
+   }
+  ]
  },
  {
   "id": "677",
@@ -14670,7 +14878,20 @@
   "translation": "сторонник",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/partisan.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's a strong #partisan# of the local football club.",
+    "ru": "Он ярый сторонник местного футбольного клуба."
+   },
+   {
+    "en": "#Partisans# of both parties shouted at each other.",
+    "ru": "Сторонники обеих партий кричали друг на друга."
+   },
+   {
+    "en": "The newspaper is too #partisan#.",
+    "ru": "Газета слишком пристрастна."
+   }
+  ]
  },
  {
   "id": "678",
@@ -14679,7 +14900,20 @@
   "translation": "приверженность, поддержка",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/partisanship.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Political #partisanship# divides families.",
+    "ru": "Политическая приверженность разделяет семьи."
+   },
+   {
+    "en": "Her #partisanship# for her own team is obvious.",
+    "ru": "Её пристрастность к своей команде очевидна."
+   },
+   {
+    "en": "We need less #partisanship# and more talking.",
+    "ru": "Нам нужно меньше пристрастности и больше диалога."
+   }
+  ]
  },
  {
   "id": "679",
@@ -14688,7 +14922,20 @@
   "translation": "злой",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/31884/31884_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't be #angry# — I only ate half your cake.",
+    "ru": "Не злись — я съел только половину твоего торта."
+   },
+   {
+    "en": "She gets #angry# when she's hungry.",
+    "ru": "Она злится, когда голодна."
+   },
+   {
+    "en": "The #angry# customer wanted to see the manager.",
+    "ru": "Рассерженный клиент хотел видеть менеджера."
+   }
+  ]
  },
  {
   "id": "680",
@@ -14697,7 +14944,20 @@
   "translation": "мера, мероприятие",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/measure.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The government took #measures# to stop the virus.",
+    "ru": "Правительство приняло меры, чтобы остановить вирус."
+   },
+   {
+    "en": "As a safety #measure#, wear a helmet.",
+    "ru": "В целях безопасности надевайте шлем."
+   },
+   {
+    "en": "I took drastic #measures#: I hid the chocolate.",
+    "ru": "Я принял решительные меры: спрятал шоколад."
+   }
+  ]
  },
  {
   "id": "681",
@@ -14706,7 +14966,20 @@
   "translation": "сомневаться, сомнение",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/doubt.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #doubt# he'll be on time.",
+    "ru": "Сомневаюсь, что он придёт вовремя."
+   },
+   {
+    "en": "No #doubt# she's the best in the class.",
+    "ru": "Без сомнения, она лучшая в классе."
+   },
+   {
+    "en": "When in #doubt#, eat pizza.",
+    "ru": "Когда сомневаешься — ешь пиццу."
+   }
+  ]
  },
  {
   "id": "682",
@@ -14715,7 +14988,20 @@
   "translation": "сомнительный",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/doubtful.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It's #doubtful# that the train will come on time.",
+    "ru": "Сомнительно, что поезд придёт вовремя."
+   },
+   {
+    "en": "She gave me a #doubtful# look.",
+    "ru": "Она недоверчиво на меня посмотрела."
+   },
+   {
+    "en": "The weather looks #doubtful# for the picnic.",
+    "ru": "Погода для пикника сомнительная."
+   }
+  ]
  },
  {
   "id": "683",
@@ -14724,7 +15010,20 @@
   "translation": "несомненный",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/doubtless.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He is #doubtless# the funniest man I know.",
+    "ru": "Он, несомненно, самый смешной человек, которого я знаю."
+   },
+   {
+    "en": "You've #doubtless# heard the news.",
+    "ru": "Ты, несомненно, слышал новости."
+   },
+   {
+    "en": "#Doubtless#, the cat will sit on the warm laptop.",
+    "ru": "Несомненно, кот сядет на тёплый ноутбук."
+   }
+  ]
  },
  {
   "id": "684",
@@ -14733,7 +15032,20 @@
   "translation": "жёсткий, негнущийся",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stiff.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My neck is #stiff# after sleeping on the sofa.",
+    "ru": "После сна на диване у меня затекла шея."
+   },
+   {
+    "en": "The new shoes are too #stiff#.",
+    "ru": "Новые туфли слишком жёсткие."
+   },
+   {
+    "en": "He gave a #stiff# smile in the photo.",
+    "ru": "На фото он натянуто улыбнулся."
+   }
+  ]
  },
  {
   "id": "685",
@@ -14742,7 +15054,20 @@
   "translation": "жесткость",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stiffness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Morning #stiffness# is common after forty.",
+    "ru": "Скованность по утрам — обычное дело после сорока."
+   },
+   {
+    "en": "Yoga helps with back #stiffness#.",
+    "ru": "Йога помогает при скованности спины."
+   },
+   {
+    "en": "The #stiffness# of the leather made the bag heavy.",
+    "ru": "Жёсткость кожи делала сумку тяжёлой."
+   }
+  ]
  },
  {
   "id": "686",
@@ -14751,7 +15076,20 @@
   "translation": "деревенеть",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stiffen.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My legs #stiffened# after sitting for six hours.",
+    "ru": "После шести часов сидения у меня одеревенели ноги."
+   },
+   {
+    "en": "She #stiffened# when her ex walked in.",
+    "ru": "Она напряглась, когда вошёл её бывший."
+   },
+   {
+    "en": "The clothes #stiffened# in the frost.",
+    "ru": "Бельё задубело на морозе."
+   }
+  ]
  },
  {
   "id": "687",
@@ -14760,7 +15098,20 @@
   "translation": "проповедовать",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/preach.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #preach# to me about healthy eating with chips in your hand.",
+    "ru": "Не учи меня здоровому питанию с чипсами в руках."
+   },
+   {
+    "en": "Practice what you #preach#.",
+    "ru": "Сначала сам делай то, чему учишь."
+   },
+   {
+    "en": "The priest #preached# about kindness.",
+    "ru": "Священник проповедовал о доброте."
+   }
+  ]
  },
  {
   "id": "688",
@@ -14769,7 +15120,20 @@
   "translation": "проповедник",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/preacher.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #preacher# spoke for an hour. Nobody moved.",
+    "ru": "Проповедник говорил час. Никто не шелохнулся."
+   },
+   {
+    "en": "My uncle is a #preacher# in a small town.",
+    "ru": "Мой дядя — проповедник в маленьком городке."
+   },
+   {
+    "en": "She sounds like a #preacher# when she talks about veganism.",
+    "ru": "Она говорит о веганстве как проповедник."
+   }
+  ]
  },
  {
   "id": "689",
@@ -14778,7 +15142,20 @@
   "translation": "выйти, получиться",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/come_off.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The party didn't #come off# as planned.",
+    "ru": "Вечеринка не получилась, как задумывали."
+   },
+   {
+    "en": "The joke didn't #come off#.",
+    "ru": "Шутка не удалась."
+   },
+   {
+    "en": "The button #came off# my coat.",
+    "ru": "С пальто оторвалась пуговица."
+   }
+  ]
  },
  {
   "id": "690",
@@ -14787,7 +15164,20 @@
   "translation": "получиться (как результат)",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/come_of.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "What will #come of# all this?",
+    "ru": "Что из всего этого выйдет?"
+   },
+   {
+    "en": "Nothing good will #come of# lying.",
+    "ru": "Ничего хорошего из лжи не выйдет."
+   },
+   {
+    "en": "Something good #came of# the bad situation.",
+    "ru": "Из плохой ситуации вышло что-то хорошее."
+   }
+  ]
  },
  {
   "id": "691",
@@ -14796,7 +15186,20 @@
   "translation": "рельс, перила",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/rail.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Hold the #rail# on the stairs.",
+    "ru": "Держись за поручень на лестнице."
+   },
+   {
+    "en": "The train went off the #rails#.",
+    "ru": "Поезд сошёл с рельсов."
+   },
+   {
+    "en": "Travelling by #rail# is relaxing.",
+    "ru": "Путешествовать поездом — расслабляет."
+   }
+  ]
  },
  {
   "id": "692",
@@ -14805,7 +15208,20 @@
   "translation": "перила",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/railing.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't lean on the #railing# — it's old.",
+    "ru": "Не облокачивайся на перила — они старые."
+   },
+   {
+    "en": "The kids slid down the #railing#.",
+    "ru": "Дети скатились по перилам."
+   },
+   {
+    "en": "Someone locked a bike to the #railing#.",
+    "ru": "Кто-то пристегнул велосипед к ограде."
+   }
+  ]
  },
  {
   "id": "693",
@@ -14814,7 +15230,20 @@
   "translation": "сходить с рельс",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/derail.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A cow #derailed# the train.",
+    "ru": "Корова пустила поезд под откос."
+   },
+   {
+    "en": "One bad week can #derail# your diet.",
+    "ru": "Одна плохая неделя может сорвать твою диету."
+   },
+   {
+    "en": "The scandal #derailed# his career.",
+    "ru": "Скандал пустил его карьеру под откос."
+   }
+  ]
  },
  {
   "id": "694",
@@ -14823,7 +15252,20 @@
   "translation": "мужской",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/male.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Is your cat #male# or female?",
+    "ru": "Ваш кот — мальчик или девочка?"
+   },
+   {
+    "en": "The #male# bird has bright feathers.",
+    "ru": "У самца яркие перья."
+   },
+   {
+    "en": "Most nurses here are #male#.",
+    "ru": "Большинство медбратьев здесь мужчины."
+   }
+  ]
  },
  {
   "id": "695",
@@ -14832,7 +15274,20 @@
   "translation": "женский",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/female.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #female# lion does most of the hunting.",
+    "ru": "Львица делает большую часть охоты."
+   },
+   {
+    "en": "Our company has a #female# director.",
+    "ru": "У нашей компании женщина-директор."
+   },
+   {
+    "en": "The #female# voice on the GPS is always calm.",
+    "ru": "Женский голос в навигаторе всегда спокоен."
+   }
+  ]
  },
  {
   "id": "696",
@@ -14841,7 +15296,20 @@
   "translation": "доказательство (неисч.)",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/proof.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Do you have any #proof# that the dog ate it?",
+    "ru": "У тебя есть доказательства, что собака это съела?"
+   },
+   {
+    "en": "Keep the receipt as #proof# of purchase.",
+    "ru": "Сохрани чек как доказательство покупки."
+   },
+   {
+    "en": "Photos or it didn't happen — I need #proof#.",
+    "ru": "Фото или не было — мне нужны доказательства."
+   }
+  ]
  },
  {
   "id": "697",
@@ -14850,7 +15318,20 @@
   "translation": "производить",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/produce.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The factory #produces# 1,000 cars a day.",
+    "ru": "Завод производит 1000 машин в день."
+   },
+   {
+    "en": "Our hens #produce# five eggs a day.",
+    "ru": "Наши курицы несут пять яиц в день."
+   },
+   {
+    "en": "The country #produces# great wine.",
+    "ru": "Страна производит отличное вино."
+   }
+  ]
  },
  {
   "id": "698",
@@ -14859,7 +15340,20 @@
   "translation": "производитель",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/producer.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Brazil is the biggest coffee #producer#.",
+    "ru": "Бразилия — крупнейший производитель кофе."
+   },
+   {
+    "en": "The #producer# of the film was unhappy.",
+    "ru": "Продюсер фильма был недоволен."
+   },
+   {
+    "en": "Local #producers# sell honey at the market.",
+    "ru": "Местные производители продают мёд на рынке."
+   }
+  ]
  },
  {
   "id": "699",
@@ -14868,7 +15362,20 @@
   "translation": "производство",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/production.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Production# stopped because of a strike.",
+    "ru": "Производство остановилось из-за забастовки."
+   },
+   {
+    "en": "The school #production# of Romeo and Juliet was funny.",
+    "ru": "Школьная постановка «Ромео и Джульетты» была смешной."
+   },
+   {
+    "en": "Car #production# fell this year.",
+    "ru": "Производство машин в этом году упало."
+   }
+  ]
  },
  {
   "id": "700",
@@ -14877,7 +15384,20 @@
   "translation": "иметь значение",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/matter_3.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It doesn't #matter# what you wear.",
+    "ru": "Неважно, что ты наденешь."
+   },
+   {
+    "en": "Does it really #matter# who ate the cookie?",
+    "ru": "Разве так важно, кто съел печенье?"
+   },
+   {
+    "en": "Small things #matter#.",
+    "ru": "Мелочи имеют значение."
+   }
+  ]
  },
  {
   "id": "701",
@@ -14886,7 +15406,20 @@
   "translation": "этикетка, ярлык",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/9920/9920_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I forgot to take the price #tag# off the gift.",
+    "ru": "Я забыл снять ценник с подарка."
+   },
+   {
+    "en": "Write your name on the luggage #tag#.",
+    "ru": "Напиши своё имя на багажной бирке."
+   },
+   {
+    "en": "Kids played #tag# in the park.",
+    "ru": "Дети играли в салки в парке."
+   }
+  ]
  },
  {
   "id": "702",
@@ -14895,7 +15428,20 @@
   "translation": "тонкий, неуловимый",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/subtle.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's a #subtle# taste of lemon in the cake.",
+    "ru": "В торте едва уловимый вкус лимона."
+   },
+   {
+    "en": "She gave him a #subtle# hint. He didn't get it.",
+    "ru": "Она тонко ему намекнула. Он не понял."
+   },
+   {
+    "en": "The difference is #subtle#.",
+    "ru": "Разница едва заметна."
+   }
+  ]
  },
  {
   "id": "703",
@@ -14904,7 +15450,20 @@
   "translation": "тонкость",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/subtleness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He lacks #subtleness# — he just says what he thinks.",
+    "ru": "Ему не хватает тонкости — он просто говорит, что думает."
+   },
+   {
+    "en": "The #subtleness# of her humour is lost on most people.",
+    "ru": "Тонкость её юмора большинство не улавливает."
+   },
+   {
+    "en": "Perfume needs #subtleness#, not a whole bottle.",
+    "ru": "Духам нужна тонкость, а не целый флакон."
+   }
+  ]
  },
  {
   "id": "704",
@@ -14913,7 +15472,20 @@
   "translation": "тонкость",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/subtlety.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #subtlety# of the joke went over his head.",
+    "ru": "Тонкость шутки до него не дошла."
+   },
+   {
+    "en": "She plays the piano with great #subtlety#.",
+    "ru": "Она играет на пианино очень тонко."
+   },
+   {
+    "en": "My mum has no #subtlety#: \"When are you getting married?\"",
+    "ru": "У мамы нет никакой деликатности: «Когда ты женишься?»"
+   }
+  ]
  },
  {
   "id": "705",
@@ -14922,7 +15494,20 @@
   "translation": "медсестра, нянька",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2375/2375_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #nurse# was kind and gave me a sticker.",
+    "ru": "Медсестра была доброй и дала мне наклейку."
+   },
+   {
+    "en": "My sister works as a #nurse# at night.",
+    "ru": "Моя сестра работает медсестрой по ночам."
+   },
+   {
+    "en": "The children's #nurse# took them to the park.",
+    "ru": "Няня повела детей в парк."
+   }
+  ]
  },
  {
   "id": "706",
@@ -14931,7 +15516,20 @@
   "translation": "уход",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/nursing.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandma needs full-time #nursing#.",
+    "ru": "Бабушке нужен постоянный уход."
+   },
+   {
+    "en": "She studies #nursing# at college.",
+    "ru": "Она учится на медсестру в колледже."
+   },
+   {
+    "en": "A #nursing# home is not a prison, Grandpa.",
+    "ru": "Дом престарелых — не тюрьма, дедушка."
+   }
+  ]
  },
  {
   "id": "707",
@@ -14940,7 +15538,20 @@
   "translation": "дет. ясли или питомник",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/nursery.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We pick up our son from the #nursery# at five.",
+    "ru": "Мы забираем сына из яслей в пять."
+   },
+   {
+    "en": "They bought roses at the plant #nursery#.",
+    "ru": "Они купили розы в питомнике растений."
+   },
+   {
+    "en": "The baby's #nursery# is painted yellow.",
+    "ru": "Детская комната покрашена в жёлтый."
+   }
+  ]
  },
  {
   "id": "708",
@@ -14949,7 +15560,20 @@
   "translation": "просыпаться или будить",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/wake.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Wake# me #up# if the pizza arrives.",
+    "ru": "Разбуди меня, если привезут пиццу."
+   },
+   {
+    "en": "I #woke up# at 3 a.m. for no reason.",
+    "ru": "Я проснулся в три часа ночи без причины."
+   },
+   {
+    "en": "The cat #wakes# us #up# at six every day.",
+    "ru": "Кот будит нас в шесть каждый день."
+   }
+  ]
  },
  {
   "id": "709",
@@ -14958,7 +15582,20 @@
   "translation": "почва",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/soil.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Tomatoes need rich #soil#.",
+    "ru": "Помидорам нужна плодородная почва."
+   },
+   {
+    "en": "The kids came home covered in #soil#.",
+    "ru": "Дети пришли домой все в земле."
+   },
+   {
+    "en": "The #soil# here is too dry for flowers.",
+    "ru": "Почва здесь слишком сухая для цветов."
+   }
+  ]
  },
  {
   "id": "710",
@@ -14967,7 +15604,20 @@
   "translation": "тихий, спокойный, тишина",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/38050/38050_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Be #quiet#, the baby's sleeping!",
+    "ru": "Тише, малыш спит!"
+   },
+   {
+    "en": "We live on a #quiet# street.",
+    "ru": "Мы живём на тихой улице."
+   },
+   {
+    "en": "I need some peace and #quiet#.",
+    "ru": "Мне нужно немного тишины и покоя."
+   }
+  ]
  },
  {
   "id": "711",
@@ -14976,7 +15626,20 @@
   "translation": "спокойствие",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/quietness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I love the #quietness# of the early morning.",
+    "ru": "Обожаю тишину раннего утра."
+   },
+   {
+    "en": "The #quietness# of the house was strange without the kids.",
+    "ru": "Без детей тишина в доме казалась странной."
+   },
+   {
+    "en": "His #quietness# made people think he was shy.",
+    "ru": "Из-за его спокойствия люди думали, что он стеснительный."
+   }
+  ]
  },
  {
   "id": "712",
@@ -14985,7 +15648,20 @@
   "translation": "успокаивать",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/quieten.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The teacher tried to #quieten# the class.",
+    "ru": "Учитель пытался успокоить класс."
+   },
+   {
+    "en": "The baby #quietened# when Dad started singing.",
+    "ru": "Малыш затих, когда папа запел."
+   },
+   {
+    "en": "Nothing #quietens# the dog like a treat.",
+    "ru": "Ничто так не успокаивает собаку, как лакомство."
+   }
+  ]
  },
  {
   "id": "713",
@@ -14994,7 +15670,20 @@
   "translation": "представлять",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/represent.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #represents# our school at the competition.",
+    "ru": "Она представляет нашу школу на соревновании."
+   },
+   {
+    "en": "The red line #represents# the road.",
+    "ru": "Красная линия обозначает дорогу."
+   },
+   {
+    "en": "A lawyer will #represent# you in court.",
+    "ru": "В суде вас будет представлять адвокат."
+   }
+  ]
  },
  {
   "id": "714",
@@ -15003,7 +15692,20 @@
   "translation": "представитель",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/representative.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A company #representative# will call you back. Never.",
+    "ru": "Представитель компании вам перезвонит. Никогда."
+   },
+   {
+    "en": "He's our class #representative#.",
+    "ru": "Он староста нашего класса."
+   },
+   {
+    "en": "Speak to a sales #representative#.",
+    "ru": "Обратитесь к торговому представителю."
+   }
+  ]
  },
  {
   "id": "715",
@@ -15012,7 +15714,20 @@
   "translation": "спор, спорить",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dispute.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's a #dispute# about who owns the fence.",
+    "ru": "Идёт спор о том, кому принадлежит забор."
+   },
+   {
+    "en": "Nobody #disputes# that she's the best cook.",
+    "ru": "Никто не спорит, что она лучший повар."
+   },
+   {
+    "en": "The #dispute# over the remote lasted all evening.",
+    "ru": "Спор из-за пульта длился весь вечер."
+   }
+  ]
  },
  {
   "id": "716",
@@ -15021,7 +15736,20 @@
   "translation": "спорный",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/disputed.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #disputed# goal decided the match.",
+    "ru": "Спорный гол решил исход матча."
+   },
+   {
+    "en": "They live in a #disputed# territory.",
+    "ru": "Они живут на спорной территории."
+   },
+   {
+    "en": "The #disputed# bill went to court.",
+    "ru": "Спорный счёт передали в суд."
+   }
+  ]
  },
  {
   "id": "717",
@@ -15030,7 +15758,20 @@
   "translation": "бесспорный, необсуждаемый",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/undisputed.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's the #undisputed# king of bad jokes.",
+    "ru": "Он бесспорный король плохих шуток."
+   },
+   {
+    "en": "She's the #undisputed# champion.",
+    "ru": "Она бесспорная чемпионка."
+   },
+   {
+    "en": "The facts are #undisputed#.",
+    "ru": "Факты неоспоримы."
+   }
+  ]
  },
  {
   "id": "718",
@@ -15039,7 +15780,20 @@
   "translation": "диван",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/25479/25479_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He fell asleep on the #couch# again.",
+    "ru": "Он снова уснул на диване."
+   },
+   {
+    "en": "We spent Sunday on the #couch# watching films.",
+    "ru": "Мы провели воскресенье на диване за фильмами."
+   },
+   {
+    "en": "The dog isn't allowed on the #couch#. He doesn't know that.",
+    "ru": "Собаке нельзя на диван. Она об этом не знает."
+   }
+  ]
  },
  {
   "id": "719",
@@ -15048,7 +15802,20 @@
   "translation": "торговля, торговый",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/trade.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Trade# between the two countries is growing.",
+    "ru": "Торговля между двумя странами растёт."
+   },
+   {
+    "en": "The city was an important #trade# centre.",
+    "ru": "Город был важным торговым центром."
+   },
+   {
+    "en": "I'll #trade# you my apple for your chocolate.",
+    "ru": "Меняю своё яблоко на твою шоколадку."
+   }
+  ]
  },
  {
   "id": "720",
@@ -15057,7 +15824,20 @@
   "translation": "трейдер, торговец",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/trader.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He works as a #trader# on the stock market.",
+    "ru": "Он работает трейдером на фондовой бирже."
+   },
+   {
+    "en": "Street #traders# sell everything from socks to phones.",
+    "ru": "Уличные торговцы продают всё, от носков до телефонов."
+   },
+   {
+    "en": "The market #traders# start at 5 a.m.",
+    "ru": "Торговцы на рынке начинают в 5 утра."
+   }
+  ]
  },
  {
   "id": "721",
