@@ -146744,500 +146744,1150 @@
   "word": "useful",
   "transcription": "[ˈjuːsfʊl]",
   "translation": "полезный",
-  "nuance": null,
+  "nuance": "Нейтральное «полезный, пригодный». Make yourself useful — «займись чем-нибудь полезным». Ср. helpful — о человеке, готовом помочь.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/useful.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "This app is really #useful# for learning words.",
+    "ru": "Это приложение очень полезно для изучения слов."
+   },
+   {
+    "en": "Make yourself #useful# and set the table.",
+    "ru": "Займись делом — накрой на стол."
+   },
+   {
+    "en": "Thanks, that's #useful# to know.",
+    "ru": "Спасибо, полезно знать."
+   }
+  ]
  },
  {
   "id": "6384",
   "word": "useless",
   "transcription": "[ˈjuːslɪs]",
   "translation": "бесполезный",
-  "nuance": null,
+  "nuance": "Разг. о человеке — «ни на что не годный, безнадёжен» в чём-то (be useless at). Pointless — бессмысленный (о действии).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/useless.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "This umbrella is #useless# in the wind.",
+    "ru": "В ветер этот зонт бесполезен."
+   },
+   {
+    "en": "I'm #useless# at maths.",
+    "ru": "В математике я полный ноль."
+   },
+   {
+    "en": "It's #useless# to argue with him.",
+    "ru": "Спорить с ним бесполезно."
+   }
+  ]
  },
  {
   "id": "6385",
   "word": "usable",
   "transcription": "[ˈjuːzəbl]",
   "translation": "годный к употреблению",
-  "nuance": null,
+  "nuance": "Usable — «пригодный, рабочий, удобный в использовании». Сущ. usability — удобство использования (термин IT). Не путать с useful.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/usable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The old printer is still #usable#.",
+    "ru": "Старый принтер ещё рабочий."
+   },
+   {
+    "en": "Only half the parking spaces were #usable#.",
+    "ru": "Только половина парковочных мест были пригодны."
+   },
+   {
+    "en": "The website isn't very #usable# on phones.",
+    "ru": "С телефона этим сайтом пользоваться неудобно."
+   }
+  ]
  },
  {
   "id": "6386",
   "word": "handkerchief",
   "transcription": "[ˈhæŋkəʧɪf]",
   "translation": "носовой платок",
-  "nuance": null,
+  "nuance": "Произношение /ˈhæŋkətʃɪf/, «d» не читается. Разг. hanky. Бумажный — tissue (Kleenex).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/17284/17284_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandpa always carries a cotton #handkerchief#.",
+    "ru": "Дед всегда носит с собой хлопковый носовой платок."
+   },
+   {
+    "en": "She waved her #handkerchief# as the train left.",
+    "ru": "Она махала платком вслед уходящему поезду."
+   },
+   {
+    "en": "Do you have a #handkerchief#? I'm about to cry.",
+    "ru": "У тебя есть платок? Я сейчас расплачусь."
+   }
+  ]
  },
  {
   "id": "6387",
   "word": "up-to-date",
   "transcription": "[ˈʌptəˈdeɪt]",
   "translation": "современный, актуальный",
-  "nuance": null,
+  "nuance": "Перед сущ. — с дефисами (up-to-date info), после глагола — часто без (it's up to date). Keep someone up to date — держать в курсе. Противоп. out of date.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/up_to_date.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Keep your antivirus #up-to-date#.",
+    "ru": "Обновляйте антивирус."
+   },
+   {
+    "en": "She's always #up-to-date# with fashion.",
+    "ru": "Она всегда в курсе моды."
+   },
+   {
+    "en": "This map isn't #up-to-date#; the road is new.",
+    "ru": "Эта карта не актуальна — дорога новая."
+   }
+  ]
  },
  {
   "id": "6388",
   "word": "count on",
   "transcription": "[kaʊntɒn]",
   "translation": "рассчитывать на",
-  "nuance": null,
+  "nuance": "Синоним rely on, depend on (чуть официальнее). Don't count on it — «и не надейся».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/count_on.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "You can always #count on# me.",
+    "ru": "Ты всегда можешь на меня рассчитывать."
+   },
+   {
+    "en": "Don't #count on# the bus being on time.",
+    "ru": "Не рассчитывай, что автобус придёт вовремя."
+   },
+   {
+    "en": "We're #counting on# you to bring the snacks.",
+    "ru": "Мы надеемся, что ты принесёшь закуски."
+   }
+  ]
  },
  {
   "id": "6389",
   "word": "arch",
   "transcription": "[ɑːʧ]",
   "translation": "арка, изгибать",
-  "nuance": null,
+  "nuance": "Прил./приставка arch- — «главный, заядлый»: arch-enemy — заклятый враг. Arch an eyebrow — скептически приподнять бровь.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/28495/28495_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We walked under a stone #arch#.",
+    "ru": "Мы прошли под каменной аркой."
+   },
+   {
+    "en": "The cat #arched# its back and hissed.",
+    "ru": "Кошка выгнула спину и зашипела."
+   },
+   {
+    "en": "She #arched# an eyebrow at my joke.",
+    "ru": "В ответ на мою шутку она приподняла бровь."
+   }
+  ]
  },
  {
   "id": "6390",
   "word": "stay up",
   "transcription": "[steɪʌp]",
   "translation": "не ложиться",
-  "nuance": null,
+  "nuance": "Нарочно не ложиться спать. Ср. wake up — проснуться, stay awake — не засыпать (часто с трудом).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stay_up.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #stayed up# all night watching films.",
+    "ru": "Мы не спали всю ночь, смотря фильмы."
+   },
+   {
+    "en": "Don't #stay up# too late, you have school.",
+    "ru": "Не засиживайся допоздна, тебе в школу."
+   },
+   {
+    "en": "Mum #stayed up# waiting for me to come home.",
+    "ru": "Мама не ложилась, ждала, когда я приду."
+   }
+  ]
  },
  {
   "id": "6391",
   "word": "shut up",
   "transcription": "[ʃʌtʌp]",
   "translation": "заткнуться",
-  "nuance": null,
+  "nuance": "Грубо при обращении к человеку! Вежливо: be quiet, please. В дружеском тоне Shut up! — «Да ладно! Не может быть!» Shut up shop — закрыть лавочку.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/shut_up.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Oh, #shut up#! You're kidding!",
+    "ru": "Да ладно! Ты шутишь!"
+   },
+   {
+    "en": "Will you two please #shut up#? I'm trying to sleep.",
+    "ru": "Вы двое можете заткнуться? Я пытаюсь уснуть."
+   },
+   {
+    "en": "He finally #shut up# about his new car.",
+    "ru": "Он наконец замолчал про свою новую машину."
+   }
+  ]
  },
  {
   "id": "6392",
   "word": "firework",
   "transcription": "[ˈfaɪəwɜːk]",
   "translation": "фейерверк, петарда",
-  "nuance": null,
+  "nuance": "Обычно мн. ч.: fireworks. Петарда — firecracker, banger. Переносно — «бурная реакция, искры» (страсть или ссора).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/firework.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We watched the #fireworks# from the roof.",
+    "ru": "Мы смотрели фейерверк с крыши."
+   },
+   {
+    "en": "The dog hates #fireworks# on New Year's Eve.",
+    "ru": "Собака ненавидит салюты в Новый год."
+   },
+   {
+    "en": "There were #fireworks# when they met.",
+    "ru": "Между ними сразу искры полетели."
+   }
+  ]
  },
  {
   "id": "6393",
   "word": "grieve",
   "transcription": "[griːv]",
   "translation": "горевать",
-  "nuance": null,
+  "nuance": "Обычно о горе после смерти или большой утраты. Сильнее, чем be sad. Сущ. grief, mourn — соблюдать траур, публично скорбеть.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/grieve.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It's normal to #grieve# for a pet.",
+    "ru": "Горевать по питомцу — нормально."
+   },
+   {
+    "en": "The whole town #grieved# for the young players.",
+    "ru": "Весь город скорбел по молодым игрокам."
+   },
+   {
+    "en": "Give yourself time to #grieve#.",
+    "ru": "Дай себе время пережить горе."
+   }
+  ]
  },
  {
   "id": "6394",
   "word": "groan",
   "transcription": "[grəʊn]",
   "translation": "стон, стонать",
-  "nuance": null,
+  "nuance": "Groan — от боли, недовольства, раздражения (часто шутливо). Moan — то же, плюс «ныть, жаловаться». Сравни: sigh — вздыхать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/groan.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #groaned# when the alarm went off.",
+    "ru": "Он застонал, когда зазвонил будильник."
+   },
+   {
+    "en": "Everyone #groaned# at Dad's bad joke.",
+    "ru": "Все застонали от папиной плохой шутки."
+   },
+   {
+    "en": "The old floor #groaned# under our feet.",
+    "ru": "Старый пол скрипел под ногами."
+   }
+  ]
  },
  {
   "id": "6395",
   "word": "plausible",
   "transcription": "[ˈplɔːzəbl]",
   "translation": "правдоподобный",
-  "nuance": null,
+  "nuance": "«Похоже на правду», но не обязательно правда — часто с оттенком сомнения. Ср. believable, likely. Ловушка: не «похвальный» (то praiseworthy).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/plausible.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "That's a #plausible# excuse, but I don't believe it.",
+    "ru": "Отговорка правдоподобная, но я ей не верю."
+   },
+   {
+    "en": "The story sounds #plausible#.",
+    "ru": "История звучит правдоподобно."
+   },
+   {
+    "en": "Is there a #plausible# reason for this mess?",
+    "ru": "Есть ли разумное объяснение этому бардаку?"
+   }
+  ]
  },
  {
   "id": "6396",
   "word": "implausible",
   "transcription": "[implausible]",
   "translation": "неправдоподобно",
-  "nuance": null,
+  "nuance": "Это прилагательное «неправдоподобный», а не наречие (то implausibly). Разг.: far-fetched, hard to believe.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/implausible.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His story was totally #implausible#.",
+    "ru": "Его история была совершенно неправдоподобной."
+   },
+   {
+    "en": "The film has an #implausible# ending.",
+    "ru": "У фильма неправдоподобная концовка."
+   },
+   {
+    "en": "It's #implausible# that the dog ate your homework.",
+    "ru": "Сомнительно, что собака съела твою домашку."
+   }
+  ]
  },
  {
   "id": "6397",
   "word": "plausibility",
   "transcription": "[ˌplɔːzəˈbɪlɪti]",
   "translation": "правдоподобие",
-  "nuance": null,
+  "nuance": "Книжн. В быту говорят: how believable it is, it makes sense.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/plausibility.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #plausibility# of his alibi was questioned.",
+    "ru": "Правдоподобие его алиби поставили под сомнение."
+   },
+   {
+    "en": "Writers check the #plausibility# of their plots.",
+    "ru": "Писатели проверяют правдоподобность сюжетов."
+   },
+   {
+    "en": "I doubt the #plausibility# of this theory.",
+    "ru": "Сомневаюсь в правдоподобности этой теории."
+   }
+  ]
  },
  {
   "id": "6398",
   "word": "drawback",
   "transcription": "[ˈdrɔːbæk]",
   "translation": "недостаток",
-  "nuance": null,
+  "nuance": "О вещах, планах, ситуациях — минус, изъян. Синонимы: downside (разг.), disadvantage. О человеке — flaw, weakness.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/drawback.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The only #drawback# is the price.",
+    "ru": "Единственный недостаток — цена."
+   },
+   {
+    "en": "Living by the sea has its #drawbacks#: seagulls.",
+    "ru": "У жизни у моря есть минусы: чайки."
+   },
+   {
+    "en": "What are the #drawbacks# of working from home?",
+    "ru": "Какие недостатки у удалённой работы?"
+   }
+  ]
  },
  {
   "id": "6399",
   "word": "latch",
   "transcription": "[læʧ]",
   "translation": "защёлка, засов",
-  "nuance": null,
+  "nuance": "Latch on (to) — «ухватиться, прицепиться» (к идее, человеку). Лёгкая защёлка, а не замок с ключом — lock.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/latch.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Make sure the gate #latch# is closed.",
+    "ru": "Проверь, что калитка закрыта на щеколду."
+   },
+   {
+    "en": "The cat figured out how to open the #latch#.",
+    "ru": "Кот понял, как открыть защёлку."
+   },
+   {
+    "en": "The baby finally #latched# on.",
+    "ru": "Малыш наконец взял грудь."
+   }
+  ]
  },
  {
   "id": "6400",
   "word": "fir",
   "transcription": "[fɜː]",
   "translation": "ель",
-  "nuance": null,
+  "nuance": "Строго: fir — пихта, spruce — ель, pine — сосна. В быту все «ёлки» часто зовут Christmas tree. Не путать с fur — мех (звучит одинаково).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/3051/3051_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We decorated a #fir# tree for Christmas.",
+    "ru": "Мы украсили ель на Рождество."
+   },
+   {
+    "en": "The hills are covered in #fir# forests.",
+    "ru": "Холмы покрыты еловыми лесами."
+   },
+   {
+    "en": "The smell of #fir# reminds me of winter.",
+    "ru": "Запах ели напоминает мне о зиме."
+   }
+  ]
  },
  {
   "id": "6401",
   "word": "pry",
   "transcription": "[praɪ]",
   "translation": "любопытствовать, совать нос",
-  "nuance": null,
+  "nuance": "Неодобр.: «совать нос в чужие дела». Prying eyes — любопытные глаза. Амер. pry open/off — «поддеть, вскрыть рычагом» (брит. prise).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/pry.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I don't want to #pry#, but are you okay?",
+    "ru": "Не хочу лезть, но ты в порядке?"
+   },
+   {
+    "en": "Keep your #prying# eyes off my phone!",
+    "ru": "Убери свой любопытный нос от моего телефона!"
+   },
+   {
+    "en": "He #pried# the lid off the paint can.",
+    "ru": "Он поддел крышку банки с краской."
+   }
+  ]
  },
  {
   "id": "6402",
   "word": "sheer",
   "transcription": "[ʃɪə]",
   "translation": "явный, полный, чистый",
-  "nuance": null,
+  "nuance": "Усилитель: sheer luck/madness — «чистое везение, чистое безумие». Ещё значения: «отвесный» (sheer cliff) и «прозрачный» (о ткани).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sheer.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It was #sheer# luck that we found the hotel.",
+    "ru": "Мы нашли отель по чистой случайности."
+   },
+   {
+    "en": "The #sheer# size of the city scared me.",
+    "ru": "Меня напугали сами размеры города."
+   },
+   {
+    "en": "She wore #sheer# black tights.",
+    "ru": "Она надела тонкие прозрачные чёрные колготки."
+   }
+  ]
  },
  {
   "id": "6403",
   "word": "whiz",
   "transcription": "[wɪz]",
   "translation": "просвистеть, пронестись",
-  "nuance": null,
+  "nuance": "Звукоподражательное — быстрое движение со свистом. Разг. сущ. whiz (whizz) kid — «вундеркинд, гений» в чём-то.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/whiz_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A ball #whizzed# past my head.",
+    "ru": "Мяч просвистел у меня над головой."
+   },
+   {
+    "en": "Cars #whizzed# by on the motorway.",
+    "ru": "Машины проносились по шоссе."
+   },
+   {
+    "en": "She's a #whiz# at computers.",
+    "ru": "Она ас в компьютерах."
+   }
+  ]
  },
  {
   "id": "6404",
   "word": "overturn",
   "transcription": "[ˈəʊvətɜːn]",
   "translation": "опрокинуть (ся)",
-  "nuance": null,
+  "nuance": "Буквально — «перевернуть», переносно в праве — «отменить» (overturn a ruling/verdict). Синонимы tip over, flip over.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/overturn.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The dog #overturned# its bowl again.",
+    "ru": "Собака снова опрокинула миску."
+   },
+   {
+    "en": "A truck #overturned# on the highway.",
+    "ru": "На трассе перевернулся грузовик."
+   },
+   {
+    "en": "The court #overturned# the decision.",
+    "ru": "Суд отменил решение."
+   }
+  ]
  },
  {
   "id": "6405",
   "word": "bark",
   "transcription": "[bɑːk]",
   "translation": "лаять",
-  "nuance": null,
+  "nuance": "Переносно — «рявкнуть, гаркнуть». Bark up the wrong tree — «обратиться не по адресу». Сущ. bark — также кора дерева.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/7139/7139_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Our neighbour's dog #barks# at every leaf.",
+    "ru": "Соседская собака лает на каждый листок."
+   },
+   {
+    "en": "Sorry, I didn't mean to #bark# at you.",
+    "ru": "Прости, я не хотел на тебя рявкнуть."
+   },
+   {
+    "en": "His #bark# is worse than his bite.",
+    "ru": "Он только грозный на вид, а на деле не страшный."
+   }
+  ]
  },
  {
   "id": "6406",
   "word": "reconcile",
   "transcription": "[ˈrɛkənsaɪl]",
   "translation": "примириться",
-  "nuance": null,
+  "nuance": "Три смысла: помирить(ся), согласовать (reconcile facts/accounts) и смириться (be reconciled to). В быту «помириться» — make up.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/reconcile.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The two brothers #reconciled# after ten years.",
+    "ru": "Два брата помирились через десять лет."
+   },
+   {
+    "en": "I can't #reconcile# what he says with what he does.",
+    "ru": "Не могу совместить его слова с его поступками."
+   },
+   {
+    "en": "You'll have to #reconcile# yourself to the rain.",
+    "ru": "Придётся смириться с дождём."
+   }
+  ]
  },
  {
   "id": "6407",
   "word": "reconciliation",
   "transcription": "[ˌrɛkənsɪlɪˈeɪʃən]",
   "translation": "примирение, улаживание",
-  "nuance": null,
+  "nuance": "Официальное. В бухгалтерии — сверка счетов. Разг. о паре — they made up / got back together.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/reconciliation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Their #reconciliation# made Mum cry.",
+    "ru": "Их примирение довело маму до слёз."
+   },
+   {
+    "en": "The talks aimed at national #reconciliation#.",
+    "ru": "Переговоры были нацелены на национальное примирение."
+   },
+   {
+    "en": "Bank #reconciliation# is part of an accountant's job.",
+    "ru": "Сверка банковских счетов — часть работы бухгалтера."
+   }
+  ]
  },
  {
   "id": "6408",
   "word": "statutory",
   "transcription": "[ˈstætjʊtəri]",
   "translation": "установленный законом",
-  "nuance": null,
+  "nuance": "Юрид. и офиц. Statute — закон, акт. Statutory rape — юр. термин (секс с несовершеннолетним). Синоним legal, но уже.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/statutory.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Workers have a #statutory# right to holidays.",
+    "ru": "У работников есть законное право на отпуск."
+   },
+   {
+    "en": "Is there a #statutory# minimum wage here?",
+    "ru": "Здесь есть установленная законом минимальная зарплата?"
+   },
+   {
+    "en": "Christmas Day is a #statutory# holiday.",
+    "ru": "Рождество — официальный праздничный день."
+   }
+  ]
  },
  {
   "id": "6409",
   "word": "insult",
   "transcription": "[ɪnˈsʌlt]",
   "translation": "оскорблять",
-  "nuance": null,
+  "nuance": "Глагол — ударение на 2-й слог: /ɪnˈsʌlt/; сущ. — на 1-й. Сильнее, чем offend. Insult someone's intelligence — «держать за дурака».",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/26611/26611_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #insult# the chef — he's my dad.",
+    "ru": "Не оскорбляй повара — это мой папа."
+   },
+   {
+    "en": "I didn't mean to #insult# you.",
+    "ru": "Я не хотел тебя обидеть."
+   },
+   {
+    "en": "He #insulted# her cooking, and dinner ended.",
+    "ru": "Он оскорбил её стряпню, и ужин закончился."
+   }
+  ]
  },
  {
   "id": "6410",
   "word": "insult",
   "transcription": "[ˈɪnsʌlt]",
   "translation": "оскорбление",
-  "nuance": null,
+  "nuance": "Сущ., ударение на 1-й: /ˈɪnsʌlt/. Add insult to injury — «мало того, ещё и...», «ещё больше усугубить».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/insult.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "That's an #insult# to my intelligence!",
+    "ru": "Это оскорбление моего интеллекта!"
+   },
+   {
+    "en": "They started throwing #insults# at each other.",
+    "ru": "Они начали осыпать друг друга оскорблениями."
+   },
+   {
+    "en": "To add #insult# to injury, it started raining.",
+    "ru": "А в довершение всего пошёл дождь."
+   }
+  ]
  },
  {
   "id": "6411",
   "word": "lay off",
   "transcription": "[leɪɒf]",
   "translation": "уволить, сократить",
-  "nuance": null,
+  "nuance": "Увольнение по сокращению, не за провинность (то fire). Разг. lay off (smth/someone) — «отстать, перестать». Сущ. layoff.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/lay_off.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The factory #laid off# 200 workers.",
+    "ru": "Завод сократил 200 рабочих."
+   },
+   {
+    "en": "He was #laid off# just before Christmas.",
+    "ru": "Его уволили прямо перед Рождеством."
+   },
+   {
+    "en": "#Lay off# the chips, they're for the guests!",
+    "ru": "Отстань от чипсов, они для гостей!"
+   }
+  ]
  },
  {
   "id": "6412",
   "word": "spike",
   "transcription": "[spaɪk]",
   "translation": "шип, штырь, острие, клин",
-  "nuance": null,
+  "nuance": "Переносно — «резкий скачок» на графике: a spike in prices. Глагол spike — «подсыпать в напиток» (алкоголь или наркотик).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/spike.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The fence had sharp #spikes# on top.",
+    "ru": "Наверху забора были острые шипы."
+   },
+   {
+    "en": "Running shoes with #spikes# grip better.",
+    "ru": "Шиповки лучше сцепляются с покрытием."
+   },
+   {
+    "en": "There was a #spike# in sales after the ad.",
+    "ru": "После рекламы продажи резко подскочили."
+   }
+  ]
  },
  {
   "id": "6413",
   "word": "spiky",
   "transcription": "[ˈspaɪki]",
   "translation": "остроконечный",
-  "nuance": null,
+  "nuance": "О волосах — «торчащие ёжиком». О человеке — «колючий, раздражительный». Prickly — колючий (о растениях и характере).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/spiky.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He has #spiky# hair like a cartoon hero.",
+    "ru": "У него волосы торчат иголками, как у мультяшного героя."
+   },
+   {
+    "en": "Cactuses are #spiky#; don't touch them.",
+    "ru": "Кактусы колючие, не трогай их."
+   },
+   {
+    "en": "She can be a bit #spiky# in the morning.",
+    "ru": "По утрам она бывает колючей."
+   }
+  ]
  },
  {
   "id": "6414",
   "word": "bang",
   "transcription": "[bæŋ]",
   "translation": "удар, взрыв",
-  "nuance": null,
+  "nuance": "Звукоподражательное. Go off with a bang — «пройти с треском (успешно)». Bangs (амер.) — чёлка. Big Bang — Большой взрыв.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/bang.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We heard a loud #bang# from the kitchen.",
+    "ru": "Мы услышали громкий хлопок с кухни."
+   },
+   {
+    "en": "I #banged# my head on the shelf.",
+    "ru": "Я ударился головой о полку."
+   },
+   {
+    "en": "The party went off with a #bang#.",
+    "ru": "Вечеринка прошла на ура."
+   }
+  ]
  },
  {
   "id": "6415",
   "word": "memories",
   "transcription": "[ˈmɛməriz]",
   "translation": "воспоминания",
-  "nuance": null,
+  "nuance": "Мн. ч. от memory. Memory (ед.) — также «память»: a good memory. In memory of — «в память о». Souvenir — сувенир, не воспоминание.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/memories.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "This song brings back #memories# of summer camp.",
+    "ru": "Эта песня навевает воспоминания о летнем лагере."
+   },
+   {
+    "en": "We have great #memories# of that trip.",
+    "ru": "У нас остались прекрасные воспоминания о той поездке."
+   },
+   {
+    "en": "She lost all her #memories# after the accident.",
+    "ru": "После аварии она потеряла все воспоминания."
+   }
+  ]
  },
  {
   "id": "6416",
   "word": "swirl",
   "transcription": "[swɜːl]",
   "translation": "кружить, вихрь, водоворот",
-  "nuance": null,
+  "nuance": "Плавное кругообразное движение — мягче, чем whirl (быстрее, сильнее). Swirl — также «завиток» (в мороженом, узоре).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/swirl.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Leaves #swirled# around in the wind.",
+    "ru": "Листья кружились на ветру."
+   },
+   {
+    "en": "#Swirl# the wine in the glass, then smell it.",
+    "ru": "Покрути вино в бокале, потом понюхай."
+   },
+   {
+    "en": "A #swirl# of thoughts kept me awake.",
+    "ru": "Вихрь мыслей не давал мне уснуть."
+   }
+  ]
  },
  {
   "id": "6417",
   "word": "hum",
   "transcription": "[hʌm]",
   "translation": "гудеть, жужжать",
-  "nuance": null,
+  "nuance": "Hum — напевать с закрытым ртом, без слов. Buzz — жужжать (о насекомых). Переносно hum with activity — «кипеть жизнью».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/hum.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The fridge #hums# all night.",
+    "ru": "Холодильник гудит всю ночь."
+   },
+   {
+    "en": "She #hummed# a song while cooking.",
+    "ru": "Она напевала песенку, пока готовила."
+   },
+   {
+    "en": "The city #hummed# with life.",
+    "ru": "Город бурлил жизнью."
+   }
+  ]
  },
  {
   "id": "6418",
   "word": "lurk",
   "transcription": "[lɜːk]",
   "translation": "таиться",
-  "nuance": null,
+  "nuance": "С угрожающим оттенком — «затаиться, поджидать». В интернете lurker — «молчаливый читатель», без негатива.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/lurk.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Danger #lurks# in the dark forest.",
+    "ru": "В тёмном лесу таится опасность."
+   },
+   {
+    "en": "Someone was #lurking# outside the house.",
+    "ru": "Кто-то околачивался возле дома."
+   },
+   {
+    "en": "I just #lurk# in the group chat, never post.",
+    "ru": "Я только молча читаю групповой чат, сам не пишу."
+   }
+  ]
  },
  {
   "id": "6419",
   "word": "mainland",
   "transcription": "[ˈmeɪnlənd]",
   "translation": "материк или большой остров",
-  "nuance": null,
+  "nuance": "Взгляд с острова: «большая земля». Mainland China, mainland Europe — без островов. Continent — континент как часть света.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/mainland.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The ferry goes from the island to the #mainland#.",
+    "ru": "Паром ходит с острова на материк."
+   },
+   {
+    "en": "Prices on the #mainland# are lower.",
+    "ru": "На большой земле цены ниже."
+   },
+   {
+    "en": "People here call it \"going to the #mainland#\".",
+    "ru": "Местные называют это «поехать на большую землю»."
+   }
+  ]
  },
  {
   "id": "6420",
   "word": "cart",
   "transcription": "[kɑːt]",
   "translation": "телега",
-  "nuance": null,
+  "nuance": "Амер. shopping cart — тележка, брит. trolley. Также «корзина» в интернет-магазине: add to cart. Put the cart before the horse — делать в неверном порядке.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/cart.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A horse pulled the #cart# up the hill.",
+    "ru": "Лошадь тащила телегу в гору."
+   },
+   {
+    "en": "I lost my shopping #cart# in the supermarket.",
+    "ru": "Я потерял тележку в супермаркете."
+   },
+   {
+    "en": "Don't put the #cart# before the horse.",
+    "ru": "Не ставь телегу впереди лошади."
+   }
+  ]
  },
  {
   "id": "6421",
   "word": "substantive",
   "transcription": "[ˈsʌbstəntɪv]",
   "translation": "существенный, основной",
-  "nuance": null,
+  "nuance": "Офиц. «по существу, содержательный». Ср. substantial — «значительный (по размеру)». В грамматике substantive — существительное (устар.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/substantive.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We need #substantive# changes, not just new logos.",
+    "ru": "Нам нужны существенные изменения, а не просто новые логотипы."
+   },
+   {
+    "en": "The meeting produced nothing #substantive#.",
+    "ru": "Встреча не дала ничего существенного."
+   },
+   {
+    "en": "They had a #substantive# talk about the budget.",
+    "ru": "У них был предметный разговор о бюджете."
+   }
+  ]
  },
  {
   "id": "6422",
   "word": "dire",
   "transcription": "[ˈdaɪə]",
   "translation": "страшный, тяжёлый",
-  "nuance": null,
+  "nuance": "Очень серьёзный, грозный: dire consequences, dire warning. In dire straits — «в отчаянном положении». Брит. разг. — «ужасный, отстойный».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dire.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The economy is in #dire# straits.",
+    "ru": "Экономика в тяжелейшем положении."
+   },
+   {
+    "en": "There's a #dire# need for clean water.",
+    "ru": "Существует острейшая нужда в чистой воде."
+   },
+   {
+    "en": "My cooking is #dire#; let's order.",
+    "ru": "Моя стряпня ужасна, давай закажем."
+   }
+  ]
  },
  {
   "id": "6423",
   "word": "rite",
   "transcription": "[raɪt]",
   "translation": "церемония, ритуал",
-  "nuance": null,
+  "nuance": "Rite of passage — «обряд перехода, этап взросления» (часто шутливо). Ritual — шире, вкл. ежедневные привычки. Не путать с right, write.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/rite.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Graduation is an important #rite# of passage.",
+    "ru": "Выпускной — важный обряд перехода во взрослую жизнь."
+   },
+   {
+    "en": "The ancient #rites# were held at sunrise.",
+    "ru": "Древние обряды проводили на рассвете."
+   },
+   {
+    "en": "Burning toast is a #rite# of passage for new cooks.",
+    "ru": "Сжечь тост — обязательный этап для начинающего повара."
+   }
+  ]
  },
  {
   "id": "6424",
   "word": "bead",
   "transcription": "[biːd]",
   "translation": "шарик, бусинка",
-  "nuance": null,
+  "nuance": "Также о капле: beads of sweat/water. Draw a bead on — «взять на мушку» (амер.).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8334/8334_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Beads# of sweat formed on his forehead.",
+    "ru": "На его лбу выступили капельки пота."
+   },
+   {
+    "en": "She threaded a wooden #bead# on the string.",
+    "ru": "Она нанизала деревянную бусину на нитку."
+   },
+   {
+    "en": "A #bead# of water rolled down the glass.",
+    "ru": "Капля воды скатилась по стеклу."
+   }
+  ]
  },
  {
   "id": "6425",
   "word": "beads",
   "transcription": "[biːdz]",
   "translation": "бисер",
-  "nuance": null,
+  "nuance": "Мн. ч.: бусы, бисер. Seed beads — мелкий бисер. Prayer beads — чётки.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/5356/5356_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My daughter makes bracelets from #beads#.",
+    "ru": "Моя дочь делает браслеты из бисера."
+   },
+   {
+    "en": "Grandma wore a string of red #beads#.",
+    "ru": "Бабушка носила нитку красных бус."
+   },
+   {
+    "en": "Prayer #beads# help some people focus.",
+    "ru": "Чётки помогают некоторым сосредоточиться."
+   }
+  ]
  },
  {
   "id": "6426",
   "word": "lineup",
   "transcription": "[ˈlaɪnʌp]",
   "translation": "расстановка, расположение",
-  "nuance": null,
+  "nuance": "Состав команды, участники концерта, а также полицейское опознание. Line up (глагол) — выстроиться в очередь.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/lineup.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The coach announced the #lineup# for the final.",
+    "ru": "Тренер объявил состав на финал."
+   },
+   {
+    "en": "The festival has an amazing #lineup# this year.",
+    "ru": "В этом году у фестиваля потрясающий состав участников."
+   },
+   {
+    "en": "The victim picked him out of a police #lineup#.",
+    "ru": "Пострадавшая опознала его среди подозреваемых на опознании."
+   }
+  ]
  },
  {
   "id": "6427",
   "word": "symbol",
   "transcription": "[ˈsɪmbəl]",
   "translation": "символ",
-  "nuance": null,
+  "nuance": "Также «знак, обозначение» в химии и математике. Sign — более общее «знак»; emblem — эмблема, официальный символ.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/symbol.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The heart is a #symbol# of love.",
+    "ru": "Сердце — символ любви."
+   },
+   {
+    "en": "What does this #symbol# on the washing label mean?",
+    "ru": "Что значит этот значок на ярлыке для стирки?"
+   },
+   {
+    "en": "The dove is a #symbol# of peace.",
+    "ru": "Голубь — символ мира."
+   }
+  ]
  },
  {
   "id": "6428",
   "word": "symbolic",
   "transcription": "[sɪmˈbɒlɪk]",
   "translation": "символический",
-  "nuance": null,
+  "nuance": "«Символический» как «чисто формальный, небольшой»: a token payment — синоним. Symbolic of — «символизирующий что-то».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/symbolic.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The ring has #symbolic# meaning.",
+    "ru": "Кольцо имеет символическое значение."
+   },
+   {
+    "en": "They paid a #symbolic# price of one dollar.",
+    "ru": "Они заплатили символическую цену — один доллар."
+   },
+   {
+    "en": "It was a #symbolic# victory, nothing more.",
+    "ru": "Это была символическая победа, не более."
+   }
+  ]
  },
  {
   "id": "6429",
   "word": "symbolize",
   "transcription": "[ˈsɪmbəlaɪz]",
   "translation": "символизировать",
-  "nuance": null,
+  "nuance": "Брит. допускает symbolise. Синоним stand for (проще), represent.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/symbolize.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Red roses #symbolize# love.",
+    "ru": "Красные розы символизируют любовь."
+   },
+   {
+    "en": "The wall came to #symbolize# the divided city.",
+    "ru": "Стена стала символом разделённого города."
+   },
+   {
+    "en": "What does the green light #symbolize# in the book?",
+    "ru": "Что символизирует зелёный огонёк в книге?"
+   }
+  ]
  },
  {
   "id": "6430",
   "word": "warfare",
   "transcription": "[ˈwɔːfeə]",
   "translation": "военные действия",
-  "nuance": null,
+  "nuance": "Неисчисляемое — способ, вид войны: guerrilla warfare, cyber warfare. War — конкретная война.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/warfare.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Modern #warfare# relies on drones.",
+    "ru": "Современные военные действия опираются на дроны."
+   },
+   {
+    "en": "Chemical #warfare# is banned.",
+    "ru": "Применение химического оружия запрещено."
+   },
+   {
+    "en": "Office #warfare# over the coffee machine is real.",
+    "ru": "Офисная война за кофемашину — это реальность."
+   }
+  ]
  },
  {
   "id": "6431",
   "word": "stalk",
   "transcription": "[stɔːk]",
   "translation": "стебель",
-  "nuance": null,
+  "nuance": "Сущ. — стебель (stem — синоним). Глагол stalk — «преследовать, выслеживать» (stalker — сталкер).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stalk_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Cut the flower #stalks# at an angle.",
+    "ru": "Срезай стебли цветов наискосок."
+   },
+   {
+    "en": "I don't eat broccoli #stalks#.",
+    "ru": "Я не ем стебли брокколи."
+   },
+   {
+    "en": "Celery #stalks# make a good snack.",
+    "ru": "Стебли сельдерея — хороший перекус."
+   }
+  ]
  },
  {
   "id": "6432",
   "word": "tout",
   "transcription": "[taʊt]",
   "translation": "рекламировать, нявязывать",
-  "nuance": null,
+  "nuance": "Навязчиво рекламировать, расхваливать — с неодобрением. Брит. ticket tout — перекупщик билетов (амер. scalper).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tout.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The ad #touts# the cream as a miracle cure.",
+    "ru": "Реклама расхваливает крем как чудо-средство."
+   },
+   {
+    "en": "Men outside the stadium #touted# tickets at triple price.",
+    "ru": "Перекупщики у стадиона продавали билеты втридорога."
+   },
+   {
+    "en": "He's being #touted# as the next big star.",
+    "ru": "Его прочат в новые звёзды."
+   }
+  ]
  },
  {
   "id": "6433",
