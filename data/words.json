@@ -1844,7 +1844,7 @@
   "word": "library",
   "transcription": "[ˈlaɪbrəri]",
   "translation": "библиотека",
-  "nuance": null,
+  "nuance": "Библиотека. Ложный друг: library ≠ «книжный магазин» (bookshop/bookstore). Также собрание (photo library, music library). Public library — публичная библиотека.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6063/6063_500.png",
   "examples": [
@@ -1867,7 +1867,7 @@
   "word": "librarian",
   "transcription": "[laɪˈbreərɪən]",
   "translation": "библиотекарь",
-  "nuance": null,
+  "nuance": "Библиотекарь. Library staff — сотрудники библиотеки. Не путать с libertarian (сторонник свободы).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/27499/27499_500.png",
   "examples": [
@@ -1890,7 +1890,7 @@
   "word": "link",
   "transcription": "[lɪŋk]",
   "translation": "связь, звено, ссылка",
-  "nuance": null,
+  "nuance": "Связь (между фактами), звено (цепи), ссылка (в интернете). Глагол link — связывать. Weak link — слабое звено. Connection — связь (шире).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/link.png",
   "examples": [
@@ -1913,7 +1913,7 @@
   "word": "linkage",
   "transcription": "[ˈlɪŋkɪʤ]",
   "translation": "связывание",
-  "nuance": null,
+  "nuance": "Книжн., технич. «связь, сцепление». В быту чаще link или connection. В политике — увязка вопросов.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/linkage.png",
   "examples": [
@@ -1936,7 +1936,7 @@
   "word": "expose",
   "transcription": "[ɪksˈpəʊz]",
   "translation": "выставлять, обнажать",
-  "nuance": null,
+  "nuance": "Выставить напоказ, подвергнуть (be exposed to sun, risk), а главное — разоблачить (expose a lie). Exposure — разоблачение, воздействие, выдержка (фото).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/expose.png",
   "examples": [
@@ -1959,7 +1959,7 @@
   "word": "exposition",
   "transcription": "[ˌɛkspəʊˈzɪʃən]",
   "translation": "выставка, выставление",
-  "nuance": null,
+  "nuance": "Книжн. Изложение, объяснение (exposition of a theory), экспозиция (вступление в сюжете). Выставка — чаще exhibition, expo.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/exposition.png",
   "examples": [
@@ -1982,7 +1982,7 @@
   "word": "dig up",
   "transcription": "[dɪgʌp]",
   "translation": "откопать",
-  "nuance": null,
+  "nuance": "Откопать — и буквально, и перен. «раскопать» (компромат, старые фото). Dig out — вытащить, откопать (снег, вещь).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/34037/34037_500.png",
   "examples": [
@@ -2005,7 +2005,7 @@
   "word": "narrate",
   "transcription": "[nəˈreɪt]",
   "translation": "повествовать, рассказывать",
-  "nuance": null,
+  "nuance": "Книжн. Рассказывать, вести повествование (narrate a film — озвучить). В быту — tell. Narrator — рассказчик, диктор.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/narrate.png",
   "examples": [
@@ -2028,7 +2028,7 @@
   "word": "narrative",
   "transcription": "[ˈnærətɪv]",
   "translation": "рассказ, повествовательный",
-  "nuance": null,
+  "nuance": "Повествование, сюжет; модное слово «нарратив» (официальная версия, точка зрения). Прил. — повествовательный. Story — история (проще).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/narrative.png",
   "examples": [
@@ -2051,7 +2051,7 @@
   "word": "narration",
   "transcription": "[nəˈreɪʃən]",
   "translation": "пересказ",
-  "nuance": null,
+  "nuance": "Повествование, закадровый текст (narration in a documentary). «Пересказ» — неточно; пересказ — retelling, summary.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/narration.png",
   "examples": [
@@ -2074,7 +2074,7 @@
   "word": "enable",
   "transcription": "[ɪˈneɪbl]",
   "translation": "давать возможность",
-  "nuance": null,
+  "nuance": "Давать возможность (enable someone to do). Включить функцию (enable notifications). Также психол. enabler — тот, кто потакает (зависимости).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/enable.png",
   "examples": [
@@ -2097,7 +2097,7 @@
   "word": "laugh",
   "transcription": "[lɑːf]",
   "translation": "смеяться",
-  "nuance": null,
+  "nuance": "Смеяться (laugh at — над). Сущ. — смех. Have the last laugh — «смеётся тот, кто смеётся последним». Laugh it off — отшутиться. Chuckle, giggle — оттенки смеха.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/13354/13354_500.png",
   "examples": [
@@ -2120,7 +2120,7 @@
   "word": "example",
   "transcription": "[ɪgˈzɑːmpl]",
   "translation": "пример",
-  "nuance": null,
+  "nuance": "Пример (образец). Set an example — подавать пример. Make an example of — наказать для острастки. Instance — случай (книжн.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/example.png",
   "examples": [
@@ -2143,7 +2143,7 @@
   "word": "for example",
   "transcription": "[fɔːrɪgˈzɑːmpl]",
   "translation": "например",
-  "nuance": null,
+  "nuance": "Например. Сокращение e.g. (латинское). For instance — синоним. Ловушка: i.e. — «то есть», не «например»!",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/for_example.png",
   "examples": [
@@ -2166,7 +2166,7 @@
   "word": "stake",
   "transcription": "[steɪk]",
   "translation": "стойка, кол, столб",
-  "nuance": null,
+  "nuance": "Кол, столб; ставка, доля (a stake in the company); stakes — ставки (high stakes). At stake — «на кону». Burn at the stake — сжечь на костре.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stake.png",
   "examples": [
@@ -2189,7 +2189,7 @@
   "word": "decent",
   "transcription": "[ˈdiːsnt]",
   "translation": "приличный, достойный",
-  "nuance": null,
+  "nuance": "Приличный, порядочный, нормальный (decent salary, decent person). Разг. «вполне хороший». Ложный друг: не «доцент». Are you decent? — «ты одет?».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/decent.png",
   "examples": [
@@ -2212,7 +2212,7 @@
   "word": "indecent",
   "transcription": "[ɪnˈdiːsnt]",
   "translation": "неприличный",
-  "nuance": null,
+  "nuance": "Неприличный, непристойный (indecent behaviour). Indecent exposure — юр. «эксгибиционизм». Rude — грубый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/indecent.png",
   "examples": [
@@ -2235,7 +2235,7 @@
   "word": "decency",
   "transcription": "[ˈdiːsnsi]",
   "translation": "порядочность",
-  "nuance": null,
+  "nuance": "Порядочность, приличия. Have the decency to — «иметь совесть, приличие (сделать)». Common decency — элементарная порядочность.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/decency.png",
   "examples": [
@@ -2258,7 +2258,7 @@
   "word": "indecency",
   "transcription": "[ɪnˈdiːsnsi]",
   "translation": "непристойность",
-  "nuance": null,
+  "nuance": "Непристойность (юр., книжн.). Indecent act — непристойный поступок. Obscenity — непристойность (о словах, изображениях).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/indecency.png",
   "examples": [
@@ -2281,7 +2281,7 @@
   "word": "owe",
   "transcription": "[əʊ]",
   "translation": "быть обязанным чем-л.",
-  "nuance": null,
+  "nuance": "Быть обязанным: I owe you my life — «я обязан тебе жизнью». I owe it to my parents — «это заслуга моих родителей». Debt of gratitude — долг благодарности.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/owe_2.png",
   "examples": [
@@ -2304,7 +2304,7 @@
   "word": "owing",
   "transcription": "[ˈəʊɪŋ]",
   "translation": "обязанный, должный",
-  "nuance": null,
+  "nuance": "Owing to — «благодаря, из-за» (офиц.: owing to bad weather). Прил. owing — причитающийся (money owing). Due to — синоним.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/owing.png",
   "examples": [
@@ -2327,7 +2327,7 @@
   "word": "glove",
   "transcription": "[glʌv]",
   "translation": "перчатка",
-  "nuance": null,
+  "nuance": "Перчатка. Mitten — варежка. Fit like a glove — «сидит как влитой». Take the gloves off — «перестать церемониться». Glove compartment — бардачок.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8353/8353_500.png",
   "examples": [
@@ -2350,7 +2350,7 @@
   "word": "cure",
   "transcription": "[kjʊə]",
   "translation": "лечить",
-  "nuance": null,
+  "nuance": "Вылечить (полностью, болезнь или человека). Treat — лечить (процесс). Сущ. cure — лекарство, средство (a cure for cancer). Также cure — коптить, вялить.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/3302/3302_500.png",
   "examples": [
@@ -2373,7 +2373,7 @@
   "word": "curable",
   "transcription": "[ˈkjʊərəbl]",
   "translation": "излечимый",
-  "nuance": null,
+  "nuance": "Излечимый. Treatable — поддающийся лечению (не обязательно излечимый). Мед., нейтр.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/curable.png",
   "examples": [
@@ -2396,7 +2396,7 @@
   "word": "incurable",
   "transcription": "[ɪnˈkjʊərəbl]",
   "translation": "неизлечимый",
-  "nuance": null,
+  "nuance": "Неизлечимый (о болезни, мед.). Шутливо — «неисправимый» (incurable romantic). Terminal — смертельный, на последней стадии.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/incurable.png",
   "examples": [
@@ -2419,7 +2419,7 @@
   "word": "curative",
   "transcription": "[ˈkjʊərətɪv]",
   "translation": "лечебный",
-  "nuance": null,
+  "nuance": "Книжн., мед. Лечебный (curative properties). Healing — целебный (проще). Medicinal — лекарственный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/curative.png",
   "examples": [
@@ -2442,7 +2442,7 @@
   "word": "avoid",
   "transcription": "[əˈvɔɪd]",
   "translation": "избегать",
-  "nuance": null,
+  "nuance": "Избегать (avoid doing — с -ing!). Avoid like the plague — «избегать как огня». Evade — уклоняться (от налогов, ответа).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/avoid.png",
   "examples": [
@@ -2465,7 +2465,7 @@
   "word": "avoidance",
   "transcription": "[əˈvɔɪdəns]",
   "translation": "уклонение",
-  "nuance": null,
+  "nuance": "Избегание, уклонение (tax avoidance — законная оптимизация налогов, ≠ tax evasion — уклонение, незаконно!). Психол. — избегающее поведение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/avoidance.png",
   "examples": [
@@ -2488,7 +2488,7 @@
   "word": "think over",
   "transcription": "[θɪŋkˈəʊvə]",
   "translation": "обдумать",
-  "nuance": null,
+  "nuance": "Обдумать (не спеша, перед решением): I'll think it over. Consider — рассматривать. Sleep on it — «утро вечера мудренее».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/think_over.png",
   "examples": [
@@ -2511,7 +2511,7 @@
   "word": "think through",
   "transcription": "[θɪŋkθruː]",
   "translation": "взвесить",
-  "nuance": null,
+  "nuance": "Продумать до конца, все последствия: think it through. Глубже, чем think over. Plan — планировать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/think_through.png",
   "examples": [
@@ -2534,7 +2534,7 @@
   "word": "emerge",
   "transcription": "[ɪˈmɜːʤ]",
   "translation": "появляться",
-  "nuance": null,
+  "nuance": "Появиться, выйти (из тени, воды), выясниться (it emerged that...). Appear — появиться (нейтр.). Emerge — с оттенком «возникнуть из».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/emerge.png",
   "examples": [
@@ -2557,7 +2557,7 @@
   "word": "emergent",
   "transcription": "[ɪˈmɜːʤənt]",
   "translation": "возникающий",
-  "nuance": null,
+  "nuance": "Книжн., научн. «возникающий, развивающийся» (emergent property). Emerging — проще (emerging markets — развивающиеся рынки).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/emergent.png",
   "examples": [
@@ -2580,7 +2580,7 @@
   "word": "emergence",
   "transcription": "[ɪˈmɜːʤəns]",
   "translation": "появление",
-  "nuance": null,
+  "nuance": "Появление, возникновение (emergence of new technology). Ловушка: emergency — чрезвычайная ситуация (другое слово!).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/emergence.png",
   "examples": [
@@ -2603,7 +2603,7 @@
   "word": "take",
   "transcription": "[teɪk]",
   "translation": "воспринимать",
-  "nuance": null,
+  "nuance": "Take — десятки значений: брать, занимать время, принимать (лекарство, критику). Воспринимать — take it badly (плохо воспринять). Take it easy — не напрягайся.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/take.png",
   "examples": [
@@ -2626,7 +2626,7 @@
   "word": "fisherman",
   "transcription": "[ˈfɪʃəmən]",
   "translation": "рыбак",
-  "nuance": null,
+  "nuance": "Рыбак (профессиональный или любитель). Fisher — книжн., гендерно-нейтр. Angler — рыболов-любитель (с удочкой).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/3366/3366_500.png",
   "examples": [
@@ -2649,7 +2649,7 @@
   "word": "fishery",
   "transcription": "[ˈfɪʃəri]",
   "translation": "рыболовство",
-  "nuance": null,
+  "nuance": "Рыбный промысел, рыбное хозяйство (часто мн. ч. fisheries). Fishing — рыбалка (занятие).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fishery.png",
   "examples": [
@@ -2672,7 +2672,7 @@
   "word": "conscious",
   "transcription": "[ˈkɒnʃəs]",
   "translation": "сознательный, сознающий",
-  "nuance": null,
+  "nuance": "В сознании (be conscious), осознающий (conscious of), сознательный (conscious decision). Self-conscious — застенчивый, стесняющийся! Ловушка: conscience — совесть.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/conscious.png",
   "examples": [
@@ -2695,7 +2695,7 @@
   "word": "unconscious",
   "transcription": "[ʌnˈkɒnʃəs]",
   "translation": "без сознания",
-  "nuance": null,
+  "nuance": "Без сознания (мед.); бессознательный (unconscious bias). Сущ. the unconscious — бессознательное (психол.). Subconscious — подсознательный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unconscious.png",
   "examples": [
@@ -2718,7 +2718,7 @@
   "word": "consciousness",
   "transcription": "[ˈkɒnʃəsnɪs]",
   "translation": "сознание",
-  "nuance": null,
+  "nuance": "Сознание (lose/regain consciousness), осознание (consciousness of a problem). Stream of consciousness — поток сознания (литер.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/consciousness.png",
   "examples": [
@@ -2741,7 +2741,7 @@
   "word": "subconscious",
   "transcription": "[ˌsʌbˈkɒnʃəs]",
   "translation": "подсознательный",
-  "nuance": null,
+  "nuance": "Подсознательный; сущ. the subconscious — подсознание. Unconscious — бессознательный (психол., чуть иное).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/subconscious.png",
   "examples": [
@@ -2764,7 +2764,7 @@
   "word": "subconsciousness",
   "transcription": "[ˌsʌbˈkɒnʃəsnəs]",
   "translation": "подсознание",
-  "nuance": null,
+  "nuance": "Редкое слово. В речи используют the subconscious (mind). Unconscious mind — бессознательное.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/subconsciousness.png",
   "examples": [
@@ -2787,7 +2787,7 @@
   "word": "detect",
   "transcription": "[dɪˈtɛkt]",
   "translation": "обнаружить, выявить",
-  "nuance": null,
+  "nuance": "Обнаружить (часто приборами или чутьём: detect smoke, detect a lie). Find — найти (проще). Detector — датчик. Detective — сыщик.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/detect.png",
   "examples": [
@@ -2810,7 +2810,7 @@
   "word": "anywhere",
   "transcription": "[ˈɛnɪweə]",
   "translation": "где угодно, куда угодно",
-  "nuance": null,
+  "nuance": "Где угодно (в утверд.), нигде (в отриц.: not anywhere), где-нибудь (в вопр.). Anywhere near — «и близко не». Somewhere — где-то.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/anywhere.png",
   "examples": [
@@ -2833,7 +2833,7 @@
   "word": "anyhow",
   "transcription": "[ˈɛnɪhaʊ]",
   "translation": "как угодно",
-  "nuance": null,
+  "nuance": "Разг. «всё равно, так или иначе» (Anyhow, let's go). Anyway — синоним (чаще). Также «кое-как, небрежно» (thrown in anyhow).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/anyhow.png",
   "examples": [
@@ -2856,7 +2856,7 @@
   "word": "dare",
   "transcription": "[deə]",
   "translation": "осмелиться",
-  "nuance": null,
+  "nuance": "Осмелиться (dare to do). How dare you! — «Как ты смеешь!». I dare you — «слабо?». Don't you dare! — «Только попробуй!». I daresay — пожалуй.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dare.png",
   "examples": [
@@ -2879,7 +2879,7 @@
   "word": "anger",
   "transcription": "[ˈæŋgə]",
   "translation": "гнев",
-  "nuance": null,
+  "nuance": "Гнев, злость. Rage — ярость (сильнее), fury — бешенство. Anger management — управление гневом. Angry — злой (прил.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/anger.png",
   "examples": [
@@ -2902,7 +2902,7 @@
   "word": "stuff",
   "transcription": "[stʌf]",
   "translation": "вещи, всякая фигня",
-  "nuance": null,
+  "nuance": "Разг. «вещи, всякая всячина, штука». Глагол stuff — набивать, фаршировать. Stuffed — сытый, фаршированный. Know your stuff — «знать своё дело».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stuff.png",
   "examples": [
@@ -2925,7 +2925,7 @@
   "word": "fortunate",
   "transcription": "[ˈfɔːʧnɪt]",
   "translation": "удачный",
-  "nuance": null,
+  "nuance": "Удачливый, везучий (о человеке: fortunate to be alive). Удачный — lucky, successful. Fortunate — книжнее, чем lucky.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fortunate.png",
   "examples": [
@@ -2948,7 +2948,7 @@
   "word": "fortunately",
   "transcription": "[ˈfɔːʧnɪtli]",
   "translation": "к счастью",
-  "nuance": null,
+  "nuance": "К счастью (вводное). Luckily — синоним (разг.). Happily — книжн. «к счастью».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fortunately.png",
   "examples": [
@@ -2971,7 +2971,7 @@
   "word": "unfortunately",
   "transcription": "[ʌnˈfɔːʧnɪtli]",
   "translation": "к сожалению",
-  "nuance": null,
+  "nuance": "К сожалению (вводное). Sadly, regrettably (офиц.) — синонимы. Unfortunately for him — «к его несчастью».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unfortunately.png",
   "examples": [
@@ -2994,7 +2994,7 @@
   "word": "unfortunate",
   "transcription": "[ʌnˈfɔːʧnɪt]",
   "translation": "несчастный",
-  "nuance": null,
+  "nuance": "Неудачный, прискорбный (unfortunate event), невезучий. «Несчастный» человек — unhappy, miserable. Офиц. эвфемизм для «плохого».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unfortunate.png",
   "examples": [
@@ -3017,7 +3017,7 @@
   "word": "wilderness",
   "transcription": "[ˈwɪldənɪs]",
   "translation": "глушь, дикая местность",
-  "nuance": null,
+  "nuance": "Дикая природа, глушь, пустыня (необжитая). В политике — in the wilderness — «в опале, не у дел». Произношение /ˈwɪldənəs/.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/wilderness.png",
   "examples": [
@@ -3040,7 +3040,7 @@
   "word": "shut out",
   "transcription": "[ʃʌtaʊt]",
   "translation": "не впускать",
-  "nuance": null,
+  "nuance": "Не впускать (свет, звук, людей), перен. — исключать из общения. Block out — заглушить. Lock out — запереть снаружи.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/shut_out.png",
   "examples": [
@@ -3063,7 +3063,7 @@
   "word": "shut in",
   "transcription": "[ʃʌtɪn]",
   "translation": "не выпускать",
-  "nuance": null,
+  "nuance": "Запереть внутри. Shut-in (амер.) — затворник, человек, не выходящий из дома. Lock in — запереть.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/shut_in.png",
   "examples": [
@@ -3086,7 +3086,7 @@
   "word": "noise",
   "transcription": "[nɔɪz]",
   "translation": "шум",
-  "nuance": null,
+  "nuance": "Шум (неприятный). Sound — звук (нейтр.). Make a noise about — поднимать шум. Background noise — фоновый шум.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/noise.png",
   "examples": [
@@ -3109,7 +3109,7 @@
   "word": "noisy",
   "transcription": "[ˈnɔɪzi]",
   "translation": "шумный",
-  "nuance": null,
+  "nuance": "Шумный. Loud — громкий (о звуке). Rowdy — буйный, шумный (о людях).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/7157/7157_500.png",
   "examples": [
@@ -3132,7 +3132,7 @@
   "word": "noiseless",
   "transcription": "[ˈnɔɪzlɪs]",
   "translation": "бесшумный",
-  "nuance": null,
+  "nuance": "Бесшумный. Silent — тихий, молчаливый (чаще). Quiet — тихий.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/noiseless.png",
   "examples": [
@@ -3155,7 +3155,7 @@
   "word": "fat",
   "transcription": "[fæt]",
   "translation": "жир, жирный",
-  "nuance": null,
+  "nuance": "Жир (body fat, fat in food), толстый (о человеке — грубо!). Вежливо: overweight, big. Fat chance! — «держи карман шире!».",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/26110/26110_500.png",
   "examples": [
@@ -3178,7 +3178,7 @@
   "word": "fatness",
   "transcription": "[ˈfætnəs]",
   "translation": "упитанность",
-  "nuance": null,
+  "nuance": "Редкое слово, полнота. В быту — being overweight, weight. Неделикатно о людях.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fatness.png",
   "examples": [
@@ -3201,7 +3201,7 @@
   "word": "fatten",
   "transcription": "[ˈfætn]",
   "translation": "откармливать",
-  "nuance": null,
+  "nuance": "Откармливать (животных), полнить (fattening food — калорийная еда). Fatten up — откормить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fatten.png",
   "examples": [
@@ -3224,7 +3224,7 @@
   "word": "fail",
   "transcription": "[feɪl]",
   "translation": "потерпеть неудачу",
-  "nuance": null,
+  "nuance": "Провалиться (fail an exam), не суметь (fail to do), отказать (brakes failed). Без fail — «обязательно». Fail someone — подвести.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fail.png",
   "examples": [
@@ -3247,7 +3247,7 @@
   "word": "steady",
   "transcription": "[ˈstɛdi]",
   "translation": "устойчивый",
-  "nuance": null,
+  "nuance": "Устойчивый, ровный, постоянный (steady job, steady pace). Go steady (устар.) — встречаться. Steady! — «спокойно, осторожно!».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/steady.png",
   "examples": [
@@ -3270,7 +3270,7 @@
   "word": "steadiness",
   "transcription": "[ˈstɛdɪnəs]",
   "translation": "устойчивость",
-  "nuance": null,
+  "nuance": "Устойчивость, твёрдость (руки, характера). Stability — стабильность (офиц.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/steadiness.png",
   "examples": [
@@ -3293,7 +3293,7 @@
   "word": "unsteady",
   "transcription": "[ʌnˈstɛdi]",
   "translation": "неустойчивый",
-  "nuance": null,
+  "nuance": "Неустойчивый, шаткий (on unsteady feet — неуверенно на ногах). Shaky — дрожащий, шаткий.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unsteady.png",
   "examples": [
@@ -3316,7 +3316,7 @@
   "word": "loss",
   "transcription": "[lɒs]",
   "translation": "потеря",
-  "nuance": null,
+  "nuance": "Потеря, утрата (в т. ч. смерть близкого), убыток (profit and loss), поражение (в спорте). At a loss — «в растерянности». Sorry for your loss — соболезную.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/loss.png",
   "examples": [
@@ -3339,7 +3339,7 @@
   "word": "path",
   "transcription": "[pɑːθ]",
   "translation": "путь",
-  "nuance": null,
+  "nuance": "Тропа, путь (буквально и перен.: career path). Way — путь, способ. Track — тропа. Cross paths — пересечься.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/27406/27406_500.png",
   "examples": [
@@ -3362,7 +3362,7 @@
   "word": "pathway",
   "transcription": "[ˈpɑːθweɪ]",
   "translation": "путь",
-  "nuance": null,
+  "nuance": "Тропинка, путь (pathway to success), в науке — путь, механизм (neural pathway). Почти синоним path.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6955/6955_500.png",
   "examples": [
@@ -3385,7 +3385,7 @@
   "word": "upside down",
   "transcription": "[ˈʌpsaɪddaʊn]",
   "translation": "вверх ногами",
-  "nuance": null,
+  "nuance": "Вверх ногами, перевёрнутый. Перен. turn one's life upside down — перевернуть жизнь. Inside out — наизнанку.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/upside_down.png",
   "examples": [
@@ -3408,7 +3408,7 @@
   "word": "cozy",
   "transcription": "[ˈkəʊzi]",
   "translation": "уютный",
-  "nuance": null,
+  "nuance": "Амер. cozy, брит. cosy. Уютный (о месте), перен. cosy relationship — слишком тесные (подозрительные) отношения. Snug — уютный и тёплый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/cozy.png",
   "examples": [
@@ -3431,7 +3431,7 @@
   "word": "depict",
   "transcription": "[dɪˈpɪkt]",
   "translation": "изображать, описывать",
-  "nuance": null,
+  "nuance": "Изображать (в искусстве, описании). Show — показывать (проще). Portray — изображать (персонажа).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/depict.png",
   "examples": [
@@ -3454,7 +3454,7 @@
   "word": "depiction",
   "transcription": "[dɪˈpɪkʃ(ə)n]",
   "translation": "описание",
-  "nuance": null,
+  "nuance": "Изображение, описание (depiction of war in film). Portrayal — образ (актёрский).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/depiction.png",
   "examples": [
@@ -3477,7 +3477,7 @@
   "word": "room",
   "transcription": "[ruːm]",
   "translation": "место, пространство",
-  "nuance": null,
+  "nuance": "Комната, а также «место» (неисчисл.: there's no room). Make room — освободить место. Room for improvement — есть куда расти.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/room.png",
   "examples": [
@@ -3500,7 +3500,7 @@
   "word": "roomy",
   "transcription": "[ˈruːmi]",
   "translation": "вместительный",
-  "nuance": null,
+  "nuance": "Просторный, вместительный (roomy car). Spacious — просторный (о помещении, книжнее).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/roomy.png",
   "examples": [
@@ -3523,7 +3523,7 @@
   "word": "lens",
   "transcription": "[lɛnz]",
   "translation": "линза, объектив",
-  "nuance": null,
+  "nuance": "Линза, объектив. Contact lenses — контактные линзы. Через призму — through the lens of. Мн. ч. lenses.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/lens.png",
   "examples": [
@@ -3546,7 +3546,7 @@
   "word": "tail",
   "transcription": "[teɪl]",
   "translation": "хвост",
-  "nuance": null,
+  "nuance": "Хвост. Tails — решка (монеты: heads or tails?), фрак. Глагол tail — следить, «садиться на хвост». Tail off — затихать.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/5967/5967_500.png",
   "examples": [
@@ -3569,7 +3569,7 @@
   "word": "tails",
   "transcription": "[teɪlz]",
   "translation": "обрезки, отходы",
-  "nuance": null,
+  "nuance": "Ловушка: перевод неточен. Tails — «решка» (у монеты), фрак, мн. ч. хвостов. «Отходы, хвосты» (tailings) — горнорудный термин.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tails.png",
   "examples": [
@@ -3592,7 +3592,7 @@
   "word": "tailed",
   "transcription": "[teɪld]",
   "translation": "хвостатый",
-  "nuance": null,
+  "nuance": "Хвостатый, чаще в сложных: long-tailed (длиннохвостый), bushy-tailed. Bright-eyed and bushy-tailed — бодрый и весёлый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tailed.png",
   "examples": [
@@ -3615,7 +3615,7 @@
   "word": "can",
   "transcription": "[kæn]",
   "translation": "жестяная банка",
-  "nuance": null,
+  "nuance": "Жестяная банка (амер.; брит. tin). Can of worms — «осиное гнездо». Также модальный can — мочь.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6544/6544_500.png",
   "examples": [
@@ -3638,7 +3638,7 @@
   "word": "canned",
   "transcription": "[kænd]",
   "translation": "консервированный",
-  "nuance": null,
+  "nuance": "Консервированный (амер.; брит. tinned). Canned laughter — закадровый смех. Перен. — заготовленный, неживой.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/canned.png",
   "examples": [
@@ -3661,7 +3661,7 @@
   "word": "flour",
   "transcription": "[ˈflaʊə]",
   "translation": "мука",
-  "nuance": null,
+  "nuance": "Мука. Не путать с flower (цветок) — звучат одинаково! Plain/self-raising flour — обычная/с разрыхлителем.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8600/8600_500.png",
   "examples": [
@@ -3684,7 +3684,7 @@
   "word": "magazine",
   "transcription": "[ˌmægəˈziːn]",
   "translation": "журнал",
-  "nuance": null,
+  "nuance": "Журнал. Ложный друг: magazine ≠ «магазин» (shop, store)! Также магазин (оружия). Journal — научный журнал, дневник.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/24364/24364_500.png",
   "examples": [
@@ -3707,7 +3707,7 @@
   "word": "tense",
   "transcription": "[tɛns]",
   "translation": "напряжённый, напрягать",
-  "nuance": null,
+  "nuance": "Напряжённый (о человеке, ситуации, мышцах). Глагол tense (up) — напрячься. В грамматике tense — время глагола!",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tense.png",
   "examples": [
@@ -3730,7 +3730,7 @@
   "word": "tension",
   "transcription": "[ˈtɛnʃən]",
   "translation": "напряженность",
-  "nuance": null,
+  "nuance": "Напряжение, напряжённость (между людьми, в мышцах). Электрич. — voltage. Suspense — напряжение в сюжете.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tension.png",
   "examples": [
@@ -3753,7 +3753,7 @@
   "word": "way",
   "transcription": "[weɪ]",
   "translation": "способ",
-  "nuance": null,
+  "nuance": "Путь, дорога, способ, манера. By the way — кстати. No way! — ни за что / не может быть. Way too much — слишком (разг.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/way.png",
   "examples": [
@@ -3776,7 +3776,7 @@
   "word": "split (split, split)",
   "transcription": "[splɪt]",
   "translation": "расколоться, распасться",
-  "nuance": null,
+  "nuance": "Расколоть(ся), разделить (split the bill — разделить счёт). Расстаться (split up). Сущ. split — раскол, шпагат (do the splits).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/split.png",
   "examples": [
@@ -3799,7 +3799,7 @@
   "word": "ring (rang, rung)",
   "transcription": "[rɪŋ]",
   "translation": "звонить, звонок",
-  "nuance": null,
+  "nuance": "Звонить, звенеть. Сущ. ring — кольцо, звонок, ринг. Give me a ring — позвони мне (брит.). Ring a bell — «что-то напоминает».",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/10171/10171_500.png",
   "examples": [
@@ -3822,7 +3822,7 @@
   "word": "thumb",
   "transcription": "[θʌm]",
   "translation": "большой палец",
-  "nuance": null,
+  "nuance": "Большой палец (руки). Big toe — большой палец ноги. Thumbs up — одобрение. Rule of thumb — эмпирическое правило. Under someone's thumb — под каблуком.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/7799/7799_500.png",
   "examples": [
@@ -3845,7 +3845,7 @@
   "word": "boundary",
   "transcription": "[ˈbaʊndəri]",
   "translation": "граница, черта",
-  "nuance": null,
+  "nuance": "Граница (участка, дозволенного). Border — государственная граница. Boundaries — личные границы (set boundaries). Limit — предел.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/boundary.png",
   "examples": [
@@ -3868,7 +3868,7 @@
   "word": "wage",
   "transcription": "[weɪʤ]",
   "translation": "заработок, оплата",
-  "nuance": null,
+  "nuance": "Почасовая/недельная оплата труда (обычно рабочих). Salary — оклад (месячный, офисный). Minimum wage — минимальная зарплата. Глагол wage war — вести войну.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/wage.png",
   "examples": [
@@ -3891,7 +3891,7 @@
   "word": "point",
   "transcription": "[pɔɪnt]",
   "translation": "смысл, суть",
-  "nuance": null,
+  "nuance": "Смысл, суть (what's the point?), точка, пункт, очко. Get to the point — к делу. Make a point — высказать мысль. Point out — указать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/point.png",
   "examples": [
@@ -3914,7 +3914,7 @@
   "word": "pointless",
   "transcription": "[ˈpɒntlɪs]",
   "translation": "бессмысленный",
-  "nuance": null,
+  "nuance": "Бессмысленный, бесполезный (pointless argument). Futile — тщетный (книжн.). Meaningless — лишённый смысла.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/pointless.png",
   "examples": [
@@ -3937,7 +3937,7 @@
   "word": "favor (favour)",
   "transcription": "[ˈfeɪvə]",
   "translation": "благоприятствовать",
-  "nuance": null,
+  "nuance": "Брит. favour, амер. favor. Сущ. — одолжение (do me a favour). Глагол — предпочитать, благоприятствовать. In favour of — за, в пользу.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/favor.png",
   "examples": [
@@ -3960,7 +3960,7 @@
   "word": "favourite",
   "transcription": "[ˈfeɪvərɪt]",
   "translation": "любимый",
-  "nuance": null,
+  "nuance": "Любимый (брит. favourite, амер. favorite). Сущ. — фаворит. Ловушка: не «фаворит» в смысле «любовник». Fave — разг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/favourite.png",
   "examples": [
@@ -3983,7 +3983,7 @@
   "word": "favorable",
   "transcription": "[ˈfeɪvərəbl]",
   "translation": "благоприятный",
-  "nuance": null,
+  "nuance": "Благоприятный, положительный (favourable review). Брит. favourable. Positive — положительный (проще).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/favorable.png",
   "examples": [
@@ -4006,7 +4006,7 @@
   "word": "unfavorable",
   "transcription": "[ʌnˈfeɪvərəbl]",
   "translation": "неблагоприятный",
-  "nuance": null,
+  "nuance": "Неблагоприятный, отрицательный (unfavourable conditions). Брит. unfavourable. Negative — проще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unfavorable.png",
   "examples": [
@@ -4029,7 +4029,7 @@
   "word": "chef",
   "transcription": "[ʃɛf]",
   "translation": "шеф-повар",
-  "nuance": null,
+  "nuance": "Шеф-повар (произн. /ʃef/). Ловушка: chef — только повар; начальник — boss, chief. Cook — повар (проще).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/30526/30526_500.png",
   "examples": [
@@ -4052,7 +4052,7 @@
   "word": "considerable",
   "transcription": "[kənˈsɪdərəbl]",
   "translation": "крупный, значительный",
-  "nuance": null,
+  "nuance": "Значительный, немалый (considerable amount). Ловушка: considerate — внимательный, тактичный (другое слово!).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/considerable.png",
   "examples": [
@@ -4075,7 +4075,7 @@
   "word": "inconsiderable",
   "transcription": "[ˌɪnkənˈsɪdərəbl]",
   "translation": "незначительный",
-  "nuance": null,
+  "nuance": "Книжн., редкое: not inconsiderable — «весьма значительный» (с иронией). В быту — small, minor.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/inconsiderable.png",
   "examples": [
@@ -4098,7 +4098,7 @@
   "word": "multiple",
   "transcription": "[ˈmʌltɪpl]",
   "translation": "множественный, неединичный",
-  "nuance": null,
+  "nuance": "Множественный, многочисленный (multiple choice — тест с вариантами). Сущ. — кратное (математика). Several — несколько.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/multiple.png",
   "examples": [
@@ -4121,7 +4121,7 @@
   "word": "lessen",
   "transcription": "[ˈlɛsn]",
   "translation": "уменьшать(ся)",
-  "nuance": null,
+  "nuance": "Уменьшать(ся), ослаблять (боль, риск). Reduce — сокращать (чаще). Ease — облегчать. Не путать с lesson (урок).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/lessen.png",
   "examples": [
