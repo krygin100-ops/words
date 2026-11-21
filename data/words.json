@@ -165144,500 +165144,1150 @@
   "word": "watchful",
   "transcription": "[ˈwɒʧfʊl]",
   "translation": "бдительный",
-  "nuance": null,
+  "nuance": "Бдительный, внимательный. Under the watchful eye of — «под бдительным присмотром». Alert — настороже; vigilant — книжн. бдительный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/watchful.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Keep a #watchful# eye on the kids at the pool.",
+    "ru": "Внимательно присматривай за детьми в бассейне."
+   },
+   {
+    "en": "The cat stayed #watchful# all night.",
+    "ru": "Кот всю ночь был начеку."
+   },
+   {
+    "en": "Under the #watchful# eye of the teacher, nobody cheated.",
+    "ru": "Под бдительным оком учителя никто не списывал."
+   }
+  ]
  },
  {
   "id": "7185",
   "word": "devise",
   "transcription": "[dɪˈvaɪz]",
   "translation": "придумывать, изобретать",
-  "nuance": null,
+  "nuance": "Придумать, разработать (план, метод). Чуть книжнее, чем come up with. Invent — изобрести (новое устройство). Device — устройство (сущ.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/devise.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #devised# a plan to surprise Mum.",
+    "ru": "Мы придумали план, как удивить маму."
+   },
+   {
+    "en": "Scientists #devised# a new test.",
+    "ru": "Учёные разработали новый тест."
+   },
+   {
+    "en": "Kids #devise# the funniest games.",
+    "ru": "Дети придумывают самые смешные игры."
+   }
+  ]
  },
  {
   "id": "7186",
   "word": "triangle",
   "transcription": "[ˈtraɪæŋgl]",
   "translation": "треугольник",
-  "nuance": null,
+  "nuance": "Треугольник (фигура и муз. инструмент). Love triangle — любовный треугольник. Bermuda Triangle — Бермудский треугольник.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2604/2604_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Draw a #triangle# with equal sides.",
+    "ru": "Нарисуй равносторонний треугольник."
+   },
+   {
+    "en": "It's a love #triangle#: he loves her, she loves his brother.",
+    "ru": "Это любовный треугольник: он любит её, она — его брата."
+   },
+   {
+    "en": "He plays the #triangle# in the orchestra.",
+    "ru": "Он играет на треугольнике в оркестре."
+   }
+  ]
  },
  {
   "id": "7187",
   "word": "triangular",
   "transcription": "[traɪˈæŋgjʊlə]",
   "translation": "треугольный",
-  "nuance": null,
+  "nuance": "Треугольный. Square — квадратный, round — круглый, rectangular — прямоугольный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/triangular.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The sandwiches were cut into #triangular# pieces.",
+    "ru": "Бутерброды нарезали треугольниками."
+   },
+   {
+    "en": "The sign is #triangular# and red.",
+    "ru": "Знак треугольный и красный."
+   },
+   {
+    "en": "She has a #triangular# scarf.",
+    "ru": "У неё треугольный платок."
+   }
+  ]
  },
  {
   "id": "7188",
   "word": "durable",
   "transcription": "[ˈdjʊərəbl]",
   "translation": "прочный, долговечный",
-  "nuance": null,
+  "nuance": "Прочный, долговечный (о вещах, материалах). Sturdy — крепкий; hard-wearing — износостойкий (брит.). Consumer durables — товары длительного пользования.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/durable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "These boots are #durable#; they'll last years.",
+    "ru": "Эти ботинки прочные, прослужат годы."
+   },
+   {
+    "en": "We need a #durable# peace.",
+    "ru": "Нам нужен прочный мир."
+   },
+   {
+    "en": "Plastic is cheap and #durable#, sadly.",
+    "ru": "Пластик дешёвый и, увы, долговечный."
+   }
+  ]
  },
  {
   "id": "7189",
   "word": "durability",
   "transcription": "[ˌdjʊərəˈbɪlɪti]",
   "translation": "долговечность",
-  "nuance": null,
+  "nuance": "Прочность, износостойкость. Strength — прочность (силовая).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/durability.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Test the #durability# of the bag before buying.",
+    "ru": "Проверь прочность сумки перед покупкой."
+   },
+   {
+    "en": "This phone is known for its #durability#.",
+    "ru": "Этот телефон славится своей прочностью."
+   },
+   {
+    "en": "#Durability# matters more than looks.",
+    "ru": "Долговечность важнее внешнего вида."
+   }
+  ]
  },
  {
   "id": "7190",
   "word": "drastic",
   "transcription": "[ˈdræstɪk]",
   "translation": "радикальный, резкий",
-  "nuance": null,
+  "nuance": "Резкий, радикальный (с серьёзными последствиями). Не «драматичный» — то dramatic (хотя dramatic change — тоже «резкая перемена»).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/drastic.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We need #drastic# measures.",
+    "ru": "Нам нужны радикальные меры."
+   },
+   {
+    "en": "She made a #drastic# change and cut her hair short.",
+    "ru": "Она решилась на радикальную перемену — коротко постриглась."
+   },
+   {
+    "en": "Don't do anything #drastic#!",
+    "ru": "Не делай ничего резкого!"
+   }
+  ]
  },
  {
   "id": "7191",
   "word": "faucet",
   "transcription": "[ˈfɔːsɪt]",
   "translation": "кран",
-  "nuance": null,
+  "nuance": "Амер.; брит. tap. Tap water — водопроводная вода.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/32650/32650_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #faucet# is dripping all night.",
+    "ru": "Кран капает всю ночь."
+   },
+   {
+    "en": "Turn off the #faucet#!",
+    "ru": "Закрой кран!"
+   },
+   {
+    "en": "We need a new kitchen #faucet#.",
+    "ru": "Нам нужен новый кухонный смеситель."
+   }
+  ]
  },
  {
   "id": "7192",
   "word": "look up to",
   "transcription": "[lʊkʌptuː]",
   "translation": "уважать, восхищаться",
-  "nuance": null,
+  "nuance": "Уважать и равняться на кого-то. Admire — восхищаться. Role model — пример для подражания.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/look_up_to.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I've always #looked up to# my older sister.",
+    "ru": "Я всегда равнялся на старшую сестру."
+   },
+   {
+    "en": "Kids #look up to# football players.",
+    "ru": "Дети восхищаются футболистами."
+   },
+   {
+    "en": "Who do you #look up to#?",
+    "ru": "Кто для тебя пример?"
+   }
+  ]
  },
  {
   "id": "7193",
   "word": "look down on",
   "transcription": "[lʊk daʊn ɒn]",
   "translation": "смотреть свысока",
-  "nuance": null,
+  "nuance": "Смотреть свысока, презирать. Despise — презирать (сильнее). Snob — сноб.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/look_down_on.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #look down on# people with less money.",
+    "ru": "Не смотри свысока на людей с меньшими деньгами."
+   },
+   {
+    "en": "She #looks down on# fast food.",
+    "ru": "Она с пренебрежением относится к фастфуду."
+   },
+   {
+    "en": "They #looked down on# him because of his accent.",
+    "ru": "На него смотрели свысока из-за акцента."
+   }
+  ]
  },
  {
   "id": "7194",
   "word": "arrogant",
   "transcription": "[ˈærəʊgənt]",
   "translation": "высокомерный",
-  "nuance": null,
+  "nuance": "Высокомерный, заносчивый. Proud — гордый (может быть позитивным). Cocky — разг. дерзко самоуверенный. Conceited — самовлюблённый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/arrogant.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's so #arrogant#, he thinks he's always right.",
+    "ru": "Он такой заносчивый — думает, что всегда прав."
+   },
+   {
+    "en": "Don't be #arrogant# about your success.",
+    "ru": "Не зазнавайся из-за своего успеха."
+   },
+   {
+    "en": "Her #arrogant# tone annoyed everyone.",
+    "ru": "Её высокомерный тон всех раздражал."
+   }
+  ]
  },
  {
   "id": "7195",
   "word": "arrogance",
   "transcription": "[ˈærəgəns]",
   "translation": "высокомерие",
-  "nuance": null,
+  "nuance": "Высокомерие, самонадеянность. Pride — гордость, hubris — книжн. гордыня.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/arrogance.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His #arrogance# cost him the job.",
+    "ru": "Высокомерие стоило ему работы."
+   },
+   {
+    "en": "I can't stand her #arrogance#.",
+    "ru": "Терпеть не могу её надменность."
+   },
+   {
+    "en": "It was pure #arrogance# to ignore the warnings.",
+    "ru": "Игнорировать предупреждения было чистым самомнением."
+   }
+  ]
  },
  {
   "id": "7196",
   "word": "beforehand",
   "transcription": "[bɪˈfɔːhænd]",
   "translation": "заранее",
-  "nuance": null,
+  "nuance": "Заранее, загодя. In advance — синоним (чаще). Ahead of time — разг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/beforehand.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Let me know #beforehand# if you're coming.",
+    "ru": "Предупреди заранее, если придёшь."
+   },
+   {
+    "en": "I cooked everything #beforehand#.",
+    "ru": "Я всё приготовил заранее."
+   },
+   {
+    "en": "We should have checked #beforehand#.",
+    "ru": "Надо было проверить заранее."
+   }
+  ]
  },
  {
   "id": "7197",
   "word": "dignity",
   "transcription": "[ˈdɪgnɪti]",
   "translation": "достоинство",
-  "nuance": null,
+  "nuance": "Достоинство, самоуважение. Beneath one's dignity — «ниже достоинства». Pride — гордость.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dignity.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She handled the defeat with #dignity#.",
+    "ru": "Она приняла поражение с достоинством."
+   },
+   {
+    "en": "Everyone deserves to be treated with #dignity#.",
+    "ru": "Каждый заслуживает достойного обращения."
+   },
+   {
+    "en": "Falling off the chair, I lost all my #dignity#.",
+    "ru": "Упав со стула, я растерял всё своё достоинство."
+   }
+  ]
  },
  {
   "id": "7198",
   "word": "crave",
   "transcription": "[kreɪv]",
   "translation": "жаждать, требовать",
-  "nuance": null,
+  "nuance": "Сильно хотеть, иметь тягу. Craving — сильная тяга. Want — хотеть (проще); long for — тосковать по.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/crave.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #crave# chocolate at night.",
+    "ru": "По ночам мне до смерти хочется шоколада."
+   },
+   {
+    "en": "Kids #crave# attention.",
+    "ru": "Дети жаждут внимания."
+   },
+   {
+    "en": "Pregnant women often #crave# strange food.",
+    "ru": "Беременных часто тянет на странную еду."
+   }
+  ]
  },
  {
   "id": "7199",
   "word": "vivid",
   "transcription": "[ˈvɪvɪd]",
   "translation": "яркий",
-  "nuance": null,
+  "nuance": "Яркий (о цветах), живой, отчётливый (о памяти, снах, описаниях). Bright — яркий (о свете). Lively — оживлённый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/vivid.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I had a #vivid# dream last night.",
+    "ru": "Мне приснился очень яркий сон."
+   },
+   {
+    "en": "She wore a #vivid# red dress.",
+    "ru": "На ней было ярко-красное платье."
+   },
+   {
+    "en": "He has a #vivid# imagination.",
+    "ru": "У него живое воображение."
+   }
+  ]
  },
  {
   "id": "7200",
   "word": "disguise",
   "transcription": "[dɪsˈgaɪz]",
   "translation": "маскировать, маскировка",
-  "nuance": null,
+  "nuance": "Маскировка, переодевание. A blessing in disguise — «нет худа без добра». Hide — скрывать (проще).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/disguise.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He wore a fake beard as a #disguise#.",
+    "ru": "Он нацепил фальшивую бороду для маскировки."
+   },
+   {
+    "en": "She #disguised# her voice on the phone.",
+    "ru": "Она изменила голос по телефону."
+   },
+   {
+    "en": "It was a blessing in #disguise#.",
+    "ru": "Не было бы счастья, да несчастье помогло."
+   }
+  ]
  },
  {
   "id": "7201",
   "word": "undisguised",
   "transcription": "[ˌʌndɪsˈgaɪzd]",
   "translation": "нескрываемый",
-  "nuance": null,
+  "nuance": "Книжн. Открытый, явный (о чувствах). Obvious — очевидный; open — открытый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/undisguised.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She looked at him with #undisguised# joy.",
+    "ru": "Она смотрела на него с нескрываемой радостью."
+   },
+   {
+    "en": "His #undisguised# boredom was rude.",
+    "ru": "Его нескрываемая скука выглядела грубо."
+   },
+   {
+    "en": "There was #undisguised# anger in her voice.",
+    "ru": "В её голосе слышалась нескрываемая злость."
+   }
+  ]
  },
  {
   "id": "7202",
   "word": "theater (theatre)",
   "transcription": "[ˈθɪətə]",
   "translation": "театр",
-  "nuance": null,
+  "nuance": "Брит. theatre, амер. theater. Амер. movie theater — кинотеатр (брит. cinema). Operating theatre — операционная (брит.).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/32412/32412_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We went to the #theatre# to see a comedy.",
+    "ru": "Мы ходили в театр на комедию."
+   },
+   {
+    "en": "The movie #theater# was nearly empty.",
+    "ru": "Кинотеатр был почти пустым."
+   },
+   {
+    "en": "She works in the operating #theatre#.",
+    "ru": "Она работает в операционной."
+   }
+  ]
  },
  {
   "id": "7203",
   "word": "grease",
   "transcription": "[griːs]",
   "translation": "смазка, жир",
-  "nuance": null,
+  "nuance": "Смазка, жир. Elbow grease — «усердие, физическая работа». Grease someone's palm — «дать взятку».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/grease.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My hands are covered in #grease#.",
+    "ru": "У меня все руки в смазке."
+   },
+   {
+    "en": "Put some #grease# on the bike chain.",
+    "ru": "Смажь цепь велосипеда."
+   },
+   {
+    "en": "The pan was full of bacon #grease#.",
+    "ru": "Сковорода была полна жира от бекона."
+   }
+  ]
  },
  {
   "id": "7204",
   "word": "greasy",
   "transcription": "[ˈgriːzi]",
   "translation": "жирный",
-  "nuance": null,
+  "nuance": "Жирный, сальный (с неодобрением). Fatty — жирный (о продуктах, по составу). Greasy spoon — дешёвая забегаловка.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/greasy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I love #greasy# food after a party.",
+    "ru": "После вечеринки я обожаю жирную еду."
+   },
+   {
+    "en": "His hair looks #greasy#.",
+    "ru": "У него сальные волосы."
+   },
+   {
+    "en": "Wipe your #greasy# fingers before touching my phone!",
+    "ru": "Вытри жирные пальцы, прежде чем трогать мой телефон!"
+   }
+  ]
  },
  {
   "id": "7205",
   "word": "lag",
   "transcription": "[læg]",
   "translation": "запаздывание",
-  "nuance": null,
+  "nuance": "Задержка, отставание. Jet lag — синдром смены часовых поясов. Глагол lag behind — отставать. Laggy — «лагающий» (о сети, играх).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/lag.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's a #lag# in the video call.",
+    "ru": "В видеозвонке есть задержка."
+   },
+   {
+    "en": "I have terrible jet #lag# after the flight.",
+    "ru": "После перелёта у меня ужасный джетлаг."
+   },
+   {
+    "en": "Our team #lags# behind the others.",
+    "ru": "Наша команда отстаёт от других."
+   }
+  ]
  },
  {
   "id": "7206",
   "word": "disgrace",
   "transcription": "[dɪsˈgreɪs]",
   "translation": "бесчестие, позор",
-  "nuance": null,
+  "nuance": "Позор, бесчестье. Be a disgrace — «быть позором». Shame — стыд, позор (проще). Fall from grace — впасть в немилость.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/disgrace.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His behaviour was a #disgrace#.",
+    "ru": "Его поведение было позором."
+   },
+   {
+    "en": "She left the club in #disgrace#.",
+    "ru": "Она покинула клуб с позором."
+   },
+   {
+    "en": "This kitchen is a #disgrace#! Clean it!",
+    "ru": "Эта кухня — позорище! Убери её!"
+   }
+  ]
  },
  {
   "id": "7207",
   "word": "disgraceful",
   "transcription": "[dɪsˈgreɪsfʊl]",
   "translation": "позорный",
-  "nuance": null,
+  "nuance": "Позорный, возмутительный (с моральным осуждением). Shameful — постыдный. Outrageous — возмутительный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/disgraceful.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The service here is #disgraceful#.",
+    "ru": "Обслуживание здесь позорное."
+   },
+   {
+    "en": "It's #disgraceful# that people go hungry.",
+    "ru": "Позорно, что люди голодают."
+   },
+   {
+    "en": "What #disgraceful# behaviour!",
+    "ru": "Какое возмутительное поведение!"
+   }
+  ]
  },
  {
   "id": "7208",
   "word": "sludge",
   "transcription": "[slʌʤ]",
   "translation": "осадок, отстой, ил",
-  "nuance": null,
+  "nuance": "Густая вязкая грязь, ил, отстой (в трубах). Mud — грязь; silt — ил (речной). Разг. — «мерзкая жижа».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sludge.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The bottom of the pond was thick #sludge#.",
+    "ru": "На дне пруда толстый слой ила."
+   },
+   {
+    "en": "Oil #sludge# blocked the pipes.",
+    "ru": "Нефтяной осадок забил трубы."
+   },
+   {
+    "en": "This coffee tastes like #sludge#.",
+    "ru": "Этот кофе на вкус как жижа."
+   }
+  ]
  },
  {
   "id": "7209",
   "word": "audible",
   "transcription": "[ˈɔːdəbl]",
   "translation": "слышимый",
-  "nuance": null,
+  "nuance": "Книжн. Слышимый. В быту — can be heard. Audio — аудио. Ловушка: не «аудиторный».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/audible.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Her voice was barely #audible#.",
+    "ru": "Её голос был едва слышен."
+   },
+   {
+    "en": "There was an #audible# sigh from the class.",
+    "ru": "Класс громко вздохнул."
+   },
+   {
+    "en": "The music was #audible# from the street.",
+    "ru": "Музыку было слышно с улицы."
+   }
+  ]
  },
  {
   "id": "7210",
   "word": "inaudible",
   "transcription": "[ɪnˈɔːdəbl]",
   "translation": "неслышный",
-  "nuance": null,
+  "nuance": "Неслышный, неразборчивый. Silent — беззвучный. Muffled — приглушённый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/inaudible.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He said something #inaudible#.",
+    "ru": "Он сказал что-то неразборчивое."
+   },
+   {
+    "en": "The sound is #inaudible# to humans.",
+    "ru": "Этот звук человеку не слышен."
+   },
+   {
+    "en": "Her reply was almost #inaudible#.",
+    "ru": "Её ответ был почти не слышен."
+   }
+  ]
  },
  {
   "id": "7211",
   "word": "pouch",
   "transcription": "[paʊʧ]",
   "translation": "сумочка, кошелёк",
-  "nuance": null,
+  "nuance": "Маленький мешочек, кисет, сумка (у сумчатых). Purse — кошелёк (брит.), сумочка (амер.). Wallet — бумажник.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/pouch.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She keeps her coins in a little #pouch#.",
+    "ru": "Она хранит мелочь в маленьком мешочке."
+   },
+   {
+    "en": "Kangaroos carry babies in a #pouch#.",
+    "ru": "Кенгуру носят детёнышей в сумке."
+   },
+   {
+    "en": "I bought a tobacco #pouch# for Grandpa.",
+    "ru": "Я купил дедушке кисет для табака."
+   }
+  ]
  },
  {
   "id": "7212",
   "word": "clean up",
   "transcription": "[kliːnʌp]",
   "translation": "убрать (мусор)",
-  "nuance": null,
+  "nuance": "Убрать, навести чистоту. Перен. clean up one's act — «исправиться». Разг. clean up — «срубить кучу денег».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/clean_up.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Who's going to #clean up# after the party?",
+    "ru": "Кто будет убирать после вечеринки?"
+   },
+   {
+    "en": "#Clean up# your room, please!",
+    "ru": "Убери, пожалуйста, свою комнату!"
+   },
+   {
+    "en": "The city spent millions to #clean up# the river.",
+    "ru": "Город потратил миллионы на очистку реки."
+   }
+  ]
  },
  {
   "id": "7213",
   "word": "tidy up",
   "transcription": "[ˈtaɪdiʌp]",
   "translation": "убирать",
-  "nuance": null,
+  "nuance": "Брит. Прибраться — разложить по местам (не мыть). Clean up — чистить, убирать грязь.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8680/8680_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Tidy up# your toys before bed.",
+    "ru": "Убери игрушки перед сном."
+   },
+   {
+    "en": "I need to #tidy up# before guests arrive.",
+    "ru": "Нужно прибраться до прихода гостей."
+   },
+   {
+    "en": "Let me #tidy up# my desk.",
+    "ru": "Дай я наведу порядок на столе."
+   }
+  ]
  },
  {
   "id": "7214",
   "word": "cleanup",
   "transcription": "[ˈkliːnʌp]",
   "translation": "уборка",
-  "nuance": null,
+  "nuance": "Уборка (обычно масштабная, общественная). Также пишут clean-up (брит.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/cleanup.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The beach #cleanup# starts at 9.",
+    "ru": "Уборка пляжа начинается в 9."
+   },
+   {
+    "en": "After the storm, the #cleanup# took weeks.",
+    "ru": "После шторма ликвидация последствий заняла недели."
+   },
+   {
+    "en": "We organised a park #cleanup# with neighbours.",
+    "ru": "Мы устроили с соседями уборку парка."
+   }
+  ]
  },
  {
   "id": "7215",
   "word": "albeit",
   "transcription": "[ɔːlˈbiːɪt]",
   "translation": "хотя",
-  "nuance": null,
+  "nuance": "Книжн. союз «хотя и, пусть и» — перед прилагательным/наречием. Although — перед целым предложением.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/albeit.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It was a great trip, #albeit# a short one.",
+    "ru": "Поездка была отличной, хоть и короткой."
+   },
+   {
+    "en": "He agreed, #albeit# reluctantly.",
+    "ru": "Он согласился, хотя и неохотно."
+   },
+   {
+    "en": "The plan worked, #albeit# slowly.",
+    "ru": "План сработал, пусть и медленно."
+   }
+  ]
  },
  {
   "id": "7216",
   "word": "disgust",
   "transcription": "[dɪsˈgʌst]",
   "translation": "отвращение",
-  "nuance": null,
+  "nuance": "Отвращение (физическое и моральное). Глагол disgust — «вызывать отвращение». Revulsion — сильное отвращение.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/30964/30964_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She looked at the bug with #disgust#.",
+    "ru": "Она смотрела на жука с отвращением."
+   },
+   {
+    "en": "To my #disgust#, he ate the sandwich off the floor.",
+    "ru": "К моему отвращению, он съел бутерброд с пола."
+   },
+   {
+    "en": "The smell #disgusted# everyone.",
+    "ru": "Запах вызвал у всех отвращение."
+   }
+  ]
  },
  {
   "id": "7217",
   "word": "disgusting",
   "transcription": "[dɪsˈgʌstɪŋ]",
   "translation": "отвратительный",
-  "nuance": null,
+  "nuance": "Отвратительный, мерзкий. Gross — разг. амер. «фу, мерзость». Revolting — отвратный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/disgusting.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "This sandwich is #disgusting#!",
+    "ru": "Этот бутерброд отвратительный!"
+   },
+   {
+    "en": "Picking your nose is #disgusting#.",
+    "ru": "Ковырять в носу — мерзко."
+   },
+   {
+    "en": "What a #disgusting# thing to say!",
+    "ru": "Как отвратительно такое говорить!"
+   }
+  ]
  },
  {
   "id": "7218",
   "word": "reach out",
   "transcription": "[riːʧaʊt]",
   "translation": "потянуться (рукой)",
-  "nuance": null,
+  "nuance": "Буквально — протянуть руку. Перен. — «связаться, обратиться» (reach out to someone) — частое в деловой речи.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/reach_out.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #reached out# and took my hand.",
+    "ru": "Она протянула руку и взяла мою."
+   },
+   {
+    "en": "Don't be afraid to #reach out# for help.",
+    "ru": "Не бойся обращаться за помощью."
+   },
+   {
+    "en": "I #reached out# to my old friend after years.",
+    "ru": "Спустя годы я связался со старым другом."
+   }
+  ]
  },
  {
   "id": "7219",
   "word": "subway",
   "transcription": "[ˈsʌbweɪ]",
   "translation": "метро (амер.)",
-  "nuance": null,
+  "nuance": "Амер. метро. Ловушка: в брит. subway = подземный переход! Брит. метро — the Underground, the Tube. Metro — в других городах.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/26925/26925_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Take the #subway# to Times Square.",
+    "ru": "Поезжай на метро до Таймс-сквер."
+   },
+   {
+    "en": "The #subway# is crowded at 8 a.m.",
+    "ru": "В восемь утра метро забито."
+   },
+   {
+    "en": "In London, a #subway# is an underground walkway.",
+    "ru": "В Лондоне subway — это подземный переход."
+   }
+  ]
  },
  {
   "id": "7220",
   "word": "tube",
   "transcription": "[tjuːb]",
   "translation": "метро (в Лондоне)",
-  "nuance": null,
+  "nuance": "The Tube — разг. название лондонского метро. Также тюбик, трубка. Брит. разг. the tube — телик.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/26925/26925_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We took the #Tube# to Oxford Street.",
+    "ru": "Мы доехали на метро до Оксфорд-стрит."
+   },
+   {
+    "en": "The #Tube# is on strike today.",
+    "ru": "Сегодня лондонское метро бастует."
+   },
+   {
+    "en": "Squeeze the #tube# of toothpaste from the bottom.",
+    "ru": "Выдавливай тюбик пасты снизу."
+   }
+  ]
  },
  {
   "id": "7221",
   "word": "uprising (rising)",
   "transcription": "[ʌpˈraɪzɪŋ]",
   "translation": "восстание",
-  "nuance": null,
+  "nuance": "Восстание. Revolt — бунт; rebellion — мятеж; revolution — революция (успешная смена власти).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/uprising.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #uprising# was crushed by the army.",
+    "ru": "Восстание было подавлено армией."
+   },
+   {
+    "en": "Students led the #uprising#.",
+    "ru": "Восстание возглавили студенты."
+   },
+   {
+    "en": "The #uprising# began in the capital.",
+    "ru": "Восстание началось в столице."
+   }
+  ]
  },
  {
   "id": "7222",
   "word": "break down",
   "transcription": "[breɪkdaʊn]",
   "translation": "ломаться",
-  "nuance": null,
+  "nuance": "Сломаться (о машине, технике), не выдержать (разрыдаться), сорваться (о переговорах). Также «разбить на части» (break down costs).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/break_down.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My car #broke down# on the motorway.",
+    "ru": "Моя машина сломалась на трассе."
+   },
+   {
+    "en": "She #broke down# in tears.",
+    "ru": "Она разрыдалась."
+   },
+   {
+    "en": "Talks #broke down# after an hour.",
+    "ru": "Через час переговоры сорвались."
+   }
+  ]
  },
  {
   "id": "7223",
   "word": "breakdown",
   "transcription": "[ˈbreɪkˌdaʊn]",
   "translation": "разрушение",
-  "nuance": null,
+  "nuance": "Поломка, нервный срыв, разбивка (детализация). «Разрушение» — неточно; это скорее collapse, destruction.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/breakdown.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We had a #breakdown# on the way to the beach.",
+    "ru": "По дороге на пляж у нас сломалась машина."
+   },
+   {
+    "en": "He had a nervous #breakdown# after work stress.",
+    "ru": "У него случился нервный срыв из-за рабочего стресса."
+   },
+   {
+    "en": "Here's a #breakdown# of the costs.",
+    "ru": "Вот подробная разбивка расходов."
+   }
+  ]
  },
  {
   "id": "7224",
   "word": "fairly",
   "transcription": "[ˈfeəli]",
   "translation": "довольно, вполне",
-  "nuance": null,
+  "nuance": "Довольно (слабее, чем quite и rather). Также «справедливо, честно». Pretty — разг. «довольно».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fairly.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The test was #fairly# easy.",
+    "ru": "Тест был довольно лёгким."
+   },
+   {
+    "en": "I'm #fairly# sure he's lying.",
+    "ru": "Я почти уверен, что он врёт."
+   },
+   {
+    "en": "Treat everyone #fairly#.",
+    "ru": "Относись ко всем справедливо."
+   }
+  ]
  },
  {
   "id": "7225",
   "word": "outing",
   "transcription": "[ˈaʊtɪŋ]",
   "translation": "прогулка, пикник и т. д.",
-  "nuance": null,
+  "nuance": "Короткая вылазка, поездка ради удовольствия. Trip — поездка (шире). Также outing — раскрытие чужой ориентации (без согласия).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/outing.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We went on a family #outing# to the zoo.",
+    "ru": "Мы всей семьёй сходили в зоопарк."
+   },
+   {
+    "en": "The school #outing# was cancelled because of rain.",
+    "ru": "Школьную экскурсию отменили из-за дождя."
+   },
+   {
+    "en": "A Sunday #outing# to the lake.",
+    "ru": "Воскресная поездка на озеро."
+   }
+  ]
  },
  {
   "id": "7226",
   "word": "inhibit",
   "transcription": "[ɪnˈhɪbɪt]",
   "translation": "препятствовать, затруднять",
-  "nuance": null,
+  "nuance": "Книжн., научн. Подавлять, сдерживать. Prevent — предотвращать. Hinder — мешать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/inhibit.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Fear can #inhibit# learning.",
+    "ru": "Страх может мешать учёбе."
+   },
+   {
+    "en": "This drug #inhibits# the growth of bacteria.",
+    "ru": "Это лекарство подавляет рост бактерий."
+   },
+   {
+    "en": "Shyness #inhibited# her from speaking.",
+    "ru": "Застенчивость мешала ей говорить."
+   }
+  ]
  },
  {
   "id": "7227",
   "word": "inhibition",
   "transcription": "[ˌɪnhɪˈbɪʃən]",
   "translation": "торможение, задержка",
-  "nuance": null,
+  "nuance": "Психол. «скованность, комплексы, внутренние запреты» (чаще мн. ч.). Научн. — подавление, торможение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/inhibition.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "After two drinks, he lost his #inhibitions#.",
+    "ru": "После двух бокалов он раскрепостился."
+   },
+   {
+    "en": "Kids have no #inhibitions# about dancing.",
+    "ru": "У детей нет стеснения в танцах."
+   },
+   {
+    "en": "The #inhibition# of growth was clear in the test.",
+    "ru": "Подавление роста было явно видно в опыте."
+   }
+  ]
  },
  {
   "id": "7228",
   "word": "blackmail",
   "transcription": "[ˈblækmeɪl]",
   "translation": "шантажировать",
-  "nuance": null,
+  "nuance": "Шантаж(ировать). Extort — вымогать (шире). Emotional blackmail — эмоциональный шантаж.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/blackmail.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He tried to #blackmail# his boss.",
+    "ru": "Он пытался шантажировать начальника."
+   },
+   {
+    "en": "That's emotional #blackmail#!",
+    "ru": "Это эмоциональный шантаж!"
+   },
+   {
+    "en": "My kids #blackmail# me with sad faces.",
+    "ru": "Дети шантажируют меня грустными мордашками."
+   }
+  ]
  },
  {
   "id": "7229",
   "word": "holler",
   "transcription": "[ˈhɒlə]",
   "translation": "крикнуть, окликнуть",
-  "nuance": null,
+  "nuance": "Амер. разг. Кричать, звать. Holler at me — «свистни мне, напиши». Shout, yell — синонимы.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/holler.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Mum #hollered# from the kitchen: \"Dinner!\"",
+    "ru": "Мама крикнула с кухни: «Ужин!»"
+   },
+   {
+    "en": "#Holler# if you need anything.",
+    "ru": "Крикни, если что-то нужно."
+   },
+   {
+    "en": "He #hollered# at the kids to get off the grass.",
+    "ru": "Он заорал на детей, чтобы ушли с газона."
+   }
+  ]
  },
  {
   "id": "7230",
   "word": "crow",
   "transcription": "[krəʊ]",
   "translation": "ворона",
-  "nuance": null,
+  "nuance": "Ворона. Глагол crow — кукарекать, перен. «хвастаться» (crow about). As the crow flies — «по прямой». Raven — ворон.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/crow.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A #crow# stole the sandwich from my plate.",
+    "ru": "Ворона стащила бутерброд с моей тарелки."
+   },
+   {
+    "en": "The cock #crows# at dawn.",
+    "ru": "Петух кукарекает на рассвете."
+   },
+   {
+    "en": "It's 5 km as the #crow# flies.",
+    "ru": "По прямой — 5 км."
+   }
+  ]
  },
  {
   "id": "7231",
   "word": "shabby",
   "transcription": "[ˈʃæbi]",
   "translation": "потрёпанный, облезлый",
-  "nuance": null,
+  "nuance": "Потрёпанный, обшарпанный. Перен. — «низкий, некрасивый» (поступок). Not too shabby — разг. «неплохо». Shabby chic — потёртый стиль.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/shabby.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He wore a #shabby# old coat.",
+    "ru": "На нём было потрёпанное старое пальто."
+   },
+   {
+    "en": "The hotel looked #shabby#.",
+    "ru": "Отель выглядел обшарпанным."
+   },
+   {
+    "en": "That's a #shabby# way to treat a friend.",
+    "ru": "Так с другом поступать низко."
+   }
+  ]
  },
  {
   "id": "7232",
   "word": "avert",
   "transcription": "[əˈvɜːt]",
   "translation": "предотвращать, отводить",
-  "nuance": null,
+  "nuance": "Предотвратить (беду), отвести (взгляд). Prevent — предотвратить (проще). Avoid — избежать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/avert.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #averted# his eyes from the screen.",
+    "ru": "Он отвёл глаза от экрана."
+   },
+   {
+    "en": "Quick thinking #averted# a disaster.",
+    "ru": "Быстрая реакция предотвратила катастрофу."
+   },
+   {
+    "en": "They #averted# a strike at the last minute.",
+    "ru": "Им удалось предотвратить забастовку в последний момент."
+   }
+  ]
  },
  {
   "id": "7233",
   "word": "dormitory",
   "transcription": "[ˈdɔːmɪtri]",
   "translation": "общежитие",
-  "nuance": null,
+  "nuance": "Амер. — общежитие; брит. — общая спальня (в школе-интернате, хостеле). Разг. dorm. Hall of residence — брит. общежитие.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dormitory.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "First-year students live in the #dormitory#.",
+    "ru": "Первокурсники живут в общежитии."
+   },
+   {
+    "en": "The #dormitory# had bunk beds for 20 kids.",
+    "ru": "В спальне стояли двухъярусные кровати на 20 детей."
+   },
+   {
+    "en": "They partied in the #dorm# all night.",
+    "ru": "Они всю ночь тусовались в общаге."
+   }
+  ]
  },
  {
   "id": "7234",
