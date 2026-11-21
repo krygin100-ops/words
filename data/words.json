@@ -157094,500 +157094,1150 @@
   "word": "rugged",
   "transcription": "[ˈrʌgɪd]",
   "translation": "неровный, грубый",
-  "nuance": null,
+  "nuance": "О местности — «скалистый, неровный». О вещах — «прочный, защищённый». О мужском лице — «суровый, мужественный» (комплимент!).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/rugged.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We drove along the #rugged# coast.",
+    "ru": "Мы ехали вдоль скалистого побережья."
+   },
+   {
+    "en": "This phone is #rugged# enough to drop.",
+    "ru": "Этот телефон достаточно прочный, чтобы его ронять."
+   },
+   {
+    "en": "He has a #rugged#, outdoorsy look.",
+    "ru": "У него мужественная внешность человека, любящего природу."
+   }
+  ]
  },
  {
   "id": "6834",
   "word": "fury",
   "transcription": "[ˈfjʊəri]",
   "translation": "ярость, бешенство",
-  "nuance": null,
+  "nuance": "Сильнее, чем anger и rage. Также о стихии. In a fury — «в бешенстве».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fury.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She was white with #fury#.",
+    "ru": "Она побелела от ярости."
+   },
+   {
+    "en": "Hell hath no #fury# like a woman scorned.",
+    "ru": "Нет ярости страшнее, чем ярость отвергнутой женщины."
+   },
+   {
+    "en": "The storm hit with full #fury#.",
+    "ru": "Шторм обрушился со всей яростью."
+   }
+  ]
  },
  {
   "id": "6835",
   "word": "furious",
   "transcription": "[ˈfjʊərɪəs]",
   "translation": "яростный",
-  "nuance": null,
+  "nuance": "Furious with someone, about something. Сильнее, чем angry. Fast and furious — «стремительно, бурно».",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/38811/38811_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Mum was #furious# when she saw the mess.",
+    "ru": "Мама была в ярости, когда увидела бардак."
+   },
+   {
+    "en": "He drove at a #furious# speed.",
+    "ru": "Он мчался с бешеной скоростью."
+   },
+   {
+    "en": "I'm #furious# with myself for forgetting.",
+    "ru": "Я страшно зол на себя, что забыл."
+   }
+  ]
  },
  {
   "id": "6836",
   "word": "stew",
   "transcription": "[stjuː]",
   "translation": "тушить, рагу",
-  "nuance": null,
+  "nuance": "Рагу, тушёное блюдо. Разг. stew — «мучиться, переживать». In a stew — «в волнении». Braise — тушить (кулинарный термин).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2342/2342_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandma's beef #stew# warms you up in winter.",
+    "ru": "Бабушкино тушёное мясо согревает зимой."
+   },
+   {
+    "en": "#Stew# the apples with sugar for 20 minutes.",
+    "ru": "Потушите яблоки с сахаром 20 минут."
+   },
+   {
+    "en": "Let him #stew# for a while; he'll calm down.",
+    "ru": "Пусть немного поварится в собственном соку — успокоится."
+   }
+  ]
  },
  {
   "id": "6837",
   "word": "chess",
   "transcription": "[ʧɛs]",
   "translation": "шахматы",
-  "nuance": null,
+  "nuance": "Неисчисляемое, ед. ч.: Chess is. A game of chess — партия. Checkers/draughts — шашки. Chess piece — фигура.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/3054/3054_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "My grandpa taught me to play #chess#.",
+    "ru": "Дедушка научил меня играть в шахматы."
+   },
+   {
+    "en": "#Chess# is like boxing for the brain.",
+    "ru": "Шахматы — это бокс для мозга."
+   },
+   {
+    "en": "Do you want a game of #chess#?",
+    "ru": "Сыграем партию в шахматы?"
+   }
+  ]
  },
  {
   "id": "6838",
   "word": "chessboard",
   "transcription": "[ˈʧɛsbɔːd]",
   "translation": "шахматная доска",
-  "nuance": null,
+  "nuance": "Checkered — в шахматную клетку. Перен. political chessboard — «политическая шахматная доска».",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/35129/35129_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #chessboard# has 64 squares.",
+    "ru": "На шахматной доске 64 клетки."
+   },
+   {
+    "en": "The floor looked like a #chessboard#.",
+    "ru": "Пол был как шахматная доска."
+   },
+   {
+    "en": "She set up the #chessboard# for a game.",
+    "ru": "Она расставила фигуры на доске для партии."
+   }
+  ]
  },
  {
   "id": "6839",
   "word": "stump",
   "transcription": "[stʌmp]",
   "translation": "пень",
-  "nuance": null,
+  "nuance": "Пень, обрубок, огрызок. Глагол stump — «поставить в тупик» (be stumped). Stumps — калитка в крикете.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stump.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We sat on a tree #stump# in the forest.",
+    "ru": "Мы сидели на пне в лесу."
+   },
+   {
+    "en": "This question has #stumped# everyone.",
+    "ru": "Этот вопрос всех поставил в тупик."
+   },
+   {
+    "en": "Only a #stump# of the pencil was left.",
+    "ru": "От карандаша остался только огрызок."
+   }
+  ]
  },
  {
   "id": "6840",
   "word": "vase",
   "transcription": "[vɑːz]",
   "translation": "ваза",
-  "nuance": null,
+  "nuance": "Брит. /vɑːz/, амер. /veɪs/. Ваза для фруктов — fruit bowl.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/3271/3271_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The cat knocked the #vase# off the table. Again.",
+    "ru": "Кот опять сбросил вазу со стола."
+   },
+   {
+    "en": "She put the roses in a #vase#.",
+    "ru": "Она поставила розы в вазу."
+   },
+   {
+    "en": "This #vase# is from the Ming dynasty. Allegedly.",
+    "ru": "Эта ваза эпохи Мин. Якобы."
+   }
+  ]
  },
  {
   "id": "6841",
   "word": "traitor",
   "transcription": "[ˈtreɪtə]",
   "translation": "изменник",
-  "nuance": null,
+  "nuance": "Предатель родины, друзей, идеи. Шутливо — о мелкой «измене». Betrayer — книжн. Treason — государственная измена.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/traitor.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He was called a #traitor# for joining the rival team.",
+    "ru": "Его назвали предателем за переход в команду соперников."
+   },
+   {
+    "en": "The #traitor# sold secrets to the enemy.",
+    "ru": "Изменник продал секреты врагу."
+   },
+   {
+    "en": "You ate pizza without me? #Traitor#!",
+    "ru": "Ты ел пиццу без меня? Предатель!"
+   }
+  ]
  },
  {
   "id": "6842",
   "word": "traitorous",
   "transcription": "[ˈtreɪtərəs]",
   "translation": "предательский",
-  "nuance": null,
+  "nuance": "Книжн. Шутливо — «подводящий» (о теле, голосе). Treacherous — коварный, вероломный (и опасный — о дороге).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/traitorous.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His #traitorous# act shocked the country.",
+    "ru": "Его предательский поступок потряс страну."
+   },
+   {
+    "en": "My #traitorous# stomach growled in the meeting.",
+    "ru": "На собрании мой предательский живот заурчал."
+   },
+   {
+    "en": "They uncovered a #traitorous# plot.",
+    "ru": "Раскрыли изменнический заговор."
+   }
+  ]
  },
  {
   "id": "6843",
   "word": "desktop",
   "transcription": "[ˈdɛsktɒp]",
   "translation": "настольный",
-  "nuance": null,
+  "nuance": "Desktop — и настольный ПК, и рабочий стол экрана. Laptop — ноутбук. Desktop publishing — настольная издательская система.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/desktop.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I prefer a #desktop# computer for gaming.",
+    "ru": "Для игр я предпочитаю настольный компьютер."
+   },
+   {
+    "en": "Save the file to your #desktop#.",
+    "ru": "Сохрани файл на рабочий стол."
+   },
+   {
+    "en": "My #desktop# is full of icons.",
+    "ru": "Мой рабочий стол забит значками."
+   }
+  ]
  },
  {
   "id": "6844",
   "word": "ID",
   "transcription": "[aɪ-diː]",
   "translation": "удостоверение личности",
-  "nuance": null,
+  "nuance": "Произносят «ай-ди». ID card — удостоверение. Разг. глагол ID — «опознать». Photo ID — документ с фото.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/5987/5987_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Can I see some #ID#, please?",
+    "ru": "Можно ваш документ, пожалуйста?"
+   },
+   {
+    "en": "I forgot my #ID# and couldn't get in.",
+    "ru": "Я забыл удостоверение и не смог пройти."
+   },
+   {
+    "en": "Police tried to #ID# the suspect.",
+    "ru": "Полиция пыталась установить личность подозреваемого."
+   }
+  ]
  },
  {
   "id": "6845",
   "word": "hurdle",
   "transcription": "[ˈhɜːdl]",
   "translation": "препятствие",
-  "nuance": null,
+  "nuance": "Барьер в беге и перен. — препятствие. Clear/overcome a hurdle — преодолеть. Obstacle — препятствие (шире).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/37959/37959_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The last #hurdle# is the interview.",
+    "ru": "Последнее препятствие — собеседование."
+   },
+   {
+    "en": "She won the 100-metre #hurdles#.",
+    "ru": "Она выиграла забег на 100 метров с барьерами."
+   },
+   {
+    "en": "We've cleared the first #hurdle#.",
+    "ru": "Мы преодолели первое препятствие."
+   }
+  ]
  },
  {
   "id": "6846",
   "word": "grove",
   "transcription": "[grəʊv]",
   "translation": "лесок",
-  "nuance": null,
+  "nuance": "Небольшая роща, часто фруктовых деревьев. Woods — лес, forest — большой лес, orchard — фруктовый сад.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/grove.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We had a picnic in an olive #grove#.",
+    "ru": "Мы устроили пикник в оливковой роще."
+   },
+   {
+    "en": "There's a small birch #grove# behind the house.",
+    "ru": "За домом небольшая берёзовая роща."
+   },
+   {
+    "en": "Orange #groves# cover the hills.",
+    "ru": "Апельсиновые рощи покрывают холмы."
+   }
+  ]
  },
  {
   "id": "6847",
   "word": "allegiance",
   "transcription": "[əˈliːʤəns]",
   "translation": "верность",
-  "nuance": null,
+  "nuance": "Книжн. Верность государству, лидеру, команде. Loyalty — проще. Swear/pledge allegiance — присягнуть.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/allegiance.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Soldiers swear #allegiance# to their country.",
+    "ru": "Солдаты присягают на верность стране."
+   },
+   {
+    "en": "My #allegiance# is to my local football club.",
+    "ru": "Я верен своему местному футбольному клубу."
+   },
+   {
+    "en": "American kids say the Pledge of #Allegiance#.",
+    "ru": "Американские дети произносят клятву верности."
+   }
+  ]
  },
  {
   "id": "6848",
   "word": "overlap",
   "transcription": "[ˌəʊvəˈlæp]",
   "translation": "перекрываться",
-  "nuance": null,
+  "nuance": "Частично совпадать (по времени, темам, пространству). Сущ. overlap — пересечение. Coincide — совпадать полностью.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/overlap.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Our holidays #overlap# by one week.",
+    "ru": "Наши отпуска пересекаются на неделю."
+   },
+   {
+    "en": "The two jobs #overlap# a lot.",
+    "ru": "Эти две должности во многом пересекаются."
+   },
+   {
+    "en": "There's some #overlap# between the courses.",
+    "ru": "Курсы частично дублируют друг друга."
+   }
+  ]
  },
  {
   "id": "6849",
   "word": "summon",
   "transcription": "[ˈsʌmən]",
   "translation": "вызывать",
-  "nuance": null,
+  "nuance": "Офиц. вызвать (к начальству, в суд). Summon up courage — «набраться смелости». Summons — повестка.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/summon.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The boss #summoned# me to his office.",
+    "ru": "Начальник вызвал меня в кабинет."
+   },
+   {
+    "en": "She #summoned# the courage to speak.",
+    "ru": "Она собралась с духом, чтобы заговорить."
+   },
+   {
+    "en": "He was #summoned# to court.",
+    "ru": "Его вызвали в суд."
+   }
+  ]
  },
  {
   "id": "6850",
   "word": "awkward",
   "transcription": "[ˈɔːkwəd]",
   "translation": "неуклюжий",
-  "nuance": null,
+  "nuance": "Главное значение — «неловкий, неудобный» (о ситуации, вещах). О движениях — «неуклюжий» (clumsy). Awkward question — неудобный вопрос.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/awkward.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "That was an #awkward# silence.",
+    "ru": "Это была неловкая пауза."
+   },
+   {
+    "en": "I'm #awkward# at parties.",
+    "ru": "На вечеринках я чувствую себя неловко."
+   },
+   {
+    "en": "This box is an #awkward# shape.",
+    "ru": "У этой коробки неудобная форма."
+   }
+  ]
  },
  {
   "id": "6851",
   "word": "awkwardness",
   "transcription": "[ˈɔːkwədnɪs]",
   "translation": "неуклюжесть",
-  "nuance": null,
+  "nuance": "Чаще «неловкость» (социальная), а не неуклюжесть движений (clumsiness).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/awkwardness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I laughed to hide my #awkwardness#.",
+    "ru": "Я засмеялся, чтобы скрыть неловкость."
+   },
+   {
+    "en": "The #awkwardness# of the first date faded.",
+    "ru": "Неловкость первого свидания прошла."
+   },
+   {
+    "en": "Teen #awkwardness# is normal.",
+    "ru": "Подростковая неловкость — это нормально."
+   }
+  ]
  },
  {
   "id": "6852",
   "word": "felon",
   "transcription": "[ˈfɛlən]",
   "translation": "преступник, уголовник",
-  "nuance": null,
+  "nuance": "Амер. юр.: осуждённый за тяжкое преступление (felony). Criminal — преступник вообще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/felon.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A convicted #felon# can't vote in some states.",
+    "ru": "Осуждённый за тяжкое преступление в некоторых штатах не голосует."
+   },
+   {
+    "en": "The #felon# escaped from prison.",
+    "ru": "Уголовник сбежал из тюрьмы."
+   },
+   {
+    "en": "He became a #felon# at 19.",
+    "ru": "В 19 лет он стал уголовником."
+   }
+  ]
  },
  {
   "id": "6853",
   "word": "felony",
   "transcription": "[ˈfɛləni]",
   "translation": "преступление",
-  "nuance": null,
+  "nuance": "Амер. юр. Felony — тяжкое, misdemeanor — мелкое правонарушение. Crime — преступление вообще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/felony.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Car theft is a #felony# in this state.",
+    "ru": "В этом штате кража машины — тяжкое преступление."
+   },
+   {
+    "en": "He was charged with a #felony#.",
+    "ru": "Ему предъявили обвинение в тяжком преступлении."
+   },
+   {
+    "en": "A #felony# can ruin your career.",
+    "ru": "Судимость может разрушить карьеру."
+   }
+  ]
  },
  {
   "id": "6854",
   "word": "ship",
   "transcription": "[ʃɪp]",
   "translation": "доставлять",
-  "nuance": null,
+  "nuance": "Доставлять (не только кораблём!). Shipping — доставка. Фанатский сленг ship (от relationship) — «болеть за пару».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/ship.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They #ship# worldwide for free.",
+    "ru": "Они бесплатно доставляют по всему миру."
+   },
+   {
+    "en": "My order #shipped# yesterday.",
+    "ru": "Мой заказ отправили вчера."
+   },
+   {
+    "en": "I totally #ship# those two characters.",
+    "ru": "Я обожаю эту пару и очень хочу, чтобы они были вместе."
+   }
+  ]
  },
  {
   "id": "6855",
   "word": "wash up",
   "transcription": "[wɒʃʌp]",
   "translation": "помыть посуду",
-  "nuance": null,
+  "nuance": "Брит. — «мыть посуду». Амер. — «умыться, помыть руки». Wash up on — «быть выброшенным волнами». Washed-up — «конченый» (о карьере).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/30967/30967_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I cooked, so you #wash up#.",
+    "ru": "Я готовил, так что посуда на тебе."
+   },
+   {
+    "en": "Go and #wash up# before dinner.",
+    "ru": "Иди помой руки перед ужином."
+   },
+   {
+    "en": "A dead whale #washed up# on the beach.",
+    "ru": "На пляж выбросило мёртвого кита."
+   }
+  ]
  },
  {
   "id": "6856",
   "word": "revolve",
   "transcription": "[rɪˈvɒlv]",
   "translation": "вращаться",
-  "nuance": null,
+  "nuance": "Revolve around — вращаться вокруг (орбита) и перен. «вертеться вокруг». Rotate — вращаться вокруг своей оси.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/revolve.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The Earth #revolves# around the Sun.",
+    "ru": "Земля вращается вокруг Солнца."
+   },
+   {
+    "en": "Her life #revolves# around her kids.",
+    "ru": "Её жизнь вертится вокруг детей."
+   },
+   {
+    "en": "The door #revolves#; push gently.",
+    "ru": "Дверь вращается, толкайте мягко."
+   }
+  ]
  },
  {
   "id": "6857",
   "word": "revolver",
   "transcription": "[rɪˈvɒlvə]",
   "translation": "барабан или револьвер",
-  "nuance": null,
+  "nuance": "Основное значение — револьвер. Барабан револьвера — cylinder. Pistol — пистолет (общее).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/revolver.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The cowboy pulled out his #revolver#.",
+    "ru": "Ковбой вытащил револьвер."
+   },
+   {
+    "en": "The detective carried an old #revolver#.",
+    "ru": "Детектив носил старый револьвер."
+   },
+   {
+    "en": "A #revolver# has a rotating cylinder.",
+    "ru": "У револьвера вращающийся барабан."
+   }
+  ]
  },
  {
   "id": "6858",
   "word": "mix up",
   "transcription": "[mɪksʌp]",
   "translation": "перепутать",
-  "nuance": null,
+  "nuance": "Mix up A and B / A with B. Сущ. mix-up — путаница. Confuse — синоним (чуть офиц.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/mix_up.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I always #mix up# left and right.",
+    "ru": "Я всегда путаю лево и право."
+   },
+   {
+    "en": "Sorry, I #mixed up# the dates.",
+    "ru": "Извини, я перепутал даты."
+   },
+   {
+    "en": "The twins get #mixed up# all the time.",
+    "ru": "Близнецов постоянно путают."
+   }
+  ]
  },
  {
   "id": "6859",
   "word": "token",
   "transcription": "[ˈtəʊkən]",
   "translation": "знак, признак, маркер",
-  "nuance": null,
+  "nuance": "Знак (a token of love), жетон, токен (в IT, крипто). Прил. token — «символический, для галочки». By the same token — «по той же причине».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/token.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Please accept this gift as a #token# of thanks.",
+    "ru": "Примите этот подарок в знак благодарности."
+   },
+   {
+    "en": "Use a #token# for the old arcade machine.",
+    "ru": "Используй жетон для старого игрового автомата."
+   },
+   {
+    "en": "He was the #token# woman on the board.",
+    "ru": "Его взяли в совет только для галочки."
+   }
+  ]
  },
  {
   "id": "6860",
   "word": "midst",
   "transcription": "[mɪdst]",
   "translation": "середина, среда",
-  "nuance": null,
+  "nuance": "Книжн. In the midst of — «посреди, в разгаре». In our midst — «среди нас». В быту — in the middle of.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/midst.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "In the #midst# of the chaos, the baby slept.",
+    "ru": "Посреди всей суматохи малыш спал."
+   },
+   {
+    "en": "We're in the #midst# of moving house.",
+    "ru": "Мы в самом разгаре переезда."
+   },
+   {
+    "en": "There's a spy in our #midst#!",
+    "ru": "Среди нас шпион!"
+   }
+  ]
  },
  {
   "id": "6861",
   "word": "childhood",
   "transcription": "[ˈʧaɪldhʊd]",
   "translation": "детство",
-  "nuance": null,
+  "nuance": "Since childhood — с детства. Childish — по-детски (неодобр.), childlike — детский (непосредственный, хвалебно).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/20401/20401_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I had a happy #childhood# by the sea.",
+    "ru": "У меня было счастливое детство у моря."
+   },
+   {
+    "en": "This smell takes me back to my #childhood#.",
+    "ru": "Этот запах возвращает меня в детство."
+   },
+   {
+    "en": "They've been friends since #childhood#.",
+    "ru": "Они дружат с детства."
+   }
+  ]
  },
  {
   "id": "6862",
   "word": "manhood",
   "transcription": "[ˈmænhʊd]",
   "translation": "взрослый возраст",
-  "nuance": null,
+  "nuance": "Книжн.: мужская зрелость, мужественность. Adulthood — взрослость (для всех). Разг. эвфемизм — мужское достоинство.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/manhood.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He reached #manhood# in a time of war.",
+    "ru": "Он стал взрослым во время войны."
+   },
+   {
+    "en": "Is a beard a sign of #manhood#?",
+    "ru": "Борода — признак мужественности?"
+   },
+   {
+    "en": "Some cultures mark #manhood# with a ceremony.",
+    "ru": "Некоторые культуры отмечают взросление юноши обрядом."
+   }
+  ]
  },
  {
   "id": "6863",
   "word": "motherhood",
   "transcription": "[ˈmʌðəhʊd]",
   "translation": "материнство",
-  "nuance": null,
+  "nuance": "Состояние и опыт материнства. Maternity — официальное (maternity leave).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/motherhood.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Motherhood# changed her completely.",
+    "ru": "Материнство полностью её изменило."
+   },
+   {
+    "en": "Nobody prepares you for #motherhood#.",
+    "ru": "К материнству никто не готовит."
+   },
+   {
+    "en": "She balances #motherhood# and a career.",
+    "ru": "Она совмещает материнство и карьеру."
+   }
+  ]
  },
  {
   "id": "6864",
   "word": "fatherhood",
   "transcription": "[ˈfɑːðəhʊd]",
   "translation": "отцовство",
-  "nuance": null,
+  "nuance": "Опыт отцовства. Paternity — юридическое отцовство (paternity test), paternity leave — отпуск для отца.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fatherhood.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Fatherhood# made him more patient.",
+    "ru": "Отцовство сделало его терпеливее."
+   },
+   {
+    "en": "He wrote a funny book about #fatherhood#.",
+    "ru": "Он написал смешную книгу об отцовстве."
+   },
+   {
+    "en": "Sleepless nights are part of #fatherhood#.",
+    "ru": "Бессонные ночи — часть отцовства."
+   }
+  ]
  },
  {
   "id": "6865",
   "word": "boyhood",
   "transcription": "[ˈbɔɪhʊd]",
   "translation": "отрочество",
-  "nuance": null,
+  "nuance": "Детство и отрочество мальчика. Girlhood — для девочки. Повесть Толстого в переводе — Boyhood — «Отрочество».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/boyhood.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He spent his #boyhood# in a small village.",
+    "ru": "Своё отрочество он провёл в маленькой деревне."
+   },
+   {
+    "en": "It was his #boyhood# dream to fly.",
+    "ru": "Летать было его мечтой с детства."
+   },
+   {
+    "en": "They were #boyhood# friends.",
+    "ru": "Они дружили с мальчишеских лет."
+   }
+  ]
  },
  {
   "id": "6866",
   "word": "extort",
   "transcription": "[ɪksˈtɔːt]",
   "translation": "вымогать",
-  "nuance": null,
+  "nuance": "Вымогать силой или угрозами. Шутливо — «выклянчить». Blackmail — шантажировать (тайной).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/extort.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The gang tried to #extort# money from shop owners.",
+    "ru": "Банда пыталась вымогать деньги у владельцев магазинов."
+   },
+   {
+    "en": "He #extorted# a promise from her.",
+    "ru": "Он вытянул из неё обещание."
+   },
+   {
+    "en": "My kids #extort# sweets with sad faces.",
+    "ru": "Мои дети выклянчивают сладости грустными мордашками."
+   }
+  ]
  },
  {
   "id": "6867",
   "word": "extortion",
   "transcription": "[ɪksˈtɔːʃən]",
   "translation": "вымогательство",
-  "nuance": null,
+  "nuance": "Юр. термин. Разг. — о грабительских ценах. Blackmail — шантаж.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/extortion.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He was arrested for #extortion#.",
+    "ru": "Его арестовали за вымогательство."
+   },
+   {
+    "en": "Ten euros for water? That's #extortion#!",
+    "ru": "Десять евро за воду? Это грабёж!"
+   },
+   {
+    "en": "#Extortion# by email is growing.",
+    "ru": "Растёт число случаев вымогательства по почте."
+   }
+  ]
  },
  {
   "id": "6868",
   "word": "extortionist",
   "transcription": "[ɪksˈtɔːʃənɪst]",
   "translation": "вымогатель",
-  "nuance": null,
+  "nuance": "Книжн./юр. Разг. — о том, кто дерёт цены. Blackmailer — шантажист.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/extortionist.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #extortionist# demanded bitcoin.",
+    "ru": "Вымогатель требовал биткоин."
+   },
+   {
+    "en": "Police caught the #extortionist# at the bank.",
+    "ru": "Полиция задержала вымогателя у банка."
+   },
+   {
+    "en": "The landlord is a real #extortionist#.",
+    "ru": "Арендодатель — настоящий хапуга."
+   }
+  ]
  },
  {
   "id": "6869",
   "word": "proficient",
   "transcription": "[prəˈfɪʃənt]",
   "translation": "опытный, умелый",
-  "nuance": null,
+  "nuance": "Офиц.: «умелый, владеющий» (proficient in/at). Fluent — о языке, «бегло». Skilled — опытный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/proficient.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She's #proficient# in three languages.",
+    "ru": "Она свободно владеет тремя языками."
+   },
+   {
+    "en": "You need to be #proficient# in Excel.",
+    "ru": "Нужно хорошо владеть Excel."
+   },
+   {
+    "en": "After a year he became #proficient# at the guitar.",
+    "ru": "Через год он стал умело играть на гитаре."
+   }
+  ]
  },
  {
   "id": "6870",
   "word": "proficiency",
   "transcription": "[prəˈfɪʃənsi]",
   "translation": "умение",
-  "nuance": null,
+  "nuance": "Офиц. Уровень владения. Proficiency test — экзамен на уровень. Skill — навык.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/proficiency.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The job needs #proficiency# in English.",
+    "ru": "На этой должности требуется владение английским."
+   },
+   {
+    "en": "Her #proficiency# with computers impressed us.",
+    "ru": "Её мастерство в компьютерах нас впечатлило."
+   },
+   {
+    "en": "You'll need a language #proficiency# test.",
+    "ru": "Тебе понадобится экзамен на знание языка."
+   }
+  ]
  },
  {
   "id": "6871",
   "word": "burn down",
   "transcription": "[bɜːndaʊn]",
   "translation": "сгореть, сжечь (полностью)",
-  "nuance": null,
+  "nuance": "Полностью сгореть (о здании). Burn up — сгореть (о чём-то в огне, в атмосфере). Burn out — выгореть (о человеке).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6196/6196_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The old barn #burned down# last night.",
+    "ru": "Старый сарай сгорел дотла прошлой ночью."
+   },
+   {
+    "en": "Don't #burn down# the kitchen making toast!",
+    "ru": "Не спали кухню, пока делаешь тост!"
+   },
+   {
+    "en": "Someone tried to #burn down# the school.",
+    "ru": "Кто-то пытался сжечь школу."
+   }
+  ]
  },
  {
   "id": "6872",
   "word": "villain",
   "transcription": "[ˈvɪlən]",
   "translation": "негодяй",
-  "nuance": null,
+  "nuance": "Злодей (в сюжете) или негодяй. Ловушка: не «виллан». Bad guy — разг. Antagonist — противник героя.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/villain.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #villain# in the film was more fun than the hero.",
+    "ru": "Злодей в фильме был интереснее героя."
+   },
+   {
+    "en": "My little brother is the #villain# of this story.",
+    "ru": "Мой младший брат — злодей этой истории."
+   },
+   {
+    "en": "The cat is the real #villain#; she broke the vase.",
+    "ru": "Настоящий злодей — кошка, она разбила вазу."
+   }
+  ]
  },
  {
   "id": "6873",
   "word": "villainy",
   "transcription": "[ˈvɪləni]",
   "translation": "злодейство",
-  "nuance": null,
+  "nuance": "Книжн. В быту — wickedness, evil.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/villainy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The story is full of #villainy# and lies.",
+    "ru": "История полна злодейства и лжи."
+   },
+   {
+    "en": "His #villainy# was finally exposed.",
+    "ru": "Его подлость наконец раскрылась."
+   },
+   {
+    "en": "Comic books love tales of #villainy#.",
+    "ru": "Комиксы обожают истории о злодеяниях."
+   }
+  ]
  },
  {
   "id": "6874",
   "word": "villainous",
   "transcription": "[ˈvɪlənəs]",
   "translation": "злодейский",
-  "nuance": null,
+  "nuance": "Книжн., часто шутливо-театрально. Evil — злой (проще).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/villainous.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He gave a #villainous# laugh.",
+    "ru": "Он злодейски рассмеялся."
+   },
+   {
+    "en": "The #villainous# landlord raised the rent again.",
+    "ru": "Злодей-арендодатель снова поднял плату."
+   },
+   {
+    "en": "She played a #villainous# queen.",
+    "ru": "Она сыграла коварную королеву."
+   }
+  ]
  },
  {
   "id": "6875",
   "word": "oriental",
   "transcription": "[ˌɔːrɪˈɛnt(ə)l]",
   "translation": "восточный, азиатский",
-  "nuance": null,
+  "nuance": "Устаревает! О предметах ещё допустимо, о людях — оскорбительно. Сейчас говорят Asian, East Asian. The Orient — устар. «Восток».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/oriental.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The museum has a collection of #oriental# rugs.",
+    "ru": "В музее есть коллекция восточных ковров."
+   },
+   {
+    "en": "The room had an #oriental# style.",
+    "ru": "Комната была в восточном стиле."
+   },
+   {
+    "en": "#Oriental# spices filled the market.",
+    "ru": "Рынок был полон восточных специй."
+   }
+  ]
  },
  {
   "id": "6876",
   "word": "orientalist",
   "transcription": "[ˌɔːrɪˈɛntəlɪst]",
   "translation": "востоковед",
-  "nuance": null,
+  "nuance": "Устаревающее; сейчас — specialist in Asian/Middle Eastern studies. Orientalism — также критический термин (стереотипы о Востоке).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/orientalist.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #orientalist# studied old Persian texts.",
+    "ru": "Востоковед изучал древние персидские тексты."
+   },
+   {
+    "en": "#Orientalist# paintings show an imagined East.",
+    "ru": "Ориенталистская живопись показывает выдуманный Восток."
+   },
+   {
+    "en": "She's an #orientalist# at the university.",
+    "ru": "Она востоковед в университете."
+   }
+  ]
  },
  {
   "id": "6877",
   "word": "cargo",
   "transcription": "[ˈkɑːgəʊ]",
   "translation": "груз, грузовой",
-  "nuance": null,
+  "nuance": "Груз (судна, самолёта). Freight — груз, перевозка грузов. Luggage — багаж пассажиров.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/cargo.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The ship carried #cargo# from China.",
+    "ru": "Судно везло груз из Китая."
+   },
+   {
+    "en": "They sell #cargo# shorts with ten pockets.",
+    "ru": "Они продают шорты карго с десятью карманами."
+   },
+   {
+    "en": "The plane's #cargo# hold was full.",
+    "ru": "Грузовой отсек самолёта был полон."
+   }
+  ]
  },
  {
   "id": "6878",
   "word": "lament",
   "transcription": "[ləˈmɛnt]",
   "translation": "оплакивать, сожалеть",
-  "nuance": null,
+  "nuance": "Книжн. Сожалеть, оплакивать (часто публично, словами). Mourn — скорбеть; regret — сожалеть (проще).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/lament.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #lamented# the loss of his youth.",
+    "ru": "Он сокрушался о потерянной юности."
+   },
+   {
+    "en": "Fans #lament# the end of the series.",
+    "ru": "Фанаты горюют, что сериал закончился."
+   },
+   {
+    "en": "It's a #lament# for a lost love.",
+    "ru": "Это плач по утраченной любви."
+   }
+  ]
  },
  {
   "id": "6879",
   "word": "lamentable",
   "transcription": "[ˈlæməntəbl]",
   "translation": "плачевный",
-  "nuance": null,
+  "nuance": "Книжн., с оттенком возмущения. В быту — terrible, awful. Deplorable — достойный осуждения.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/lamentable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The state of the roads is #lamentable#.",
+    "ru": "Состояние дорог плачевное."
+   },
+   {
+    "en": "His English is #lamentable#.",
+    "ru": "Его английский просто плачевен."
+   },
+   {
+    "en": "It's a #lamentable# waste of money.",
+    "ru": "Это прискорбная трата денег."
+   }
+  ]
  },
  {
   "id": "6880",
   "word": "lamentation",
   "transcription": "[ˌlæmɛnˈteɪʃən]",
   "translation": "причитание",
-  "nuance": null,
+  "nuance": "Очень книжн. Шутливо — «нытьё». Wailing — вопли, рыдания.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/lamentation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We heard #lamentations# from the funeral.",
+    "ru": "С похорон доносились причитания."
+   },
+   {
+    "en": "The book of #Lamentations# is in the Bible.",
+    "ru": "В Библии есть Плач Иеремии."
+   },
+   {
+    "en": "Spare me your #lamentations#!",
+    "ru": "Избавь меня от своих причитаний!"
+   }
+  ]
  },
  {
   "id": "6881",
   "word": "gloss",
   "transcription": "[glɒs]",
   "translation": "глянец, лоск",
-  "nuance": null,
+  "nuance": "Глянец, блеск. Lip gloss — блеск для губ. Gloss over — «замять, сгладить» проблему. Glossary — глоссарий (другое).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/gloss.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She put on some lip #gloss#.",
+    "ru": "Она нанесла блеск для губ."
+   },
+   {
+    "en": "The table has a beautiful #gloss#.",
+    "ru": "У стола красивый глянцевый блеск."
+   },
+   {
+    "en": "The ad puts a #gloss# on a bad product.",
+    "ru": "Реклама придаёт лоск плохому продукту."
+   }
+  ]
  },
  {
   "id": "6882",
   "word": "glossy",
   "transcription": "[ˈglɒsi]",
   "translation": "глянцевый",
-  "nuance": null,
+  "nuance": "Glossy (magazine) — «глянец». Matte — матовый. Shiny — блестящий (шире).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/glossy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I love #glossy# magazines.",
+    "ru": "Обожаю глянцевые журналы."
+   },
+   {
+    "en": "Her hair is so #glossy#.",
+    "ru": "У неё такие блестящие волосы."
+   },
+   {
+    "en": "Print the photos on #glossy# paper.",
+    "ru": "Напечатай фото на глянцевой бумаге."
+   }
+  ]
  },
  {
   "id": "6883",
