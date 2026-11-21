@@ -160544,500 +160544,1150 @@
   "word": "brim",
   "transcription": "[ˈbrɪm]",
   "translation": "поля шляпы",
-  "nuance": null,
+  "nuance": "Brim — поля шляпы или козырёк кепки (также peak, visor). Wide-brimmed hat — шляпа с широкими полями.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/brim_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The wind caught the #brim# of my hat.",
+    "ru": "Ветер подхватил поля моей шляпы."
+   },
+   {
+    "en": "He wore a cap with a long #brim#.",
+    "ru": "На нём была кепка с длинным козырьком."
+   },
+   {
+    "en": "She pulled the #brim# down over her eyes.",
+    "ru": "Она надвинула поля шляпы на глаза."
+   }
+  ]
  },
  {
   "id": "6985",
   "word": "premise",
   "transcription": "[ˈprɛmɪs]",
   "translation": "предпосылка",
-  "nuance": null,
+  "nuance": "Предпосылка, основная идея (сюжета). Premises (мн. ч.) — помещение, территория (on the premises). Ловушка: не «премия» (то bonus, prize).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/premise.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The film's #premise# is simple: a dog runs a café.",
+    "ru": "Завязка фильма проста: пёс управляет кафе."
+   },
+   {
+    "en": "Your argument is based on a false #premise#.",
+    "ru": "Твой аргумент основан на ложной предпосылке."
+   },
+   {
+    "en": "No smoking on the #premises#.",
+    "ru": "На территории курить запрещено."
+   }
+  ]
  },
  {
   "id": "6986",
   "word": "marvel",
   "transcription": "[ˈmɑːvəl]",
   "translation": "диво, удивляться",
-  "nuance": null,
+  "nuance": "Marvel at — «изумляться, восхищаться». Сущ. — «чудо, диво». Wonder — синоним (чуть проще).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/marvel.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We #marvelled# at the view from the top.",
+    "ru": "Мы восхищались видом с вершины."
+   },
+   {
+    "en": "The new bridge is an engineering #marvel#.",
+    "ru": "Новый мост — чудо инженерной мысли."
+   },
+   {
+    "en": "It's a #marvel# that the old car still runs.",
+    "ru": "Чудо, что старая машина ещё ездит."
+   }
+  ]
  },
  {
   "id": "6987",
   "word": "marvelous",
   "transcription": "[ˈmɑːvələs]",
   "translation": "дивный",
-  "nuance": null,
+  "nuance": "Амер. marvelous, брит. marvellous. Чуть старомодно-восторженное. Wonderful, fantastic — проще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/marvelous.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We had a #marvelous# time in Italy.",
+    "ru": "Мы чудесно провели время в Италии."
+   },
+   {
+    "en": "What a #marvellous# idea!",
+    "ru": "Какая замечательная идея!"
+   },
+   {
+    "en": "Grandma makes #marvelous# pies.",
+    "ru": "Бабушка печёт дивные пироги."
+   }
+  ]
  },
  {
   "id": "6988",
   "word": "poise",
   "transcription": "[pɔɪz]",
   "translation": "равновесие, самообладание",
-  "nuance": null,
+  "nuance": "Уверенное спокойствие и изящество. Be poised to — «быть готовым, вот-вот». Composure — самообладание.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/poise.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She handled the angry customer with #poise#.",
+    "ru": "Она с выдержкой справилась с разгневанным клиентом."
+   },
+   {
+    "en": "The dancer moved with grace and #poise#.",
+    "ru": "Танцовщица двигалась с изяществом и уверенностью."
+   },
+   {
+    "en": "The team is #poised# to win the title.",
+    "ru": "Команда вот-вот выиграет титул."
+   }
+  ]
  },
  {
   "id": "6989",
   "word": "amenity",
   "transcription": "[əˈmiːnɪti]",
   "translation": "удобство, обустройство",
-  "nuance": null,
+  "nuance": "Обычно мн. ч.: удобства, инфраструктура (парки, магазины). Facilities — синоним. Comfort — комфорт.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/amenity.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The hotel has every #amenity#: pool, gym, spa.",
+    "ru": "В отеле все удобства: бассейн, спортзал, спа."
+   },
+   {
+    "en": "Shops and schools are local #amenities#.",
+    "ru": "Магазины и школы — местная инфраструктура."
+   },
+   {
+    "en": "The flat lacks basic #amenities#.",
+    "ru": "В квартире нет элементарных удобств."
+   }
+  ]
  },
  {
   "id": "6990",
   "word": "mediate",
   "transcription": "[ˈmiːdɪɪt]",
   "translation": "посредничать",
-  "nuance": null,
+  "nuance": "Посредничать при конфликте. Negotiate — вести переговоры (самому). Meditate — медитировать (похожее слово!).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/mediate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A teacher #mediated# between the two boys.",
+    "ru": "Учитель выступил посредником между двумя мальчиками."
+   },
+   {
+    "en": "The UN offered to #mediate# talks.",
+    "ru": "ООН предложила посредничество в переговорах."
+   },
+   {
+    "en": "She #mediates# family disputes for a living.",
+    "ru": "Она профессионально улаживает семейные споры."
+   }
+  ]
  },
  {
   "id": "6991",
   "word": "mediation",
   "transcription": "[ˌmiːdɪˈeɪʃən]",
   "translation": "посредничество",
-  "nuance": null,
+  "nuance": "Термин права и HR. Arbitration — арбитраж (решение обязательно). Ловушка: meditation — медитация.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/mediation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The case was settled through #mediation#.",
+    "ru": "Дело уладили через посредничество."
+   },
+   {
+    "en": "Family #mediation# can avoid court.",
+    "ru": "Семейная медиация помогает избежать суда."
+   },
+   {
+    "en": "#Mediation# took three days.",
+    "ru": "Посредничество заняло три дня."
+   }
+  ]
  },
  {
   "id": "6992",
   "word": "mediator",
   "transcription": "[ˈmiːdɪeɪtə]",
   "translation": "посредник",
-  "nuance": null,
+  "nuance": "Посредник в споре. Middleman — посредник в торговле. Peacemaker — миротворец (разг.).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/37782/37782_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A neutral #mediator# led the talks.",
+    "ru": "Переговоры вёл нейтральный посредник."
+   },
+   {
+    "en": "Mum is the family #mediator#.",
+    "ru": "Мама в семье — главный миротворец."
+   },
+   {
+    "en": "Hire a #mediator# before going to court.",
+    "ru": "Наймите медиатора, прежде чем идти в суд."
+   }
+  ]
  },
  {
   "id": "6993",
   "word": "moan",
   "transcription": "[məʊn]",
   "translation": "стонать",
-  "nuance": null,
+  "nuance": "Стонать, а брит. разг. — «ныть, жаловаться». Groan — стонать (тяжелее). Complain — жаловаться (нейтр.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/moan.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #moaned# in pain.",
+    "ru": "Он стонал от боли."
+   },
+   {
+    "en": "Stop #moaning# about the weather!",
+    "ru": "Хватит ныть о погоде!"
+   },
+   {
+    "en": "My dad #moans# when the WiFi is slow.",
+    "ru": "Папа ворчит, когда тормозит вайфай."
+   }
+  ]
  },
  {
   "id": "6994",
   "word": "mustard",
   "transcription": "[ˈmʌstəd]",
   "translation": "горчица",
-  "nuance": null,
+  "nuance": "Также цвет «горчичный». Cut the mustard — «соответствовать требованиям» (разг.). Dijon mustard — дижонская горчица.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6565/6565_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Do you want #mustard# on your hot dog?",
+    "ru": "Тебе горчицу на хот-дог?"
+   },
+   {
+    "en": "This #mustard# is so hot, my eyes are watering!",
+    "ru": "Эта горчица такая острая, что у меня слёзы текут!"
+   },
+   {
+    "en": "His work doesn't cut the #mustard#.",
+    "ru": "Его работа не дотягивает."
+   }
+  ]
  },
  {
   "id": "6995",
   "word": "humble",
   "transcription": "[ˈhʌmbl]",
   "translation": "скромный, смиренный",
-  "nuance": null,
+  "nuance": "Скромный (не хвастливый) или бедный по происхождению. Humbling — «отрезвляющий, заставляющий смириться». Modest — скромный (проще).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/humble.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Despite his fame, he stays #humble#.",
+    "ru": "Несмотря на славу, он остаётся скромным."
+   },
+   {
+    "en": "They live in a #humble# little house.",
+    "ru": "Они живут в скромном домике."
+   },
+   {
+    "en": "Losing 5-0 was a #humbling# experience.",
+    "ru": "Проигрыш 5:0 стал отрезвляющим опытом."
+   }
+  ]
  },
  {
   "id": "6996",
   "word": "remorse",
   "transcription": "[rɪˈmɔːs]",
   "translation": "раскаяние",
-  "nuance": null,
+  "nuance": "Глубокое раскаяние. Regret — сожаление (слабее). Buyer's remorse — сожаление о покупке.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/remorse.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He showed no #remorse# for his crime.",
+    "ru": "Он не проявил раскаяния в своём преступлении."
+   },
+   {
+    "en": "I felt #remorse# for eating my sister's cake.",
+    "ru": "Я раскаивался, что съел торт сестры."
+   },
+   {
+    "en": "Buyer's #remorse# hit me after I bought the car.",
+    "ru": "После покупки машины меня накрыло сожаление."
+   }
+  ]
  },
  {
   "id": "6997",
   "word": "marital",
   "transcription": "[ˈmærɪtl]",
   "translation": "супружеский",
-  "nuance": null,
+  "nuance": "Офиц. Marital status — семейное положение (в анкетах). Matrimonial — книжн. синоним. Martial — военный (похоже!).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/marital.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They have #marital# problems.",
+    "ru": "У них проблемы в браке."
+   },
+   {
+    "en": "What's your #marital# status?",
+    "ru": "Каково ваше семейное положение?"
+   },
+   {
+    "en": "#Marital# bliss lasted two weeks.",
+    "ru": "Супружеское блаженство продлилось две недели."
+   }
+  ]
  },
  {
   "id": "6998",
   "word": "garnish",
   "transcription": "[ˈgɑːnɪʃ]",
   "translation": "гарнир, украшение",
-  "nuance": null,
+  "nuance": "Ловушка! Garnish — украшение блюда (зелень, лимон). Гарнир — side dish. Юр. garnish wages — удерживать из зарплаты.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/garnish.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Add a #garnish# of parsley before serving.",
+    "ru": "Перед подачей украсьте зеленью петрушки."
+   },
+   {
+    "en": "The chef #garnished# the plate with lemon.",
+    "ru": "Шеф украсил тарелку лимоном."
+   },
+   {
+    "en": "The cocktail came with a cherry #garnish#.",
+    "ru": "Коктейль подали, украсив вишенкой."
+   }
+  ]
  },
  {
   "id": "6999",
   "word": "hack",
   "transcription": "[hæk]",
   "translation": "рубить, кромсать",
-  "nuance": null,
+  "nuance": "Рубить, кромсать. Компьютер — взломать (hacker). Life hack — лайфхак. Разг. can't hack it — «не справляться».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/hack.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #hacked# through the bushes with a knife.",
+    "ru": "Он прорубался сквозь кусты ножом."
+   },
+   {
+    "en": "Someone #hacked# my email.",
+    "ru": "Кто-то взломал мою почту."
+   },
+   {
+    "en": "Here's a life #hack#: freeze grapes as ice cubes.",
+    "ru": "Лайфхак: заморозь виноград вместо кубиков льда."
+   }
+  ]
  },
  {
   "id": "7000",
   "word": "revere",
   "transcription": "[rɪˈvɪə]",
   "translation": "почитать",
-  "nuance": null,
+  "nuance": "Книжн. Глубоко уважать, почитать. Respect — уважать (проще). Worship — поклоняться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/revere.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The old monk is #revered# by the villagers.",
+    "ru": "Старого монаха почитают жители деревни."
+   },
+   {
+    "en": "Many people #revere# their grandparents.",
+    "ru": "Многие люди глубоко почитают своих бабушек и дедушек."
+   },
+   {
+    "en": "She was #revered# as a goddess.",
+    "ru": "Её почитали как богиню."
+   }
+  ]
  },
  {
   "id": "7001",
   "word": "reverence",
   "transcription": "[ˈrəvərəns]",
   "translation": "почитание, благоговение",
-  "nuance": null,
+  "nuance": "Книжн. Awe — благоговение, трепет. Respect — уважение. Your Reverence — обращение к священнику.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/reverence.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They spoke of him with #reverence#.",
+    "ru": "Они говорили о нём с благоговением."
+   },
+   {
+    "en": "Japanese culture shows #reverence# for nature.",
+    "ru": "Японская культура проявляет почтение к природе."
+   },
+   {
+    "en": "The fans treated the guitar with #reverence#.",
+    "ru": "Фанаты относились к гитаре с благоговением."
+   }
+  ]
  },
  {
   "id": "7002",
   "word": "reverent",
   "transcription": "[ˈrɛvərənt]",
   "translation": "благоговейный",
-  "nuance": null,
+  "nuance": "Книжн. Не путать с Reverend — «преподобный» (титул священника).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/reverent.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There was a #reverent# silence in the church.",
+    "ru": "В церкви стояла благоговейная тишина."
+   },
+   {
+    "en": "He touched the old book with #reverent# hands.",
+    "ru": "Он прикоснулся к старой книге с благоговением."
+   },
+   {
+    "en": "Fans were #reverent# at the singer's grave.",
+    "ru": "Фанаты были полны почтения у могилы певца."
+   }
+  ]
  },
  {
   "id": "7003",
   "word": "reap",
   "transcription": "[riːp]",
   "translation": "пожинать",
-  "nuance": null,
+  "nuance": "Чаще перен.: reap the benefits/rewards — «пожинать плоды». Harvest — собирать урожай (проще). The Grim Reaper — смерть с косой.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/37694/37694_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Farmers #reap# the crops in autumn.",
+    "ru": "Осенью фермеры собирают урожай."
+   },
+   {
+    "en": "You'll #reap# the rewards of hard work.",
+    "ru": "Ты пожнёшь плоды упорного труда."
+   },
+   {
+    "en": "You #reap# what you sow.",
+    "ru": "Что посеешь, то и пожнёшь."
+   }
+  ]
  },
  {
   "id": "7004",
   "word": "thrive",
   "transcription": "[θraɪv]",
   "translation": "процветать, преуспевать",
-  "nuance": null,
+  "nuance": "Процветать, хорошо расти. Thrive on — «расцветать от чего-то». Flourish — синоним (книжн.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/thrive.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "These plants #thrive# in the shade.",
+    "ru": "Эти растения хорошо растут в тени."
+   },
+   {
+    "en": "Small businesses #thrive# here.",
+    "ru": "Здесь процветает малый бизнес."
+   },
+   {
+    "en": "Some people #thrive# on stress.",
+    "ru": "Некоторым стресс только на пользу."
+   }
+  ]
  },
  {
   "id": "7005",
   "word": "eloquent",
   "transcription": "[ˈɛləʊkwənt]",
   "translation": "красноречивый, выразительный",
-  "nuance": null,
+  "nuance": "Красноречивый, убедительный. Перен. — «выразительный» (взгляд, молчание). Articulate — ясно выражающий мысли.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/eloquent.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She gave an #eloquent# speech at the wedding.",
+    "ru": "Она произнесла красноречивую речь на свадьбе."
+   },
+   {
+    "en": "His silence was #eloquent#.",
+    "ru": "Его молчание было красноречивее слов."
+   },
+   {
+    "en": "The photo is an #eloquent# reminder of war.",
+    "ru": "Фото — выразительное напоминание о войне."
+   }
+  ]
  },
  {
   "id": "7006",
   "word": "eloquence",
   "transcription": "[ˈɛləʊkwəns]",
   "translation": "красноречие",
-  "nuance": null,
+  "nuance": "Книжн. Gift of the gab — разг. «подвешенный язык».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/eloquence.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Her #eloquence# won over the jury.",
+    "ru": "Её красноречие убедило присяжных."
+   },
+   {
+    "en": "He spoke with great #eloquence#.",
+    "ru": "Он говорил очень красноречиво."
+   },
+   {
+    "en": "The poet's #eloquence# moved everyone.",
+    "ru": "Красноречие поэта всех тронуло."
+   }
+  ]
  },
  {
   "id": "7007",
   "word": "crude",
   "transcription": "[kruːd]",
   "translation": "сырой, грубый, необработанный",
-  "nuance": null,
+  "nuance": "Сырой (crude oil — нефть), грубый, примитивный, а о шутках — «пошлый, похабный». Rough — грубый, приблизительный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/crude.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The price of #crude# oil went up.",
+    "ru": "Цена на сырую нефть выросла."
+   },
+   {
+    "en": "He made a #crude# drawing of a cat.",
+    "ru": "Он сделал грубый набросок кота."
+   },
+   {
+    "en": "Stop telling #crude# jokes!",
+    "ru": "Хватит рассказывать пошлые шутки!"
+   }
+  ]
  },
  {
   "id": "7008",
   "word": "crudeness",
   "transcription": "[ˈkruːdnəs]",
   "translation": "грубость",
-  "nuance": null,
+  "nuance": "Чаще говорят crudity. Vulgarity — вульгарность, rudeness — невежливость.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/crudeness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I was shocked by the #crudeness# of his language.",
+    "ru": "Меня потрясла грубость его выражений."
+   },
+   {
+    "en": "The #crudeness# of the drawing made us laugh.",
+    "ru": "Примитивность рисунка нас рассмешила."
+   },
+   {
+    "en": "The #crudeness# of the method surprised experts.",
+    "ru": "Примитивность метода удивила экспертов."
+   }
+  ]
  },
  {
   "id": "7009",
   "word": "puppet",
   "transcription": "[ˈpʌpɪt]",
   "translation": "кукла, марионетка",
-  "nuance": null,
+  "nuance": "Кукла для театра (hand puppet, marionette — на нитях). Doll — игрушечная кукла. Перен. — марионетка. Sock puppet — также фейковый аккаунт.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/26897/26897_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The kids put on a #puppet# show.",
+    "ru": "Дети устроили кукольное представление."
+   },
+   {
+    "en": "The president is just a #puppet# of the army.",
+    "ru": "Президент — просто марионетка армии."
+   },
+   {
+    "en": "Sock #puppets# are easy to make.",
+    "ru": "Кукол из носков легко сделать."
+   }
+  ]
  },
  {
   "id": "7010",
   "word": "prejudice",
   "transcription": "[ˈprɛʤʊdɪs]",
   "translation": "предубеждение, предрассудок",
-  "nuance": null,
+  "nuance": "Предубеждение (особенно против групп людей). Bias — предвзятость (мягче). Pride and Prejudice — «Гордость и предубеждение».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/prejudice.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We must fight #prejudice# in schools.",
+    "ru": "Нужно бороться с предрассудками в школах."
+   },
+   {
+    "en": "I have a #prejudice# against pineapple pizza.",
+    "ru": "У меня предубеждение против пиццы с ананасами."
+   },
+   {
+    "en": "Racial #prejudice# still exists.",
+    "ru": "Расовые предрассудки всё ещё существуют."
+   }
+  ]
  },
  {
   "id": "7011",
   "word": "prejudiced",
   "transcription": "[ˈprɛʤʊdɪst]",
   "translation": "предвзятый",
-  "nuance": null,
+  "nuance": "Prejudiced against — «предвзят против». Biased — предвзятый (шире). Narrow-minded — ограниченный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/prejudiced.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's #prejudiced# against tattoos.",
+    "ru": "Он предвзято относится к татуировкам."
+   },
+   {
+    "en": "Don't be #prejudiced#; meet her first.",
+    "ru": "Не будь предвзятым, сначала познакомься с ней."
+   },
+   {
+    "en": "The judge seemed #prejudiced#.",
+    "ru": "Судья казался предвзятым."
+   }
+  ]
  },
  {
   "id": "7012",
   "word": "unprejudiced",
   "transcription": "[ʌnˈprɛʤʊdɪst]",
   "translation": "беспристрастный",
-  "nuance": null,
+  "nuance": "Книжн. Чаще: unbiased, impartial, open-minded.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unprejudiced.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We need an #unprejudiced# opinion.",
+    "ru": "Нам нужно беспристрастное мнение."
+   },
+   {
+    "en": "Kids are often more #unprejudiced# than adults.",
+    "ru": "Дети часто менее предвзяты, чем взрослые."
+   },
+   {
+    "en": "An #unprejudiced# jury is essential.",
+    "ru": "Беспристрастные присяжные необходимы."
+   }
+  ]
  },
  {
   "id": "7013",
   "word": "grumble",
   "transcription": "[ˈgrʌmbl]",
   "translation": "ворчать, жаловаться",
-  "nuance": null,
+  "nuance": "Ворчать, бурчать (тихо и недовольно). Complain — жаловаться (вслух); moan — ныть. О животе — урчать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/grumble.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandpa #grumbles# about modern music.",
+    "ru": "Дед ворчит на современную музыку."
+   },
+   {
+    "en": "Stop #grumbling# and help!",
+    "ru": "Хватит ворчать, лучше помоги!"
+   },
+   {
+    "en": "My stomach is #grumbling#.",
+    "ru": "У меня урчит в животе."
+   }
+  ]
  },
  {
   "id": "7014",
   "word": "herald",
   "transcription": "[ˈhɛrəld]",
   "translation": "возвестить, вестник",
-  "nuance": null,
+  "nuance": "Книжн. Возвещать, предвещать. Herald as — «провозгласить». Устар. herald — глашатай. Название газет: The Herald.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/herald.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The first snow #heralds# winter.",
+    "ru": "Первый снег возвещает зиму."
+   },
+   {
+    "en": "The robin is a #herald# of spring.",
+    "ru": "Малиновка — вестница весны."
+   },
+   {
+    "en": "The new phone was #heralded# as a revolution.",
+    "ru": "Новый телефон провозгласили революционным."
+   }
+  ]
  },
  {
   "id": "7015",
   "word": "unheralded",
   "transcription": "[ˌʌnˈhɛrəldɪd]",
   "translation": "необъявленный",
-  "nuance": null,
+  "nuance": "Чаще — «незамеченный, непризнанный» (unsung hero — синоним). «Необъявленный» — реже.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unheralded.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He was an #unheralded# player until the final.",
+    "ru": "До финала он был никому не известным игроком."
+   },
+   {
+    "en": "Her #unheralded# work saved many lives.",
+    "ru": "Её незаметная работа спасла много жизней."
+   },
+   {
+    "en": "The band's #unheralded# arrival surprised fans.",
+    "ru": "Неожиданный приезд группы удивил фанатов."
+   }
+  ]
  },
  {
   "id": "7016",
   "word": "acquit",
   "transcription": "[əˈkwɪt]",
   "translation": "оправдать (в суде)",
-  "nuance": null,
+  "nuance": "Юр. Acquit of — «оправдать». Книжн. acquit oneself well — «хорошо себя показать». Противоп. convict — осудить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/acquit.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The jury #acquitted# him of murder.",
+    "ru": "Присяжные оправдали его по обвинению в убийстве."
+   },
+   {
+    "en": "She was #acquitted# on all charges.",
+    "ru": "Её оправдали по всем пунктам."
+   },
+   {
+    "en": "The new player #acquitted# himself well.",
+    "ru": "Новый игрок проявил себя хорошо."
+   }
+  ]
  },
  {
   "id": "7017",
   "word": "acquittal",
   "transcription": "[əˈkwɪtl]",
   "translation": "оправдание",
-  "nuance": null,
+  "nuance": "Юр. термин. Противоп. conviction — обвинительный приговор.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/acquittal.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #acquittal# shocked the public.",
+    "ru": "Оправдательный приговор шокировал общественность."
+   },
+   {
+    "en": "His lawyer won an #acquittal#.",
+    "ru": "Его адвокат добился оправдания."
+   },
+   {
+    "en": "After the #acquittal#, he went home.",
+    "ru": "После оправдания он поехал домой."
+   }
+  ]
  },
  {
   "id": "7018",
   "word": "tribute",
   "transcription": "[ˈtrɪbjuːt]",
   "translation": "дань",
-  "nuance": null,
+  "nuance": "Pay tribute to — «отдать дань уважения». Tribute band — кавер-группа. Исторически — дань (налог).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tribute.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The concert was a #tribute# to the late singer.",
+    "ru": "Концерт был данью памяти покойному певцу."
+   },
+   {
+    "en": "People paid #tribute# to the doctors.",
+    "ru": "Люди отдали дань уважения врачам."
+   },
+   {
+    "en": "Ancient kings demanded #tribute# from villages.",
+    "ru": "Древние цари требовали дань с деревень."
+   }
+  ]
  },
  {
   "id": "7019",
   "word": "stick at",
   "transcription": "[stɪkæt]",
   "translation": "упорно продолжать",
-  "nuance": null,
+  "nuance": "Брит. разг. Stick at it — «не сдаваться, продолжать». Stick at nothing — «ни перед чем не останавливаться». Persevere — книжн.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stick_at.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Learning piano is hard, but #stick at# it.",
+    "ru": "Учиться играть на пианино тяжело, но не бросай."
+   },
+   {
+    "en": "If you #stick at# your diet, you'll see results.",
+    "ru": "Если будешь придерживаться диеты, увидишь результат."
+   },
+   {
+    "en": "He #sticks at# nothing to win.",
+    "ru": "Он ни перед чем не остановится ради победы."
+   }
+  ]
  },
  {
   "id": "7020",
   "word": "claw",
   "transcription": "[klɔː]",
   "translation": "коготь, клешня",
-  "nuance": null,
+  "nuance": "Коготь, клешня. Перен. claw one's way — «пробиваться с трудом». Claw back — «отыграть, вернуть с трудом» (деньги).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/claw.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The cat scratched me with its #claws#.",
+    "ru": "Кот поцарапал меня когтями."
+   },
+   {
+    "en": "Crabs have big #claws#.",
+    "ru": "У крабов большие клешни."
+   },
+   {
+    "en": "She #clawed# her way to the top.",
+    "ru": "Она прогрызла себе путь наверх."
+   }
+  ]
  },
  {
   "id": "7021",
   "word": "come out",
   "transcription": "[kʌmaʊt]",
   "translation": "выходить (напр. об альбоме)",
-  "nuance": null,
+  "nuance": "Выходить (о книге, фильме), появляться (солнце), отстирываться (пятно). Come out — также раскрыть свою ориентацию.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/come_out_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Their new album #comes out# on Friday.",
+    "ru": "Их новый альбом выходит в пятницу."
+   },
+   {
+    "en": "The sun #came out# after the rain.",
+    "ru": "После дождя выглянуло солнце."
+   },
+   {
+    "en": "He #came out# to his family at 20.",
+    "ru": "В 20 он совершил каминг-аут перед семьёй."
+   }
+  ]
  },
  {
   "id": "7022",
   "word": "stance",
   "transcription": "[stɑːns]",
   "translation": "поза, положение",
-  "nuance": null,
+  "nuance": "Позиция, точка зрения (stance on). Буквально — стойка (в спорте). Position — синоним.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/stance.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "What's your #stance# on homework?",
+    "ru": "Какова твоя позиция по поводу домашних заданий?"
+   },
+   {
+    "en": "The government took a tough #stance#.",
+    "ru": "Правительство заняло жёсткую позицию."
+   },
+   {
+    "en": "Keep a wide #stance# when you lift weights.",
+    "ru": "Держи ноги широко, когда поднимаешь вес."
+   }
+  ]
  },
  {
   "id": "7023",
   "word": "snort",
   "transcription": "[snɔːt]",
   "translation": "фыркнуть, хмыкнуть",
-  "nuance": null,
+  "nuance": "Фыркать носом (от смеха, презрения). Также — вдыхать носом (наркотик, сленг). Sniff — нюхать, шмыгать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/snort.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #snorted# with laughter.",
+    "ru": "Она фыркнула от смеха."
+   },
+   {
+    "en": "The horse #snorted# and stamped its feet.",
+    "ru": "Лошадь фыркнула и забила копытами."
+   },
+   {
+    "en": "He gave a #snort# of disbelief.",
+    "ru": "Он недоверчиво хмыкнул."
+   }
+  ]
  },
  {
   "id": "7024",
   "word": "digest",
   "transcription": "[ˈdaɪʤɛst]",
   "translation": "переваривать",
-  "nuance": null,
+  "nuance": "Переварить (еду и информацию). Сущ. digest (ударение на 1-й) — сборник, дайджест.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/digest.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Cows take a long time to #digest# grass.",
+    "ru": "Коровам нужно много времени, чтобы переварить траву."
+   },
+   {
+    "en": "I need time to #digest# the news.",
+    "ru": "Мне нужно время, чтобы переварить новость."
+   },
+   {
+    "en": "Reader's #Digest# is an old magazine.",
+    "ru": "«Ридерз Дайджест» — старый журнал."
+   }
+  ]
  },
  {
   "id": "7025",
   "word": "digestion",
   "transcription": "[dɪˈʤɛsʧən]",
   "translation": "пищеварение",
-  "nuance": null,
+  "nuance": "Пищеварение. Также о «переваривании» информации (реже). Gut — кишечник (разг.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/digestion.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Ginger helps #digestion#.",
+    "ru": "Имбирь помогает пищеварению."
+   },
+   {
+    "en": "Walk after dinner for better #digestion#.",
+    "ru": "Погуляй после ужина для лучшего пищеварения."
+   },
+   {
+    "en": "Stress can affect #digestion#.",
+    "ru": "Стресс может влиять на пищеварение."
+   }
+  ]
  },
  {
   "id": "7026",
   "word": "indigestion",
   "transcription": "[ˌɪndɪˈʤɛsʧən]",
   "translation": "расстройство желудка",
-  "nuance": null,
+  "nuance": "Несварение, изжога, тяжесть в желудке. Heartburn — изжога. Upset stomach — расстройство желудка (шире).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/indigestion.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Spicy food gives me #indigestion#.",
+    "ru": "От острой еды у меня несварение."
+   },
+   {
+    "en": "Take something for your #indigestion#.",
+    "ru": "Прими что-нибудь от несварения."
+   },
+   {
+    "en": "Eating late causes #indigestion#.",
+    "ru": "Поздний ужин вызывает несварение."
+   }
+  ]
  },
  {
   "id": "7027",
   "word": "digestive",
   "transcription": "[dɪˈʤɛstɪv]",
   "translation": "пищеварительный",
-  "nuance": null,
+  "nuance": "Digestive tract — пищеварительный тракт. Брит. digestive — популярное печенье. Digestif — напиток после еды.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/digestive.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #digestive# system is very long.",
+    "ru": "Пищеварительная система очень длинная."
+   },
+   {
+    "en": "I love #digestive# biscuits with tea.",
+    "ru": "Обожаю печенье «Дайджестив» к чаю."
+   },
+   {
+    "en": "Have a #digestive# drink after dinner.",
+    "ru": "Выпей после ужина дижестив."
+   }
+  ]
  },
  {
   "id": "7028",
   "word": "beckon",
   "transcription": "[ˈbɛkən]",
   "translation": "манить",
-  "nuance": null,
+  "nuance": "Подзывать жестом. Перен. — «манить, звать» (о возможностях). Wave — махать. Call — звать голосом.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/beckon.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #beckoned# me to come closer.",
+    "ru": "Она поманила меня подойти ближе."
+   },
+   {
+    "en": "The sea #beckons#!",
+    "ru": "Море зовёт!"
+   },
+   {
+    "en": "A new job in London #beckoned#.",
+    "ru": "Его манила новая работа в Лондоне."
+   }
+  ]
  },
  {
   "id": "7029",
   "word": "surpass",
   "transcription": "[sɜːˈpɑːs]",
   "translation": "превзойти",
-  "nuance": null,
+  "nuance": "Книжн. Exceed — превысить (норму, лимит); outdo — превзойти (разг.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/surpass.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Sales #surpassed# our expectations.",
+    "ru": "Продажи превзошли наши ожидания."
+   },
+   {
+    "en": "She #surpassed# her teacher.",
+    "ru": "Она превзошла своего учителя."
+   },
+   {
+    "en": "The tower #surpasses# all others in height.",
+    "ru": "Башня превосходит все остальные по высоте."
+   }
+  ]
  },
  {
   "id": "7030",
   "word": "unsurpassed",
   "transcription": "[ˌʌnsə(ː)ˈpɑːst]",
   "translation": "непревзойденный",
-  "nuance": null,
+  "nuance": "Книжн., часто в рекламе. Unbeatable — проще. Unrivalled — не имеющий равных.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unsurpassed.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The view is #unsurpassed#.",
+    "ru": "Вид непревзойдённый."
+   },
+   {
+    "en": "Her record remains #unsurpassed#.",
+    "ru": "Её рекорд остаётся непревзойдённым."
+   },
+   {
+    "en": "The hotel offers #unsurpassed# service.",
+    "ru": "Отель предлагает непревзойдённый сервис."
+   }
+  ]
  },
  {
   "id": "7031",
   "word": "lucrative",
   "transcription": "[ˈluːkrətɪv]",
   "translation": "прибыльный, выгодный",
-  "nuance": null,
+  "nuance": "Приносящий много денег. Profitable — прибыльный (нейтр.). Well-paid — хорошо оплачиваемый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/lucrative.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Selling coffee can be very #lucrative#.",
+    "ru": "Продажа кофе может быть очень прибыльной."
+   },
+   {
+    "en": "He left a #lucrative# job to travel.",
+    "ru": "Он бросил денежную работу, чтобы путешествовать."
+   },
+   {
+    "en": "They signed a #lucrative# contract.",
+    "ru": "Они подписали выгодный контракт."
+   }
+  ]
  },
  {
   "id": "7032",
   "word": "dye",
   "transcription": "[daɪ]",
   "translation": "краска, краситель",
-  "nuance": null,
+  "nuance": "Dye — краситель для волос и ткани. Paint — краска для стен. Не путать с die (умирать) — звучит так же! Dyed-in-the-wool — «закоренелый».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dye.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She bought hair #dye# to go blue.",
+    "ru": "Она купила краску для волос, чтобы стать синеволосой."
+   },
+   {
+    "en": "I #dyed# my hair pink for a bet.",
+    "ru": "Я покрасил волосы в розовый на спор."
+   },
+   {
+    "en": "Natural #dyes# come from plants.",
+    "ru": "Натуральные красители получают из растений."
+   }
+  ]
  },
  {
   "id": "7033",
   "word": "dial",
   "transcription": "[ˈdaɪəl]",
   "translation": "набирать номер",
-  "nuance": null,
+  "nuance": "Набирать номер (по старой памяти о дисковых телефонах). Сущ. dial — циферблат, шкала, регулятор. Dial up/down — усилить/убавить.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/4691/4691_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Dial# 999 in an emergency.",
+    "ru": "В экстренных случаях звоните 999."
+   },
+   {
+    "en": "Oops, I #dialed# the wrong number.",
+    "ru": "Ой, я набрал не тот номер."
+   },
+   {
+    "en": "Turn the #dial# to change the station.",
+    "ru": "Поверни ручку, чтобы переключить станцию."
+   }
+  ]
  },
  {
   "id": "7034",
