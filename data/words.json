@@ -152494,500 +152494,1150 @@
   "word": "palace",
   "transcription": "[ˈpælɪs]",
   "translation": "дворец",
-  "nuance": null,
+  "nuance": "Palace — резиденция монарха или роскошное здание. Castle — укреплённый замок. Ice palace — «ледовый дворец».",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/17279/17279_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The King lives in Buckingham #Palace#.",
+    "ru": "Король живёт в Букингемском дворце."
+   },
+   {
+    "en": "The hotel looks like a #palace# inside.",
+    "ru": "Внутри отель похож на дворец."
+   },
+   {
+    "en": "My grandma's flat is her little #palace#.",
+    "ru": "Бабушкина квартира — её маленький дворец."
+   }
+  ]
  },
  {
   "id": "6634",
   "word": "sprinkle",
   "transcription": "[ˈsprɪŋkl]",
   "translation": "побрызгать, посыпать",
-  "nuance": null,
+  "nuance": "Посыпать или брызгать понемногу. Sprinkles — кондитерская посыпка. Перен. sprinkled with — «пересыпанный» (речь шутками).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/16699/16699_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Sprinkle# some cheese on the pasta.",
+    "ru": "Посыпь пасту сыром."
+   },
+   {
+    "en": "She #sprinkled# water on the plants.",
+    "ru": "Она побрызгала растения водой."
+   },
+   {
+    "en": "Cupcakes with rainbow #sprinkles#!",
+    "ru": "Капкейки с разноцветной посыпкой!"
+   }
+  ]
  },
  {
   "id": "6635",
   "word": "sprinkler",
   "transcription": "[ˈsprɪŋklə]",
   "translation": "ороситель",
-  "nuance": null,
+  "nuance": "Садовый разбрызгиватель или пожарный спринклер. Hose — шланг.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sprinkler.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The garden #sprinklers# turn on at 6 a.m.",
+    "ru": "Садовые разбрызгиватели включаются в шесть утра."
+   },
+   {
+    "en": "Smoke set off the #sprinklers# in the office.",
+    "ru": "Дым включил в офисе систему пожаротушения."
+   },
+   {
+    "en": "Kids ran through the #sprinkler# in the heat.",
+    "ru": "В жару дети бегали под разбрызгивателем."
+   }
+  ]
  },
  {
   "id": "6636",
   "word": "terminate",
   "transcription": "[ˈtɜːmɪneɪt]",
   "translation": "прекратить, завершить (офиц.)",
-  "nuance": null,
+  "nuance": "Офиц. Terminate a contract — расторгнуть. Эвфемизм «уволить» (fire). This train terminates here — «конечная».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/terminate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The contract was #terminated# early.",
+    "ru": "Контракт расторгли досрочно."
+   },
+   {
+    "en": "He was #terminated# for being late too often.",
+    "ru": "Его уволили за частые опоздания."
+   },
+   {
+    "en": "This train #terminates# here.",
+    "ru": "Этот поезд дальше не идёт."
+   }
+  ]
  },
  {
   "id": "6637",
   "word": "termination",
   "transcription": "[ˌtɜːmɪˈneɪʃən]",
   "translation": "прекращение",
-  "nuance": null,
+  "nuance": "Офиц., юр. Также медицинский эвфемизм (прерывание беременности). В быту — end, ending.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/termination.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Breaking the rules may lead to #termination#.",
+    "ru": "Нарушение правил может привести к увольнению."
+   },
+   {
+    "en": "The #termination# of the contract was mutual.",
+    "ru": "Контракт расторгли по обоюдному согласию."
+   },
+   {
+    "en": "Early #termination# costs extra.",
+    "ru": "Досрочное расторжение стоит дороже."
+   }
+  ]
  },
  {
   "id": "6638",
   "word": "swamp",
   "transcription": "[swɒmp]",
   "translation": "болото, топь",
-  "nuance": null,
+  "nuance": "Болото, обычно с деревьями (теплее, чем marsh). Перен. be swamped (with) — «быть заваленным» (работой, письмами).",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/26290/26290_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Alligators live in the #swamp#.",
+    "ru": "В болоте живут аллигаторы."
+   },
+   {
+    "en": "I'm #swamped# with work this week.",
+    "ru": "На этой неделе я завален работой."
+   },
+   {
+    "en": "Fans #swamped# the stage.",
+    "ru": "Фанаты хлынули на сцену."
+   }
+  ]
  },
  {
   "id": "6639",
   "word": "swampy",
   "transcription": "[ˈswɒmpi]",
   "translation": "болотистый",
-  "nuance": null,
+  "nuance": "Синонимы marshy, boggy. Разг. swampy — «душный, влажный» (о погоде).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/swampy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #swampy# ground made the hike slow.",
+    "ru": "Болотистая почва замедлила поход."
+   },
+   {
+    "en": "It's hot and #swampy# here in summer.",
+    "ru": "Летом здесь жарко и влажно, как на болоте."
+   },
+   {
+    "en": "Mosquitoes love #swampy# areas.",
+    "ru": "Комары любят болотистые места."
+   }
+  ]
  },
  {
   "id": "6640",
   "word": "lapse",
   "transcription": "[læps]",
   "translation": "промежуток времени",
-  "nuance": null,
+  "nuance": "Основное значение — «оплошность, провал, ошибка» (lapse of memory/judgement). «Промежуток» — книжн. Глагол lapse — истечь (о сроке).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/lapse_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "After a #lapse# of ten years, they met again.",
+    "ru": "Спустя десять лет они снова встретились."
+   },
+   {
+    "en": "Sorry, it was a #lapse# of memory.",
+    "ru": "Прости, вылетело из головы."
+   },
+   {
+    "en": "One #lapse# in concentration cost us the game.",
+    "ru": "Одна потеря концентрации стоила нам игры."
+   }
+  ]
  },
  {
   "id": "6641",
   "word": "anew",
   "transcription": "[əˈnjuː]",
   "translation": "заново",
-  "nuance": null,
+  "nuance": "Книжн., поэтичное. В быту — again, from scratch. Чуть торжественнее, чем afresh.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/anew.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "After the fire, they built their life #anew#.",
+    "ru": "После пожара они начали жизнь заново."
+   },
+   {
+    "en": "Every spring, the garden comes alive #anew#.",
+    "ru": "Каждую весну сад оживает вновь."
+   },
+   {
+    "en": "Let's start #anew#.",
+    "ru": "Давай начнём сначала."
+   }
+  ]
  },
  {
   "id": "6642",
   "word": "afresh",
   "transcription": "[əˈfrɛʃ]",
   "translation": "заново",
-  "nuance": null,
+  "nuance": "Брит., книжн. «С новыми силами, по-новому». Start afresh — «начать с нуля». Ср. fresh start — новое начало.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/afresh.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Let's look at the problem #afresh# tomorrow.",
+    "ru": "Давай посмотрим на проблему свежим взглядом завтра."
+   },
+   {
+    "en": "I deleted everything and started #afresh#.",
+    "ru": "Я всё удалил и начал заново."
+   },
+   {
+    "en": "Moving cities lets you start #afresh#.",
+    "ru": "Переезд в другой город позволяет начать с чистого листа."
+   }
+  ]
  },
  {
   "id": "6643",
   "word": "entice",
   "transcription": "[ɪnˈtaɪs]",
   "translation": "соблазнять",
-  "nuance": null,
+  "nuance": "Заманивать чем-то привлекательным, часто ловко. Tempt — искушать; lure — заманивать (часто обманом).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/entice.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The smell of coffee #enticed# me into the café.",
+    "ru": "Запах кофе заманил меня в кафе."
+   },
+   {
+    "en": "They #entice# customers with free gifts.",
+    "ru": "Они завлекают покупателей бесплатными подарками."
+   },
+   {
+    "en": "Nothing could #entice# the cat out from under the bed.",
+    "ru": "Ничто не могло выманить кота из-под кровати."
+   }
+  ]
  },
  {
   "id": "6644",
   "word": "enticement",
   "transcription": "[ɪnˈtaɪsmənt]",
   "translation": "приманка, заманивание",
-  "nuance": null,
+  "nuance": "Книжн. В быту — incentive (стимул), bait (наживка).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/enticement.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Free pizza was the #enticement# for volunteers.",
+    "ru": "Бесплатная пицца была приманкой для волонтёров."
+   },
+   {
+    "en": "Bonuses are an #enticement# to stay.",
+    "ru": "Бонусы — стимул остаться."
+   },
+   {
+    "en": "Without #enticement#, nobody comes to the meeting.",
+    "ru": "Без приманки никто на собрание не приходит."
+   }
+  ]
  },
  {
   "id": "6645",
   "word": "dock",
   "transcription": "[dɒk]",
   "translation": "причал, док",
-  "nuance": null,
+  "nuance": "Также the dock — скамья подсудимых (брит.). Глагол dock — «пришвартоваться» и «урезать, вычесть».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dock.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The ship came into #dock# at noon.",
+    "ru": "Корабль вошёл в док в полдень."
+   },
+   {
+    "en": "Put your phone on the charging #dock#.",
+    "ru": "Поставь телефон на док-станцию."
+   },
+   {
+    "en": "They'll #dock# your pay if you're late.",
+    "ru": "Если опоздаешь, тебе урежут зарплату."
+   }
+  ]
  },
  {
   "id": "6646",
   "word": "limp",
   "transcription": "[lɪmp]",
   "translation": "хромать",
-  "nuance": null,
+  "nuance": "Прил. limp — «вялый, обмякший» (limp handshake, limp lettuce). Hobble — ковылять (сильнее).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/limp.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #limped# off the field after the tackle.",
+    "ru": "После подката он, хромая, ушёл с поля."
+   },
+   {
+    "en": "My dog #limps# when it's cold.",
+    "ru": "Моя собака хромает в холод."
+   },
+   {
+    "en": "Her handshake was #limp#.",
+    "ru": "У неё было вялое рукопожатие."
+   }
+  ]
  },
  {
   "id": "6647",
   "word": "limping",
   "transcription": "[ˈlɪmpɪŋ]",
   "translation": "хромота",
-  "nuance": null,
+  "nuance": "Чаще прич. — хромающий. Сущ. «хромота» обычно — a limp: He walks with a limp.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/limping.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #limping# dog came to our door.",
+    "ru": "К нашей двери пришла хромая собака."
+   },
+   {
+    "en": "His #limping# got worse in winter.",
+    "ru": "Зимой его хромота усилилась."
+   },
+   {
+    "en": "I noticed her #limping# after the race.",
+    "ru": "После забега я заметил, что она хромает."
+   }
+  ]
  },
  {
   "id": "6648",
   "word": "placid",
   "transcription": "[ˈplæsɪd]",
   "translation": "тихий, спокойный",
-  "nuance": null,
+  "nuance": "Книжн.: «тихий, мирный, невозмутимый». Calm — проще. Иногда с оттенком «флегматичный».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/placid.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The lake was #placid# in the morning.",
+    "ru": "Утром озеро было спокойным."
+   },
+   {
+    "en": "Our old dog is very #placid#.",
+    "ru": "Наш старый пёс очень спокойный."
+   },
+   {
+    "en": "He has a #placid# nature.",
+    "ru": "У него невозмутимый характер."
+   }
+  ]
  },
  {
   "id": "6649",
   "word": "placidity",
   "transcription": "[plæˈsɪdɪti]",
   "translation": "безмятежность",
-  "nuance": null,
+  "nuance": "Очень книжн. В быту — calm, calmness, peace.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/placidity.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I envy the #placidity# of cows.",
+    "ru": "Я завидую безмятежности коров."
+   },
+   {
+    "en": "The #placidity# of the sea calmed us.",
+    "ru": "Спокойствие моря нас умиротворило."
+   },
+   {
+    "en": "Her #placidity# hid strong feelings.",
+    "ru": "За её невозмутимостью скрывались сильные чувства."
+   }
+  ]
  },
  {
   "id": "6650",
   "word": "baptize",
   "transcription": "[bæpˈtaɪz]",
   "translation": "крестить",
-  "nuance": null,
+  "nuance": "Брит. допускает baptise. Christen — тоже «крестить» (и дать имя). Перен. baptism of fire — «боевое крещение».",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/3064/3064_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The baby was #baptized# last Sunday.",
+    "ru": "Малыша крестили в прошлое воскресенье."
+   },
+   {
+    "en": "He was #baptized# in a river.",
+    "ru": "Его крестили в реке."
+   },
+   {
+    "en": "My first day at work was a #baptism# of fire.",
+    "ru": "Мой первый рабочий день стал боевым крещением."
+   }
+  ]
  },
  {
   "id": "6651",
   "word": "baptism",
   "transcription": "[ˈbæptɪzm]",
   "translation": "крещение",
-  "nuance": null,
+  "nuance": "Религиозный обряд. Christening — то же, разг., брит. Baptism of fire — трудный первый опыт.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/3064/3064_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #baptism# took place in an old church.",
+    "ru": "Крещение прошло в старой церкви."
+   },
+   {
+    "en": "Grandma came to the #baptism#.",
+    "ru": "Бабушка пришла на крещение."
+   },
+   {
+    "en": "It was a #baptism# of fire for the new teacher.",
+    "ru": "Для нового учителя это было боевым крещением."
+   }
+  ]
  },
  {
   "id": "6652",
   "word": "baptismal",
   "transcription": "[bæpˈtɪzməl]",
   "translation": "крестильный",
-  "nuance": null,
+  "nuance": "Только перед сущ. Baptismal font — купель.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/baptismal.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She wore a white #baptismal# gown.",
+    "ru": "На ней было белое крестильное платье."
+   },
+   {
+    "en": "The #baptismal# font is very old.",
+    "ru": "Купель очень старая."
+   },
+   {
+    "en": "Write your #baptismal# name here.",
+    "ru": "Напишите здесь ваше имя при крещении."
+   }
+  ]
  },
  {
   "id": "6653",
   "word": "brawl",
   "transcription": "[brɔːl]",
   "translation": "шумная драка, скандал",
-  "nuance": null,
+  "nuance": "Шумная беспорядочная драка (часто пьяная, групповая). Fight — нейтр., scuffle — короткая стычка.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/brawl.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A #brawl# broke out outside the pub.",
+    "ru": "У паба вспыхнула драка."
+   },
+   {
+    "en": "The match ended in a mass #brawl#.",
+    "ru": "Матч закончился массовой потасовкой."
+   },
+   {
+    "en": "Two guys #brawled# over a parking space.",
+    "ru": "Двое подрались из-за парковочного места."
+   }
+  ]
  },
  {
   "id": "6654",
   "word": "disdain",
   "transcription": "[dɪsˈdeɪn]",
   "translation": "пренебрегать, презирать",
-  "nuance": null,
+  "nuance": "Книжн. Презрение свысока, высокомерное. Contempt — сильнее; scorn — с насмешкой. Disdain to do — «не снизойти».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/disdain.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #disdains# fast food. Except at 2 a.m.",
+    "ru": "Он презирает фастфуд. Кроме как в два ночи."
+   },
+   {
+    "en": "She looked at the mess with #disdain#.",
+    "ru": "Она смотрела на бардак с презрением."
+   },
+   {
+    "en": "They #disdained# to answer.",
+    "ru": "Они не снизошли до ответа."
+   }
+  ]
  },
  {
   "id": "6655",
   "word": "disdainful",
   "transcription": "[dɪsˈdeɪnfʊl]",
   "translation": "презрительный",
-  "nuance": null,
+  "nuance": "Книжн. Синонимы scornful, contemptuous. В быту — snobbish, looking down on.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/disdainful.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She gave me a #disdainful# look.",
+    "ru": "Она бросила на меня презрительный взгляд."
+   },
+   {
+    "en": "He's #disdainful# of modern music.",
+    "ru": "Он с пренебрежением относится к современной музыке."
+   },
+   {
+    "en": "The cat gave a #disdainful# sniff.",
+    "ru": "Кот презрительно фыркнул."
+   }
+  ]
  },
  {
   "id": "6656",
   "word": "shiver",
   "transcription": "[ˈʃɪvə]",
   "translation": "дрожь, дрожать",
-  "nuance": null,
+  "nuance": "От холода или страха. Tremble — дрожать от волнения или слабости. Give someone the shivers — «вызвать мурашки».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/shiver.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #shivered# at the bus stop.",
+    "ru": "Я дрожал на остановке."
+   },
+   {
+    "en": "A #shiver# ran down my spine.",
+    "ru": "По спине пробежала дрожь."
+   },
+   {
+    "en": "That horror film gave me the #shivers#.",
+    "ru": "От этого ужастика у меня мурашки."
+   }
+  ]
  },
  {
   "id": "6657",
   "word": "nipple",
   "transcription": "[ˈnɪpl]",
   "translation": "сосок",
-  "nuance": null,
+  "nuance": "Анатомический термин, уместен в мед. и бытовом контексте. Амер. nipple — соска на бутылочке (брит. teat). Pacifier/dummy — пустышка.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/nipple.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The baby bottle has a soft #nipple#.",
+    "ru": "У бутылочки мягкая соска."
+   },
+   {
+    "en": "Men also have #nipples#.",
+    "ru": "У мужчин тоже есть соски."
+   },
+   {
+    "en": "The doctor checked for any changes in the #nipple#.",
+    "ru": "Врач проверил, нет ли изменений в области соска."
+   }
+  ]
  },
  {
   "id": "6658",
   "word": "lump",
   "transcription": "[lʌmp]",
   "translation": "кусок, глыба, ком",
-  "nuance": null,
+  "nuance": "Кусок, комок, шишка, уплотнение. Lump in one's throat — «ком в горле». Lump sum — единовременная выплата.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/lump.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I found a #lump# of sugar in my coffee.",
+    "ru": "Я нашёл в кофе кусок сахара."
+   },
+   {
+    "en": "There's a #lump# on my head where I hit it.",
+    "ru": "На голове шишка в том месте, где я ударился."
+   },
+   {
+    "en": "I had a #lump# in my throat at the wedding.",
+    "ru": "На свадьбе у меня ком стоял в горле."
+   }
+  ]
  },
  {
   "id": "6659",
   "word": "daunt",
   "transcription": "[dɔːnt]",
   "translation": "пугать, обескураживать",
-  "nuance": null,
+  "nuance": "Чаще в форме daunting — «пугающий, обескураживающий» (масштабом). Scare — напугать (прямо).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/daunt.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The long list didn't #daunt# her.",
+    "ru": "Длинный список её не испугал."
+   },
+   {
+    "en": "It's a #daunting# task, but we can do it.",
+    "ru": "Это пугающая задача, но мы справимся."
+   },
+   {
+    "en": "Don't be #daunted# by his big words.",
+    "ru": "Не робей перед его умными словами."
+   }
+  ]
  },
  {
   "id": "6660",
   "word": "undaunted",
   "transcription": "[ʌnˈdɔːntɪd]",
   "translation": "неустрашимый",
-  "nuance": null,
+  "nuance": "Книжн. Undaunted by — «не испугавшись, несмотря на». Fearless — бесстрашный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/undaunted.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Undaunted# by the rain, we went to the beach.",
+    "ru": "Не испугавшись дождя, мы пошли на пляж."
+   },
+   {
+    "en": "She remained #undaunted# after the failure.",
+    "ru": "После неудачи она не пала духом."
+   },
+   {
+    "en": "The #undaunted# climber tried again.",
+    "ru": "Неустрашимый альпинист попробовал снова."
+   }
+  ]
  },
  {
   "id": "6661",
   "word": "swarm",
   "transcription": "[swɔːm]",
   "translation": "рой, роиться, толпиться",
-  "nuance": null,
+  "nuance": "Be swarming with — «кишеть». Crowd — толпа людей; swarm — о насекомых или о хаотичной толпе.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/10244/10244_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A #swarm# of bees flew over the garden.",
+    "ru": "Над садом пролетел рой пчёл."
+   },
+   {
+    "en": "Tourists #swarmed# the square.",
+    "ru": "Туристы заполонили площадь."
+   },
+   {
+    "en": "The kitchen is #swarming# with ants!",
+    "ru": "На кухне кишат муравьи!"
+   }
+  ]
  },
  {
   "id": "6662",
   "word": "throw up",
   "transcription": "[θrəʊʌp]",
   "translation": "блевануть",
-  "nuance": null,
+  "nuance": "Разг. «стошнить, вырвать» — нейтральнее, чем перевод «блевануть». Vomit — мед., офиц.; be sick (брит.) — вежливо.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/throw_up.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I felt like I was going to #throw up# on the boat.",
+    "ru": "На лодке меня чуть не стошнило."
+   },
+   {
+    "en": "The baby #threw up# on my shirt.",
+    "ru": "Малыш срыгнул мне на рубашку."
+   },
+   {
+    "en": "That smell makes me want to #throw up#.",
+    "ru": "От этого запаха меня тянет блевать."
+   }
+  ]
  },
  {
   "id": "6663",
   "word": "warden",
   "transcription": "[ˈwɔːdn]",
   "translation": "смотритель, надзиратель",
-  "nuance": null,
+  "nuance": "Амер. warden — начальник тюрьмы. Брит. traffic warden — инспектор парковки. Guard — охранник.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/warden.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The prison #warden# made a statement.",
+    "ru": "Начальник тюрьмы сделал заявление."
+   },
+   {
+    "en": "A traffic #warden# gave me a ticket.",
+    "ru": "Инспектор по парковке выписал мне штраф."
+   },
+   {
+    "en": "The park #warden# showed us the nests.",
+    "ru": "Смотритель парка показал нам гнёзда."
+   }
+  ]
  },
  {
   "id": "6664",
   "word": "renew",
   "transcription": "[rɪˈnjuː]",
   "translation": "возобновлять",
-  "nuance": null,
+  "nuance": "Чаще всего — «продлить» (документ, подписку, контракт). Также возобновить и обновить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/renew.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I need to #renew# my passport.",
+    "ru": "Мне нужно продлить паспорт."
+   },
+   {
+    "en": "They #renewed# their friendship after years.",
+    "ru": "Через годы они возобновили дружбу."
+   },
+   {
+    "en": "The holiday #renewed# my energy.",
+    "ru": "Отпуск восстановил мои силы."
+   }
+  ]
  },
  {
   "id": "6665",
   "word": "renewal",
   "transcription": "[rɪˈnju(ː)əl]",
   "translation": "обновление",
-  "nuance": null,
+  "nuance": "Офиц. Продление (renewal of a licence) или обновление (spiritual renewal). Urban renewal — реконструкция кварталов.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/renewal.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Your #renewal# fee is due next month.",
+    "ru": "Плата за продление — в следующем месяце."
+   },
+   {
+    "en": "Spring is a time of #renewal#.",
+    "ru": "Весна — время обновления."
+   },
+   {
+    "en": "The city plans urban #renewal# in the old district.",
+    "ru": "Город планирует реконструкцию старого района."
+   }
+  ]
  },
  {
   "id": "6666",
   "word": "renewable",
   "transcription": "[rɪˈnjuːəbl]",
   "translation": "возобновляемый",
-  "nuance": null,
+  "nuance": "Renewables — возобновляемая энергетика. Также «продлеваемый» (о документе, договоре).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/renewable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Solar power is a #renewable# energy source.",
+    "ru": "Солнечная энергия — возобновляемый источник."
+   },
+   {
+    "en": "The contract is #renewable# every year.",
+    "ru": "Контракт продлевается ежегодно."
+   },
+   {
+    "en": "We invest in #renewables#.",
+    "ru": "Мы инвестируем в возобновляемую энергетику."
+   }
+  ]
  },
  {
   "id": "6667",
   "word": "put out",
   "transcription": "[pʊtaʊt]",
   "translation": "обременять, стеснять",
-  "nuance": null,
+  "nuance": "Put someone out — «доставить неудобства». Be put out — «обидеться, расстроиться». Также put out a fire — потушить, put out the rubbish — выставить мусор.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/put_out_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I hope I'm not #putting# you #out#.",
+    "ru": "Надеюсь, я тебя не стесняю."
+   },
+   {
+    "en": "Don't #put# yourself #out# for me.",
+    "ru": "Не утруждай себя ради меня."
+   },
+   {
+    "en": "She felt #put out# that nobody called.",
+    "ru": "Ей было обидно, что никто не позвонил."
+   }
+  ]
  },
  {
   "id": "6668",
   "word": "hydrogen",
   "transcription": "[ˈhaɪdrɪʤən]",
   "translation": "водород",
-  "nuance": null,
+  "nuance": "Хим. элемент H. Hydrogen peroxide — перекись водорода. Ловушка: не «гидро» (то hydro-, о воде).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/hydrogen.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Water is made of #hydrogen# and oxygen.",
+    "ru": "Вода состоит из водорода и кислорода."
+   },
+   {
+    "en": "The bus runs on #hydrogen#.",
+    "ru": "Автобус работает на водороде."
+   },
+   {
+    "en": "#Hydrogen# is the lightest element.",
+    "ru": "Водород — самый лёгкий элемент."
+   }
+  ]
  },
  {
   "id": "6669",
   "word": "grim",
   "transcription": "[grɪm]",
   "translation": "мрачный, зловещий",
-  "nuance": null,
+  "nuance": "Мрачный, суровый, безрадостный. Разг. брит. — «отвратный». Hold on like grim death — «вцепиться мёртвой хваткой». The Grim Reaper — смерть с косой.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/grim.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The news was #grim#.",
+    "ru": "Новости были мрачными."
+   },
+   {
+    "en": "He had a #grim# look on his face.",
+    "ru": "У него было суровое выражение лица."
+   },
+   {
+    "en": "The weather is #grim# today.",
+    "ru": "Сегодня отвратительная погода."
+   }
+  ]
  },
  {
   "id": "6670",
   "word": "deem",
   "transcription": "[diːm]",
   "translation": "считать (чем-либо)",
-  "nuance": null,
+  "nuance": "Офиц., часто в пассиве: be deemed — «быть признанным». В быту — consider, think.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/deem.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The film was #deemed# unsuitable for kids.",
+    "ru": "Фильм признали неподходящим для детей."
+   },
+   {
+    "en": "Do whatever you #deem# necessary.",
+    "ru": "Делай всё, что считаешь нужным."
+   },
+   {
+    "en": "He was #deemed# the best player of the season.",
+    "ru": "Его признали лучшим игроком сезона."
+   }
+  ]
  },
  {
   "id": "6671",
   "word": "consequent",
   "transcription": "[ˈkɒnsɪkwənt]",
   "translation": "последующий, вытекающий",
-  "nuance": null,
+  "nuance": "Книжн. «вытекающий, вызванный». Не путать с consistent — последовательный (ложный друг «консеквентный»).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/consequent.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The storm and the #consequent# floods closed roads.",
+    "ru": "Шторм и последовавшее за ним наводнение перекрыли дороги."
+   },
+   {
+    "en": "He lost his job and the #consequent# income.",
+    "ru": "Он потерял работу и, как следствие, доход."
+   },
+   {
+    "en": "The price rise and #consequent# drop in sales worried them.",
+    "ru": "Рост цен и вызванное им падение продаж их тревожили."
+   }
+  ]
  },
  {
   "id": "6672",
   "word": "consequently",
   "transcription": "[ˈkɒnsɪkwəntli]",
   "translation": "вследствие этого",
-  "nuance": null,
+  "nuance": "Офиц. связка в тексте. В разговоре — so, as a result. Therefore — ещё официальнее.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/consequently.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I missed the bus and, #consequently#, the meeting.",
+    "ru": "Я опоздал на автобус и, как следствие, на собрание."
+   },
+   {
+    "en": "He didn't study; #consequently#, he failed.",
+    "ru": "Он не учился, поэтому провалился."
+   },
+   {
+    "en": "It rained all week. #Consequently#, the picnic was cancelled.",
+    "ru": "Всю неделю шёл дождь. Поэтому пикник отменили."
+   }
+  ]
  },
  {
   "id": "6673",
   "word": "dodge",
   "transcription": "[dɒʤ]",
   "translation": "уворачиваться, уклоняться, уловка",
-  "nuance": null,
+  "nuance": "Dodge a question — уйти от ответа. Tax dodge — уклонение от налогов. Dodgy (брит. разг.) — «подозрительный, сомнительный».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dodge.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #dodged# the ball and laughed.",
+    "ru": "Он увернулся от мяча и засмеялся."
+   },
+   {
+    "en": "Stop #dodging# my questions!",
+    "ru": "Хватит уходить от моих вопросов!"
+   },
+   {
+    "en": "That was a clever #dodge# to avoid paying.",
+    "ru": "Это была ловкая уловка, чтобы не платить."
+   }
+  ]
  },
  {
   "id": "6674",
   "word": "dodger",
   "transcription": "[ˈdɒʤə]",
   "translation": "хитрец",
-  "nuance": null,
+  "nuance": "Разг.: тот, кто уклоняется от обязанностей. Tax dodger, fare dodger, draft dodger — уклонист от налогов, безбилетник, «откосивший» от армии.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dodger.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's a well-known tax #dodger#.",
+    "ru": "Он известный уклонист от налогов."
+   },
+   {
+    "en": "Fare #dodgers# will be fined.",
+    "ru": "Безбилетников оштрафуют."
+   },
+   {
+    "en": "You old #dodger#! You never pay for drinks.",
+    "ru": "Ах ты хитрец! Никогда не платишь за выпивку."
+   }
+  ]
  },
  {
   "id": "6675",
   "word": "nourish",
   "transcription": "[ˈnʌrɪʃ]",
   "translation": "питать, кормить, удобрять",
-  "nuance": null,
+  "nuance": "Книжн. В быту — feed. В косметике nourishing — «питательный». Перен. nourish hope — «питать надежду».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/nourish.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Rain #nourishes# the soil.",
+    "ru": "Дождь питает почву."
+   },
+   {
+    "en": "This cream #nourishes# dry skin.",
+    "ru": "Этот крем питает сухую кожу."
+   },
+   {
+    "en": "Books #nourish# the mind.",
+    "ru": "Книги питают ум."
+   }
+  ]
  },
  {
   "id": "6676",
   "word": "nourishment",
   "transcription": "[ˈnʌrɪʃmənt]",
   "translation": "питание",
-  "nuance": null,
+  "nuance": "Книжн. В быту — food, nutrition. Malnourishment — недоедание.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/nourishment.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The children lacked proper #nourishment#.",
+    "ru": "Детям не хватало нормального питания."
+   },
+   {
+    "en": "Plants get #nourishment# from the soil.",
+    "ru": "Растения получают питание из почвы."
+   },
+   {
+    "en": "Music is #nourishment# for the soul.",
+    "ru": "Музыка — пища для души."
+   }
+  ]
  },
  {
   "id": "6677",
   "word": "ailment",
   "transcription": "[ˈeɪlmənt]",
   "translation": "недомогание, болезнь",
-  "nuance": null,
+  "nuance": "Обычно лёгкая, хроническая болезнь. Illness — болезнь вообще; disease — серьёзное заболевание.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/ailment.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandma has many small #ailments#.",
+    "ru": "У бабушки много мелких болячек."
+   },
+   {
+    "en": "Honey is used for all kinds of #ailments#.",
+    "ru": "Мёд применяют от всевозможных недугов."
+   },
+   {
+    "en": "A cold is a common winter #ailment#.",
+    "ru": "Простуда — частое зимнее недомогание."
+   }
+  ]
  },
  {
   "id": "6678",
   "word": "gleam",
   "transcription": "[gliːm]",
   "translation": "блеск, отблеск",
-  "nuance": null,
+  "nuance": "Мягкий отражённый блеск. Glitter — сверкать искрами; shine — светить, блестеть. A gleam in one's eye — «огонёк в глазах».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/gleam.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I saw a #gleam# of light under the door.",
+    "ru": "Я увидел полоску света из-под двери."
+   },
+   {
+    "en": "He had a #gleam# in his eye.",
+    "ru": "У него в глазах мелькнул огонёк."
+   },
+   {
+    "en": "Her shoes #gleamed# after polishing.",
+    "ru": "После чистки её туфли заблестели."
+   }
+  ]
  },
  {
   "id": "6679",
   "word": "signature",
   "transcription": "[ˈsɪgnɪʧə]",
   "translation": "подпись",
-  "nuance": null,
+  "nuance": "Перен. signature dish/style — «фирменный». Ловушка: «автограф» знаменитости — autograph, а не signature.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/signature.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Your #signature# is needed here.",
+    "ru": "Здесь нужна ваша подпись."
+   },
+   {
+    "en": "Pasta is the chef's #signature# dish.",
+    "ru": "Паста — фирменное блюдо шефа."
+   },
+   {
+    "en": "Red lipstick is her #signature# look.",
+    "ru": "Красная помада — её фирменный образ."
+   }
+  ]
  },
  {
   "id": "6680",
   "word": "awe",
   "transcription": "[ɔː]",
   "translation": "трепет, благоговение",
-  "nuance": null,
+  "nuance": "Восхищение с трепетом. Be in awe of — «благоговеть». Отсюда awesome и awful (изначально — внушающий трепет).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/awe.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We stood in #awe# of the mountains.",
+    "ru": "Мы с благоговением взирали на горы."
+   },
+   {
+    "en": "The kids watched the magician in #awe#.",
+    "ru": "Дети завороженно смотрели на фокусника."
+   },
+   {
+    "en": "I'm in #awe# of nurses.",
+    "ru": "Я преклоняюсь перед медсёстрами."
+   }
+  ]
  },
  {
   "id": "6681",
   "word": "seldom",
   "transcription": "[ˈsɛldəm]",
   "translation": "редко",
-  "nuance": null,
+  "nuance": "Книжнее, чем rarely. В разговоре — not often, hardly ever. Seldom, if ever — «почти никогда».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/seldom.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I #seldom# eat breakfast.",
+    "ru": "Я редко завтракаю."
+   },
+   {
+    "en": "He #seldom# smiles, but when he does, wow.",
+    "ru": "Он редко улыбается, но уж если улыбнётся — ух."
+   },
+   {
+    "en": "We #seldom# go out since the baby arrived.",
+    "ru": "С рождения малыша мы редко куда-то выходим."
+   }
+  ]
  },
  {
   "id": "6682",
   "word": "flair",
   "transcription": "[fleə]",
   "translation": "чутьё, талант",
-  "nuance": null,
+  "nuance": "Природный талант или стиль. Have a flair for — «иметь способность к». Ловушка: не «флёр» (атмосфера — air, aura).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/flair.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She has a #flair# for languages.",
+    "ru": "У неё способности к языкам."
+   },
+   {
+    "en": "He dresses with real #flair#.",
+    "ru": "Он одевается с настоящим шиком."
+   },
+   {
+    "en": "You need some #flair# to sell anything.",
+    "ru": "Чтобы что-то продать, нужно чутьё."
+   }
+  ]
  },
  {
   "id": "6683",
