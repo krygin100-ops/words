@@ -137544,500 +137544,1150 @@
   "word": "crumb",
   "transcription": "[krʌm]",
   "translation": "крошка, крупица",
-  "nuance": null,
+  "nuance": "crumb — крошка; крупица (переносно). breadcrumbs — панировочные сухари. Bit — кусочек, scrap — обрывок.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/9053/9053_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There are #crumbs# all over the sofa!",
+    "ru": "Весь диван в крошках!"
+   },
+   {
+    "en": "The birds ate the bread #crumbs#.",
+    "ru": "Птицы склевали хлебные крошки."
+   },
+   {
+    "en": "A #crumb# of hope remained.",
+    "ru": "Осталась крупица надежды."
+   }
+  ]
  },
  {
   "id": "5984",
   "word": "obscene",
   "transcription": "[ɒbˈsiːn]",
   "translation": "непристойный",
-  "nuance": null,
+  "nuance": "obscene — непристойный, неприличный; разг. — возмутительный (цена, богатство). Vulgar — вульгарный, rude — грубый, indecent — неприличный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/obscene.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He made an #obscene# gesture at the driver.",
+    "ru": "Он показал водителю неприличный жест."
+   },
+   {
+    "en": "That price is #obscene#!",
+    "ru": "Эта цена непристойно высокая!"
+   },
+   {
+    "en": "The film was banned for #obscene# scenes.",
+    "ru": "Фильм запретили из-за непристойных сцен."
+   }
+  ]
  },
  {
   "id": "5985",
   "word": "obscenity",
   "transcription": "[ɒbˈsiːnɪti]",
   "translation": "непристойность",
-  "nuance": null,
+  "nuance": "obscenity — непристойность, ругательство; переносно — позор. Swear words — ругательства, profanity — сквернословие.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/obscenity.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He shouted #obscenities# at the referee.",
+    "ru": "Он выкрикивал непристойности в адрес судьи."
+   },
+   {
+    "en": "The book was accused of #obscenity#.",
+    "ru": "Книгу обвиняли в непристойности."
+   },
+   {
+    "en": "Waste of food is an #obscenity#.",
+    "ru": "Выбрасывать еду — это просто позор."
+   }
+  ]
  },
  {
   "id": "5986",
   "word": "be off",
   "transcription": "[biːɒf]",
   "translation": "отсутствовать",
-  "nuance": null,
+  "nuance": "be off — отсутствовать (не на работе); уходить (I'm off!); испортиться (еда, брит.); быть отменённым. Be away — отсутствовать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/be_off.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She's #off# today — she's sick.",
+    "ru": "Её сегодня нет — она болеет."
+   },
+   {
+    "en": "I'm #off# work next week.",
+    "ru": "На следующей неделе я не работаю."
+   },
+   {
+    "en": "The milk #is off# — don't drink it.",
+    "ru": "Молоко испортилось — не пей."
+   }
+  ]
  },
  {
   "id": "5987",
   "word": "go off",
   "transcription": "[gəʊɒf]",
   "translation": "уходить",
-  "nuance": null,
+  "nuance": "go off — уйти, уехать; также сработать (будильник), испортиться. Leave — уйти, depart — отправиться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/go_off_3.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #went off# without saying goodbye.",
+    "ru": "Она ушла, не попрощавшись."
+   },
+   {
+    "en": "He #went off# to university.",
+    "ru": "Он уехал учиться в университет."
+   },
+   {
+    "en": "The kids #went off# to play.",
+    "ru": "Дети ушли играть."
+   }
+  ]
  },
  {
   "id": "5988",
   "word": "run off",
   "transcription": "[rʌnɒf]",
   "translation": "убегать",
-  "nuance": null,
+  "nuance": "run off — убежать, сбежать; также распечатать (копии). Run away — убежать, escape — сбежать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/run_off.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The dog #ran off# with my sandwich.",
+    "ru": "Собака убежала с моим бутербродом."
+   },
+   {
+    "en": "He #ran off# with his secretary.",
+    "ru": "Он сбежал со своей секретаршей."
+   },
+   {
+    "en": "Don't #run off# — I need to talk to you.",
+    "ru": "Не убегай — мне нужно с тобой поговорить."
+   }
+  ]
  },
  {
   "id": "5989",
   "word": "let off",
   "transcription": "[lɛt ɒf]",
   "translation": "отпустить",
-  "nuance": null,
+  "nuance": "let off — отпустить без наказания; освободить (от обязанности); запустить (фейерверк). Excuse — освободить, forgive — простить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/let_off_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The teacher #let# us #off# homework.",
+    "ru": "Учитель освободил нас от домашки."
+   },
+   {
+    "en": "The police #let# him #off# with a warning.",
+    "ru": "Полиция отпустила его с предупреждением."
+   },
+   {
+    "en": "Don't #let off# fireworks near the house!",
+    "ru": "Не запускай фейерверки возле дома!"
+   }
+  ]
  },
  {
   "id": "5990",
   "word": "clench",
   "transcription": "[klɛnʧ]",
   "translation": "стиснуть, сжать",
-  "nuance": null,
+  "nuance": "clench — сжимать (кулаки, зубы, челюсть). Grip — сжимать (рукой), squeeze — сдавливать, tighten — напрягать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/clench.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #clenched# his fists in anger.",
+    "ru": "Он сжал кулаки от злости."
+   },
+   {
+    "en": "She #clenched# her teeth and kept going.",
+    "ru": "Она стиснула зубы и продолжила."
+   },
+   {
+    "en": "Don't #clench# your jaw at night.",
+    "ru": "Не сжимай челюсть ночью."
+   }
+  ]
  },
  {
   "id": "5991",
   "word": "dissent",
   "transcription": "[dɪˈsɛnt]",
   "translation": "несогласие, не соглашаться",
-  "nuance": null,
+  "nuance": "dissent — несогласие, инакомыслие; не соглашаться (офиц.). Disagreement — несогласие, objection — возражение, protest — протест.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dissent.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There was #dissent# in the team.",
+    "ru": "В команде были разногласия."
+   },
+   {
+    "en": "Two judges #dissented# from the decision.",
+    "ru": "Двое судей не согласились с решением."
+   },
+   {
+    "en": "The government doesn't allow #dissent#.",
+    "ru": "Правительство не допускает инакомыслия."
+   }
+  ]
  },
  {
   "id": "5992",
   "word": "dissenter",
   "transcription": "[dɪˈsɛntə]",
   "translation": "несогласный, дисидент",
-  "nuance": null,
+  "nuance": "dissenter — инакомыслящий, несогласный, диссидент. Rebel — бунтарь, critic — критик, dissident — диссидент (полит.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dissenter.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Dissenters# were sent to prison.",
+    "ru": "Инакомыслящих отправляли в тюрьму."
+   },
+   {
+    "en": "She was the only #dissenter# at the meeting.",
+    "ru": "Она единственная на собрании была против."
+   },
+   {
+    "en": "The group welcomes #dissenters#.",
+    "ru": "Группа рада несогласным."
+   }
+  ]
  },
  {
   "id": "5993",
   "word": "preliminary",
   "transcription": "[prɪˈlɪmɪnəri]",
   "translation": "предварительный",
-  "nuance": null,
+  "nuance": "preliminary — предварительный, отборочный; сущ. preliminaries — вступление, подготовка. Initial — начальный, provisional — временный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/preliminary.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "These are just #preliminary# results.",
+    "ru": "Это лишь предварительные результаты."
+   },
+   {
+    "en": "After the #preliminaries#, they got down to business.",
+    "ru": "После вступления они перешли к делу."
+   },
+   {
+    "en": "She won the #preliminary# round.",
+    "ru": "Она выиграла отборочный тур."
+   }
+  ]
  },
  {
   "id": "5994",
   "word": "cannon",
   "transcription": "[ˈkænən]",
   "translation": "пушка",
-  "nuance": null,
+  "nuance": "cannon — пушка (мн. тоже cannon). loose cannon — непредсказуемый человек. Ловушка: canon — канон!",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/29792/29792_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The pirates fired the #cannon#.",
+    "ru": "Пираты выстрелили из пушки."
+   },
+   {
+    "en": "The old #cannon# stands in the park.",
+    "ru": "В парке стоит старая пушка."
+   },
+   {
+    "en": "He's a loose #cannon# — you never know what he'll do.",
+    "ru": "Он непредсказуемый — никогда не знаешь, что он выкинет."
+   }
+  ]
  },
  {
   "id": "5995",
   "word": "glue",
   "transcription": "[gluː]",
   "translation": "клей, клеить",
-  "nuance": null,
+  "nuance": "glue — клей; клеить; glued to — прилипший (к экрану). Stick — приклеить, paste — паста-клей, tape — скотч.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2709/2709_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Glue# the pieces back together.",
+    "ru": "Склей кусочки обратно."
+   },
+   {
+    "en": "The kids got #glue# on the carpet.",
+    "ru": "Дети запачкали ковёр клеем."
+   },
+   {
+    "en": "She's #glued# to her phone.",
+    "ru": "Она прилипла к телефону."
+   }
+  ]
  },
  {
   "id": "5996",
   "word": "hoist",
   "transcription": "[hɔɪst]",
   "translation": "поднимать",
-  "nuance": null,
+  "nuance": "hoist — поднимать (тяжёлое, флаг, паруса); сущ. — подъёмник. Lift — поднять, raise — поднять, haul — тащить.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/16445/16445_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They #hoisted# the flag.",
+    "ru": "Они подняли флаг."
+   },
+   {
+    "en": "He #hoisted# the box onto his shoulder.",
+    "ru": "Он взвалил коробку на плечо."
+   },
+   {
+    "en": "The crane #hoisted# the car.",
+    "ru": "Кран поднял машину."
+   }
+  ]
  },
  {
   "id": "5997",
   "word": "delinquent",
   "transcription": "[dɪˈlɪŋkwənt]",
   "translation": "правонарушитель",
-  "nuance": null,
+  "nuance": "delinquent — правонарушитель (особ. несовершеннолетний); прил. — просроченный (платёж, амер.). Offender — правонарушитель, criminal — преступник.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/delinquent.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The police caught a group of young #delinquents#.",
+    "ru": "Полиция поймала группу малолетних правонарушителей."
+   },
+   {
+    "en": "He was a juvenile #delinquent# but turned his life around.",
+    "ru": "Он был малолетним преступником, но изменил свою жизнь."
+   },
+   {
+    "en": "#Delinquent# accounts will be closed.",
+    "ru": "Счета с просроченными платежами будут закрыты."
+   }
+  ]
  },
  {
   "id": "5998",
   "word": "delinquency",
   "transcription": "[dɪˈlɪŋkwənsi]",
   "translation": "преступность, правонарушение",
-  "nuance": null,
+  "nuance": "delinquency — правонарушение, преступность (особ. подростковая); просрочка (фин.). Crime — преступность.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/delinquency.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Juvenile #delinquency# is rising.",
+    "ru": "Подростковая преступность растёт."
+   },
+   {
+    "en": "Poverty can lead to #delinquency#.",
+    "ru": "Бедность может вести к правонарушениям."
+   },
+   {
+    "en": "Loan #delinquency# rates are high.",
+    "ru": "Уровень просрочек по кредитам высокий."
+   }
+  ]
  },
  {
   "id": "5999",
   "word": "intake",
   "transcription": "[ˈɪnteɪk]",
   "translation": "потребление, приём",
-  "nuance": null,
+  "nuance": "intake — потребление (еды, жидкости); набор (студентов); забор (воздуха). Consumption — потребление, admission — приём.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/intake.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Reduce your sugar #intake#.",
+    "ru": "Сократи потребление сахара."
+   },
+   {
+    "en": "Daily water #intake# should be about two litres.",
+    "ru": "Суточное потребление воды должно быть около двух литров."
+   },
+   {
+    "en": "The school's #intake# is 100 students a year.",
+    "ru": "Школа набирает 100 учеников в год."
+   }
+  ]
  },
  {
   "id": "6000",
   "word": "fruitless",
   "transcription": "[ˈfruːtlɪs]",
   "translation": "бесплодный",
-  "nuance": null,
+  "nuance": "fruitless — бесплодный, безрезультатный. Useless — бесполезный, futile — тщетный, pointless — бессмысленный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fruitless.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Our search was #fruitless#.",
+    "ru": "Наши поиски были бесплодными."
+   },
+   {
+    "en": "After #fruitless# talks, they gave up.",
+    "ru": "После безрезультатных переговоров они сдались."
+   },
+   {
+    "en": "It's #fruitless# to argue with him.",
+    "ru": "Спорить с ним бесполезно."
+   }
+  ]
  },
  {
   "id": "6001",
   "word": "fruitful",
   "transcription": "[ˈfruːtfʊl]",
   "translation": "плодотворный",
-  "nuance": null,
+  "nuance": "fruitful — плодотворный, продуктивный. Productive — продуктивный, successful — успешный, useful — полезный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/fruitful.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It was a #fruitful# meeting.",
+    "ru": "Это была плодотворная встреча."
+   },
+   {
+    "en": "Our partnership has been very #fruitful#.",
+    "ru": "Наше сотрудничество было очень плодотворным."
+   },
+   {
+    "en": "Be #fruitful# and multiply.",
+    "ru": "Плодитесь и размножайтесь."
+   }
+  ]
  },
  {
   "id": "6002",
   "word": "invoke",
   "transcription": "[ɪnˈvəʊk]",
   "translation": "взывать, призывать",
-  "nuance": null,
+  "nuance": "invoke — ссылаться (на закон, право); призывать (духов, книжн.); вызывать (функцию, IT). Call upon — призывать, cite — ссылаться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/invoke.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #invoked# the law to defend himself.",
+    "ru": "Он сослался на закон в свою защиту."
+   },
+   {
+    "en": "The wizard #invoked# the spirits.",
+    "ru": "Колдун призвал духов."
+   },
+   {
+    "en": "Click here to #invoke# the function.",
+    "ru": "Нажмите здесь, чтобы вызвать функцию."
+   }
+  ]
  },
  {
   "id": "6003",
   "word": "invocation",
   "transcription": "[ˌɪnvəʊˈkeɪʃən]",
   "translation": "заклинание",
-  "nuance": null,
+  "nuance": "invocation — воззвание, призыв; заклинание; ссылка (на закон); вызов (IT). Prayer — молитва, spell — заклинание.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/invocation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The priest began with an #invocation#.",
+    "ru": "Священник начал с воззвания."
+   },
+   {
+    "en": "The magic #invocation# didn't work.",
+    "ru": "Волшебное заклинание не сработало."
+   },
+   {
+    "en": "The #invocation# of the law surprised us.",
+    "ru": "Ссылка на закон нас удивила."
+   }
+  ]
  },
  {
   "id": "6004",
   "word": "snatch",
   "transcription": "[snæʧ]",
   "translation": "схватить, утащить",
-  "nuance": null,
+  "nuance": "snatch — выхватить, стащить; урвать (время). Grab — схватить, steal — украсть, seize — захватить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/snatch.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A thief #snatched# her bag.",
+    "ru": "Вор вырвал у неё сумку."
+   },
+   {
+    "en": "The dog #snatched# the sausage off the table.",
+    "ru": "Собака стащила сосиску со стола."
+   },
+   {
+    "en": "I #snatched# an hour of sleep.",
+    "ru": "Я урвал часок сна."
+   }
+  ]
  },
  {
   "id": "6005",
   "word": "plague",
   "transcription": "[pleɪg]",
   "translation": "чума",
-  "nuance": null,
+  "nuance": "plague — чума; нашествие, напасть; глагол — терзать, донимать. avoid like the plague — избегать как огня. Epidemic — эпидемия.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/plague.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #plague# killed millions in the Middle Ages.",
+    "ru": "В Средние века чума унесла миллионы жизней."
+   },
+   {
+    "en": "A #plague# of mosquitoes hit the town.",
+    "ru": "Город заполонили комары."
+   },
+   {
+    "en": "Bad luck #plagues# our team.",
+    "ru": "Нашу команду преследуют неудачи."
+   }
+  ]
  },
  {
   "id": "6006",
   "word": "leisure",
   "transcription": "[ˈlɛʒə]",
   "translation": "досуг, отдых",
-  "nuance": null,
+  "nuance": "leisure — досуг, свободное время. at your leisure — когда удобно. Free time — свободное время, spare time — досуг, rest — отдых.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/11653/11653_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "What do you do in your #leisure# time?",
+    "ru": "Чем ты занимаешься в свободное время?"
+   },
+   {
+    "en": "Read the report at your #leisure#.",
+    "ru": "Почитай отчёт, когда будет время."
+   },
+   {
+    "en": "The #leisure# centre has a pool.",
+    "ru": "В спорткомплексе есть бассейн."
+   }
+  ]
  },
  {
   "id": "6007",
   "word": "gratify",
   "transcription": "[ˈgrætɪfaɪ]",
   "translation": "удовлетворять, радовать",
-  "nuance": null,
+  "nuance": "gratify — радовать, доставлять удовлетворение (книжн.); удовлетворить (желание). Please — радовать, satisfy — удовлетворять.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/gratify.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "It #gratifies# me to see you happy.",
+    "ru": "Мне приятно видеть тебя счастливым."
+   },
+   {
+    "en": "We were #gratified# by the results.",
+    "ru": "Мы были довольны результатами."
+   },
+   {
+    "en": "He #gratified# his hunger with three burgers.",
+    "ru": "Он утолил голод тремя бургерами."
+   }
+  ]
  },
  {
   "id": "6008",
   "word": "gratification",
   "transcription": "[ˌgrætɪfɪˈkeɪʃən]",
   "translation": "удовлетворение",
-  "nuance": null,
+  "nuance": "gratification — удовлетворение, удовольствие. instant gratification — немедленное удовольствие. Satisfaction — удовлетворение, pleasure — удовольствие.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/gratification.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Kids want instant #gratification#.",
+    "ru": "Детям нужно мгновенное удовольствие."
+   },
+   {
+    "en": "Helping others gives me #gratification#.",
+    "ru": "Помощь другим приносит мне удовлетворение."
+   },
+   {
+    "en": "She gets #gratification# from her work.",
+    "ru": "Работа приносит ей удовлетворение."
+   }
+  ]
  },
  {
   "id": "6009",
   "word": "foe",
   "transcription": "[fəʊ]",
   "translation": "недруг",
-  "nuance": null,
+  "nuance": "foe — враг, недруг (книжн.-поэтич.). Enemy — враг (нейтр.), rival — соперник, opponent — противник.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/foe.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Friend or #foe#?",
+    "ru": "Друг или враг?"
+   },
+   {
+    "en": "The two teams are old #foes#.",
+    "ru": "Эти две команды — давние соперники."
+   },
+   {
+    "en": "He faced his #foe# bravely.",
+    "ru": "Он смело встретил своего недруга."
+   }
+  ]
  },
  {
   "id": "6010",
   "word": "despise",
   "transcription": "[dɪsˈpaɪz]",
   "translation": "презирать",
-  "nuance": null,
+  "nuance": "despise — презирать, глубоко ненавидеть. Hate — ненавидеть, loathe — питать отвращение, look down on — смотреть свысока.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/despise.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She #despises# liars.",
+    "ru": "Она презирает лжецов."
+   },
+   {
+    "en": "I #despise# Mondays.",
+    "ru": "Ненавижу понедельники."
+   },
+   {
+    "en": "He #despised# himself for being weak.",
+    "ru": "Он презирал себя за слабость."
+   }
+  ]
  },
  {
   "id": "6011",
   "word": "clam",
   "transcription": "[klæm]",
   "translation": "моллюск",
-  "nuance": null,
+  "nuance": "clam — двустворчатый моллюск (съедобный); clam up — замолчать, замкнуться. Mussel — мидия, oyster — устрица.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/clam.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We had #clam# chowder in Boston.",
+    "ru": "В Бостоне мы ели похлёбку из моллюсков."
+   },
+   {
+    "en": "He's as happy as a #clam#.",
+    "ru": "Он счастлив до невозможности."
+   },
+   {
+    "en": "She #clammed# up when I asked about her ex.",
+    "ru": "Она замолчала, когда я спросил о её бывшем."
+   }
+  ]
  },
  {
   "id": "6012",
   "word": "breach",
   "transcription": "[briːʧ]",
   "translation": "брешь, прорывать, пробивать",
-  "nuance": null,
+  "nuance": "breach — нарушение (закона, договора); брешь, пролом; утечка (data breach); глагол — прорвать, нарушить. Violation — нарушение, gap — брешь.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/breach.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "That's a #breach# of contract.",
+    "ru": "Это нарушение договора."
+   },
+   {
+    "en": "The water #breached# the wall.",
+    "ru": "Вода прорвала стену."
+   },
+   {
+    "en": "There was a data #breach# at the bank.",
+    "ru": "В банке произошла утечка данных."
+   }
+  ]
  },
  {
   "id": "6013",
   "word": "query",
   "transcription": "[ˈkwɪəri]",
   "translation": "запрос",
-  "nuance": null,
+  "nuance": "query — запрос, вопрос (офиц.-деловое; IT). Question — вопрос, inquiry — запрос, request — просьба.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/query.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Do you have any #queries#?",
+    "ru": "У вас есть вопросы?"
+   },
+   {
+    "en": "I sent a #query# to customer service.",
+    "ru": "Я отправил запрос в службу поддержки."
+   },
+   {
+    "en": "Run a database #query#.",
+    "ru": "Выполни запрос к базе данных."
+   }
+  ]
  },
  {
   "id": "6014",
   "word": "clockwise",
   "transcription": "[ˈklɒkwaɪz]",
   "translation": "по часовой стрелке",
-  "nuance": null,
+  "nuance": "clockwise — по часовой стрелке. Anticlockwise (брит.) / counterclockwise (амер.) — против часовой.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/clockwise.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Turn the key #clockwise#.",
+    "ru": "Поверни ключ по часовой стрелке."
+   },
+   {
+    "en": "We walked around the lake #clockwise#.",
+    "ru": "Мы обошли озеро по часовой стрелке."
+   },
+   {
+    "en": "Stir the soup #clockwise#.",
+    "ru": "Помешивай суп по часовой стрелке."
+   }
+  ]
  },
  {
   "id": "6015",
   "word": "counter clockwise",
   "transcription": "[ˈkaʊntəˈklɒkwaɪz]",
   "translation": "против часовой стрелки",
-  "nuance": null,
+  "nuance": "counterclockwise (амер., слитно) / anticlockwise (брит.) — против часовой стрелки.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/counter_clockwise.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Turn the lid #counterclockwise# to open.",
+    "ru": "Поверни крышку против часовой стрелки, чтобы открыть."
+   },
+   {
+    "en": "The dancers moved #counterclockwise#.",
+    "ru": "Танцоры двигались против часовой стрелки."
+   },
+   {
+    "en": "Rotate the knob #counterclockwise#.",
+    "ru": "Поверни ручку против часовой стрелки."
+   }
+  ]
  },
  {
   "id": "6016",
   "word": "dagger",
   "transcription": "[ˈdægə]",
   "translation": "кинжал",
-  "nuance": null,
+  "nuance": "dagger — кинжал. look daggers at — сверлить взглядом, at daggers drawn — на ножах. Knife — нож, sword — меч.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/dagger.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The pirate hid a #dagger# in his boot.",
+    "ru": "Пират спрятал кинжал в сапоге."
+   },
+   {
+    "en": "She gave me a look like a #dagger#.",
+    "ru": "Она посмотрела на меня испепеляющим взглядом."
+   },
+   {
+    "en": "They're at #daggers# drawn.",
+    "ru": "Они на ножах."
+   }
+  ]
  },
  {
   "id": "6017",
   "word": "hose",
   "transcription": "[həʊz]",
   "translation": "шланг",
-  "nuance": null,
+  "nuance": "hose — шланг; устар. — чулки (pantyhose — колготки). Pipe — труба, tube — трубка.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2929/2929_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Water the garden with the #hose#.",
+    "ru": "Полей сад из шланга."
+   },
+   {
+    "en": "The kids sprayed each other with the #hose#.",
+    "ru": "Дети обливали друг друга из шланга."
+   },
+   {
+    "en": "The fire #hose# was huge.",
+    "ru": "Пожарный шланг был огромным."
+   }
+  ]
  },
  {
   "id": "6018",
   "word": "rope in (into)",
   "transcription": "[rəʊpɪn]",
   "translation": "втянуть в занятие",
-  "nuance": null,
+  "nuance": "rope in/into — втянуть, уговорить участвовать (часто неохотно). Talk into — уговорить, drag into — втянуть.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/rope_in.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They #roped# me #into# organising the party.",
+    "ru": "Меня втянули в организацию вечеринки."
+   },
+   {
+    "en": "Mum #roped# us #in# to clean the garage.",
+    "ru": "Мама подрядила нас убирать гараж."
+   },
+   {
+    "en": "Don't get #roped into# his crazy plans.",
+    "ru": "Не дай втянуть себя в его безумные планы."
+   }
+  ]
  },
  {
   "id": "6019",
   "word": "bleach",
   "transcription": "[bliːʧ]",
   "translation": "отбелить, обесцветить",
-  "nuance": null,
+  "nuance": "bleach — отбеливатель; отбеливать, обесцвечивать. Whiten — отбеливать, fade — выцветать, dye — красить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/bleach.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't use #bleach# on coloured clothes!",
+    "ru": "Не используй отбеливатель для цветных вещей!"
+   },
+   {
+    "en": "She #bleached# her hair blonde.",
+    "ru": "Она обесцветила волосы до блонда."
+   },
+   {
+    "en": "The sun #bleached# the curtains.",
+    "ru": "Солнце выбелило шторы."
+   }
+  ]
  },
  {
   "id": "6020",
   "word": "engender",
   "transcription": "[ɪnˈʤɛndə]",
   "translation": "зарождать, порождать",
-  "nuance": null,
+  "nuance": "engender — порождать, вызывать (очень книжн.). Cause — вызывать, create — создавать, produce — порождать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/engender.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Poverty can #engender# crime.",
+    "ru": "Бедность может порождать преступность."
+   },
+   {
+    "en": "His words #engendered# fear.",
+    "ru": "Его слова породили страх."
+   },
+   {
+    "en": "Good teachers #engender# a love of learning.",
+    "ru": "Хорошие учителя пробуждают любовь к учёбе."
+   }
+  ]
  },
  {
   "id": "6021",
   "word": "worship",
   "transcription": "[ˈwɜːʃɪp]",
   "translation": "почитать, поклоняться",
-  "nuance": null,
+  "nuance": "worship — поклоняться, почитать; боготворить; сущ. — богослужение. Adore — обожать, idolise — боготворить, pray — молиться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/worship.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The ancient Egyptians #worshipped# the sun.",
+    "ru": "Древние египтяне поклонялись солнцу."
+   },
+   {
+    "en": "He #worships# his older brother.",
+    "ru": "Он боготворит старшего брата."
+   },
+   {
+    "en": "Sunday is a day of #worship#.",
+    "ru": "Воскресенье — день богослужения."
+   }
+  ]
  },
  {
   "id": "6022",
   "word": "expanse",
   "transcription": "[ɪksˈpæns]",
   "translation": "пространство, простор",
-  "nuance": null,
+  "nuance": "expanse — простор, пространство (обширное, книжн.-описательное). Area — площадь, space — пространство, stretch — протяжённость.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/expanse.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A vast #expanse# of desert lay ahead.",
+    "ru": "Впереди лежали бескрайние просторы пустыни."
+   },
+   {
+    "en": "The #expanse# of the sea calmed me.",
+    "ru": "Морской простор меня успокоил."
+   },
+   {
+    "en": "We looked at the blue #expanse# of sky.",
+    "ru": "Мы смотрели на синий простор неба."
+   }
+  ]
  },
  {
   "id": "6023",
   "word": "expansive",
   "transcription": "[ɪksˈpænsɪv]",
   "translation": "обширный",
-  "nuance": null,
+  "nuance": "expansive — обширный, просторный; общительный, открытый (настроение). Extensive — обширный, broad — широкий, sociable — общительный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/expansive.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They have an #expansive# garden.",
+    "ru": "У них просторный сад."
+   },
+   {
+    "en": "He was in an #expansive# mood and told stories.",
+    "ru": "Он был в общительном настроении и рассказывал истории."
+   },
+   {
+    "en": "The company has #expansive# plans.",
+    "ru": "У компании широкомасштабные планы."
+   }
+  ]
  },
  {
   "id": "6024",
   "word": "allot",
   "transcription": "[əˈlɒt]",
   "translation": "выделять, отводить",
-  "nuance": null,
+  "nuance": "allot — выделять, отводить (время, деньги, место; офиц.). Allocate — распределять, give — давать, assign — назначать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/allot.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Each student is #allotted# ten minutes.",
+    "ru": "Каждому студенту отводится десять минут."
+   },
+   {
+    "en": "They #allotted# a budget for the party.",
+    "ru": "Они выделили бюджет на вечеринку."
+   },
+   {
+    "en": "We finished within the #allotted# time.",
+    "ru": "Мы уложились в отведённое время."
+   }
+  ]
  },
  {
   "id": "6025",
   "word": "remedy",
   "transcription": "[ˈrɛmɪdi]",
   "translation": "средство",
-  "nuance": null,
+  "nuance": "remedy — средство (лекарство, решение); глагол — исправить, устранить. Cure — лекарство, solution — решение, treatment — лечение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/remedy.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Honey is a good #remedy# for a sore throat.",
+    "ru": "Мёд — хорошее средство от боли в горле."
+   },
+   {
+    "en": "Is there a #remedy# for Mondays?",
+    "ru": "Есть ли средство от понедельников?"
+   },
+   {
+    "en": "We must #remedy# this mistake.",
+    "ru": "Мы должны исправить эту ошибку."
+   }
+  ]
  },
  {
   "id": "6026",
   "word": "covet",
   "transcription": "[ˈkʌvɪt]",
   "translation": "желать, вожделеть",
-  "nuance": null,
+  "nuance": "covet — жаждать (чужого), страстно желать (книжн.). coveted — желанный, престижный. Desire — желать, envy — завидовать, want — хотеть.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/covet.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #coveted# his neighbour's car.",
+    "ru": "Он завидовал соседской машине."
+   },
+   {
+    "en": "She won the #coveted# award.",
+    "ru": "Она получила желанную награду."
+   },
+   {
+    "en": "Thou shalt not #covet#.",
+    "ru": "Не возжелай."
+   }
+  ]
  },
  {
   "id": "6027",
   "word": "sight",
   "transcription": "[saɪt]",
   "translation": "достопримечаетльность",
-  "nuance": null,
+  "nuance": "sight(s) — достопримечательность (обычно мн. ч.); вид, зрелище; зрение. Landmark — ориентир, attraction — достопримечательность.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sight_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We saw all the #sights# of Rome in two days.",
+    "ru": "За два дня мы увидели все достопримечательности Рима."
+   },
+   {
+    "en": "The Eiffel Tower is a famous #sight#.",
+    "ru": "Эйфелева башня — известная достопримечательность."
+   },
+   {
+    "en": "What a #sight# — you're covered in mud!",
+    "ru": "Ну и видок — ты весь в грязи!"
+   }
+  ]
  },
  {
   "id": "6028",
   "word": "sightseeing",
   "transcription": "[ˈsaɪtˌsiːɪŋ]",
   "translation": "осмотр достопримечательностей",
-  "nuance": null,
+  "nuance": "sightseeing — осмотр достопримечательностей. go sightseeing — пойти осматривать. Tour — экскурсия, excursion — поездка.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/sightseeing.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We spent the day #sightseeing#.",
+    "ru": "Мы провели день, осматривая достопримечательности."
+   },
+   {
+    "en": "#Sightseeing# makes my feet hurt.",
+    "ru": "От осмотра достопримечательностей у меня болят ноги."
+   },
+   {
+    "en": "Let's go on a #sightseeing# tour.",
+    "ru": "Давай поедем на обзорную экскурсию."
+   }
+  ]
  },
  {
   "id": "6029",
   "word": "become of",
   "transcription": "[bɪˈkʌmɒv]",
   "translation": "случиться с к-л впоследствии",
-  "nuance": null,
+  "nuance": "become of — случиться, стать с (обычно в вопросах: what became of...?). Happen to — случиться с.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/become_of.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Whatever #became of# your old guitar?",
+    "ru": "Что стало с твоей старой гитарой?"
+   },
+   {
+    "en": "I wonder what #became of# our neighbour.",
+    "ru": "Интересно, что случилось с нашим соседом."
+   },
+   {
+    "en": "What will #become of# us?",
+    "ru": "Что с нами будет?"
+   }
+  ]
  },
  {
   "id": "6030",
   "word": "lipstick",
   "transcription": "[ˈlɪpstɪk]",
   "translation": "губная помада",
-  "nuance": null,
+  "nuance": "lipstick — губная помада. Lip balm — бальзам для губ, lip gloss — блеск для губ, make-up — макияж.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2992/2992_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's #lipstick# on your collar!",
+    "ru": "У тебя помада на воротнике!"
+   },
+   {
+    "en": "She wears bright red #lipstick#.",
+    "ru": "Она пользуется ярко-красной помадой."
+   },
+   {
+    "en": "I lost my #lipstick# in my bag. Again.",
+    "ru": "Я опять потеряла помаду в сумке."
+   }
+  ]
  },
  {
   "id": "6031",
   "word": "infuse",
   "transcription": "[ɪnˈfjuːz]",
   "translation": "вливать, настаивать",
-  "nuance": null,
+  "nuance": "infuse — настаивать (чай, травы); вливать, наполнять (энергией). Brew — заваривать, steep — настаивать, fill — наполнять.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/infuse.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Infuse# the tea for five minutes.",
+    "ru": "Настаивай чай пять минут."
+   },
+   {
+    "en": "She #infused# the team with energy.",
+    "ru": "Она зарядила команду энергией."
+   },
+   {
+    "en": "The oil is #infused# with garlic.",
+    "ru": "Масло настояно на чесноке."
+   }
+  ]
  },
  {
   "id": "6032",
   "word": "infusion",
   "transcription": "[ɪnˈfjuːʒən]",
   "translation": "вливание",
-  "nuance": null,
+  "nuance": "infusion — настой; вливание (мед., капельница); вливание (денег, идей). Tea — чай, injection — укол, drip — капельница.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/infusion.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Have a herbal #infusion# before bed.",
+    "ru": "Выпей травяной настой перед сном."
+   },
+   {
+    "en": "The patient needed an #infusion#.",
+    "ru": "Пациенту нужна была капельница."
+   },
+   {
+    "en": "The company needs an #infusion# of cash.",
+    "ru": "Компании нужно вливание денег."
+   }
+  ]
  },
  {
   "id": "6033",
