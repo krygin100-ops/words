@@ -136394,500 +136394,1150 @@
   "word": "funnel",
   "transcription": "[ˈfʌnl]",
   "translation": "воронка",
-  "nuance": null,
+  "nuance": "funnel — воронка; труба (корабля); глагол — направлять, переправлять (деньги, людей). Pipe — труба, channel — канал.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2741/2741_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Use a #funnel# to pour the oil.",
+    "ru": "Налей масло через воронку."
+   },
+   {
+    "en": "The tornado looked like a giant #funnel#.",
+    "ru": "Торнадо выглядел как огромная воронка."
+   },
+   {
+    "en": "The money was #funnelled# into a secret account.",
+    "ru": "Деньги переправили на секретный счёт."
+   }
+  ]
  },
  {
   "id": "5934",
   "word": "precarious",
   "transcription": "[prɪˈkeərɪəs]",
   "translation": "ненадёжный, шаткий",
-  "nuance": null,
+  "nuance": "precarious — шаткий, ненадёжный, рискованный. Unstable — нестабильный, risky — рискованный, shaky — шаткий.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/precarious.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The ladder looks #precarious#.",
+    "ru": "Лестница выглядит шаткой."
+   },
+   {
+    "en": "He has a #precarious# job — no contract.",
+    "ru": "У него ненадёжная работа — без договора."
+   },
+   {
+    "en": "The cup sat in a #precarious# position on the edge.",
+    "ru": "Чашка опасно стояла на самом краю."
+   }
+  ]
  },
  {
   "id": "5935",
   "word": "precariousness",
   "transcription": "[prɪˈkeərɪəsnəs]",
   "translation": "ненадежность",
-  "nuance": null,
+  "nuance": "precariousness — шаткость, ненадёжность (книжн.). Instability — нестабильность, insecurity — незащищённость.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/precariousness.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #precariousness# of freelance work worries her.",
+    "ru": "Нестабильность фриланса её беспокоит."
+   },
+   {
+    "en": "They felt the #precariousness# of their situation.",
+    "ru": "Они чувствовали шаткость своего положения."
+   },
+   {
+    "en": "The #precariousness# of the bridge scared us.",
+    "ru": "Ненадёжность моста нас напугала."
+   }
+  ]
  },
  {
   "id": "5936",
   "word": "bulge",
   "transcription": "[bʌlʤ]",
   "translation": "бугор, выпуклость",
-  "nuance": null,
+  "nuance": "bulge — выпуклость, бугор; выпирать, быть набитым. Lump — шишка, swelling — опухоль, bump — бугорок.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/bulge.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's a #bulge# in his pocket — candy?",
+    "ru": "У него в кармане что-то выпирает — конфеты?"
+   },
+   {
+    "en": "The bag was #bulging# with books.",
+    "ru": "Сумка была набита книгами."
+   },
+   {
+    "en": "His eyes #bulged# when he saw the price.",
+    "ru": "У него глаза на лоб полезли, когда он увидел цену."
+   }
+  ]
  },
  {
   "id": "5937",
   "word": "mitigate",
   "transcription": "[ˈmɪtɪgeɪt]",
   "translation": "смягчить, сгладить",
-  "nuance": null,
+  "nuance": "mitigate — смягчать, уменьшать (вред, риск; офиц.). Reduce — уменьшить, ease — облегчить, lessen — ослабить. Ловушка: не militate!",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/mitigate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Trees #mitigate# the effects of heat.",
+    "ru": "Деревья смягчают воздействие жары."
+   },
+   {
+    "en": "Nothing can #mitigate# his rudeness.",
+    "ru": "Ничто не оправдывает его грубость."
+   },
+   {
+    "en": "We need to #mitigate# the risks.",
+    "ru": "Нам нужно снизить риски."
+   }
+  ]
  },
  {
   "id": "5938",
   "word": "mitigation",
   "transcription": "[ˌmɪtɪˈgeɪʃən]",
   "translation": "смягчение",
-  "nuance": null,
+  "nuance": "mitigation — смягчение, снижение (рисков); юр. — смягчающие обстоятельства. Reduction — уменьшение, relief — облегчение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/mitigation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Risk #mitigation# is part of the plan.",
+    "ru": "Снижение рисков — часть плана."
+   },
+   {
+    "en": "In #mitigation#, he said he was tired.",
+    "ru": "В качестве смягчающего обстоятельства он сказал, что устал."
+   },
+   {
+    "en": "Flood #mitigation# costs millions.",
+    "ru": "Меры против наводнений стоят миллионы."
+   }
+  ]
  },
  {
   "id": "5939",
   "word": "twinkle",
   "transcription": "[ˈtwɪŋkl]",
   "translation": "блеск, мерцание",
-  "nuance": null,
+  "nuance": "twinkle — мерцать, блеск, огонёк (в глазах). in the twinkle of an eye — в мгновение ока. Sparkle — сверкать, glitter — блестеть.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/twinkle.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Stars #twinkle# in the night sky.",
+    "ru": "Звёзды мерцают в ночном небе."
+   },
+   {
+    "en": "He had a #twinkle# in his eye.",
+    "ru": "В его глазах был озорной огонёк."
+   },
+   {
+    "en": "Twinkle, #twinkle#, little star.",
+    "ru": "Мерцай, мерцай, звёздочка."
+   }
+  ]
  },
  {
   "id": "5940",
   "word": "thorn",
   "transcription": "[θɔːn]",
   "translation": "шип, колючка",
-  "nuance": null,
+  "nuance": "thorn — шип, колючка. a thorn in one's side — постоянная помеха. Spike — шип, prickle — колючка, splinter — заноза.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/thorn.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Roses have sharp #thorns#.",
+    "ru": "У роз острые шипы."
+   },
+   {
+    "en": "He's a #thorn# in my side.",
+    "ru": "Он у меня как кость в горле."
+   },
+   {
+    "en": "I got a #thorn# stuck in my finger.",
+    "ru": "Мне в палец впилась колючка."
+   }
+  ]
  },
  {
   "id": "5941",
   "word": "thorny",
   "transcription": "[ˈθɔːni]",
   "translation": "колючий",
-  "nuance": null,
+  "nuance": "thorny — колючий; щекотливый, сложный (вопрос). Prickly — колючий, tricky — каверзный, delicate — деликатный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/thorny.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We walked through #thorny# bushes.",
+    "ru": "Мы шли через колючие кусты."
+   },
+   {
+    "en": "Money is a #thorny# issue in families.",
+    "ru": "Деньги — щекотливый вопрос в семьях."
+   },
+   {
+    "en": "That's a #thorny# problem.",
+    "ru": "Это непростая проблема."
+   }
+  ]
  },
  {
   "id": "5942",
   "word": "countryside",
   "transcription": "[ˈkʌntrɪˌsaɪd]",
   "translation": "сельская местность",
-  "nuance": null,
+  "nuance": "countryside — сельская местность, природа за городом (неисч.). Village — деревня, rural area — сельский район.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/countryside.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We spent the weekend in the #countryside#.",
+    "ru": "Мы провели выходные за городом."
+   },
+   {
+    "en": "The #countryside# is beautiful in spring.",
+    "ru": "Весной сельская местность прекрасна."
+   },
+   {
+    "en": "I grew up in the #countryside#.",
+    "ru": "Я вырос в деревне."
+   }
+  ]
  },
  {
   "id": "5943",
   "word": "country",
   "transcription": "[ˈkʌntri]",
   "translation": "сельская местность",
-  "nuance": null,
+  "nuance": "the country — сельская местность (с артиклем, разг.); country music — кантри. Без контекста — «страна»! Countryside — сельская местность.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/country.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They live out in the #country#.",
+    "ru": "Они живут за городом."
+   },
+   {
+    "en": "A day in the #country# is so relaxing.",
+    "ru": "День за городом так расслабляет."
+   },
+   {
+    "en": "She loves #country# life.",
+    "ru": "Она обожает деревенскую жизнь."
+   }
+  ]
  },
  {
   "id": "5944",
   "word": "country man",
   "transcription": "[ˈkʌntrimæn]",
   "translation": "сельский житель",
-  "nuance": null,
+  "nuance": "countryman (обычно слитно) — сельский житель; соотечественник (fellow countryman). Villager — житель деревни, compatriot — соотечественник.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/country_man.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's a simple #countryman#.",
+    "ru": "Он простой сельский житель."
+   },
+   {
+    "en": "The #countryman# knew every bird by its song.",
+    "ru": "Сельский житель знал каждую птицу по песне."
+   },
+   {
+    "en": "My fellow #countrymen# supported me.",
+    "ru": "Мои соотечественники поддержали меня."
+   }
+  ]
  },
  {
   "id": "5945",
   "word": "thaw",
   "transcription": "[θɔː]",
   "translation": "оттепель, оттаивать",
-  "nuance": null,
+  "nuance": "thaw — таять, оттаивать; размораживать; оттепель (и переносно — в отношениях). Melt — таять, defrost — разморозить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/thaw.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The snow began to #thaw#.",
+    "ru": "Снег начал таять."
+   },
+   {
+    "en": "#Thaw# the chicken before cooking.",
+    "ru": "Разморозь курицу перед готовкой."
+   },
+   {
+    "en": "Relations between the countries #thawed#.",
+    "ru": "Отношения между странами потеплели."
+   }
+  ]
  },
  {
   "id": "5946",
   "word": "evaporate",
   "transcription": "[ɪˈvæpəreɪt]",
   "translation": "испаряться",
-  "nuance": null,
+  "nuance": "evaporate — испаряться; исчезать (надежда, деньги). Vanish — исчезать, disappear — пропадать, dry up — высохнуть.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/evaporate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The water #evaporated# in the sun.",
+    "ru": "Вода испарилась на солнце."
+   },
+   {
+    "en": "My motivation #evaporated# by Monday.",
+    "ru": "К понедельнику моя мотивация испарилась."
+   },
+   {
+    "en": "His money #evaporated# in a month.",
+    "ru": "Его деньги испарились за месяц."
+   }
+  ]
  },
  {
   "id": "5947",
   "word": "evaporation",
   "transcription": "[ɪˌvæpəˈreɪʃən]",
   "translation": "испарение",
-  "nuance": null,
+  "nuance": "evaporation — испарение. Condensation — конденсация, steam — пар.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/36157/36157_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Evaporation# makes the sea salty.",
+    "ru": "Испарение делает море солёным."
+   },
+   {
+    "en": "Cover the pot to stop #evaporation#.",
+    "ru": "Накрой кастрюлю, чтобы не испарялось."
+   },
+   {
+    "en": "Sweat cools us by #evaporation#.",
+    "ru": "Пот охлаждает нас за счёт испарения."
+   }
+  ]
  },
  {
   "id": "5948",
   "word": "flank",
   "transcription": "[flæŋk]",
   "translation": "бок, фланг",
-  "nuance": null,
+  "nuance": "flank — бок (животного); фланг (воен., спорт.); глагол — располагаться по бокам. Side — сторона, wing — крыло.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/flank.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The horse had a cut on its #flank#.",
+    "ru": "У лошади была рана на боку."
+   },
+   {
+    "en": "They attacked the enemy's left #flank#.",
+    "ru": "Они атаковали левый фланг противника."
+   },
+   {
+    "en": "The house is #flanked# by two trees.",
+    "ru": "По бокам дома стоят два дерева."
+   }
+  ]
  },
  {
   "id": "5949",
   "word": "curb",
   "transcription": "[kɜːb]",
   "translation": "бордюр или обочина",
-  "nuance": null,
+  "nuance": "curb (амер.) / kerb (брит.) — бордюр, край тротуара. Также глагол curb — сдерживать. Pavement — тротуар.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/curb_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Park close to the #curb#.",
+    "ru": "Паркуйся поближе к бордюру."
+   },
+   {
+    "en": "The kids sat on the #curb# eating ice cream.",
+    "ru": "Дети сидели на бордюре и ели мороженое."
+   },
+   {
+    "en": "Don't hit the #curb#!",
+    "ru": "Не задень бордюр!"
+   }
+  ]
  },
  {
   "id": "5950",
   "word": "bum",
   "transcription": "[bʌm]",
   "translation": "бомж или бездельник",
-  "nuance": null,
+  "nuance": "bum — амер. бомж, бездельник; брит. разг. — задница (мягко). beach bum — пляжный бездельник. Homeless — бездомный (корректно).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/bum.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A #bum# asked us for money.",
+    "ru": "Бродяга попросил у нас денег."
+   },
+   {
+    "en": "Get off your #bum# and help!",
+    "ru": "Подними задницу и помоги!"
+   },
+   {
+    "en": "He's a lazy #bum#.",
+    "ru": "Он ленивый бездельник."
+   }
+  ]
  },
  {
   "id": "5951",
   "word": "exert",
   "transcription": "[ɪgˈzɜːt]",
   "translation": "приложить, оказать",
-  "nuance": null,
+  "nuance": "exert — прилагать (усилие), оказывать (влияние, давление); exert oneself — напрягаться. Apply — прилагать, use — использовать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/exert.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #exert# yourself — rest!",
+    "ru": "Не напрягайся — отдыхай!"
+   },
+   {
+    "en": "She #exerts# a lot of influence on him.",
+    "ru": "Она оказывает на него большое влияние."
+   },
+   {
+    "en": "They #exerted# pressure on the government.",
+    "ru": "Они оказали давление на правительство."
+   }
+  ]
  },
  {
   "id": "5952",
   "word": "exertion",
   "transcription": "[ɪgˈzɜːʃən]",
   "translation": "усилие, напряжение",
-  "nuance": null,
+  "nuance": "exertion — физическое напряжение, усилие. Effort — усилие, strain — нагрузка, exercise — нагрузка.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/exertion.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He was out of breath from #exertion#.",
+    "ru": "Он запыхался от напряжения."
+   },
+   {
+    "en": "Avoid physical #exertion# after surgery.",
+    "ru": "Избегайте физических нагрузок после операции."
+   },
+   {
+    "en": "Moving house takes a lot of #exertion#.",
+    "ru": "Переезд требует больших усилий."
+   }
+  ]
  },
  {
   "id": "5953",
   "word": "facet",
   "transcription": "[ˈfæsɪt]",
   "translation": "грань, в т. ч. перен. (аспект)",
-  "nuance": null,
+  "nuance": "facet — грань (камня); аспект, сторона. Aspect — аспект, side — сторона, feature — черта.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/facet.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The diamond has many #facets#.",
+    "ru": "У бриллианта много граней."
+   },
+   {
+    "en": "Every #facet# of his life changed.",
+    "ru": "Каждая сторона его жизни изменилась."
+   },
+   {
+    "en": "Music is one #facet# of her personality.",
+    "ru": "Музыка — одна из граней её личности."
+   }
+  ]
  },
  {
   "id": "5954",
   "word": "agitate",
   "transcription": "[ˈæʤɪteɪt]",
   "translation": "волновать",
-  "nuance": null,
+  "nuance": "agitate — волновать, тревожить; взбалтывать; агитировать (полит.). Disturb — беспокоить, upset — расстроить, shake — встряхнуть.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/agitate.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #agitate# the patient.",
+    "ru": "Не волнуйте пациента."
+   },
+   {
+    "en": "#Agitate# the bottle before use.",
+    "ru": "Взболтайте бутылку перед использованием."
+   },
+   {
+    "en": "They #agitated# for better pay.",
+    "ru": "Они агитировали за повышение зарплаты."
+   }
+  ]
  },
  {
   "id": "5955",
   "word": "agitation",
   "transcription": "[ˌæʤɪˈteɪʃ(ə)n]",
   "translation": "волнение",
-  "nuance": null,
+  "nuance": "agitation — волнение, возбуждение; агитация. Anxiety — тревога, nervousness — нервозность, unrest — волнения.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/agitation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He was in a state of #agitation#.",
+    "ru": "Он был в возбуждённом состоянии."
+   },
+   {
+    "en": "Her #agitation# was obvious.",
+    "ru": "Её волнение было очевидным."
+   },
+   {
+    "en": "Political #agitation# grew.",
+    "ru": "Политическая агитация усилилась."
+   }
+  ]
  },
  {
   "id": "5956",
   "word": "magnify",
   "transcription": "[ˈmægnɪfaɪ]",
   "translation": "увеличивать",
-  "nuance": null,
+  "nuance": "magnify — увеличивать (оптически); преувеличивать. Enlarge — увеличить (размер), exaggerate — преувеличить.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/6920/6920_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The glass #magnifies# the letters.",
+    "ru": "Стекло увеличивает буквы."
+   },
+   {
+    "en": "Don't #magnify# the problem.",
+    "ru": "Не раздувай проблему."
+   },
+   {
+    "en": "Stress #magnifies# small worries.",
+    "ru": "Стресс усиливает мелкие тревоги."
+   }
+  ]
  },
  {
   "id": "5957",
   "word": "magnification",
   "transcription": "[ˌmægnɪfɪˈkeɪʃən]",
   "translation": "увеличение",
-  "nuance": null,
+  "nuance": "magnification — увеличение (оптическое). Enlargement — увеличение (размеров), zoom — зум.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/magnification.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Look at it under #magnification#.",
+    "ru": "Посмотри на это при увеличении."
+   },
+   {
+    "en": "The microscope has 100x #magnification#.",
+    "ru": "У микроскопа 100-кратное увеличение."
+   },
+   {
+    "en": "High #magnification# shows every detail.",
+    "ru": "Большое увеличение показывает каждую деталь."
+   }
+  ]
  },
  {
   "id": "5958",
   "word": "magnifier",
   "transcription": "[ˈmægnɪfaɪə]",
   "translation": "увеличительное стекло",
-  "nuance": null,
+  "nuance": "magnifier — лупа, увеличительное стекло. Magnifying glass — то же (чаще), lens — линза.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/magnifier.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandpa reads with a #magnifier#.",
+    "ru": "Дедушка читает с лупой."
+   },
+   {
+    "en": "Use the #magnifier# on your phone.",
+    "ru": "Используй лупу на телефоне."
+   },
+   {
+    "en": "The detective took out his #magnifier#.",
+    "ru": "Детектив достал лупу."
+   }
+  ]
  },
  {
   "id": "5959",
   "word": "amplify",
   "transcription": "[ˈæmplɪfaɪ]",
   "translation": "усиливать",
-  "nuance": null,
+  "nuance": "amplify — усиливать (звук, эффект); развить (мысль, офиц.). Increase — увеличить, boost — усилить, strengthen — укрепить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/amplify.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The speakers #amplify# the sound.",
+    "ru": "Колонки усиливают звук."
+   },
+   {
+    "en": "Social media #amplifies# rumours.",
+    "ru": "Соцсети раздувают слухи."
+   },
+   {
+    "en": "Can you #amplify# that point?",
+    "ru": "Можете подробнее раскрыть этот пункт?"
+   }
+  ]
  },
  {
   "id": "5960",
   "word": "amplification",
   "transcription": "[ˌæmplɪfɪˈkeɪʃ(ə)n]",
   "translation": "усиление",
-  "nuance": null,
+  "nuance": "amplification — усиление (звука); раздувание. Increase — увеличение, intensification — усиление.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/amplification.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Sound #amplification# is needed in the hall.",
+    "ru": "В зале нужно усиление звука."
+   },
+   {
+    "en": "The #amplification# of the problem worried us.",
+    "ru": "Обострение проблемы нас беспокоило."
+   },
+   {
+    "en": "Media #amplification# made it a scandal.",
+    "ru": "Раздувание в СМИ превратило это в скандал."
+   }
+  ]
  },
  {
   "id": "5961",
   "word": "amplifier",
   "transcription": "[ˈæmplɪfaɪə]",
   "translation": "усилитель",
-  "nuance": null,
+  "nuance": "amplifier — усилитель (разг. amp). Speaker — колонка, microphone — микрофон.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/amplifier.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Plug the guitar into the #amplifier#.",
+    "ru": "Подключи гитару к усилителю."
+   },
+   {
+    "en": "Turn the #amplifier# down!",
+    "ru": "Сделай усилитель потише!"
+   },
+   {
+    "en": "The band brought huge #amplifiers#.",
+    "ru": "Группа привезла огромные усилители."
+   }
+  ]
  },
  {
   "id": "5962",
   "word": "diamond",
   "transcription": "[ˈdaɪəmənd]",
   "translation": "бриллиант обычно алмаз",
-  "nuance": null,
+  "nuance": "diamond — алмаз, бриллиант; ромб; бубны (карты). diamond in the rough — талант без огранки. Ловушка: в рус. алмаз ≠ бриллиант, в англ. одно слово.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/diamond.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Her ring has a tiny #diamond#.",
+    "ru": "В её кольце крошечный бриллиант."
+   },
+   {
+    "en": "#Diamonds# are a girl's best friend.",
+    "ru": "Бриллианты — лучшие друзья девушек."
+   },
+   {
+    "en": "He's a #diamond# in the rough.",
+    "ru": "Он неогранённый алмаз."
+   }
+  ]
  },
  {
   "id": "5963",
   "word": "ludicrous",
   "transcription": "[ˈluːdɪkrəs]",
   "translation": "нелепый, смехотворный",
-  "nuance": null,
+  "nuance": "ludicrous — нелепый, смехотворный (сильнее, чем silly). Ridiculous — смешной, absurd — абсурдный, preposterous — нелепый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/ludicrous.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "That's a #ludicrous# idea!",
+    "ru": "Это нелепая идея!"
+   },
+   {
+    "en": "The price is #ludicrous#.",
+    "ru": "Цена смехотворная."
+   },
+   {
+    "en": "He wore a #ludicrous# hat.",
+    "ru": "На нём была смехотворная шляпа."
+   }
+  ]
  },
  {
   "id": "5964",
   "word": "horseback",
   "transcription": "[ˈhɔːsbæk]",
   "translation": "верхом",
-  "nuance": null,
+  "nuance": "horseback — верхом (on horseback); horseback riding (амер.) — верховая езда (брит. horse riding).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/horseback.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "They travelled on #horseback#.",
+    "ru": "Они путешествовали верхом."
+   },
+   {
+    "en": "Police on #horseback# controlled the crowd.",
+    "ru": "Конная полиция сдерживала толпу."
+   },
+   {
+    "en": "#Horseback# riding is fun.",
+    "ru": "Верховая езда — это весело."
+   }
+  ]
  },
  {
   "id": "5965",
   "word": "altogether",
   "transcription": "[ˌɔːltəˈgɛðə]",
   "translation": "в целом",
-  "nuance": null,
+  "nuance": "altogether — в целом, всего; совсем, полностью. Ловушка: all together — все вместе! Overall — в целом, in total — в итоге.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/altogether.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Altogether#, it was a great trip.",
+    "ru": "В целом поездка была отличной."
+   },
+   {
+    "en": "That's €50 #altogether#.",
+    "ru": "Всего 50 евро."
+   },
+   {
+    "en": "I'm not #altogether# sure.",
+    "ru": "Я не совсем уверен."
+   }
+  ]
  },
  {
   "id": "5966",
   "word": "tart",
   "transcription": "[tɑːt]",
   "translation": "пирог, обычно фруктовый",
-  "nuance": null,
+  "nuance": "tart — открытый пирог (фруктовый), тарт; прил. — кислый, едкий. Брит. сленг tart — распутная женщина (грубо). Pie — пирог (закрытый).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tart.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Grandma baked an apple #tart#.",
+    "ru": "Бабушка испекла яблочный тарт."
+   },
+   {
+    "en": "The lemon is a bit #tart#.",
+    "ru": "Лимон немного кисловат."
+   },
+   {
+    "en": "Have a strawberry #tart# with your coffee.",
+    "ru": "Возьми клубничное пирожное к кофе."
+   }
+  ]
  },
  {
   "id": "5967",
   "word": "miserable",
   "transcription": "[ˈmɪzərəbl]",
   "translation": "несчастный, жалкий",
-  "nuance": null,
+  "nuance": "miserable — несчастный, жалкий; паршивый (погода). Unhappy — несчастный, wretched — жалкий, gloomy — мрачный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/miserable.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I feel #miserable# with this cold.",
+    "ru": "Мне ужасно плохо с этой простудой."
+   },
+   {
+    "en": "It was a #miserable# rainy day.",
+    "ru": "Был паршивый дождливый день."
+   },
+   {
+    "en": "They paid him a #miserable# salary.",
+    "ru": "Ему платили жалкую зарплату."
+   }
+  ]
  },
  {
   "id": "5968",
   "word": "abnormal",
   "transcription": "[æbˈnɔːməl]",
   "translation": "ненормальный, аномальный",
-  "nuance": null,
+  "nuance": "abnormal — ненормальный, аномальный (часто мед.). Unusual — необычный, strange — странный, irregular — нерегулярный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/abnormal.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His blood test was #abnormal#.",
+    "ru": "Его анализ крови был не в норме."
+   },
+   {
+    "en": "It's #abnormal# to be this hot in May.",
+    "ru": "Аномально так жарко в мае."
+   },
+   {
+    "en": "Is it #abnormal# to love Mondays?",
+    "ru": "Ненормально любить понедельники?"
+   }
+  ]
  },
  {
   "id": "5969",
   "word": "abnormality",
   "transcription": "[ˌæbnɔːˈmælɪti]",
   "translation": "ненормальность",
-  "nuance": null,
+  "nuance": "abnormality — аномалия, отклонение от нормы (мед.). Defect — дефект, irregularity — нарушение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/abnormality.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Doctors found an #abnormality# in his heart.",
+    "ru": "Врачи нашли у него аномалию сердца."
+   },
+   {
+    "en": "It's a genetic #abnormality#.",
+    "ru": "Это генетическое отклонение."
+   },
+   {
+    "en": "The test showed no #abnormalities#.",
+    "ru": "Анализ не выявил отклонений."
+   }
+  ]
  },
  {
   "id": "5970",
   "word": "upright",
   "transcription": "[ˈʌpraɪt]",
   "translation": "вертикальный, стоячий",
-  "nuance": null,
+  "nuance": "upright — вертикальный, прямой; честный, порядочный. upright piano — пианино. Vertical — вертикальный, straight — прямой.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/upright.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Keep the bottle #upright#.",
+    "ru": "Держи бутылку вертикально."
+   },
+   {
+    "en": "Sit #upright# — don't slouch!",
+    "ru": "Сиди прямо — не горбись!"
+   },
+   {
+    "en": "He's an #upright# citizen.",
+    "ru": "Он честный гражданин."
+   }
+  ]
  },
  {
   "id": "5971",
   "word": "corpse",
   "transcription": "[kɔːps]",
   "translation": "труп",
-  "nuance": null,
+  "nuance": "corpse — труп (человека). Body — тело (нейтр.), carcass — туша (животного), remains — останки.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/corpse.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Police found a #corpse# in the river.",
+    "ru": "Полиция нашла труп в реке."
+   },
+   {
+    "en": "After the marathon I felt like a #corpse#.",
+    "ru": "После марафона я чувствовал себя трупом."
+   },
+   {
+    "en": "The #corpse# was identified.",
+    "ru": "Тело опознали."
+   }
+  ]
  },
  {
   "id": "5972",
   "word": "luncheon",
   "transcription": "[ˈlʌnʧən]",
   "translation": "завтрак",
-  "nuance": null,
+  "nuance": "luncheon — офиц.-устар. «званый обед, ланч» (не завтрак — это breakfast!). Lunch — обед (разг.), brunch — поздний завтрак.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/luncheon.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The mayor gave a #luncheon# for the guests.",
+    "ru": "Мэр устроил для гостей званый обед."
+   },
+   {
+    "en": "Ladies' #luncheon# at noon.",
+    "ru": "Женский званый обед в полдень."
+   },
+   {
+    "en": "The charity #luncheon# raised money.",
+    "ru": "Благотворительный обед собрал деньги."
+   }
+  ]
  },
  {
   "id": "5973",
   "word": "billboard",
   "transcription": "[ˈbɪlbɔːd]",
   "translation": "рекламный щит",
-  "nuance": null,
+  "nuance": "billboard — рекламный щит, билборд (амер.); брит. — hoarding. Poster — плакат, sign — вывеска.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/billboard_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "There's a huge #billboard# by the highway.",
+    "ru": "У шоссе огромный рекламный щит."
+   },
+   {
+    "en": "Her face is on every #billboard#.",
+    "ru": "Её лицо на каждом билборде."
+   },
+   {
+    "en": "The song topped the #Billboard# charts.",
+    "ru": "Песня возглавила чарты «Билборд»."
+   }
+  ]
  },
  {
   "id": "5974",
   "word": "corps",
   "transcription": "[kɔː]",
   "translation": "корпус",
-  "nuance": null,
+  "nuance": "corps (кОр! p и s не читаются) — корпус (воен., дипл.). Ловушка: corpse (кОрпс) — труп! Unit — подразделение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/corps.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He joined the Marine #Corps#.",
+    "ru": "Он поступил в корпус морской пехоты."
+   },
+   {
+    "en": "The press #corps# waited outside.",
+    "ru": "Журналистский корпус ждал снаружи."
+   },
+   {
+    "en": "The diplomatic #corps# attended the event.",
+    "ru": "Дипломатический корпус присутствовал на мероприятии."
+   }
+  ]
  },
  {
   "id": "5975",
   "word": "upcoming",
   "transcription": "[ˌʌpˈkʌmɪŋ]",
   "translation": "предстоящий, наступающий",
-  "nuance": null,
+  "nuance": "upcoming — предстоящий, ближайший. Forthcoming — грядущий (офиц.), coming — наступающий, next — следующий.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/upcoming.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Are you ready for the #upcoming# exam?",
+    "ru": "Ты готов к предстоящему экзамену?"
+   },
+   {
+    "en": "Check our #upcoming# events.",
+    "ru": "Смотрите наши ближайшие мероприятия."
+   },
+   {
+    "en": "The #upcoming# holiday is all I think about.",
+    "ru": "Предстоящий отпуск — всё, о чём я думаю."
+   }
+  ]
  },
  {
   "id": "5976",
   "word": "oncoming",
   "transcription": "[ˈɒnˌkʌmɪŋ]",
   "translation": "приближающийся",
-  "nuance": null,
+  "nuance": "oncoming — встречный, приближающийся (о транспорте). Upcoming — предстоящий (по времени), approaching — приближающийся.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/oncoming.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Watch out for #oncoming# traffic.",
+    "ru": "Следи за встречным движением."
+   },
+   {
+    "en": "The #oncoming# car flashed its lights.",
+    "ru": "Встречная машина мигнула фарами."
+   },
+   {
+    "en": "We felt the #oncoming# storm.",
+    "ru": "Мы чувствовали приближение бури."
+   }
+  ]
  },
  {
   "id": "5977",
   "word": "crank",
   "transcription": "[kræŋk]",
   "translation": "чудак, фрик",
-  "nuance": null,
+  "nuance": "crank — чудак, фрик (с бредовыми идеями); рукоятка; глагол — крутить; crank up — разг. «прибавить». cranky — раздражительный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/crank.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He's a bit of a #crank# — he thinks the Earth is flat.",
+    "ru": "Он немного чудак — думает, что Земля плоская."
+   },
+   {
+    "en": "#Crank# the handle to open the window.",
+    "ru": "Покрути ручку, чтобы открыть окно."
+   },
+   {
+    "en": "#Crank# up the music!",
+    "ru": "Сделай музыку громче!"
+   }
+  ]
  },
  {
   "id": "5978",
   "word": "linger",
   "transcription": "[ˈlɪŋgə]",
   "translation": "задерживаться, медлить",
-  "nuance": null,
+  "nuance": "linger — задерживаться, медлить; сохраняться (запах, чувство). Stay — оставаться, hang around — задерживаться (разг.), remain — оставаться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/linger.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The smell of fish #lingered# all day.",
+    "ru": "Запах рыбы держался весь день."
+   },
+   {
+    "en": "We #lingered# over coffee.",
+    "ru": "Мы засиделись за кофе."
+   },
+   {
+    "en": "Don't #linger# — the bus is leaving!",
+    "ru": "Не задерживайся — автобус уходит!"
+   }
+  ]
  },
  {
   "id": "5979",
   "word": "lingering",
   "transcription": "[ˈlɪŋgərɪŋ]",
   "translation": "затяжной",
-  "nuance": null,
+  "nuance": "lingering — затяжной, стойкий, долгий. Persistent — стойкий, long-lasting — продолжительный, lasting — длительный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/lingering.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I have a #lingering# cold.",
+    "ru": "У меня затяжная простуда."
+   },
+   {
+    "en": "There's a #lingering# smell of smoke.",
+    "ru": "Остался запах дыма."
+   },
+   {
+    "en": "She gave him a #lingering# look.",
+    "ru": "Она бросила на него долгий взгляд."
+   }
+  ]
  },
  {
   "id": "5980",
   "word": "deed",
   "transcription": "[diːd]",
   "translation": "дело, поступок",
-  "nuance": null,
+  "nuance": "deed — поступок, деяние (книжн.); юр. — документ на собственность (deeds). Act — действие, action — поступок.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/deed.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Do one good #deed# every day.",
+    "ru": "Делай одно доброе дело каждый день."
+   },
+   {
+    "en": "He signed the #deeds# to the house.",
+    "ru": "Он подписал документы на дом."
+   },
+   {
+    "en": "No good #deed# goes unpunished.",
+    "ru": "Ни одно доброе дело не остаётся безнаказанным."
+   }
+  ]
  },
  {
   "id": "5981",
   "word": "fracture",
   "transcription": "[ˈfrækʧə]",
   "translation": "перелом, разрушение",
-  "nuance": null,
+  "nuance": "fracture — перелом (мед.), трещина; глагол — сломать. Break — перелом (разг.), crack — трещина, sprain — растяжение.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/31180/31180_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She has a #fracture# in her wrist.",
+    "ru": "У неё перелом запястья."
+   },
+   {
+    "en": "The fall #fractured# his leg.",
+    "ru": "При падении он сломал ногу."
+   },
+   {
+    "en": "There's a #fracture# in the wall.",
+    "ru": "В стене трещина."
+   }
+  ]
  },
  {
   "id": "5982",
   "word": "hook up",
   "transcription": "[hʊkʌp]",
   "translation": "подключить, смонтировать",
-  "nuance": null,
+  "nuance": "hook up — подключить, смонтировать; разг. — переспать/замутить (осторожно!); помочь связаться. Connect — подключить, set up — настроить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/hook_up.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Can you #hook up# the printer?",
+    "ru": "Можешь подключить принтер?"
+   },
+   {
+    "en": "We're #hooked up# to the internet now.",
+    "ru": "Теперь мы подключены к интернету."
+   },
+   {
+    "en": "They #hooked up# at the party.",
+    "ru": "Они замутили на вечеринке."
+   }
+  ]
  },
  {
   "id": "5983",
