@@ -168594,500 +168594,1150 @@
   "word": "screw",
   "transcription": "[skruː]",
   "translation": "к чёрту",
-  "nuance": null,
+  "nuance": "Грубовато-разг.: screw it — «к чёрту». Screw you! — грубо, «пошёл ты». Также screw — шуруп, винт; screw up — облажаться. В вежливой речи избегать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/screw_2.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Oh, #screw# it, let's just order pizza.",
+    "ru": "Да ну его к чёрту, давай просто закажем пиццу."
+   },
+   {
+    "en": "#Screw# the rules, I'm wearing pyjamas to work.",
+    "ru": "К чёрту правила, я иду на работу в пижаме."
+   },
+   {
+    "en": "#Screw# this traffic!",
+    "ru": "Да пропади пропадом эта пробка!"
+   }
+  ]
  },
  {
   "id": "7335",
   "word": "displace",
   "transcription": "[dɪsˈpleɪs]",
   "translation": "вытеснять, смещать",
-  "nuance": null,
+  "nuance": "Вытеснять, смещать. Displaced person — беженец, переселенец. Мед. — вывих (dislocate чаще). Replace — заменить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/displace.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The war #displaced# millions of people.",
+    "ru": "Война вынудила миллионы людей покинуть дома."
+   },
+   {
+    "en": "Robots may #displace# workers.",
+    "ru": "Роботы могут вытеснить рабочих."
+   },
+   {
+    "en": "He #displaced# his shoulder playing rugby.",
+    "ru": "Играя в регби, он вывихнул плечо."
+   }
+  ]
  },
  {
   "id": "7336",
   "word": "displacement",
   "transcription": "[dɪsˈpleɪsmənt]",
   "translation": "смещение",
-  "nuance": null,
+  "nuance": "Смещение, вытеснение, переселение. Физ. — водоизмещение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/displacement.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The #displacement# of families caused a crisis.",
+    "ru": "Вынужденное переселение семей вызвало кризис."
+   },
+   {
+    "en": "The ship's #displacement# is 5,000 tons.",
+    "ru": "Водоизмещение корабля — 5000 тонн."
+   },
+   {
+    "en": "Measure the #displacement# of water.",
+    "ru": "Измерь объём вытесненной воды."
+   }
+  ]
  },
  {
   "id": "7337",
   "word": "reign",
   "transcription": "[reɪn]",
   "translation": "царствовать",
-  "nuance": null,
+  "nuance": "Царствовать. Перен. — царить (о тишине, хаосе). Не путать с rain (дождь) и rein (поводья) — звучат одинаково!",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/reign.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Queen Victoria #reigned# for 63 years.",
+    "ru": "Королева Виктория правила 63 года."
+   },
+   {
+    "en": "Silence #reigned# in the classroom.",
+    "ru": "В классе царила тишина."
+   },
+   {
+    "en": "During his #reign#, the country grew rich.",
+    "ru": "В его правление страна разбогатела."
+   }
+  ]
  },
  {
   "id": "7338",
   "word": "rib",
   "transcription": "[rɪb]",
   "translation": "ребро",
-  "nuance": null,
+  "nuance": "Ребро. Spare ribs — свиные рёбрышки. Разг. rib someone — подшучивать над кем-то.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/7001/7001_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He broke a #rib# falling off his bike.",
+    "ru": "Падая с велосипеда, он сломал ребро."
+   },
+   {
+    "en": "Let's have barbecue #ribs# for dinner.",
+    "ru": "Давай на ужин рёбрышки на гриле."
+   },
+   {
+    "en": "Stop poking me in the #ribs#!",
+    "ru": "Хватит тыкать меня в бок!"
+   }
+  ]
  },
  {
   "id": "7339",
   "word": "ribbed",
   "transcription": "[rɪbd]",
   "translation": "ребристый",
-  "nuance": null,
+  "nuance": "Ребристый, в рубчик (о ткани). Corduroy — вельвет.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/ribbed.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She wore a #ribbed# sweater.",
+    "ru": "На ней был свитер в рубчик."
+   },
+   {
+    "en": "The bottle has a #ribbed# surface for a better grip.",
+    "ru": "У бутылки ребристая поверхность, чтобы не скользила."
+   },
+   {
+    "en": "#Ribbed# tights are warmer.",
+    "ru": "Колготки в рубчик теплее."
+   }
+  ]
  },
  {
   "id": "7340",
   "word": "ribcage",
   "transcription": "[ribcage]",
   "translation": "грудная клетка",
-  "nuance": null,
+  "nuance": "Анатомическое. Chest — грудь (общее).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/ribcage.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "His #ribcage# was bruised after the fall.",
+    "ru": "После падения у него был ушиб грудной клетки."
+   },
+   {
+    "en": "The #ribcage# protects the heart and lungs.",
+    "ru": "Грудная клетка защищает сердце и лёгкие."
+   },
+   {
+    "en": "You can see the #ribcage# of the skinny dog.",
+    "ru": "У тощей собаки видны рёбра."
+   }
+  ]
  },
  {
   "id": "7341",
   "word": "trickle",
   "transcription": "[ˈtrɪkl]",
   "translation": "струйка, капать, сочиться",
-  "nuance": null,
+  "nuance": "Струйка, сочиться. Перен. — «понемногу, по чуть-чуть» (trickle in). Противоп. flood/pour in. Drip — капать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/trickle.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "A #trickle# of water ran down the wall.",
+    "ru": "По стене сбегала струйка воды."
+   },
+   {
+    "en": "Tears #trickled# down her cheeks.",
+    "ru": "Слёзы стекали по её щекам."
+   },
+   {
+    "en": "Customers #trickled# in after lunch.",
+    "ru": "После обеда покупатели подходили по одному."
+   }
+  ]
  },
  {
   "id": "7342",
   "word": "excerpt",
   "transcription": "[ˈɛksɜːpt]",
   "translation": "выдержка, отрывок",
-  "nuance": null,
+  "nuance": "Отрывок (из текста, фильма, музыки). Extract — синоним (брит.). Quote — цитата.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/excerpt.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Here's an #excerpt# from my new book.",
+    "ru": "Вот отрывок из моей новой книги."
+   },
+   {
+    "en": "They played an #excerpt# from the film.",
+    "ru": "Показали отрывок из фильма."
+   },
+   {
+    "en": "Read the #excerpt# and answer the questions.",
+    "ru": "Прочитайте отрывок и ответьте на вопросы."
+   }
+  ]
  },
  {
   "id": "7343",
   "word": "savor",
   "transcription": "[ˈseɪvə]",
   "translation": "вкус, смаковать",
-  "nuance": null,
+  "nuance": "Брит. savour, амер. savor. Смаковать, наслаждаться (едой, моментом). Enjoy — проще.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/savor.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Savour# every bite of this cake.",
+    "ru": "Смакуй каждый кусочек этого торта."
+   },
+   {
+    "en": "She #savored# the moment of victory.",
+    "ru": "Она наслаждалась моментом победы."
+   },
+   {
+    "en": "The soup has a #savour# of garlic.",
+    "ru": "В супе чувствуется привкус чеснока."
+   }
+  ]
  },
  {
   "id": "7344",
   "word": "savory",
   "transcription": "[ˈseɪvəri]",
   "translation": "вкусный, привлекательный",
-  "nuance": null,
+  "nuance": "Ловушка: savoury — «несладкий, солёный, пикантный» (противоп. sweet), а не просто «вкусный» (то tasty, delicious).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/savory.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I prefer #savoury# snacks to sweet ones.",
+    "ru": "Я предпочитаю солёные закуски сладким."
+   },
+   {
+    "en": "They serve sweet and #savory# pancakes.",
+    "ru": "Там подают сладкие и несладкие блины."
+   },
+   {
+    "en": "The #savoury# smell of roast chicken filled the house.",
+    "ru": "Дом наполнил аппетитный запах жареной курицы."
+   }
+  ]
  },
  {
   "id": "7345",
   "word": "unsavory",
   "transcription": "[ˌʌnˈseɪvəri]",
   "translation": "невкусный, непривлекательный",
-  "nuance": null,
+  "nuance": "Чаще перен.: «сомнительный, неприглядный, с дурной репутацией». «Невкусный» — редко; в быту — tasteless, disgusting.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unsavory.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He has some #unsavoury# friends.",
+    "ru": "У него есть сомнительные друзья."
+   },
+   {
+    "en": "The bar has an #unsavory# reputation.",
+    "ru": "У бара дурная слава."
+   },
+   {
+    "en": "Let's skip the #unsavoury# details.",
+    "ru": "Давай опустим неприглядные подробности."
+   }
+  ]
  },
  {
   "id": "7346",
   "word": "impede",
   "transcription": "[ɪmˈpiːd]",
   "translation": "затруднять",
-  "nuance": null,
+  "nuance": "Офиц. Затруднять, мешать. Hinder, hamper — синонимы. Block — блокировать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/impede.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Heavy snow #impeded# the rescue.",
+    "ru": "Сильный снег затруднял спасательную операцию."
+   },
+   {
+    "en": "Noise #impedes# concentration.",
+    "ru": "Шум мешает сосредоточиться."
+   },
+   {
+    "en": "Don't let fear #impede# your progress.",
+    "ru": "Не позволяй страху тормозить твоё развитие."
+   }
+  ]
  },
  {
   "id": "7347",
   "word": "unimpeded",
   "transcription": "[ˌʌnɪmˈpiːdɪd]",
   "translation": "беспрепятственный",
-  "nuance": null,
+  "nuance": "Беспрепятственный. Free — свободный (проще). Unobstructed — не загороженный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/unimpeded.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Traffic flowed #unimpeded# on Sunday.",
+    "ru": "В воскресенье движение было свободным."
+   },
+   {
+    "en": "The kids had #unimpeded# access to sweets.",
+    "ru": "У детей был беспрепятственный доступ к сладкому."
+   },
+   {
+    "en": "The view of the sea is #unimpeded#.",
+    "ru": "Вид на море ничем не загорожен."
+   }
+  ]
  },
  {
   "id": "7348",
   "word": "canvas",
   "transcription": "[ˈkænvəs]",
   "translation": "холст",
-  "nuance": null,
+  "nuance": "Холст, парусина, перен. — картина. Canvas bag — сумка из плотной ткани. Canvass — агитировать (другое слово!).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/canvas.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She painted on #canvas#.",
+    "ru": "Она писала на холсте."
+   },
+   {
+    "en": "My trainers are made of #canvas#.",
+    "ru": "Мои кеды из парусины."
+   },
+   {
+    "en": "The museum bought a #canvas# by Monet.",
+    "ru": "Музей купил картину Моне."
+   }
+  ]
  },
  {
   "id": "7349",
   "word": "scurry",
   "transcription": "[ˈskʌri]",
   "translation": "бежать, сновать, суетиться",
-  "nuance": null,
+  "nuance": "Быстро семенить, сновать (как мелкие животные). Scamper — бегать вприпрыжку. Rush — мчаться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/scurry.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Mice #scurried# across the kitchen floor.",
+    "ru": "Мыши шмыгнули по полу кухни."
+   },
+   {
+    "en": "Waiters #scurried# between the tables.",
+    "ru": "Официанты сновали между столиками."
+   },
+   {
+    "en": "The kids #scurried# off when they heard Dad.",
+    "ru": "Дети разбежались, услышав папу."
+   }
+  ]
  },
  {
   "id": "7350",
   "word": "litter",
   "transcription": "[ˈlɪtə]",
   "translation": "мусор (на улице)",
-  "nuance": null,
+  "nuance": "Мусор на улице (бумажки, бутылки). Также помёт, выводок (a litter of puppies). Litter box — кошачий лоток.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/8499/8499_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't drop #litter# in the park!",
+    "ru": "Не мусори в парке!"
+   },
+   {
+    "en": "The beach was full of #litter#.",
+    "ru": "Пляж был полон мусора."
+   },
+   {
+    "en": "Our cat had a #litter# of six kittens.",
+    "ru": "Наша кошка принесла шестерых котят."
+   }
+  ]
  },
  {
   "id": "7351",
   "word": "tranquil",
   "transcription": "[ˈtræŋkwɪl]",
   "translation": "спокойный",
-  "nuance": null,
+  "nuance": "Книжн. Тихий, безмятежный. Calm — спокойный (проще). Peaceful — мирный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tranquil.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We spent a #tranquil# weekend by the lake.",
+    "ru": "Мы провели тихие выходные у озера."
+   },
+   {
+    "en": "The village is #tranquil# and green.",
+    "ru": "Деревня тихая и зелёная."
+   },
+   {
+    "en": "She has a #tranquil# face.",
+    "ru": "У неё безмятежное лицо."
+   }
+  ]
  },
  {
   "id": "7352",
   "word": "tranquility",
   "transcription": "[træŋˈkwɪlɪti]",
   "translation": "спокойствие",
-  "nuance": null,
+  "nuance": "Брит. tranquillity, амер. tranquility. Книжн. Peace and quiet — разг. «тишина и покой».",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/tranquility.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I love the #tranquility# of early morning.",
+    "ru": "Я люблю тишину раннего утра."
+   },
+   {
+    "en": "The garden is a place of #tranquillity#.",
+    "ru": "Сад — место умиротворения."
+   },
+   {
+    "en": "Kids destroyed our #tranquility# in seconds.",
+    "ru": "Дети разрушили наше спокойствие за секунды."
+   }
+  ]
  },
  {
   "id": "7353",
   "word": "butcher",
   "transcription": "[ˈbʊʧə]",
   "translation": "мясник",
-  "nuance": null,
+  "nuance": "Мясник. Глагол butcher — резать мясо, перен. «изуродовать, испортить» (песню, причёску). Также жестоко убивать.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/3008/3008_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Buy the meat from the #butcher#, it's better.",
+    "ru": "Купи мясо у мясника, оно лучше."
+   },
+   {
+    "en": "The #butcher#'s shop is on the corner.",
+    "ru": "Мясная лавка — на углу."
+   },
+   {
+    "en": "The hairdresser #butchered# my hair!",
+    "ru": "Парикмахер изуродовал мне волосы!"
+   }
+  ]
  },
  {
   "id": "7354",
   "word": "mole",
   "transcription": "[məʊl]",
   "translation": "родинка",
-  "nuance": null,
+  "nuance": "Родинка, крот (животное), перен. — «крот, засланный агент». Freckle — веснушка.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/mole.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "She has a small #mole# on her cheek.",
+    "ru": "У неё маленькая родинка на щеке."
+   },
+   {
+    "en": "A #mole# dug holes in our lawn.",
+    "ru": "Крот перекопал наш газон."
+   },
+   {
+    "en": "The spy was a #mole# in the government.",
+    "ru": "Шпион был кротом в правительстве."
+   }
+  ]
  },
  {
   "id": "7355",
   "word": "decay",
   "transcription": "[dɪˈkeɪ]",
   "translation": "распад, упадок, разлагаться",
-  "nuance": null,
+  "nuance": "Гниение, разложение, упадок. Tooth decay — кариес. Rot — гнить (проще). Перен. moral decay — моральное разложение.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/decay.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Sugar causes tooth #decay#.",
+    "ru": "Сахар вызывает кариес."
+   },
+   {
+    "en": "The old house fell into #decay#.",
+    "ru": "Старый дом пришёл в упадок."
+   },
+   {
+    "en": "Leaves #decay# and feed the soil.",
+    "ru": "Листья разлагаются и питают почву."
+   }
+  ]
  },
  {
   "id": "7356",
   "word": "erode",
   "transcription": "[ɪˈrəʊd]",
   "translation": "размывать, выветривать",
-  "nuance": null,
+  "nuance": "Размывать (почву). Перен. — «подрывать, постепенно разрушать» (доверие, ценность).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/erode.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The sea #erodes# the cliffs every year.",
+    "ru": "Море с каждым годом размывает скалы."
+   },
+   {
+    "en": "Lies #erode# trust.",
+    "ru": "Ложь подрывает доверие."
+   },
+   {
+    "en": "Inflation #erodes# our savings.",
+    "ru": "Инфляция съедает наши сбережения."
+   }
+  ]
  },
  {
   "id": "7357",
   "word": "erosion",
   "transcription": "[ɪˈrəʊʒən]",
   "translation": "размывание",
-  "nuance": null,
+  "nuance": "Эрозия, размывание. Перен. — постепенный подрыв (доверия, прав).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/erosion.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Trees prevent soil #erosion#.",
+    "ru": "Деревья предотвращают эрозию почвы."
+   },
+   {
+    "en": "The #erosion# of the coast is a problem.",
+    "ru": "Размывание побережья — проблема."
+   },
+   {
+    "en": "There's been an #erosion# of trust in the media.",
+    "ru": "Доверие к СМИ подорвано."
+   }
+  ]
  },
  {
   "id": "7358",
   "word": "outskirts",
   "transcription": "[ˈaʊtskɜːts]",
   "translation": "окраина, окрестности",
-  "nuance": null,
+  "nuance": "Всегда мн. ч.: the outskirts. Suburbs — пригороды (жилые районы). Countryside — сельская местность.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/outskirts.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "We live on the #outskirts# of the city.",
+    "ru": "Мы живём на окраине города."
+   },
+   {
+    "en": "The #outskirts# are quieter and cheaper.",
+    "ru": "На окраинах тише и дешевле."
+   },
+   {
+    "en": "There's a big shopping centre on the #outskirts#.",
+    "ru": "На окраине есть большой торговый центр."
+   }
+  ]
  },
  {
   "id": "7359",
   "word": "briefcase",
   "transcription": "[ˈbriːfˌkeɪs]",
   "translation": "портфель",
-  "nuance": null,
+  "nuance": "Деловой портфель (для бумаг). Backpack — рюкзак. Satchel — школьный ранец (брит.).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/briefcase.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He carries his lunch in his #briefcase#.",
+    "ru": "Он носит обед в портфеле."
+   },
+   {
+    "en": "She left her #briefcase# on the train.",
+    "ru": "Она забыла портфель в поезде."
+   },
+   {
+    "en": "A man with a #briefcase# rang the doorbell.",
+    "ru": "В дверь позвонил человек с портфелем."
+   }
+  ]
  },
  {
   "id": "7360",
   "word": "timid",
   "transcription": "[ˈtɪmɪd]",
   "translation": "робкий, пугливый",
-  "nuance": null,
+  "nuance": "Робкий, пугливый. Shy — застенчивый (о людях, чаще). Fearful — боязливый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/timid.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The puppy is #timid# around strangers.",
+    "ru": "Щенок робеет при незнакомцах."
+   },
+   {
+    "en": "She gave a #timid# smile.",
+    "ru": "Она робко улыбнулась."
+   },
+   {
+    "en": "Don't be #timid#; ask your question!",
+    "ru": "Не робей, задай свой вопрос!"
+   }
+  ]
  },
  {
   "id": "7361",
   "word": "timidity",
   "transcription": "[tɪˈmɪdɪti]",
   "translation": "робость",
-  "nuance": null,
+  "nuance": "Робость. Shyness — застенчивость (чаще). Перен. — нерешительность (политики).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/timidity.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Her #timidity# disappeared on stage.",
+    "ru": "На сцене её робость исчезла."
+   },
+   {
+    "en": "He overcame his #timidity# with time.",
+    "ru": "Со временем он преодолел свою робость."
+   },
+   {
+    "en": "The #timidity# of the plan disappointed us.",
+    "ru": "Нерешительность плана нас разочаровала."
+   }
+  ]
  },
  {
   "id": "7362",
   "word": "evoke",
   "transcription": "[ɪˈvəʊk]",
   "translation": "вызывать",
-  "nuance": null,
+  "nuance": "Вызывать (воспоминания, чувства). Книжн. Bring back — разг. «навевать». Provoke — провоцировать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/evoke.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "This song #evokes# memories of summer.",
+    "ru": "Эта песня навевает воспоминания о лете."
+   },
+   {
+    "en": "The smell #evoked# my childhood.",
+    "ru": "Запах напомнил мне детство."
+   },
+   {
+    "en": "His speech #evoked# strong emotions.",
+    "ru": "Его речь вызвала сильные эмоции."
+   }
+  ]
  },
  {
   "id": "7363",
   "word": "evocation",
   "transcription": "[evocation]",
   "translation": "воскрешение в памяти",
-  "nuance": null,
+  "nuance": "Книжн. Воссоздание (атмосферы), воскрешение в памяти. Evocative — вызывающий ассоциации.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/evocation.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The film is a beautiful #evocation# of the 60s.",
+    "ru": "Фильм — прекрасное воссоздание атмосферы 60-х."
+   },
+   {
+    "en": "The poem is an #evocation# of childhood.",
+    "ru": "Стихотворение воскрешает образы детства."
+   },
+   {
+    "en": "The smell was a powerful #evocation# of home.",
+    "ru": "Запах живо напомнил о доме."
+   }
+  ]
  },
  {
   "id": "7364",
   "word": "susceptible",
   "transcription": "[səˈsɛptəbl]",
   "translation": "восприимчивый, подверженный",
-  "nuance": null,
+  "nuance": "Susceptible to — «подверженный, восприимчивый». Vulnerable — уязвимый. Prone to — склонный к.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/susceptible.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Children are #susceptible# to colds.",
+    "ru": "Дети подвержены простудам."
+   },
+   {
+    "en": "He's #susceptible# to flattery.",
+    "ru": "Он падок на лесть."
+   },
+   {
+    "en": "The area is #susceptible# to floods.",
+    "ru": "Район подвержен наводнениям."
+   }
+  ]
  },
  {
   "id": "7365",
   "word": "susceptibility",
   "transcription": "[səˌsɛptəˈbɪlɪti]",
   "translation": "восприимчивость",
-  "nuance": null,
+  "nuance": "Книжн., мед. Восприимчивость, предрасположенность.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/susceptibility.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Stress increases #susceptibility# to illness.",
+    "ru": "Стресс повышает восприимчивость к болезням."
+   },
+   {
+    "en": "His #susceptibility# to ads is funny.",
+    "ru": "Его подверженность рекламе забавна."
+   },
+   {
+    "en": "Genes affect our #susceptibility# to cancer.",
+    "ru": "Гены влияют на предрасположенность к раку."
+   }
+  ]
  },
  {
   "id": "7366",
   "word": "coarse",
   "transcription": "[kɔːs]",
   "translation": "грубый, крупный, шероховатый",
-  "nuance": null,
+  "nuance": "Грубый (на ощупь), крупный (помол), вульгарный (о речи). Не путать с course (курс) — звучит одинаково! Rough — шершавый.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/coarse.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "This towel is #coarse# and scratchy.",
+    "ru": "Это полотенце грубое и колючее."
+   },
+   {
+    "en": "Use #coarse# salt for the steak.",
+    "ru": "Для стейка используйте крупную соль."
+   },
+   {
+    "en": "His #coarse# jokes offended the guests.",
+    "ru": "Его грубые шутки обидели гостей."
+   }
+  ]
  },
  {
   "id": "7367",
   "word": "ham",
   "transcription": "[hæm]",
   "translation": "ветчина",
-  "nuance": null,
+  "nuance": "Ветчина, окорок. Разг. ham — «переигрывающий актёр, позёр». Ham it up — переигрывать.",
   "level": null,
   "image": "https://static.arasaac.org/pictograms/2963/2963_500.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "I'll have a #ham# and cheese sandwich.",
+    "ru": "Мне сэндвич с ветчиной и сыром."
+   },
+   {
+    "en": "We cook a big #ham# for Christmas.",
+    "ru": "На Рождество мы запекаем окорок."
+   },
+   {
+    "en": "He's such a #ham#; he loves the camera.",
+    "ru": "Он такой позёр — обожает камеру."
+   }
+  ]
  },
  {
   "id": "7368",
   "word": "entity",
   "transcription": "[ˈɛntɪti]",
   "translation": "сущность",
-  "nuance": null,
+  "nuance": "Книжн., офиц. Сущность, объект, юрлицо, существо. Legal entity — юридическое лицо. Being — существо.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/entity.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The two companies are separate #entities#.",
+    "ru": "Эти две компании — отдельные юрлица."
+   },
+   {
+    "en": "Some people believe in a mysterious #entity# in the woods.",
+    "ru": "Некоторые верят в загадочное существо в лесу."
+   },
+   {
+    "en": "The EU is a political #entity#.",
+    "ru": "ЕС — политическое образование."
+   }
+  ]
  },
  {
   "id": "7369",
   "word": "show around",
   "transcription": "[ʃəʊəˈraʊnd]",
   "translation": "показать места",
-  "nuance": null,
+  "nuance": "Провести экскурсию, показать место. Give a tour — синоним. Show up — появиться.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/show_around.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Let me #show# you #around# the office.",
+    "ru": "Давай я покажу тебе офис."
+   },
+   {
+    "en": "My cousin #showed# me #around# Paris.",
+    "ru": "Кузен показал мне Париж."
+   },
+   {
+    "en": "Can you #show# the new girl #around#?",
+    "ru": "Можешь провести новенькую по школе?"
+   }
+  ]
  },
  {
   "id": "7370",
   "word": "bend down",
   "transcription": "[bɛnd daʊn]",
   "translation": "наклониться",
-  "nuance": null,
+  "nuance": "Наклониться вниз (к полу). Bend over — согнуться в поясе. Kneel — встать на колени.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/bend_down.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "#Bend down# and pick up the pen.",
+    "ru": "Наклонись и подними ручку."
+   },
+   {
+    "en": "Grandpa can't #bend down# easily anymore.",
+    "ru": "Дедушке уже трудно наклоняться."
+   },
+   {
+    "en": "She #bent down# to tie her shoelaces.",
+    "ru": "Она наклонилась, чтобы завязать шнурки."
+   }
+  ]
  },
  {
   "id": "7371",
   "word": "bend over",
   "transcription": "[bɛnd ˈəʊvə]",
   "translation": "наклониться",
-  "nuance": null,
+  "nuance": "Согнуться в поясе, склониться над чем-то. Bend over backwards — «из кожи вон лезть» (идиома).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/bend_over.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "He #bent over# the sink to wash his face.",
+    "ru": "Он склонился над раковиной, чтобы умыться."
+   },
+   {
+    "en": "#Bend over# and touch your toes.",
+    "ru": "Нагнись и дотронься до пальцев ног."
+   },
+   {
+    "en": "She #bent over# backwards to help us.",
+    "ru": "Она из кожи вон лезла, чтобы помочь нам."
+   }
+  ]
  },
  {
   "id": "7372",
   "word": "withhold",
   "transcription": "[wɪðˈhəʊld]",
   "translation": "утаивать, удерживать",
-  "nuance": null,
+  "nuance": "Офиц. Утаить, удержать (деньги, информацию). Keep back — разг. синоним. Hold back — сдерживать.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/withhold.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't #withhold# information from the police.",
+    "ru": "Не утаивайте информацию от полиции."
+   },
+   {
+    "en": "Part of the salary is #withheld# for tax.",
+    "ru": "Часть зарплаты удерживается на налоги."
+   },
+   {
+    "en": "She #withheld# her name.",
+    "ru": "Она не назвала своего имени."
+   }
+  ]
  },
  {
   "id": "7373",
   "word": "void",
   "transcription": "[vɔɪd]",
   "translation": "недействительный, пустой",
-  "nuance": null,
+  "nuance": "Юр. — недействительный (null and void). Сущ. — пустота. Avoid — избегать (другое).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/void.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The contract is null and #void#.",
+    "ru": "Договор недействителен."
+   },
+   {
+    "en": "Breaking the seal makes the warranty #void#.",
+    "ru": "Вскрытие пломбы аннулирует гарантию."
+   },
+   {
+    "en": "He felt a #void# after she left.",
+    "ru": "После её ухода он почувствовал пустоту."
+   }
+  ]
  },
  {
   "id": "7374",
   "word": "infer",
   "transcription": "[ɪnˈfɜː]",
   "translation": "делать вывод",
-  "nuance": null,
+  "nuance": "Делать вывод. Ловушка: infer (делает слушатель) ≠ imply (намекает говорящий). Но в разговоре их часто путают. Conclude — заключить.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/infer.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "From his smile, I #inferred# he passed.",
+    "ru": "По его улыбке я понял, что он сдал."
+   },
+   {
+    "en": "What can we #infer# from the data?",
+    "ru": "Какой вывод можно сделать из данных?"
+   },
+   {
+    "en": "Are you #inferring# I'm lazy?",
+    "ru": "Ты намекаешь, что я ленивый?"
+   }
+  ]
  },
  {
   "id": "7375",
   "word": "inference",
   "transcription": "[ˈɪnfərəns]",
   "translation": "вывод",
-  "nuance": null,
+  "nuance": "Вывод, умозаключение. Conclusion — заключение (проще). В ИИ inference — работа модели.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/inference.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Make an #inference# from the text.",
+    "ru": "Сделайте вывод из текста."
+   },
+   {
+    "en": "The #inference# is that he lied.",
+    "ru": "Отсюда следует, что он солгал."
+   },
+   {
+    "en": "Statistical #inference# is part of the course.",
+    "ru": "Статистический вывод — часть курса."
+   }
+  ]
  },
  {
   "id": "7376",
   "word": "rash",
   "transcription": "[ræʃ]",
   "translation": "опрометчивый, необдуманный",
-  "nuance": null,
+  "nuance": "Опрометчивый, поспешный. Сущ. rash — сыпь (частое значение!). Hasty — поспешный. Reckless — безрассудный.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/rash.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Don't make any #rash# decisions.",
+    "ru": "Не принимай поспешных решений."
+   },
+   {
+    "en": "It was #rash# to quit without a plan.",
+    "ru": "Было опрометчиво уволиться без плана."
+   },
+   {
+    "en": "I got a #rash# from the new soap.",
+    "ru": "От нового мыла у меня сыпь."
+   }
+  ]
  },
  {
   "id": "7377",
   "word": "landlord",
   "transcription": "[ˈlænlɔːd]",
   "translation": "арендодатель, домовладелец",
-  "nuance": null,
+  "nuance": "Арендодатель, домовладелец, хозяин паба (брит.). Tenant — арендатор. Owner — владелец (общее).",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/landlord.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Our #landlord# fixed the heating.",
+    "ru": "Наш арендодатель починил отопление."
+   },
+   {
+    "en": "The #landlord# raised the rent again.",
+    "ru": "Хозяин снова поднял арендную плату."
+   },
+   {
+    "en": "The pub #landlord# knows everyone.",
+    "ru": "Хозяин паба всех знает."
+   }
+  ]
  },
  {
   "id": "7378",
   "word": "landlady",
   "transcription": "[ˈlændˌleɪdi]",
   "translation": "хозяйка, домовладелица",
-  "nuance": null,
+  "nuance": "Женщина-домовладелица или хозяйка паба. Гендерно-нейтрально — landlord, property owner.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/landlady.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Our #landlady# brings us cake.",
+    "ru": "Наша хозяйка квартиры приносит нам торт."
+   },
+   {
+    "en": "The #landlady# lives on the ground floor.",
+    "ru": "Хозяйка живёт на первом этаже."
+   },
+   {
+    "en": "Ask the #landlady# about the keys.",
+    "ru": "Спроси хозяйку насчёт ключей."
+   }
+  ]
  },
  {
   "id": "7379",
   "word": "aisle",
   "transcription": "[aɪl]",
   "translation": "проход",
-  "nuance": null,
+  "nuance": "Произношение /aɪl/ — «s» не читается! Проход (самолёт, магазин, церковь). Walk down the aisle — «выйти замуж». Isle — остров.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/aisle.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Can I have an #aisle# seat, please?",
+    "ru": "Можно мне место у прохода?"
+   },
+   {
+    "en": "The pasta is in #aisle# five.",
+    "ru": "Паста в пятом ряду."
+   },
+   {
+    "en": "She walked down the #aisle# in a white dress.",
+    "ru": "Она шла к алтарю в белом платье."
+   }
+  ]
  },
  {
   "id": "7380",
   "word": "wither",
   "transcription": "[ˈwɪðə]",
   "translation": "увянуть, засохнуть",
-  "nuance": null,
+  "nuance": "Увядать, засыхать. Перен. — «угасать». Withering look — испепеляющий взгляд. Fade — блекнуть.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/wither.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The flowers #withered# in the heat.",
+    "ru": "Цветы завяли на жаре."
+   },
+   {
+    "en": "Our hopes slowly #withered#.",
+    "ru": "Наши надежды постепенно угасли."
+   },
+   {
+    "en": "She gave him a #withering# look.",
+    "ru": "Она бросила на него испепеляющий взгляд."
+   }
+  ]
  },
  {
   "id": "7381",
   "word": "hallmark",
   "transcription": "[ˈhɔːlmɑːk]",
   "translation": "характерная черта",
-  "nuance": null,
+  "nuance": "Отличительная черта. Буквально — проба на благородных металлах. Trademark — фирменный знак.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/hallmark.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Humour is the #hallmark# of his films.",
+    "ru": "Юмор — фирменная черта его фильмов."
+   },
+   {
+    "en": "Good service is the #hallmark# of a great hotel.",
+    "ru": "Хороший сервис — отличительный признак отличного отеля."
+   },
+   {
+    "en": "The silver has a #hallmark# showing its quality.",
+    "ru": "На серебре стоит проба."
+   }
+  ]
  },
  {
   "id": "7382",
   "word": "aquatic",
   "transcription": "[əˈkwætɪk]",
   "translation": "водный",
-  "nuance": null,
+  "nuance": "Водный (о животных, растениях, спорте). Water — проще. Marine — морской.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/aquatic.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "Dolphins are #aquatic# mammals.",
+    "ru": "Дельфины — водные млекопитающие."
+   },
+   {
+    "en": "We visited the #aquatic# centre.",
+    "ru": "Мы сходили в аквапарк."
+   },
+   {
+    "en": "Frogs need #aquatic# plants.",
+    "ru": "Лягушкам нужны водные растения."
+   }
+  ]
  },
  {
   "id": "7383",
   "word": "conspire",
   "transcription": "[kənˈspaɪə]",
   "translation": "сговариваться",
-  "nuance": null,
+  "nuance": "Сговориться (часто о плохом). Шутливо — «словно сговорились» (обстоятельства). Plot — замышлять. Conspiracy — заговор.",
   "level": null,
   "image": "https://krygin100-ops.github.io/words/img/conspire.png",
-  "examples": null
+  "examples": [
+   {
+    "en": "The kids #conspired# to surprise Mum.",
+    "ru": "Дети сговорились устроить маме сюрприз."
+   },
+   {
+    "en": "They #conspired# to steal the money.",
+    "ru": "Они сговорились украсть деньги."
+   },
+   {
+    "en": "The weather #conspired# against us.",
+    "ru": "Погода будто сговорилась против нас."
+   }
+  ]
  },
  {
   "id": "7384",
