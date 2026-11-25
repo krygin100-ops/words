@@ -1,0 +1,4 @@
+<rect x="20" y="40" width="160" height="90" fill="{F}"/>
+<text x="100" y="85" font-size="26" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">SALE</text>
+<text x="100" y="115" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">−50%</text>
+<path d="M60 130 V180 M140 130 V180" stroke-width="6"/>
