@@ -1,0 +1,5 @@
+<rect x="30" y="70" width="140" height="95" rx="8" fill="{F}"/>
+<path d="M80 70 L60 30 M120 70 L140 30" stroke-width="4"/>
+<path d="M75 95 L120 117 L75 140 Z" fill="{L}" stroke="none"/>
+<path d="M150 30 Q160 40 150 50 M160 20 Q178 40 160 60" stroke-width="3"/>
+<text x="150" y="155" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">LIVE</text>
