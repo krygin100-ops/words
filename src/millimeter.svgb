@@ -1,0 +1,4 @@
+<rect x="15" y="80" width="170" height="40" fill="{F}"/>
+<path d="M25 80 V100 M35 80 V92 M45 80 V92 M55 80 V92 M65 80 V100 M75 80 V92 M85 80 V92 M95 80 V92 M105 80 V100 M115 80 V92 M125 80 V92 M135 80 V92 M145 80 V100 M155 80 V92 M165 80 V92 M175 80 V100" stroke-width="2"/>
+<text x="100" y="160" font-size="28" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">1 mm</text>
+<path d="M35 60 H45 M35 52 V68 M45 52 V68" stroke-width="2"/>

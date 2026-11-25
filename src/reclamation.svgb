@@ -1,0 +1,4 @@
+<path d="M0 120 H200 V200 H0 Z" fill="{F}"/>
+<path d="M0 60 Q25 50 50 60 T100 60 V120 H0 Z" fill="{F}" opacity="0.5" stroke-width="3"/>
+<path d="M100 60 V120" stroke-width="6"/>
+<path d="M130 120 V90 M130 105 Q115 100 115 85 Q130 88 130 105 M160 120 V95 M160 108 Q175 104 175 90 Q160 92 160 108" stroke-width="4"/>
