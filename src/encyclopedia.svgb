@@ -1,0 +1,11 @@
+<rect x="20" y="50" width="30" height="125" fill="{F}"/>
+<rect x="55" y="50" width="30" height="125" fill="{F}"/>
+<rect x="90" y="50" width="30" height="125" fill="{F}"/>
+<rect x="125" y="50" width="30" height="125" fill="{F}"/>
+<rect x="160" y="50" width="25" height="125" fill="{F}"/>
+<text x="35" y="100" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">A</text>
+<text x="70" y="100" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">D</text>
+<text x="105" y="100" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">H</text>
+<text x="140" y="100" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">M</text>
+<text x="172" y="100" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">S</text>
+<path d="M15 175 H190" stroke-width="5"/>

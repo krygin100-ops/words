@@ -1,0 +1,4 @@
+<rect x="25" y="45" width="150" height="110" fill="{F}"/>
+<text x="100" y="70" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">TELEGRAM</text>
+<path d="M40 80 H160" stroke-width="2"/>
+<path d="M40 100 H150 M40 120 H160 M40 140 H120" stroke-width="5" stroke-dasharray="20 6"/>

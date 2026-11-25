@@ -1,0 +1,5 @@
+<rect x="40" y="80" width="120" height="95" fill="{F}"/>
+<rect x="30" y="60" width="140" height="25" fill="{F}"/>
+<path d="M100 60 V175" stroke-width="7"/>
+<path d="M100 60 Q75 30 65 45 Q70 60 100 60 Q125 30 135 45 Q130 60 100 60" stroke-width="4"/>
+<text x="100" y="35" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">FREE</text>
