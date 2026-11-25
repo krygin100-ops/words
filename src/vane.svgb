@@ -1,0 +1,8 @@
+<path d="M100 185 V70" stroke-width="5"/>
+<path d="M30 70 H170" stroke-width="5"/>
+<path d="M30 70 L50 55 V85 Z" fill="{F}" stroke-width="3"/>
+<path d="M150 55 L180 70 L150 85 Z" fill="{F}" stroke-width="3"/>
+<path d="M80 100 H120 M100 100 V130" stroke-width="0"/>
+<text x="100" y="125" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">N</text>
+<path d="M85 40 L100 25 L115 40" stroke-width="0"/>
+<path d="M60 160 H140" stroke-width="3"/>

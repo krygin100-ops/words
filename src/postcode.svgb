@@ -1,0 +1,4 @@
+<rect x="25" y="50" width="150" height="100" fill="{F}"/>
+<path d="M25 50 L100 105 L175 50" stroke-width="4"/>
+<rect x="40" y="120" width="80" height="22" stroke-width="3"/>
+<text x="80" y="137" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="monospace">AB12 3CD</text>

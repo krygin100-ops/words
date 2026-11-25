@@ -1,0 +1,5 @@
+<path d="M50 180 V25" stroke-width="6"/>
+<path d="M50 30 H160 L140 60 L160 90 H50 Z" fill="{F}"/>
+<text x="100" y="70" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="serif">III</text>
+<g fill="{F}"><circle cx="100" cy="130" r="10"/><circle cx="130" cy="130" r="10"/><circle cx="160" cy="130" r="10"/></g>
+<path d="M100 140 V175 M130 140 V175 M160 140 V175" stroke-width="4"/>
