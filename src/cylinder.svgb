@@ -1,0 +1,4 @@
+<ellipse cx="100" cy="50" rx="50" ry="16" fill="{F}"/>
+<path d="M50 50 V150 M150 50 V150"/>
+<path d="M50 150 A50 16 0 0 0 150 150"/>
+<path d="M50 150 A50 16 0 0 1 150 150" stroke-dasharray="6 8" stroke-width="3"/>

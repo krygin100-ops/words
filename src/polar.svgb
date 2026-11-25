@@ -1,0 +1,4 @@
+<circle cx="100" cy="100" r="70" fill="{F}"/>
+<path d="M55 70 Q75 50 100 60 Q130 45 145 70 Q130 90 100 82 Q75 92 55 70 Z" fill="{L}" stroke="none"/>
+<path d="M100 20 V45 M100 20 L90 32 M100 20 L110 32" stroke-width="4"/>
+<text x="100" y="140" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">N</text>
