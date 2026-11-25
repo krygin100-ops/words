@@ -1,0 +1,4 @@
+<path d="M10 100 Q35 20 60 100 T110 100 T160 100 T200 100" stroke-width="5"/>
+<path d="M10 100 H190" stroke-width="2" stroke-dasharray="4 6"/>
+<path d="M35 100 V45 M28 52 L35 45 L42 52 M28 93 L35 100 L42 93" stroke-width="3"/>
+<text x="55" y="45" font-size="20" fill="{L}" stroke="none" font-family="sans-serif">A</text>

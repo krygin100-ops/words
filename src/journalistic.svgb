@@ -1,0 +1,5 @@
+<rect x="30" y="35" width="140" height="130" fill="{F}"/>
+<text x="100" y="65" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="serif">THE NEWS</text>
+<path d="M40 75 H160" stroke-width="3"/>
+<rect x="40" y="85" width="55" height="40" stroke-width="2"/>
+<path d="M105 90 H160 M105 105 H160 M105 120 H150 M40 140 H160 M40 155 H140" stroke-width="2"/>
