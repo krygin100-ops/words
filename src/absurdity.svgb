@@ -1,0 +1,6 @@
+<path d="M40 150 L70 80 L100 150" stroke-width="0"/>
+<circle cx="100" cy="115" r="40" fill="{F}"/>
+<path d="M85 105 L95 110 M115 105 L105 110 M88 130 Q100 125 112 130" stroke-width="3"/>
+<path d="M80 75 L70 30 H130 L120 75 Z" fill="{F}" stroke-width="4" transform="rotate(180 100 52)"/>
+<path d="M40 175 L60 165 M150 170 L165 160" stroke-width="0"/>
+<text x="160" y="55" font-size="32" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">?!</text>
