@@ -1,0 +1,5 @@
+<path d="M100 175 V110" stroke-width="7"/>
+<path d="M100 110 L50 50 M100 110 L150 50" stroke-width="7"/>
+<path d="M50 50 L52 72 M50 50 L72 52 M150 50 L128 52 M150 50 L148 72" stroke-width="6"/>
+<text x="40" y="35" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">A</text>
+<text x="160" y="35" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">B</text>

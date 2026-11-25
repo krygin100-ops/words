@@ -1,0 +1,5 @@
+<rect x="35" y="25" width="130" height="150" fill="{F}"/>
+<text x="55" y="60" font-size="16" fill="{L}" stroke="none" font-family="sans-serif">1.</text>
+<text x="55" y="95" font-size="16" fill="{L}" stroke="none" font-family="sans-serif">2.</text>
+<text x="55" y="130" font-size="16" fill="{L}" stroke="none" font-family="sans-serif">3.</text>
+<path d="M78 55 H150 M78 90 H145 M78 125 H150 M78 160 H130" stroke-width="3"/>

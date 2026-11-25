@@ -1,0 +1,4 @@
+<path d="M30 170 V20 M30 170 H185" stroke-width="4"/>
+<path d="M30 70 H130 V170" stroke-width="2" stroke-dasharray="5 5"/>
+<circle cx="130" cy="70" r="9" fill="{L}" stroke="none"/>
+<text x="140" y="55" font-size="20" fill="{L}" stroke="none" font-family="sans-serif">(x, y)</text>
