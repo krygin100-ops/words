@@ -1,0 +1,6 @@
+<rect x="30" y="60" width="50" height="80" fill="{F}"/>
+<rect x="120" y="40" width="50" height="100" fill="{F}"/>
+<path d="M80 140 H120" stroke-width="3"/>
+<path d="M95 60 V40 H105 M95 60 H105 V40" stroke-width="0"/>
+<path d="M100 40 V60" stroke-width="3" stroke-dasharray="4 4"/>
+<text x="100" y="180" font-size="32" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">Δ</text>

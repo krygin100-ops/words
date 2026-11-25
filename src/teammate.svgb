@@ -1,0 +1,6 @@
+<path d="M40 50 H90 V110 Q65 125 40 110 Z" fill="{F}"/>
+<path d="M110 50 H160 V110 Q135 125 110 110 Z" fill="{F}"/>
+<text x="65" y="92" font-size="30" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">7</text>
+<text x="135" y="92" font-size="30" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">9</text>
+<path d="M60 150 L100 135 L140 150" stroke-width="5"/>
+<path d="M85 165 H115" stroke-width="0"/>

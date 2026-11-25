@@ -1,0 +1,4 @@
+<path d="M20 30 V170 H185" stroke-width="3"/>
+<path d="M25 60 L60 50 L90 70 L120 110 L150 140 L175 150" stroke-width="6"/>
+<path d="M175 150 L158 150 M175 150 L168 135" stroke-width="5"/>
+<text x="140" y="70" font-size="28" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">−%</text>
