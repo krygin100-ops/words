@@ -1,0 +1,7 @@
+<path d="M20 100 H180 V175 H20 Z" fill="{F}"/>
+<path d="M20 100 L30 60 H170 L180 100" stroke-width="4"/>
+<path d="M30 120 H170" stroke-width="2"/>
+<ellipse cx="55" cy="145" rx="20" ry="12" stroke-width="3"/>
+<path d="M90 135 H135 V155 H90 Z" stroke-width="3"/>
+<circle cx="155" cy="145" r="12" stroke-width="3"/>
+<text x="100" y="88" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">DELI</text>

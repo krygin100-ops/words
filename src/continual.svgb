@@ -1,0 +1,4 @@
+<path d="M20 100 H180" stroke-width="3"/>
+<g fill="{F}"><circle cx="35" cy="100" r="10"/><circle cx="70" cy="100" r="10"/><circle cx="105" cy="100" r="10"/><circle cx="140" cy="100" r="10"/><circle cx="175" cy="100" r="10"/></g>
+<path d="M35 75 Q52 55 70 75 Q87 55 105 75 Q122 55 140 75 Q157 55 175 75" stroke-width="3"/>
+<text x="100" y="155" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">again…</text>

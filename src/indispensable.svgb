@@ -1,0 +1,4 @@
+<rect x="30" y="40" width="40" height="40" fill="{F}"/><rect x="80" y="40" width="40" height="40" fill="{F}"/><rect x="130" y="40" width="40" height="40" fill="{F}"/>
+<rect x="30" y="90" width="40" height="40" fill="{F}"/><rect x="80" y="90" width="40" height="40" fill="{L}" stroke="none"/><rect x="130" y="90" width="40" height="40" fill="{F}"/>
+<rect x="30" y="140" width="40" height="40" fill="{F}"/><rect x="80" y="140" width="40" height="40" fill="{F}"/><rect x="130" y="140" width="40" height="40" fill="{F}"/>
+<path d="M100 20 V8" stroke-width="0"/>

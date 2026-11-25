@@ -1,0 +1,5 @@
+<rect x="20" y="40" width="160" height="110" rx="6" fill="{F}"/>
+<text x="100" y="80" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="monospace">∑ xᵢ / n</text>
+<text x="100" y="115" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="monospace">= 4.27</text>
+<path d="M40 130 H160" stroke-width="3"/>
+<path d="M40 130 H120" stroke-width="7"/>
