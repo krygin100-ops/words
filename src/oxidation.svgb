@@ -1,0 +1,6 @@
+<circle cx="60" cy="100" r="30" fill="{F}"/>
+<text x="60" y="108" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">Fe</text>
+<path d="M95 100 H120 M112 92 L120 100 L112 108" stroke-width="4"/>
+<circle cx="155" cy="100" r="30" fill="{F}"/>
+<g fill="{L}" stroke="none"><circle cx="145" cy="90" r="5"/><circle cx="160" cy="110" r="6"/><circle cx="165" cy="88" r="4"/><circle cx="148" cy="112" r="3"/></g>
+<text x="100" y="60" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">+ O₂</text>

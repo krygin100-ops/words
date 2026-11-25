@@ -1,0 +1,6 @@
+<rect x="25" y="30" width="150" height="140" rx="8" fill="{F}"/>
+<text x="65" y="85" font-size="36" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">+</text>
+<text x="135" y="85" font-size="36" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">−</text>
+<text x="65" y="145" font-size="36" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">×</text>
+<text x="135" y="145" font-size="36" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">÷</text>
+<path d="M100 40 V160 M35 100 H165" stroke-width="2"/>

@@ -1,0 +1,6 @@
+<path d="M15 100 H185" stroke-width="5"/>
+<g fill="{F}"><circle cx="35" cy="100" r="10"/><circle cx="80" cy="100" r="10"/><circle cx="125" cy="100" r="10"/><circle cx="170" cy="100" r="10"/></g>
+<text x="35" y="75" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">1900</text>
+<text x="80" y="140" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">1950</text>
+<text x="125" y="75" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">2000</text>
+<text x="170" y="140" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">2020</text>
