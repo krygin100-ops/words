@@ -1,0 +1,5 @@
+<circle cx="60" cy="60" r="18" fill="{F}"/>
+<path d="M60 78 V130 M60 130 L48 175 M60 130 L72 175 M60 95 L95 80"/>
+<rect x="95" y="30" width="90" height="80" fill="{F}"/>
+<text x="140" y="65" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="serif">∫ x dx</text>
+<text x="140" y="95" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="serif">= x²/2</text>

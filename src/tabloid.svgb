@@ -1,0 +1,5 @@
+<rect x="30" y="25" width="140" height="150" fill="{F}"/>
+<text x="100" y="70" font-size="34" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">WOW!</text>
+<rect x="45" y="85" width="50" height="55" stroke-width="3"/>
+<text x="130" y="110" font-size="24" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">?!</text>
+<path d="M105 125 H155 M45 155 H155" stroke-width="3"/>
