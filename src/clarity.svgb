@@ -1,0 +1,4 @@
+<circle cx="85" cy="85" r="50" fill="{F}"/>
+<path d="M120 120 L170 170" stroke-width="10"/>
+<path d="M60 70 Q70 55 90 52" stroke-width="4"/>
+<text x="85" y="100" font-size="30" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">Aa</text>

@@ -1,0 +1,6 @@
+<rect x="30" y="40" width="140" height="110" fill="{F}"/>
+<path d="M30 40 L100 95 L170 40" stroke-width="4"/>
+<rect x="60" y="110" width="80" height="30" stroke-width="3" transform="rotate(-10 100 125)"/>
+<text x="100" y="132" font-size="14" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif" transform="rotate(-10 100 125)">SECRET</text>
+<rect x="140" y="140" width="40" height="35" rx="4" fill="{F}"/>
+<path d="M148 140 V128 Q160 112 172 128 V140" stroke-width="4"/>

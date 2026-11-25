@@ -1,0 +1,7 @@
+<rect x="25" y="70" width="40" height="60" fill="{F}"/>
+<rect x="80" y="70" width="40" height="60" fill="{F}"/>
+<rect x="135" y="70" width="40" height="60" fill="{F}"/>
+<text x="45" y="110" font-size="24" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">1</text>
+<text x="100" y="110" font-size="24" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">2</text>
+<text x="155" y="110" font-size="24" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">3</text>
+<path d="M45 140 V165 M100 140 V165 M155 140 V165" stroke-width="3"/>
