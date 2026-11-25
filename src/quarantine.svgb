@@ -1,0 +1,8 @@
+<path d="M20 100 L80 60 L140 100" stroke-width="5"/>
+<rect x="35" y="100" width="90" height="70" fill="{F}"/>
+<circle cx="80" cy="130" r="12" fill="{L}" stroke="none"/>
+<path d="M80 142 V170" stroke-width="5"/>
+<text x="165" y="80" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">14</text>
+<path d="M140 90 H190 V125 H140 Z" stroke-width="3"/>
+<text x="165" y="117" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">days</text>
+<path d="M20 180 H180" stroke-width="3" stroke-dasharray="8 6"/>

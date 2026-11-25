@@ -1,0 +1,4 @@
+<circle cx="100" cy="55" r="18" fill="{F}"/>
+<path d="M90 55 Q93 60 96 55 M104 55 Q107 60 110 55 M92 66 Q100 62 108 66" stroke-width="3"/>
+<path d="M100 73 V120 M100 120 L75 140 L80 175 M100 120 L125 140 L120 175 M100 85 L90 105 L100 110 L110 105 L100 85"/>
+<text x="160" y="45" font-size="24" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">please</text>
