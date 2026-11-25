@@ -1,6 +1,6 @@
 <circle cx="60" cy="60" r="18" fill="{F}"/>
 <path d="M60 78 V130 M60 130 L47 178 M60 130 L73 178 M60 95 L95 85"/>
 <rect x="95" y="30" width="90" height="80" fill="{F}"/>
-<text x="140" y="80" font-size="28" text-anchor="middle" fill="{L}" stroke="none" font-family="serif">E=mc²</text>
+<text x="140" y="80" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="serif">E=mc²</text>
 <circle cx="145" cy="150" r="10" fill="{L}" stroke="none"/>
 <ellipse cx="145" cy="150" rx="35" ry="12" stroke-width="3"/>

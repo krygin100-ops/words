@@ -6,4 +6,4 @@
 <text x="160" y="98" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">C</text>
 <path d="M60 90 H80 M120 90 H140" stroke-width="4"/>
 <path d="M72 82 L80 90 L72 98 M132 82 L140 90 L132 98" stroke-width="4"/>
-<text x="100" y="155" font-size="30" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">∴</text>
+<g fill="{L}" stroke="none"><circle cx="100" cy="135" r="6"/><circle cx="88" cy="155" r="6"/><circle cx="112" cy="155" r="6"/></g>
