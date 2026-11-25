@@ -1,0 +1,5 @@
+<path d="M100 20 V70 M100 70 Q85 80 75 90 M100 70 Q115 80 125 90" stroke-width="6"/>
+<path d="M75 65 Q35 70 30 125 Q30 170 65 165 Q85 160 85 125 V90 Z" fill="{F}"/>
+<path d="M125 65 Q165 70 170 125 Q170 170 135 165 Q115 160 115 125 V90 Z" fill="{F}"/>
+<path d="M50 90 L55 95 L48 100 L56 104 M140 120 L148 124 L142 130 L150 135" stroke-width="3"/>
+<text x="100" y="192" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">TB</text>

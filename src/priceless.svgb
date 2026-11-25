@@ -1,0 +1,4 @@
+<path d="M100 30 L150 75 L100 170 L50 75 Z" fill="{F}"/>
+<path d="M50 75 H150 M75 75 L100 170 L125 75 M75 75 L100 30 L125 75" stroke-width="3"/>
+<rect x="125" y="125" width="55" height="30" rx="4" stroke-width="3" transform="rotate(-15 152 140)"/>
+<text x="152" y="147" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif" transform="rotate(-15 152 140)">∞ $</text>

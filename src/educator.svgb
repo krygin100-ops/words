@@ -1,0 +1,6 @@
+<rect x="20" y="30" width="110" height="80" fill="{F}"/>
+<text x="75" y="80" font-size="30" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">A+B</text>
+<circle cx="160" cy="70" r="16" fill="{F}"/>
+<path d="M160 86 V140 M160 140 L148 180 M160 140 L172 180 M160 100 L130 80"/>
+<path d="M130 80 L115 70" stroke-width="3"/>
+<g fill="{F}"><circle cx="40" cy="150" r="10"/><circle cx="80" cy="150" r="10"/><circle cx="120" cy="150" r="10"/></g>

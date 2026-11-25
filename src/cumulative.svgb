@@ -1,0 +1,7 @@
+<path d="M20 175 H180" stroke-width="3"/>
+<rect x="30" y="150" width="25" height="25" fill="{F}"/>
+<rect x="65" y="125" width="25" height="50" fill="{F}"/>
+<rect x="100" y="95" width="25" height="80" fill="{F}"/>
+<rect x="135" y="55" width="25" height="120" fill="{F}"/>
+<path d="M65 150 H90 M100 150 H125 M100 125 H125 M135 150 H160 M135 125 H160 M135 95 H160" stroke-width="2"/>
+<text x="100" y="40" font-size="26" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">Σ</text>
