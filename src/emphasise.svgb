@@ -1,0 +1,4 @@
+<text x="100" y="115" font-size="44" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">KEY</text>
+<path d="M40 130 H160" stroke-width="7"/>
+<path d="M40 145 H160" stroke-width="4"/>
+<path d="M40 50 L55 65 M100 40 V60 M160 50 L145 65" stroke-width="4"/>

@@ -1,0 +1,6 @@
+<circle cx="70" cy="80" r="20" fill="{F}"/>
+<path d="M60 90 Q70 96 80 90" stroke-width="3"/>
+<path d="M70 100 V145 M70 145 L58 180 M70 145 L82 180 M70 115 L45 100 M70 115 L95 100"/>
+<path d="M105 25 H190 V85 H135 L120 100 V85 H105 Z" fill="{F}" stroke-width="3"/>
+<text x="148" y="50" font-size="13" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">Once upon</text>
+<text x="148" y="70" font-size="13" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">a time…</text>
