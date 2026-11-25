@@ -1,0 +1,6 @@
+<rect x="25" y="30" width="45" height="40" fill="{F}"/><rect x="25" y="80" width="45" height="40" fill="{F}"/><rect x="25" y="130" width="45" height="40" fill="{F}"/>
+<text x="47" y="58" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">A</text>
+<text x="47" y="108" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">B</text>
+<text x="47" y="158" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">C</text>
+<path d="M85 50 H160 M85 100 H150 M85 150 H165" stroke-width="3"/>
+<path d="M180 40 V160 M170 150 L180 160 L190 150" stroke-width="4"/>

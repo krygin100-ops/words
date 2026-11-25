@@ -1,0 +1,5 @@
+<rect x="35" y="35" width="130" height="130" fill="{F}"/>
+<path d="M55 65 H145 M55 90 H145 M55 115 H145 M55 140 H145" stroke-width="2"/>
+<rect x="55" y="85" width="90" height="12" fill="{L}" stroke="none" opacity="0.2"/>
+<circle cx="150" cy="150" r="28" fill="{F}" stroke-width="4"/>
+<path d="M135 135 L165 165 M165 135 L135 165" stroke-width="5"/>
