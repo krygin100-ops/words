@@ -1,0 +1,5 @@
+<circle cx="70" cy="110" r="22" fill="{F}"/>
+<path d="M70 132 V175 M70 145 L95 130" stroke-width="5"/>
+<circle cx="105" cy="80" r="5"/><circle cx="118" cy="62" r="7"/>
+<path d="M115 50 Q105 20 140 15 Q175 10 185 35 Q195 60 165 65 Q140 70 115 50 Z" fill="{F}" stroke-width="3"/>
+<text x="150" y="48" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="serif">if…then</text>

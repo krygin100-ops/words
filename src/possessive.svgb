@@ -1,0 +1,5 @@
+<circle cx="80" cy="80" r="18" fill="{F}"/>
+<path d="M80 98 V150 M80 150 L68 180 M80 150 L92 180 M80 115 Q120 110 130 140 M80 115 Q40 120 50 145" stroke-width="5"/>
+<rect x="105" y="130" width="50" height="40" fill="{F}" stroke-width="4"/>
+<text x="130" y="157" font-size="15" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">MINE</text>
+<path d="M120 50 L135 40 M140 70 L155 65" stroke-width="3"/>

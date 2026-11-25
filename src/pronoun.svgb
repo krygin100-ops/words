@@ -1,0 +1,10 @@
+<rect x="20" y="60" width="50" height="45" rx="8" fill="{F}"/>
+<rect x="75" y="60" width="50" height="45" rx="8" fill="{F}"/>
+<rect x="130" y="60" width="50" height="45" rx="8" fill="{F}"/>
+<text x="45" y="92" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">I</text>
+<text x="100" y="92" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">you</text>
+<text x="155" y="92" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">she</text>
+<rect x="45" y="120" width="50" height="45" rx="8" fill="{F}"/>
+<rect x="105" y="120" width="50" height="45" rx="8" fill="{F}"/>
+<text x="70" y="152" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">we</text>
+<text x="130" y="152" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">they</text>

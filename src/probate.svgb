@@ -1,0 +1,7 @@
+<rect x="30" y="25" width="110" height="150" fill="{F}"/>
+<text x="85" y="55" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">WILL</text>
+<path d="M45 75 H125 M45 90 H125 M45 105 H110" stroke-width="2"/>
+<path d="M45 150 Q55 130 65 150 Q75 165 85 140" stroke-width="3"/>
+<rect x="135" y="125" width="45" height="16" rx="3" fill="{L}" stroke="none" transform="rotate(-30 157 133)"/>
+<path d="M155 140 L150 160" stroke-width="4"/>
+<path d="M135 165 H175" stroke-width="5"/>
