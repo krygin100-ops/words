@@ -1,0 +1,4 @@
+<rect x="50" y="20" width="100" height="160" rx="10" fill="{F}"/>
+<rect x="62" y="32" width="76" height="30" stroke-width="3"/>
+<text x="130" y="55" font-size="18" text-anchor="end" fill="{L}" stroke="none" font-family="sans-serif">42</text>
+<g fill="{L}" stroke="none"><rect x="64" y="75" width="18" height="18"/><rect x="91" y="75" width="18" height="18"/><rect x="118" y="75" width="18" height="18"/><rect x="64" y="102" width="18" height="18"/><rect x="91" y="102" width="18" height="18"/><rect x="118" y="102" width="18" height="18"/><rect x="64" y="129" width="18" height="18"/><rect x="91" y="129" width="18" height="18"/><rect x="118" y="129" width="18" height="45"/><rect x="64" y="156" width="45" height="18"/></g>

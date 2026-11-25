@@ -1,0 +1,6 @@
+<circle cx="70" cy="60" r="18" fill="{F}"/>
+<path d="M70 78 V130 M70 130 L55 175 M70 130 L85 175 M70 95 L105 75"/>
+<rect x="100" y="55" width="14" height="26" rx="6" fill="{F}" stroke-width="4"/>
+<path d="M120 50 Q130 65 120 82 M132 42 Q148 65 132 92" stroke-width="3"/>
+<rect x="135" y="130" width="45" height="30" fill="{F}" stroke-width="4"/>
+<text x="157" y="151" font-size="12" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">PRESS</text>
