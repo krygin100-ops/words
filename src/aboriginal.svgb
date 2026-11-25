@@ -1,0 +1,3 @@
+<circle cx="100" cy="100" r="60" fill="{F}"/>
+<g fill="{L}" stroke="none"><circle cx="100" cy="100" r="10"/><circle cx="100" cy="70" r="4"/><circle cx="100" cy="130" r="4"/><circle cx="70" cy="100" r="4"/><circle cx="130" cy="100" r="4"/><circle cx="79" cy="79" r="4"/><circle cx="121" cy="121" r="4"/><circle cx="121" cy="79" r="4"/><circle cx="79" cy="121" r="4"/><circle cx="100" cy="52" r="3"/><circle cx="100" cy="148" r="3"/><circle cx="52" cy="100" r="3"/><circle cx="148" cy="100" r="3"/></g>
+<circle cx="100" cy="100" r="30" stroke-width="2" stroke-dasharray="2 5"/>

@@ -1,0 +1,3 @@
+<path d="M100 120 V185 M100 160 Q80 145 70 155 Q85 170 100 165" stroke-width="5"/>
+<g fill="{F}"><ellipse cx="100" cy="45" rx="11" ry="25"/><ellipse cx="100" cy="115" rx="11" ry="25" transform="rotate(0)"/><ellipse cx="65" cy="80" rx="25" ry="11"/><ellipse cx="135" cy="80" rx="25" ry="11"/><ellipse cx="75" cy="55" rx="11" ry="22" transform="rotate(-45 75 55)"/><ellipse cx="125" cy="55" rx="11" ry="22" transform="rotate(45 125 55)"/><ellipse cx="75" cy="105" rx="11" ry="22" transform="rotate(45 75 105)"/><ellipse cx="125" cy="105" rx="11" ry="22" transform="rotate(-45 125 105)"/></g>
+<circle cx="100" cy="80" r="16" fill="{L}" stroke="none"/>
