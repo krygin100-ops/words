@@ -1,0 +1,4 @@
+<rect x="20" y="35" width="160" height="120" fill="{F}"/>
+<text x="100" y="85" font-size="26" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">a² + b² = c²</text>
+<path d="M60 135 L60 110 L100 135 Z" stroke-width="3"/>
+<text x="140" y="135" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">∎</text>

@@ -1,0 +1,5 @@
+<rect x="40" y="25" width="110" height="150" fill="{F}"/>
+<path d="M55 50 H135 M55 70 H135 M55 90 H125" stroke-width="3"/>
+<text x="95" y="135" font-size="24" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">GUILTY?</text>
+<path d="M150 60 L180 40" stroke-width="0"/>
+<rect x="140" y="140" width="40" height="16" rx="3" fill="{L}" stroke="none" transform="rotate(-30 160 148)"/>
