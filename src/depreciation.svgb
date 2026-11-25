@@ -1,0 +1,6 @@
+<rect x="40" y="70" width="100" height="60" rx="8" fill="{F}"/>
+<circle cx="65" cy="135" r="12"/><circle cx="115" cy="135" r="12"/>
+<path d="M55 70 L70 50 H110 L125 70" stroke-width="4"/>
+<path d="M150 40 L180 100 M180 100 L178 85 M180 100 L166 95" stroke-width="4"/>
+<text x="165" y="40" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">$</text>
+<text x="100" y="180" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">−20%/yr</text>
