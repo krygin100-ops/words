@@ -1,0 +1,5 @@
+<path d="M50 70 A50 50 0 0 1 150 70" stroke-width="6"/>
+<path d="M150 70 L138 62 M150 70 L155 57" stroke-width="6"/>
+<path d="M150 130 A50 50 0 0 1 50 130" stroke-width="6"/>
+<path d="M50 130 L62 138 M50 130 L45 143" stroke-width="6"/>
+<text x="100" y="112" font-size="34" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">× 3</text>

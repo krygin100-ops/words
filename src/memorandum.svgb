@@ -1,0 +1,4 @@
+<rect x="40" y="25" width="120" height="150" fill="{F}"/>
+<text x="100" y="55" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">MEMO</text>
+<path d="M55 70 H145" stroke-width="3"/>
+<path d="M55 90 H145 M55 105 H145 M55 120 H130 M55 135 H140 M55 150 H110" stroke-width="2"/>
