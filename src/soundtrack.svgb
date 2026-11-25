@@ -1,0 +1,5 @@
+<rect x="20" y="40" width="160" height="110" fill="{F}"/>
+<path d="M20 60 H180 M20 130 H180" stroke-width="2"/>
+<path d="M30 50 H40 M55 50 H65 M80 50 H90 M105 50 H115 M130 50 H140 M155 50 H165 M30 140 H40 M55 140 H65 M80 140 H90 M105 140 H115 M130 140 H140 M155 140 H165" stroke-width="3"/>
+<path d="M90 115 V75 L125 70 V108"/>
+<ellipse cx="83" cy="115" rx="9" ry="7" fill="{L}" stroke="none"/><ellipse cx="118" cy="108" rx="9" ry="7" fill="{L}" stroke="none"/>

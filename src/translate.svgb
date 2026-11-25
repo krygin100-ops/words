@@ -1,0 +1,5 @@
+<rect x="20" y="30" width="80" height="70" rx="8" fill="{F}"/>
+<rect x="100" y="100" width="80" height="70" rx="8" fill="{F}"/>
+<text x="60" y="78" font-size="36" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">A</text>
+<text x="140" y="148" font-size="36" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">Я</text>
+<path d="M130 50 Q160 50 160 85 M150 75 L160 88 L170 75 M70 150 Q40 150 40 115 M30 125 L40 112 L50 125" stroke-width="4"/>
