@@ -1,0 +1,7 @@
+<circle cx="60" cy="55" r="18" fill="{F}"/>
+<path d="M60 73 V130 M60 130 L48 175 M60 130 L72 175 M60 90 L100 70"/>
+<path d="M100 70 L110 62" stroke-width="5"/>
+<circle cx="150" cy="95" r="14" fill="{F}"/>
+<path d="M150 109 V150 M150 150 L140 180 M150 150 L160 180 M150 120 L135 140 M150 120 L165 140" stroke-width="4"/>
+<path d="M95 30 H175 V60 H120 L110 70 V60 H95 Z" fill="{F}" stroke-width="3"/>
+<text x="135" y="51" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">1, 2, 3…</text>

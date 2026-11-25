@@ -1,0 +1,4 @@
+<circle cx="70" cy="100" r="45" fill="{F}"/>
+<circle cx="150" cy="140" r="15" stroke-dasharray="4 4"/>
+<path d="M110 120 L135 133" stroke-width="2" stroke-dasharray="4 4"/>
+<text x="150" y="80" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">+</text>
