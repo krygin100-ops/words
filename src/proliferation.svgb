@@ -1,0 +1,4 @@
+<circle cx="100" cy="100" r="18" fill="{F}"/>
+<g fill="{F}"><circle cx="55" cy="60" r="12"/><circle cx="145" cy="60" r="12"/><circle cx="55" cy="140" r="12"/><circle cx="145" cy="140" r="12"/></g>
+<g fill="{L}" stroke="none"><circle cx="25" cy="30" r="7"/><circle cx="60" cy="20" r="6"/><circle cx="175" cy="30" r="7"/><circle cx="140" cy="20" r="6"/><circle cx="25" cy="170" r="7"/><circle cx="60" cy="180" r="6"/><circle cx="175" cy="170" r="7"/><circle cx="140" cy="180" r="6"/><circle cx="20" cy="100" r="6"/><circle cx="180" cy="100" r="6"/></g>
+<path d="M87 87 L65 70 M113 87 L135 70 M87 113 L65 130 M113 113 L135 130" stroke-width="3"/>

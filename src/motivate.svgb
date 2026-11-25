@@ -1,0 +1,5 @@
+<circle cx="45" cy="70" r="16" fill="{F}"/>
+<path d="M45 86 V135 M45 135 L33 178 M45 135 L57 178 M45 100 L70 85"/>
+<path d="M70 75 L105 60 V110 L70 95 Z" fill="{F}" stroke-width="4"/>
+<path d="M115 70 L135 60 M118 85 H142 M115 100 L135 110" stroke-width="4"/>
+<text x="160" y="150" font-size="28" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">GO!</text>

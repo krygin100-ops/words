@@ -1,0 +1,7 @@
+<circle cx="100" cy="100" r="60" fill="{F}"/>
+<path d="M72 88 Q80 82 88 88 M112 88 Q120 82 128 88" stroke-width="4"/>
+<path d="M85 120 Q100 125 115 115" stroke-width="4"/>
+<path d="M120 115 L135 108" stroke-width="4"/>
+<path d="M60 55 L80 68 M140 55 L120 68" stroke-width="0"/>
+<path d="M70 70 L85 75 M130 70 L115 75" stroke-width="3"/>
+<text x="165" y="45" font-size="26" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">pfft</text>
