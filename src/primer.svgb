@@ -1,0 +1,5 @@
+<rect x="40" y="80" width="80" height="95" rx="6" fill="{F}"/>
+<path d="M40 80 Q80 65 120 80" stroke-width="5"/>
+<text x="80" y="135" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">PRIMER</text>
+<rect x="135" y="40" width="30" height="20" fill="{F}" stroke-width="4"/>
+<path d="M150 60 V100 M145 100 H155 V150 H145 Z" fill="{F}" stroke-width="4"/>
