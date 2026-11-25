@@ -1,0 +1,5 @@
+<rect x="30" y="40" width="140" height="100" fill="{F}"/>
+<text x="100" y="72" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">DIPLOMA</text>
+<path d="M50 92 H150 M50 110 H120" stroke-width="3"/>
+<circle cx="145" cy="135" r="18" fill="{F}"/>
+<path d="M137 150 L130 180 L145 170 L160 180 L153 150" stroke-width="4"/>
