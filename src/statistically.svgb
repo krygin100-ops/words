@@ -1,0 +1,4 @@
+<path d="M25 170 V25 M25 170 H185" stroke-width="3"/>
+<path d="M30 165 Q60 165 80 110 Q100 40 120 110 Q140 165 175 165" fill="{F}"/>
+<path d="M100 40 V165" stroke-width="2" stroke-dasharray="5 5"/>
+<text x="150" y="60" font-size="22" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">σ</text>

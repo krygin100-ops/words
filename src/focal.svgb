@@ -1,0 +1,5 @@
+<circle cx="100" cy="100" r="70" stroke-width="2" stroke-dasharray="5 5"/>
+<circle cx="100" cy="100" r="45" stroke-width="3" stroke-dasharray="5 5"/>
+<circle cx="100" cy="100" r="18" fill="{L}" stroke="none"/>
+<path d="M30 30 L60 60 M170 30 L140 60 M30 170 L60 140 M170 170 L140 140" stroke-width="4"/>
+<path d="M60 60 L50 58 M60 60 L58 50 M140 60 L150 58 M140 60 L142 50 M60 140 L50 142 M60 140 L58 150 M140 140 L150 142 M140 140 L142 150" stroke-width="4"/>

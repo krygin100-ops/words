@@ -1,0 +1,6 @@
+<path d="M20 100 H80 M120 100 H180" stroke-width="8"/>
+<path d="M100 100 L75 80 Q65 100 75 120 Z M100 100 L125 80 Q135 100 125 120 Z" fill="{F}" stroke-width="4"/>
+<path d="M95 105 L85 140 M105 105 L115 140" stroke-width="5"/>
+<circle cx="60" cy="160" r="12" stroke-width="4"/><circle cx="90" cy="168" r="12" stroke-width="4"/>
+<path d="M68 150 L120 95 M80 158 L125 105" stroke-width="4"/>
+<text x="100" y="50" font-size="24" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">OPEN</text>

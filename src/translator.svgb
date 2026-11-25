@@ -1,0 +1,6 @@
+<circle cx="100" cy="55" r="18" fill="{F}"/>
+<path d="M100 73 V130 M100 130 L88 178 M100 130 L112 178 M100 90 L75 110 M100 90 L125 110"/>
+<path d="M10 70 H60 V105 H30 L22 115 V105 H10 Z" fill="{F}" stroke-width="3"/>
+<path d="M140 70 H190 V105 H180 V115 L170 105 H140 Z" fill="{F}" stroke-width="3"/>
+<text x="35" y="95" font-size="18" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">Hi</text>
+<text x="165" y="95" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">Привет</text>
