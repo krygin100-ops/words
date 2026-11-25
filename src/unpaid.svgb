@@ -1,0 +1,5 @@
+<path d="M40 30 H120 L160 70 V175 H40 Z" fill="{F}"/>
+<path d="M120 30 V70 H160" stroke-width="4"/>
+<path d="M60 95 H140 M60 115 H120" stroke-width="3"/>
+<rect x="55" y="135" width="90" height="28" rx="4" stroke-width="4" transform="rotate(-10 100 149)"/>
+<text x="100" y="156" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif" transform="rotate(-10 100 149)">UNPAID</text>

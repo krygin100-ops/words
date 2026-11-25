@@ -1,0 +1,5 @@
+<rect x="40" y="80" width="120" height="90" fill="{F}"/>
+<path d="M30 85 L100 35 L170 85" stroke-width="5"/>
+<text x="100" y="110" font-size="15" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">FIRE DEPT</text>
+<rect x="75" y="125" width="50" height="45" stroke-width="3"/>
+<path d="M140 75 Q160 50 152 25 Q175 45 170 75 Q165 90 150 90 Q135 88 140 75 Z" fill="{L}" stroke="none"/>
