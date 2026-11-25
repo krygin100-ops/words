@@ -1,0 +1,4 @@
+<circle cx="100" cy="100" r="35" fill="{F}"/>
+<ellipse cx="100" cy="100" rx="85" ry="30" stroke-width="3" transform="rotate(-20 100 100)"/>
+<rect x="160" y="55" width="16" height="10" fill="{F}" stroke-width="3"/>
+<path d="M150 60 H160 M176 60 H186" stroke-width="3"/>
