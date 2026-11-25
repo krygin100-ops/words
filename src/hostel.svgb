@@ -1,0 +1,5 @@
+<rect x="30" y="50" width="140" height="125" fill="{F}"/>
+<path d="M45 80 H95 M45 115 H95 M105 80 H155 M105 115 H155" stroke-width="4"/>
+<path d="M45 70 V90 M95 70 V90 M45 105 V125 M95 105 V125 M105 70 V90 M155 70 V90 M105 105 V125 M155 105 V125" stroke-width="3"/>
+<rect x="85" y="140" width="30" height="35" stroke-width="3"/>
+<text x="100" y="40" font-size="20" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">HOSTEL</text>

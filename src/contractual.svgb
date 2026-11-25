@@ -1,0 +1,5 @@
+<rect x="40" y="25" width="120" height="150" fill="{F}"/>
+<text x="100" y="55" font-size="16" text-anchor="middle" fill="{L}" stroke="none" font-family="sans-serif">CONTRACT</text>
+<path d="M55 75 H145 M55 90 H145 M55 105 H130" stroke-width="2"/>
+<path d="M55 150 Q65 130 75 150 Q85 165 95 140" stroke-width="3"/>
+<path d="M110 150 Q120 130 130 150 Q140 165 150 140" stroke-width="3"/>
