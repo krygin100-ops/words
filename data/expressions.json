@@ -1386,5 +1386,2457 @@
     "ru": "Пробка, кофе, почта — всё то же самое."
    }
   ]
+ },
+ {
+  "id": "what_s_new",
+  "word": "what's new?",
+  "translation": "что нового?",
+  "note": "Разг. приветствие-вопрос. Типичный ответ: not much / nothing much.",
+  "examples": [
+   {
+    "en": "Hey, #what's new#?",
+    "ru": "Привет, что нового?"
+   },
+   {
+    "en": "— #What's new#? — Not much, you?",
+    "ru": "— Что нового? — Да ничего, а у тебя?"
+   }
+  ]
+ },
+ {
+  "id": "not_much",
+  "word": "not much",
+  "translation": "да ничего особенного",
+  "note": "Стандартный ответ на what's up / what's new. Затем обычно you?",
+  "examples": [
+   {
+    "en": "— What's up? — #Not much#. You?",
+    "ru": "— Как оно? — Да ничего. А ты?"
+   },
+   {
+    "en": "— What are you doing tonight? — #Not much#.",
+    "ru": "— Что делаешь вечером? — Ничего особенного."
+   }
+  ]
+ },
+ {
+  "id": "how_are_you_doing",
+  "word": "how are you doing?",
+  "translation": "как поживаешь?",
+  "note": "Амер. приветствие, часто не ждёт подробного ответа. Разг. how you doin'?",
+  "examples": [
+   {
+    "en": "Hi Sarah, #how are you doing#?",
+    "ru": "Привет, Сара, как поживаешь?"
+   },
+   {
+    "en": "— #How are you doing#? — Pretty good, thanks.",
+    "ru": "— Как дела? — Неплохо, спасибо."
+   }
+  ]
+ },
+ {
+  "id": "pretty_good",
+  "word": "pretty good",
+  "translation": "довольно хорошо; неплохо",
+  "note": "Самый частый американский ответ на how are you.",
+  "examples": [
+   {
+    "en": "— How was your weekend? — #Pretty good#.",
+    "ru": "— Как выходные? — Неплохо."
+   },
+   {
+    "en": "I'm doing #pretty good#, thanks.",
+    "ru": "У меня всё неплохо, спасибо."
+   }
+  ]
+ },
+ {
+  "id": "hey_there",
+  "word": "hey there",
+  "translation": "привет",
+  "note": "Дружелюбное неформальное приветствие.",
+  "examples": [
+   {
+    "en": "#Hey there#! Haven't seen you in ages.",
+    "ru": "Привет! Сто лет тебя не видел."
+   }
+  ]
+ },
+ {
+  "id": "nice_to_meet_you",
+  "word": "nice to meet you",
+  "translation": "приятно познакомиться",
+  "note": "При первой встрече. Ответ: nice to meet you too. При прощании — nice meeting you.",
+  "examples": [
+   {
+    "en": "I'm Anna. — #Nice to meet you#, Anna.",
+    "ru": "Я Анна. — Приятно познакомиться, Анна."
+   },
+   {
+    "en": "It was #nice meeting you#!",
+    "ru": "Было приятно познакомиться!"
+   }
+  ]
+ },
+ {
+  "id": "how_have_you_been",
+  "word": "how have you been?",
+  "translation": "как ты всё это время?",
+  "note": "Вопрос после долгого перерыва. Разг. how've you been.",
+  "examples": [
+   {
+    "en": "Mike! #How have you been#?",
+    "ru": "Майк! Как ты поживал всё это время?"
+   }
+  ]
+ },
+ {
+  "id": "what_have_you_been_up_to",
+  "word": "what have you been up to?",
+  "translation": "чем занимался?",
+  "note": "Интерес к делам за последнее время.",
+  "examples": [
+   {
+    "en": "So, #what have you been up to# lately?",
+    "ru": "Ну, чем ты занимался в последнее время?"
+   }
+  ]
+ },
+ {
+  "id": "what_are_you_up_to",
+  "word": "what are you up to?",
+  "translation": "чем занят?; что делаешь?",
+  "note": "Разг. вопрос о текущих планах.",
+  "examples": [
+   {
+    "en": "#What are you up to# this weekend?",
+    "ru": "Что делаешь на выходных?"
+   },
+   {
+    "en": "Hey, #what are you up to#?",
+    "ru": "Привет, чем занят?"
+   }
+  ]
+ },
+ {
+  "id": "how_was_your_day",
+  "word": "how was your day?",
+  "translation": "как прошёл день?",
+  "note": "Обычный вечерний вопрос близким.",
+  "examples": [
+   {
+    "en": "Hi honey, #how was your day#?",
+    "ru": "Привет, дорогая, как прошёл день?"
+   }
+  ]
+ },
+ {
+  "id": "how_s_everything",
+  "word": "how's everything?",
+  "translation": "как всё?; как дела в целом?",
+  "note": "Общий вопрос, также официант про еду.",
+  "examples": [
+   {
+    "en": "#How's everything#? — Great, thanks.",
+    "ru": "Как всё? — Отлично, спасибо."
+   },
+   {
+    "en": "— #How's everything# here? — Delicious!",
+    "ru": "— Всё ли в порядке с блюдами? — Очень вкусно!"
+   }
+  ]
+ },
+ {
+  "id": "how_s_it_going_with",
+  "word": "how's it going with...?",
+  "translation": "как продвигается...?",
+  "note": "Вопрос о проекте, отношениях, учёбе.",
+  "examples": [
+   {
+    "en": "#How's it going with# the new house?",
+    "ru": "Как дела с новым домом?"
+   }
+  ]
+ },
+ {
+  "id": "what_do_you_do",
+  "word": "what do you do?",
+  "translation": "чем ты занимаешься (по работе)?",
+  "note": "Ловушка: это вопрос о профессии, а не о текущем действии.",
+  "examples": [
+   {
+    "en": "— #What do you do#? — I'm a nurse.",
+    "ru": "— Кем работаешь? — Я медсестра."
+   }
+  ]
+ },
+ {
+  "id": "where_are_you_from",
+  "word": "where are you from?",
+  "translation": "откуда ты?",
+  "note": "Обычный вопрос при знакомстве.",
+  "examples": [
+   {
+    "en": "— #Where are you from#? — Russia, originally.",
+    "ru": "— Откуда ты? — Вообще из России."
+   }
+  ]
+ },
+ {
+  "id": "what_s_wrong",
+  "word": "what's wrong?",
+  "translation": "что случилось?; что не так?",
+  "note": "Беспокойство о человеке. Также what's the matter?",
+  "examples": [
+   {
+    "en": "You look upset. #What's wrong#?",
+    "ru": "Ты расстроен. Что случилось?"
+   }
+  ]
+ },
+ {
+  "id": "what_s_the_matter",
+  "word": "what's the matter?",
+  "translation": "в чём дело?",
+  "note": "Чуть формальнее what's wrong.",
+  "examples": [
+   {
+    "en": "#What's the matter#? You're so quiet.",
+    "ru": "В чём дело? Ты такой тихий."
+   }
+  ]
+ },
+ {
+  "id": "are_you_ok",
+  "word": "are you OK?",
+  "translation": "ты в порядке?",
+  "note": "Проверяем самочувствие. Разг. you OK?",
+  "examples": [
+   {
+    "en": "You fell! #Are you OK#?",
+    "ru": "Ты упал! Ты в порядке?"
+   }
+  ]
+ },
+ {
+  "id": "what_happened",
+  "word": "what happened?",
+  "translation": "что произошло?",
+  "note": "Нейтральный вопрос о событии.",
+  "examples": [
+   {
+    "en": "Your car is dented — #what happened#?",
+    "ru": "У тебя машина помята — что произошло?"
+   }
+  ]
+ },
+ {
+  "id": "how_come",
+  "word": "how come?",
+  "translation": "как так?; почему?",
+  "note": "Разг. «почему», порядок слов прямой: how come you're late?",
+  "examples": [
+   {
+    "en": "#How come# you didn't call?",
+    "ru": "Как так, что ты не позвонил?"
+   },
+   {
+    "en": "— I can't go. — #How come#?",
+    "ru": "— Я не могу пойти. — Почему?"
+   }
+  ]
+ },
+ {
+  "id": "what_for",
+  "word": "what for?",
+  "translation": "зачем?; для чего?",
+  "note": "Разг. вопрос о цели.",
+  "examples": [
+   {
+    "en": "— I need your passport. — #What for#?",
+    "ru": "— Мне нужен твой паспорт. — Зачем?"
+   }
+  ]
+ },
+ {
+  "id": "what_s_the_big_deal",
+  "word": "what's the big deal?",
+  "translation": "ну и что такого?",
+  "note": "Не понимаем, почему все волнуются.",
+  "examples": [
+   {
+    "en": "It's just a scratch — #what's the big deal#?",
+    "ru": "Это просто царапина — что такого?"
+   }
+  ]
+ },
+ {
+  "id": "what_s_going_on",
+  "word": "what's going on?",
+  "translation": "что происходит?",
+  "note": "Вопрос о ситуации, иногда тревожный.",
+  "examples": [
+   {
+    "en": "Why is everyone shouting? #What's going on#?",
+    "ru": "Почему все кричат? Что происходит?"
+   }
+  ]
+ },
+ {
+  "id": "what_do_you_mean",
+  "word": "what do you mean?",
+  "translation": "что ты имеешь в виду?",
+  "note": "Просьба уточнить.",
+  "examples": [
+   {
+    "en": "— It's complicated. — #What do you mean#?",
+    "ru": "— Всё сложно. — Что ты имеешь в виду?"
+   }
+  ]
+ },
+ {
+  "id": "you_know_what_i_mean",
+  "word": "you know what I mean?",
+  "translation": "понимаешь, о чём я?",
+  "note": "Проверка понимания, разг. часто как связка you know what I mean.",
+  "examples": [
+   {
+    "en": "It's just weird, #you know what I mean#?",
+    "ru": "Это просто странно, понимаешь, о чём я?"
+   }
+  ]
+ },
+ {
+  "id": "are_you_sure",
+  "word": "are you sure?",
+  "translation": "ты уверен?",
+  "note": "Сомнение или вежливое уточнение перед принятием помощи.",
+  "examples": [
+   {
+    "en": "— I'll pay. — #Are you sure#?",
+    "ru": "— Я заплачу. — Ты уверен?"
+   }
+  ]
+ },
+ {
+  "id": "is_that_so",
+  "word": "is that so?",
+  "translation": "вот как?; правда?",
+  "note": "Интерес или скептицизм.",
+  "examples": [
+   {
+    "en": "— He's moving to Paris. — #Is that so#?",
+    "ru": "— Он переезжает в Париж. — Вот как?"
+   }
+  ]
+ },
+ {
+  "id": "really",
+  "word": "really?",
+  "translation": "правда?; серьёзно?",
+  "note": "Удивление. Тоном — недоверие или раздражение.",
+  "examples": [
+   {
+    "en": "— I've never seen snow. — #Really#?",
+    "ru": "— Я ни разу не видел снега. — Правда?"
+   }
+  ]
+ },
+ {
+  "id": "seriously",
+  "word": "seriously?",
+  "translation": "серьёзно?",
+  "note": "Удивление или возмущение, разг.",
+  "examples": [
+   {
+    "en": "You ate the whole cake? #Seriously#?",
+    "ru": "Ты съел весь торт? Серьёзно?"
+   }
+  ]
+ },
+ {
+  "id": "for_real",
+  "word": "for real?",
+  "translation": "по-настоящему?; правда?",
+  "note": "Амер. разг. удивление; также утверждение: I'm for real.",
+  "examples": [
+   {
+    "en": "— I got the job. — #For real#?",
+    "ru": "— Меня взяли. — Правда?"
+   },
+   {
+    "en": "I'm not joking, #for real#.",
+    "ru": "Я не шучу, серьёзно."
+   }
+  ]
+ },
+ {
+  "id": "are_you_kidding",
+  "word": "are you kidding?",
+  "translation": "ты шутишь?",
+  "note": "Удивление или недовольство.",
+  "examples": [
+   {
+    "en": "$200 for a T-shirt? #Are you kidding#?",
+    "ru": "200 долларов за футболку? Ты шутишь?"
+   }
+  ]
+ },
+ {
+  "id": "you_know_what",
+  "word": "you know what?",
+  "translation": "знаешь что?",
+  "note": "Вступление перед новой мыслью или решением.",
+  "examples": [
+   {
+    "en": "#You know what#? Let's just order pizza.",
+    "ru": "Знаешь что? Давай просто закажем пиццу."
+   }
+  ]
+ },
+ {
+  "id": "guess_what",
+  "word": "guess what?",
+  "translation": "угадай, что!",
+  "note": "Перед новостью. Ответ: what?",
+  "examples": [
+   {
+    "en": "#Guess what#? I'm pregnant!",
+    "ru": "Угадай, что! Я беременна!"
+   }
+  ]
+ },
+ {
+  "id": "can_i_ask_you_something",
+  "word": "can I ask you something?",
+  "translation": "можно спросить?",
+  "note": "Вежливо перед личным вопросом.",
+  "examples": [
+   {
+    "en": "#Can I ask you something#? Why did you leave?",
+    "ru": "Можно спросить? Почему ты ушёл?"
+   }
+  ]
+ },
+ {
+  "id": "do_you_have_a_minute",
+  "word": "do you have a minute?",
+  "translation": "есть минутка?",
+  "note": "Вежливое начало разговора, особенно на работе.",
+  "examples": [
+   {
+    "en": "#Do you have a minute#? I need your advice.",
+    "ru": "Есть минутка? Нужен твой совет."
+   }
+  ]
+ },
+ {
+  "id": "do_you_mind",
+  "word": "do you mind?",
+  "translation": "не возражаешь?; ты не против?",
+  "note": "Вежливая просьба. Ловушка: ответ «нет» = разрешаю (no, go ahead). Тоном — раздражённое «ну хватит!».",
+  "examples": [
+   {
+    "en": "— #Do you mind# if I sit here? — No, go ahead.",
+    "ru": "— Не против, если я сяду? — Нет, садись."
+   },
+   {
+    "en": "#Do you mind#? I'm trying to sleep!",
+    "ru": "Можно потише? Я пытаюсь уснуть!"
+   }
+  ]
+ },
+ {
+  "id": "what_do_you_think",
+  "word": "what do you think?",
+  "translation": "как думаешь?",
+  "note": "Просьба оценить.",
+  "examples": [
+   {
+    "en": "#What do you think# of my new haircut?",
+    "ru": "Как тебе моя новая стрижка?"
+   }
+  ]
+ },
+ {
+  "id": "how_about",
+  "word": "how about...?",
+  "translation": "как насчёт...?",
+  "note": "Предложение. Также what about?",
+  "examples": [
+   {
+    "en": "#How about# Italian tonight?",
+    "ru": "Как насчёт итальянской кухни вечером?"
+   }
+  ]
+ },
+ {
+  "id": "why_don_t_we",
+  "word": "why don't we...?",
+  "translation": "а давай...?",
+  "note": "Мягкое предложение, не вопрос «почему».",
+  "examples": [
+   {
+    "en": "#Why don't we# take a break?",
+    "ru": "А давай сделаем перерыв?"
+   }
+  ]
+ },
+ {
+  "id": "want_to_grab_a_bite",
+  "word": "want to grab a bite?",
+  "translation": "перекусим?",
+  "note": "Разг. амер. приглашение поесть. Также grab a coffee / a drink.",
+  "examples": [
+   {
+    "en": "#Want to grab a bite# after class?",
+    "ru": "Перекусим после занятий?"
+   }
+  ]
+ },
+ {
+  "id": "are_you_free",
+  "word": "are you free?",
+  "translation": "ты свободен?",
+  "note": "Вопрос о времени.",
+  "examples": [
+   {
+    "en": "#Are you free# on Friday?",
+    "ru": "Ты свободен в пятницу?"
+   }
+  ]
+ },
+ {
+  "id": "what_time_works_for_you",
+  "word": "what time works for you?",
+  "translation": "во сколько тебе удобно?",
+  "note": "Вежливо согласовать время.",
+  "examples": [
+   {
+    "en": "#What time works for you#, two or three?",
+    "ru": "Во сколько тебе удобно, в два или в три?"
+   }
+  ]
+ },
+ {
+  "id": "can_you_do_me_a_favor",
+  "word": "can you do me a favor?",
+  "translation": "можешь сделать одолжение?",
+  "note": "Перед просьбой.",
+  "examples": [
+   {
+    "en": "#Can you do me a favor# and feed my cat?",
+    "ru": "Можешь сделать одолжение и покормить кошку?"
+   }
+  ]
+ },
+ {
+  "id": "can_you_give_me_a_hand",
+  "word": "can you give me a hand?",
+  "translation": "поможешь?",
+  "note": "Просьба помочь физически.",
+  "examples": [
+   {
+    "en": "#Can you give me a hand# with these boxes?",
+    "ru": "Поможешь с коробками?"
+   }
+  ]
+ },
+ {
+  "id": "could_you_say_that_again",
+  "word": "could you say that again?",
+  "translation": "можете повторить?",
+  "note": "Вежливо, когда не расслышал. Также sorry? / come again?",
+  "examples": [
+   {
+    "en": "Sorry, #could you say that again#?",
+    "ru": "Простите, можете повторить?"
+   }
+  ]
+ },
+ {
+  "id": "come_again",
+  "word": "come again?",
+  "translation": "что-что?; повтори",
+  "note": "Разг., часто с удивлением.",
+  "examples": [
+   {
+    "en": "— I'm quitting. — #Come again#?",
+    "ru": "— Я увольняюсь. — Что-что?"
+   }
+  ]
+ },
+ {
+  "id": "excuse_me",
+  "word": "excuse me?",
+  "translation": "простите?; что, извините?",
+  "note": "Вежливо — не расслышал; резко — возмущение.",
+  "examples": [
+   {
+    "en": "#Excuse me#? Did you just call me old?",
+    "ru": "Простите? Вы назвали меня старым?"
+   }
+  ]
+ },
+ {
+  "id": "where_were_we",
+  "word": "where were we?",
+  "translation": "на чём мы остановились?",
+  "note": "Возврат к разговору.",
+  "examples": [
+   {
+    "en": "Sorry, phone call. #Where were we#?",
+    "ru": "Простите, звонок. На чём мы остановились?"
+   }
+  ]
+ },
+ {
+  "id": "what_s_it_called",
+  "word": "what's it called?",
+  "translation": "как это называется?",
+  "note": "Когда забыл слово. Также what's-his-name — как его там.",
+  "examples": [
+   {
+    "en": "Pass me the... #what's it called#... the remote.",
+    "ru": "Дай мне... как его... пульт."
+   }
+  ]
+ },
+ {
+  "id": "any_ideas",
+  "word": "any ideas?",
+  "translation": "есть идеи?",
+  "note": "Просьба предложить решение.",
+  "examples": [
+   {
+    "en": "The car won't start. #Any ideas#?",
+    "ru": "Машина не заводится. Есть идеи?"
+   }
+  ]
+ },
+ {
+  "id": "what_s_the_plan",
+  "word": "what's the plan?",
+  "translation": "какой план?",
+  "note": "Вопрос о ближайших действиях.",
+  "examples": [
+   {
+    "en": "So, #what's the plan# for tonight?",
+    "ru": "Итак, какие планы на вечер?"
+   }
+  ]
+ },
+ {
+  "id": "who_cares",
+  "word": "who cares?",
+  "translation": "какая разница?; кому какое дело?",
+  "note": "Безразличие, может быть резким.",
+  "examples": [
+   {
+    "en": "It's raining — #who cares#, let's go!",
+    "ru": "Дождь — какая разница, пошли!"
+   }
+  ]
+ },
+ {
+  "id": "so_what",
+  "word": "so what?",
+  "translation": "ну и что?",
+  "note": "Вызов, безразличие к возражению.",
+  "examples": [
+   {
+    "en": "— Everyone will see. — #So what#?",
+    "ru": "— Все увидят. — Ну и что?"
+   }
+  ]
+ },
+ {
+  "id": "what_s_the_point",
+  "word": "what's the point?",
+  "translation": "какой смысл?",
+  "note": "Сомнение в пользе.",
+  "examples": [
+   {
+    "en": "#What's the point# of arguing?",
+    "ru": "Какой смысл спорить?"
+   }
+  ]
+ },
+ {
+  "id": "what_s_the_rush",
+  "word": "what's the rush?",
+  "translation": "куда спешить?",
+  "note": "Предложение не торопиться.",
+  "examples": [
+   {
+    "en": "Relax, #what's the rush#?",
+    "ru": "Расслабься, куда спешить?"
+   }
+  ]
+ },
+ {
+  "id": "are_we_good",
+  "word": "are we good?",
+  "translation": "мы в порядке?; без обид?",
+  "note": "После ссоры или ошибки — всё ли нормально между нами.",
+  "examples": [
+   {
+    "en": "I'm sorry about yesterday. #Are we good#?",
+    "ru": "Прости за вчерашнее. Мы в порядке?"
+   },
+   {
+    "en": "— #Are we good#? — Yeah, #we're good#.",
+    "ru": "— Без обид? — Да, всё нормально."
+   }
+  ]
+ },
+ {
+  "id": "totally",
+  "word": "totally",
+  "translation": "абсолютно; точно",
+  "note": "Амер. разг. согласие.",
+  "examples": [
+   {
+    "en": "— That was amazing. — #Totally#!",
+    "ru": "— Это было потрясающе. — Абсолютно!"
+   },
+   {
+    "en": "I #totally# forgot.",
+    "ru": "Я напрочь забыл."
+   }
+  ]
+ },
+ {
+  "id": "exactly",
+  "word": "exactly",
+  "translation": "именно; вот именно",
+  "note": "Полное согласие.",
+  "examples": [
+   {
+    "en": "— So we need more time. — #Exactly#.",
+    "ru": "— Значит, нужно больше времени. — Именно."
+   }
+  ]
+ },
+ {
+  "id": "absolutely",
+  "word": "absolutely",
+  "translation": "безусловно; конечно",
+  "note": "Сильное «да». Absolutely not — категорическое «нет».",
+  "examples": [
+   {
+    "en": "— Can I bring a friend? — #Absolutely#!",
+    "ru": "— Можно с другом? — Конечно!"
+   },
+   {
+    "en": "#Absolutely not#.",
+    "ru": "Ни в коем случае."
+   }
+  ]
+ },
+ {
+  "id": "i_guess",
+  "word": "I guess",
+  "translation": "наверное; пожалуй",
+  "note": "Неуверенное согласие, очень частое у американцев.",
+  "examples": [
+   {
+    "en": "— Are you coming? — #I guess#.",
+    "ru": "— Ты идёшь? — Наверное."
+   },
+   {
+    "en": "#I guess# you're right.",
+    "ru": "Пожалуй, ты прав."
+   }
+  ]
+ },
+ {
+  "id": "i_think_so",
+  "word": "I think so",
+  "translation": "думаю, да",
+  "note": "Неполная уверенность. I don't think so — думаю, нет; вежливый отказ.",
+  "examples": [
+   {
+    "en": "— Is it open? — #I think so#.",
+    "ru": "— Открыто? — Думаю, да."
+   },
+   {
+    "en": "— Can I borrow your car? — #I don't think so#.",
+    "ru": "— Можно взять твою машину? — Не думаю."
+   }
+  ]
+ },
+ {
+  "id": "i_suppose_so",
+  "word": "I suppose so",
+  "translation": "полагаю, что да; ну ладно",
+  "note": "Неохотное согласие.",
+  "examples": [
+   {
+    "en": "— Can we stay longer? — #I suppose so#.",
+    "ru": "— Можно задержаться? — Ну ладно."
+   }
+  ]
+ },
+ {
+  "id": "sure_thing",
+  "word": "sure thing",
+  "translation": "конечно; без проблем",
+  "note": "Дружелюбное согласие, амер. Также ответ на спасибо.",
+  "examples": [
+   {
+    "en": "— Can you call me later? — #Sure thing#.",
+    "ru": "— Перезвонишь позже? — Конечно."
+   },
+   {
+    "en": "— Thanks! — #Sure thing#.",
+    "ru": "— Спасибо! — Не за что."
+   }
+  ]
+ },
+ {
+  "id": "you_bet",
+  "word": "you bet",
+  "translation": "ещё бы!; конечно!",
+  "note": "Амер. разг.: энергичное «да» и ответ на спасибо.",
+  "examples": [
+   {
+    "en": "— Want some pie? — #You bet#!",
+    "ru": "— Хочешь пирога? — Ещё бы!"
+   },
+   {
+    "en": "— Thanks for coming. — #You bet#.",
+    "ru": "— Спасибо, что пришёл. — Не за что."
+   }
+  ]
+ },
+ {
+  "id": "for_sure",
+  "word": "for sure",
+  "translation": "точно; обязательно",
+  "note": "Разг. уверенное «да».",
+  "examples": [
+   {
+    "en": "— See you there? — #For sure#.",
+    "ru": "— Увидимся там? — Обязательно."
+   }
+  ]
+ },
+ {
+  "id": "of_course",
+  "word": "of course",
+  "translation": "конечно",
+  "note": "Нейтральное согласие. Осторожно: «Of course!» на простой вопрос может звучать как «это же очевидно».",
+  "examples": [
+   {
+    "en": "— Can I use the bathroom? — #Of course#.",
+    "ru": "— Можно в ванную? — Конечно."
+   }
+  ]
+ },
+ {
+  "id": "no_problem",
+  "word": "no problem",
+  "translation": "без проблем; не за что",
+  "note": "Согласие или ответ на спасибо.",
+  "examples": [
+   {
+    "en": "— Can you send it today? — #No problem#.",
+    "ru": "— Пришлёшь сегодня? — Без проблем."
+   }
+  ]
+ },
+ {
+  "id": "i_m_not_sure",
+  "word": "I'm not sure",
+  "translation": "я не уверен",
+  "note": "Мягкое сомнение или вежливое несогласие.",
+  "examples": [
+   {
+    "en": "#I'm not sure# that's a good idea.",
+    "ru": "Не уверен, что это хорошая идея."
+   }
+  ]
+ },
+ {
+  "id": "i_don_t_know_about_that",
+  "word": "I don't know about that",
+  "translation": "ну не знаю",
+  "note": "Вежливое несогласие.",
+  "examples": [
+   {
+    "en": "— It's the best pizza in town. — Hmm, #I don't know about that#.",
+    "ru": "— Лучшая пицца в городе. — Хм, ну не знаю."
+   }
+  ]
+ },
+ {
+  "id": "not_really",
+  "word": "not really",
+  "translation": "не особо; не совсем",
+  "note": "Мягкое «нет».",
+  "examples": [
+   {
+    "en": "— Do you like jazz? — #Not really#.",
+    "ru": "— Тебе нравится джаз? — Не особо."
+   }
+  ]
+ },
+ {
+  "id": "not_at_all",
+  "word": "not at all",
+  "translation": "совсем нет; не за что",
+  "note": "Отрицание или вежливый ответ на спасибо / do you mind.",
+  "examples": [
+   {
+    "en": "— Do you mind waiting? — #Not at all#.",
+    "ru": "— Не против подождать? — Совсем нет."
+   }
+  ]
+ },
+ {
+  "id": "no_kidding",
+  "word": "no kidding",
+  "translation": "серьёзно?; да уж, ясное дело",
+  "note": "Два смысла: удивление или ирония «это и так понятно».",
+  "examples": [
+   {
+    "en": "— It's cold out. — #No kidding#.",
+    "ru": "— На улице холодно. — Да уж, ясное дело."
+   },
+   {
+    "en": "— I won the lottery. — #No kidding#!",
+    "ru": "— Я выиграл в лотерею. — Серьёзно?!"
+   }
+  ]
+ },
+ {
+  "id": "that_s_crazy",
+  "word": "that's crazy",
+  "translation": "с ума сойти",
+  "note": "Удивление, разг.",
+  "examples": [
+   {
+    "en": "He drove 12 hours straight? #That's crazy#.",
+    "ru": "Он ехал 12 часов подряд? С ума сойти."
+   }
+  ]
+ },
+ {
+  "id": "that_s_awesome",
+  "word": "that's awesome",
+  "translation": "это круто",
+  "note": "Амер. восторг.",
+  "examples": [
+   {
+    "en": "You got tickets? #That's awesome#!",
+    "ru": "Ты достал билеты? Это круто!"
+   }
+  ]
+ },
+ {
+  "id": "that_s_too_bad",
+  "word": "that's too bad",
+  "translation": "очень жаль",
+  "note": "Сочувствие небольшой неудаче. Тоном может звучать равнодушно.",
+  "examples": [
+   {
+    "en": "You can't come? #That's too bad#.",
+    "ru": "Не можешь прийти? Очень жаль."
+   }
+  ]
+ },
+ {
+  "id": "i_m_sorry_to_hear_that",
+  "word": "I'm sorry to hear that",
+  "translation": "мне жаль это слышать",
+  "note": "Вежливое сочувствие.",
+  "examples": [
+   {
+    "en": "Your dog is sick? #I'm sorry to hear that#.",
+    "ru": "Собака заболела? Мне жаль."
+   }
+  ]
+ },
+ {
+  "id": "that_s_a_shame",
+  "word": "that's a shame",
+  "translation": "жаль",
+  "note": "Сожаление, мягко.",
+  "examples": [
+   {
+    "en": "The concert was cancelled? #That's a shame#.",
+    "ru": "Концерт отменили? Жаль."
+   }
+  ]
+ },
+ {
+  "id": "oh_well",
+  "word": "oh well",
+  "translation": "ну что ж",
+  "note": "Принятие небольшой неудачи.",
+  "examples": [
+   {
+    "en": "We missed the bus. #Oh well#, we'll walk.",
+    "ru": "Опоздали на автобус. Ну что ж, пешком."
+   }
+  ]
+ },
+ {
+  "id": "bummer",
+  "word": "bummer",
+  "translation": "облом",
+  "note": "Разг. амер. разочарование.",
+  "examples": [
+   {
+    "en": "It's closed? #Bummer#.",
+    "ru": "Закрыто? Облом."
+   }
+  ]
+ },
+ {
+  "id": "awesome",
+  "word": "awesome!",
+  "translation": "класс!; отлично!",
+  "note": "Амер. разг., очень частое.",
+  "examples": [
+   {
+    "en": "— I'll pick you up at 7. — #Awesome#!",
+    "ru": "— Заеду за тобой в семь. — Отлично!"
+   }
+  ]
+ },
+ {
+  "id": "cool",
+  "word": "cool",
+  "translation": "круто; ладно",
+  "note": "Разг.: одобрение или просто «окей».",
+  "examples": [
+   {
+    "en": "— We're meeting at the café. — #Cool#.",
+    "ru": "— Встречаемся в кафе. — Ладно."
+   }
+  ]
+ },
+ {
+  "id": "gotcha",
+  "word": "gotcha",
+  "translation": "понял",
+  "note": "Разг. got you: понял тебя. Также «попался!».",
+  "examples": [
+   {
+    "en": "— Left at the light. — #Gotcha#.",
+    "ru": "— Налево на светофоре. — Понял."
+   },
+   {
+    "en": "#Gotcha#! You fell for it.",
+    "ru": "Попался! Повёлся."
+   }
+  ]
+ },
+ {
+  "id": "got_it",
+  "word": "got it",
+  "translation": "понял; ясно",
+  "note": "Подтверждение понимания.",
+  "examples": [
+   {
+    "en": "— Save it in this folder. — #Got it#.",
+    "ru": "— Сохрани в эту папку. — Понял."
+   }
+  ]
+ },
+ {
+  "id": "makes_sense",
+  "word": "makes sense",
+  "translation": "логично; понятно",
+  "note": "Согласие с объяснением.",
+  "examples": [
+   {
+    "en": "— I left early to avoid traffic. — #Makes sense#.",
+    "ru": "— Ушёл пораньше, чтобы не стоять в пробке. — Логично."
+   }
+  ]
+ },
+ {
+  "id": "that_explains_it",
+  "word": "that explains it",
+  "translation": "теперь понятно",
+  "note": "Причина найдена.",
+  "examples": [
+   {
+    "en": "He didn't sleep last night? #That explains it#.",
+    "ru": "Он не спал ночью? Теперь понятно."
+   }
+  ]
+ },
+ {
+  "id": "my_pleasure",
+  "word": "my pleasure",
+  "translation": "с удовольствием; не за что",
+  "note": "Вежливый ответ на спасибо, обычно в сервисе.",
+  "examples": [
+   {
+    "en": "— Thank you for your help. — #My pleasure#.",
+    "ru": "— Спасибо за помощь. — Не за что."
+   }
+  ]
+ },
+ {
+  "id": "you_re_welcome",
+  "word": "you're welcome",
+  "translation": "пожалуйста (в ответ на спасибо)",
+  "note": "Стандартный ответ. Ловушка: не используется как «пожалуйста» в просьбе (это please).",
+  "examples": [
+   {
+    "en": "— Thanks! — #You're welcome#.",
+    "ru": "— Спасибо! — Пожалуйста."
+   }
+  ]
+ },
+ {
+  "id": "thanks_a_lot",
+  "word": "thanks a lot",
+  "translation": "большое спасибо; ну спасибо",
+  "note": "Искренне или саркастично.",
+  "examples": [
+   {
+    "en": "#Thanks a lot# for the ride.",
+    "ru": "Большое спасибо, что подвёз."
+   },
+   {
+    "en": "You told her? #Thanks a lot#.",
+    "ru": "Ты ей сказал? Ну спасибо."
+   }
+  ]
+ },
+ {
+  "id": "i_appreciate_it",
+  "word": "I appreciate it",
+  "translation": "я ценю это; благодарю",
+  "note": "Чуть серьёзнее, чем thanks.",
+  "examples": [
+   {
+    "en": "Thanks for staying late, #I appreciate it#.",
+    "ru": "Спасибо, что задержался, я ценю."
+   }
+  ]
+ },
+ {
+  "id": "you_shouldn_t_have",
+  "word": "you shouldn't have",
+  "translation": "не стоило!",
+  "note": "Ответ на подарок, вежливое смущение.",
+  "examples": [
+   {
+    "en": "Flowers? #You shouldn't have#!",
+    "ru": "Цветы? Не стоило!"
+   }
+  ]
+ },
+ {
+  "id": "i_m_sorry_i_didn_t_catch_that",
+  "word": "I'm sorry, I didn't catch that",
+  "translation": "простите, я не расслышал",
+  "note": "Вежливая просьба повторить.",
+  "examples": [
+   {
+    "en": "#I'm sorry, I didn't catch that#. Your name was?",
+    "ru": "Простите, не расслышал. Как вас зовут?"
+   }
+  ]
+ },
+ {
+  "id": "sorry_about_that",
+  "word": "sorry about that",
+  "translation": "извини за это",
+  "note": "Лёгкое извинение за мелочь.",
+  "examples": [
+   {
+    "en": "The room's a mess — #sorry about that#.",
+    "ru": "В комнате беспорядок — извини."
+   }
+  ]
+ },
+ {
+  "id": "no_problem_at_all",
+  "word": "no problem at all",
+  "translation": "совсем не проблема",
+  "note": "Усиленное no problem.",
+  "examples": [
+   {
+    "en": "— Sorry for the trouble. — #No problem at all#.",
+    "ru": "— Извини за беспокойство. — Совсем не проблема."
+   }
+  ]
+ },
+ {
+  "id": "my_mistake",
+  "word": "my mistake",
+  "translation": "моя ошибка",
+  "note": "Чуть официальнее, чем my bad.",
+  "examples": [
+   {
+    "en": "Wrong file attached — #my mistake#.",
+    "ru": "Не тот файл прикрепил — моя ошибка."
+   }
+  ]
+ },
+ {
+  "id": "i_didn_t_mean_to",
+  "word": "I didn't mean to",
+  "translation": "я не хотел",
+  "note": "Оправдание непреднамеренного.",
+  "examples": [
+   {
+    "en": "Sorry, #I didn't mean to# wake you.",
+    "ru": "Извини, не хотел тебя будить."
+   }
+  ]
+ },
+ {
+  "id": "it_s_all_good",
+  "word": "it's all good",
+  "translation": "всё нормально; всё в порядке",
+  "note": "Амер. разг.: не переживай.",
+  "examples": [
+   {
+    "en": "— Sorry I'm late. — #It's all good#.",
+    "ru": "— Извини за опоздание. — Всё нормально."
+   }
+  ]
+ },
+ {
+  "id": "it_happens",
+  "word": "it happens",
+  "translation": "бывает",
+  "note": "Утешение после мелкой ошибки.",
+  "examples": [
+   {
+    "en": "You spilled it? #It happens#.",
+    "ru": "Пролил? Бывает."
+   }
+  ]
+ },
+ {
+  "id": "don_t_worry_about_it",
+  "word": "don't worry about it",
+  "translation": "не переживай об этом",
+  "note": "Успокоение после извинения.",
+  "examples": [
+   {
+    "en": "— I broke your mug. — #Don't worry about it#.",
+    "ru": "— Я разбил твою кружку. — Не переживай."
+   }
+  ]
+ },
+ {
+  "id": "never_mind",
+  "word": "never mind",
+  "translation": "неважно; забудь",
+  "note": "Отказ от сказанного или просьбы.",
+  "examples": [
+   {
+    "en": "What did you say? — #Never mind#.",
+    "ru": "Что ты сказал? — Неважно."
+   },
+   {
+    "en": "#Never mind#, I found it.",
+    "ru": "Забудь, я нашёл."
+   }
+  ]
+ },
+ {
+  "id": "forget_it",
+  "word": "forget it",
+  "translation": "забудь; проехали",
+  "note": "Резче, чем never mind; или отказ.",
+  "examples": [
+   {
+    "en": "#Forget it#, I'll do it myself.",
+    "ru": "Проехали, сам сделаю."
+   }
+  ]
+ },
+ {
+  "id": "no_wonder",
+  "word": "no wonder",
+  "translation": "неудивительно",
+  "note": "Объяснение очевидно.",
+  "examples": [
+   {
+    "en": "You didn't sleep? #No wonder# you're tired.",
+    "ru": "Не спал? Неудивительно, что ты устал."
+   }
+  ]
+ },
+ {
+  "id": "i_knew_it",
+  "word": "I knew it!",
+  "translation": "я так и знал!",
+  "note": "Подтвердилась догадка.",
+  "examples": [
+   {
+    "en": "They're dating? #I knew it#!",
+    "ru": "Они встречаются? Я так и знал!"
+   }
+  ]
+ },
+ {
+  "id": "told_you_so",
+  "word": "told you so",
+  "translation": "я же говорил",
+  "note": "Немного самодовольное.",
+  "examples": [
+   {
+    "en": "It rained. #Told you so#.",
+    "ru": "Пошёл дождь. Я же говорил."
+   }
+  ]
+ },
+ {
+  "id": "look_who_s_talking",
+  "word": "look who's talking",
+  "translation": "кто бы говорил",
+  "note": "Упрёк: сам такой же.",
+  "examples": [
+   {
+    "en": "— You're always late. — #Look who's talking#!",
+    "ru": "— Ты вечно опаздываешь. — Кто бы говорил!"
+   }
+  ]
+ },
+ {
+  "id": "you_re_on",
+  "word": "you're on!",
+  "translation": "по рукам!; принято!",
+  "note": "Принимаю вызов или пари.",
+  "examples": [
+   {
+    "en": "— Bet I can beat you. — #You're on#!",
+    "ru": "— Спорим, я тебя обыграю? — По рукам!"
+   }
+  ]
+ },
+ {
+  "id": "deal",
+  "word": "deal",
+  "translation": "договорились",
+  "note": "Короткое согласие на условия.",
+  "examples": [
+   {
+    "en": "— You cook, I'll clean. — #Deal#.",
+    "ru": "— Ты готовишь, я убираю. — Договорились."
+   }
+  ]
+ },
+ {
+  "id": "it_s_a_deal",
+  "word": "it's a deal",
+  "translation": "по рукам",
+  "note": "Согласие на сделку.",
+  "examples": [
+   {
+    "en": "Twenty bucks? #It's a deal#.",
+    "ru": "Двадцать баксов? По рукам."
+   }
+  ]
+ },
+ {
+  "id": "works_for_me",
+  "word": "works for me",
+  "translation": "меня устраивает",
+  "note": "Амер. согласие с планом.",
+  "examples": [
+   {
+    "en": "— Monday at 10? — #Works for me#.",
+    "ru": "— Понедельник в 10? — Меня устраивает."
+   }
+  ]
+ },
+ {
+  "id": "i_m_down",
+  "word": "I'm down",
+  "translation": "я за; я в деле",
+  "note": "Амер. сленг: готов участвовать. Также I'm down for...",
+  "examples": [
+   {
+    "en": "— Movie tonight? — #I'm down#.",
+    "ru": "— Кино вечером? — Я за."
+   }
+  ]
+ },
+ {
+  "id": "why_not",
+  "word": "why not?",
+  "translation": "почему бы и нет?",
+  "note": "Согласие.",
+  "examples": [
+   {
+    "en": "— Shall we try that new place? — #Why not#?",
+    "ru": "— Попробуем новое место? — Почему бы и нет?"
+   }
+  ]
+ },
+ {
+  "id": "i_d_love_to",
+  "word": "I'd love to",
+  "translation": "с удовольствием",
+  "note": "Тёплое согласие на приглашение.",
+  "examples": [
+   {
+    "en": "— Want to join us? — #I'd love to#!",
+    "ru": "— Присоединишься? — С удовольствием!"
+   }
+  ]
+ },
+ {
+  "id": "i_wish_i_could",
+  "word": "I wish I could",
+  "translation": "если бы я мог",
+  "note": "Вежливый отказ с сожалением.",
+  "examples": [
+   {
+    "en": "— Coming to the party? — #I wish I could#, but I'm working.",
+    "ru": "— Придёшь на вечеринку? — Хотел бы, но я работаю."
+   }
+  ]
+ },
+ {
+  "id": "maybe_next_time",
+  "word": "maybe next time",
+  "translation": "может, в следующий раз",
+  "note": "Мягкий отказ.",
+  "examples": [
+   {
+    "en": "Not tonight — #maybe next time#.",
+    "ru": "Не сегодня — может, в следующий раз."
+   }
+  ]
+ },
+ {
+  "id": "rain_check",
+  "word": "rain check",
+  "translation": "перенесём; в другой раз",
+  "note": "Амер.: can I take a rain check? — отказ с обещанием позже.",
+  "examples": [
+   {
+    "en": "Can I take a #rain check# on dinner?",
+    "ru": "Можно перенесём ужин на другой раз?"
+   }
+  ]
+ },
+ {
+  "id": "i_ll_pass",
+  "word": "I'll pass",
+  "translation": "я пас; пожалуй, откажусь",
+  "note": "Вежливый отказ.",
+  "examples": [
+   {
+    "en": "— More cake? — #I'll pass#, thanks.",
+    "ru": "— Ещё торта? — Я пас, спасибо."
+   }
+  ]
+ },
+ {
+  "id": "you_know",
+  "word": "you know",
+  "translation": "ну, знаешь; понимаешь",
+  "note": "Слово-паразит и связка. Частое у американцев.",
+  "examples": [
+   {
+    "en": "It was, #you know#, kind of weird.",
+    "ru": "Это было, ну, знаешь, как-то странно."
+   }
+  ]
+ },
+ {
+  "id": "i_mean",
+  "word": "I mean",
+  "translation": "то есть; ну, в смысле",
+  "note": "Уточнение сказанного или смягчение.",
+  "examples": [
+   {
+    "en": "It's fine. #I mean#, it's not great.",
+    "ru": "Нормально. В смысле, не супер."
+   }
+  ]
+ },
+ {
+  "id": "like",
+  "word": "like",
+  "translation": "типа; как бы",
+  "note": "Разг. молодёжная связка; be like — пересказ речи: she was like, «No way!».",
+  "examples": [
+   {
+    "en": "It was, #like#, really expensive.",
+    "ru": "Это было типа очень дорого."
+   },
+   {
+    "en": "And he #was like#, «Seriously?»",
+    "ru": "А он такой: «Серьёзно?»"
+   }
+  ]
+ },
+ {
+  "id": "kind_of",
+  "word": "kind of",
+  "translation": "вроде; немного",
+  "note": "Смягчение: kinda в разговоре. Также sort of.",
+  "examples": [
+   {
+    "en": "I'm #kind of# tired.",
+    "ru": "Я вроде как устал."
+   },
+   {
+    "en": "— Did you like it? — #Kind of#.",
+    "ru": "— Понравилось? — Типа того."
+   }
+  ]
+ },
+ {
+  "id": "basically",
+  "word": "basically",
+  "translation": "в общем; по сути",
+  "note": "Подытоживание.",
+  "examples": [
+   {
+    "en": "#Basically#, we need more money.",
+    "ru": "В общем, нам нужно больше денег."
+   }
+  ]
+ },
+ {
+  "id": "anyway",
+  "word": "anyway",
+  "translation": "в общем; ну ладно",
+  "note": "Возврат к теме или окончание.",
+  "examples": [
+   {
+    "en": "#Anyway#, where was I?",
+    "ru": "Ну ладно, на чём я остановился?"
+   },
+   {
+    "en": "#Anyway#, I have to go.",
+    "ru": "В общем, мне пора."
+   }
+  ]
+ },
+ {
+  "id": "by_the_way",
+  "word": "by the way",
+  "translation": "кстати; между прочим",
+  "note": "Новая тема. В переписке BTW.",
+  "examples": [
+   {
+    "en": "#By the way#, Lisa called.",
+    "ru": "Кстати, звонила Лиза."
+   }
+  ]
+ },
+ {
+  "id": "speaking_of_which",
+  "word": "speaking of which",
+  "translation": "кстати об этом",
+  "note": "Переход по ассоциации.",
+  "examples": [
+   {
+    "en": "#Speaking of which#, have you paid the rent?",
+    "ru": "Кстати об этом, ты заплатил за квартиру?"
+   }
+  ]
+ },
+ {
+  "id": "at_the_end_of_the_day",
+  "word": "at the end of the day",
+  "translation": "в конечном счёте; в итоге",
+  "note": "Вывод, иногда заезженное.",
+  "examples": [
+   {
+    "en": "#At the end of the day#, it's your decision.",
+    "ru": "В конечном счёте решать тебе."
+   }
+  ]
+ },
+ {
+  "id": "to_be_fair",
+  "word": "to be fair",
+  "translation": "справедливости ради",
+  "note": "Признание другой стороны.",
+  "examples": [
+   {
+    "en": "#To be fair#, he did apologize.",
+    "ru": "Справедливости ради, он извинился."
+   }
+  ]
+ },
+ {
+  "id": "the_thing_is",
+  "word": "the thing is",
+  "translation": "дело в том, что",
+  "note": "Перед объяснением проблемы.",
+  "examples": [
+   {
+    "en": "#The thing is#, I can't afford it.",
+    "ru": "Дело в том, что мне это не по карману."
+   }
+  ]
+ },
+ {
+  "id": "here_s_the_thing",
+  "word": "here's the thing",
+  "translation": "дело вот в чём",
+  "note": "Амер.: привлечь внимание к главному.",
+  "examples": [
+   {
+    "en": "#Here's the thing#: we're out of time.",
+    "ru": "Дело вот в чём: у нас нет времени."
+   }
+  ]
+ },
+ {
+  "id": "as_a_matter_of_fact",
+  "word": "as a matter of fact",
+  "translation": "вообще-то; на самом деле",
+  "note": "Уточнение или возражение.",
+  "examples": [
+   {
+    "en": "#As a matter of fact#, I've been there.",
+    "ru": "Вообще-то я там был."
+   }
+  ]
+ },
+ {
+  "id": "actually",
+  "word": "actually",
+  "translation": "вообще-то; на самом деле",
+  "note": "Ложный друг: не «актуально». Мягкое возражение или уточнение.",
+  "examples": [
+   {
+    "en": "#Actually#, I prefer tea.",
+    "ru": "Вообще-то я предпочитаю чай."
+   }
+  ]
+ },
+ {
+  "id": "literally",
+  "word": "literally",
+  "translation": "буквально; реально",
+  "note": "В разговоре часто как усилитель даже в переносном смысле: I literally died.",
+  "examples": [
+   {
+    "en": "I #literally# ran all the way.",
+    "ru": "Я буквально бежал всю дорогу."
+   }
+  ]
+ },
+ {
+  "id": "no_offense_but",
+  "word": "no offense, but",
+  "translation": "без обид, но",
+  "note": "Амер. вариант no offence, перед критикой.",
+  "examples": [
+   {
+    "en": "#No offense, but# that shirt is ugly.",
+    "ru": "Без обид, но рубашка ужасная."
+   }
+  ]
+ },
+ {
+  "id": "i_m_just_kidding",
+  "word": "I'm just kidding",
+  "translation": "я шучу",
+  "note": "Снять напряжение после шутки. Также just kidding / JK.",
+  "examples": [
+   {
+    "en": "You're fired! #I'm just kidding#.",
+    "ru": "Ты уволен! Шучу."
+   }
+  ]
+ },
+ {
+  "id": "i_m_serious",
+  "word": "I'm serious",
+  "translation": "я серьёзно",
+  "note": "Подчеркнуть, что не шутишь.",
+  "examples": [
+   {
+    "en": "#I'm serious#, don't touch it.",
+    "ru": "Я серьёзно, не трогай."
+   }
+  ]
+ },
+ {
+  "id": "i_m_telling_you",
+  "word": "I'm telling you",
+  "translation": "говорю тебе; я тебе точно говорю",
+  "note": "Настойчивость.",
+  "examples": [
+   {
+    "en": "#I'm telling you#, it was him.",
+    "ru": "Говорю тебе, это был он."
+   }
+  ]
+ },
+ {
+  "id": "trust_me",
+  "word": "trust me",
+  "translation": "поверь мне",
+  "note": "Убеждение.",
+  "examples": [
+   {
+    "en": "#Trust me#, you'll love it.",
+    "ru": "Поверь, тебе понравится."
+   }
+  ]
+ },
+ {
+  "id": "believe_it_or_not",
+  "word": "believe it or not",
+  "translation": "хочешь верь, хочешь нет",
+  "note": "Перед удивительным фактом.",
+  "examples": [
+   {
+    "en": "#Believe it or not#, I've never had pizza.",
+    "ru": "Хочешь верь, хочешь нет, я ни разу не ел пиццу."
+   }
+  ]
+ },
+ {
+  "id": "let_me_think",
+  "word": "let me think",
+  "translation": "дай подумать",
+  "note": "Пауза перед ответом. Также let me see.",
+  "examples": [
+   {
+    "en": "Hmm, #let me think#... Tuesday?",
+    "ru": "Хм, дай подумать... во вторник?"
+   }
+  ]
+ },
+ {
+  "id": "let_me_see",
+  "word": "let me see",
+  "translation": "сейчас посмотрю; дай-ка подумать",
+  "note": "Пауза или поиск.",
+  "examples": [
+   {
+    "en": "#Let me see#... it's on page 5.",
+    "ru": "Так, сейчас... это на пятой странице."
+   }
+  ]
+ },
+ {
+  "id": "let_s_see",
+  "word": "let's see",
+  "translation": "посмотрим; так-с",
+  "note": "Размышление вслух.",
+  "examples": [
+   {
+    "en": "#Let's see# what happens.",
+    "ru": "Посмотрим, что будет."
+   }
+  ]
+ },
+ {
+  "id": "let_me_know",
+  "word": "let me know",
+  "translation": "дай знать",
+  "note": "Просьба сообщить.",
+  "examples": [
+   {
+    "en": "#Let me know# if you need anything.",
+    "ru": "Дай знать, если что-то понадобится."
+   }
+  ]
+ },
+ {
+  "id": "keep_me_posted",
+  "word": "keep me posted",
+  "translation": "держи меня в курсе",
+  "note": "Просьба сообщать новости.",
+  "examples": [
+   {
+    "en": "#Keep me posted# on the results.",
+    "ru": "Держи меня в курсе результатов."
+   }
+  ]
+ },
+ {
+  "id": "i_ll_get_back_to_you",
+  "word": "I'll get back to you",
+  "translation": "я вам перезвоню / отвечу позже",
+  "note": "Деловое: отвечу после уточнения.",
+  "examples": [
+   {
+    "en": "Let me check and #I'll get back to you#.",
+    "ru": "Я уточню и отвечу вам."
+   }
+  ]
+ },
+ {
+  "id": "i_ll_keep_that_in_mind",
+  "word": "I'll keep that in mind",
+  "translation": "учту",
+  "note": "Вежливо принять совет.",
+  "examples": [
+   {
+    "en": "Thanks for the tip, #I'll keep that in mind#.",
+    "ru": "Спасибо за совет, учту."
+   }
+  ]
+ },
+ {
+  "id": "i_ll_think_about_it",
+  "word": "I'll think about it",
+  "translation": "я подумаю",
+  "note": "Нерешительность или мягкий отказ.",
+  "examples": [
+   {
+    "en": "— Join our team? — #I'll think about it#.",
+    "ru": "— Присоединишься к команде? — Я подумаю."
+   }
+  ]
+ },
+ {
+  "id": "i_m_not_in_the_mood",
+  "word": "I'm not in the mood",
+  "translation": "мне не хочется; нет настроения",
+  "note": "Отказ из-за настроения.",
+  "examples": [
+   {
+    "en": "#I'm not in the mood# for a party.",
+    "ru": "Нет настроения идти на вечеринку."
+   }
+  ]
+ },
+ {
+  "id": "i_m_not_feeling_it",
+  "word": "I'm not feeling it",
+  "translation": "что-то не хочется; не моё сегодня",
+  "note": "Разг. амер.: нет желания или «не зацепило».",
+  "examples": [
+   {
+    "en": "I was going to run, but #I'm not feeling it#.",
+    "ru": "Собирался на пробежку, но что-то не хочется."
+   }
+  ]
+ },
+ {
+  "id": "i_m_swamped",
+  "word": "I'm swamped",
+  "translation": "я завален работой",
+  "note": "Очень занят.",
+  "examples": [
+   {
+    "en": "Can't talk now, #I'm swamped#.",
+    "ru": "Не могу говорить, я завален."
+   }
+  ]
+ },
+ {
+  "id": "i_m_running_late",
+  "word": "I'm running late",
+  "translation": "я опаздываю",
+  "note": "Предупреждение.",
+  "examples": [
+   {
+    "en": "Sorry, #I'm running late#, be there in ten.",
+    "ru": "Извини, опаздываю, буду через десять минут."
+   }
+  ]
+ },
+ {
+  "id": "i_m_on_my_way",
+  "word": "I'm on my way",
+  "translation": "я уже еду",
+  "note": "Сообщение, что уже в пути.",
+  "examples": [
+   {
+    "en": "Don't wait, #I'm on my way#.",
+    "ru": "Не ждите, я уже еду."
+   }
+  ]
+ },
+ {
+  "id": "i_m_heading_out",
+  "word": "I'm heading out",
+  "translation": "я ухожу",
+  "note": "Разг. амер.: ухожу из дома или офиса.",
+  "examples": [
+   {
+    "en": "OK, #I'm heading out#. See you tomorrow.",
+    "ru": "Ладно, я пошёл. До завтра."
+   }
+  ]
+ },
+ {
+  "id": "i_gotta_go",
+  "word": "I gotta go",
+  "translation": "мне пора",
+  "note": "Разг. амер.: заканчиваю разговор.",
+  "examples": [
+   {
+    "en": "Sorry, #I gotta go#. Talk later!",
+    "ru": "Извини, мне пора. Поговорим позже!"
+   }
+  ]
+ },
+ {
+  "id": "talk_to_you_later",
+  "word": "talk to you later",
+  "translation": "поговорим позже; до связи",
+  "note": "Прощание. Сокращение TTYL.",
+  "examples": [
+   {
+    "en": "Bye, #talk to you later#!",
+    "ru": "Пока, до связи!"
+   }
+  ]
+ },
+ {
+  "id": "see_you_around",
+  "word": "see you around",
+  "translation": "ещё увидимся",
+  "note": "Неформальное прощание без конкретного времени.",
+  "examples": [
+   {
+    "en": "Nice chatting, #see you around#!",
+    "ru": "Приятно поболтали, ещё увидимся!"
+   }
+  ]
+ },
+ {
+  "id": "have_a_good_one",
+  "word": "have a good one",
+  "translation": "хорошего дня",
+  "note": "Амер. универсальное прощание, часто с незнакомыми.",
+  "examples": [
+   {
+    "en": "Thanks! #Have a good one#.",
+    "ru": "Спасибо! Хорошего дня."
+   }
+  ]
+ },
+ {
+  "id": "have_a_nice_day",
+  "word": "have a nice day",
+  "translation": "хорошего дня",
+  "note": "Вежливое прощание в сервисе.",
+  "examples": [
+   {
+    "en": "Here's your receipt. #Have a nice day#!",
+    "ru": "Ваш чек. Хорошего дня!"
+   }
+  ]
+ },
+ {
+  "id": "you_too",
+  "word": "you too",
+  "translation": "вам тоже; и тебе",
+  "note": "Ответ на пожелание. Ловушка: не «ты тоже» в смысле обвинения.",
+  "examples": [
+   {
+    "en": "— Have a nice weekend! — #You too#!",
+    "ru": "— Хороших выходных! — И вам!"
+   }
+  ]
+ },
+ {
+  "id": "see_you_later_alligator",
+  "word": "see you later, alligator",
+  "translation": "до скорого",
+  "note": "Шутливое детское прощание. Ответ: in a while, crocodile.",
+  "examples": [
+   {
+    "en": "#See you later, alligator#!",
+    "ru": "До скорого, крокодил!"
+   }
+  ]
+ },
+ {
+  "id": "i_m_out",
+  "word": "I'm out",
+  "translation": "я ухожу; я пас",
+  "note": "Разг.: ухожу или выхожу из дела.",
+  "examples": [
+   {
+    "en": "It's late, #I'm out#.",
+    "ru": "Поздно, я пошёл."
+   },
+   {
+    "en": "Another round? #I'm out#.",
+    "ru": "Ещё раунд? Я пас."
+   }
+  ]
+ },
+ {
+  "id": "keep_in_touch",
+  "word": "keep in touch",
+  "translation": "не пропадай",
+  "note": "Просьба поддерживать связь.",
+  "examples": [
+   {
+    "en": "Good luck in Boston, #keep in touch#!",
+    "ru": "Удачи в Бостоне, не пропадай!"
+   }
+  ]
+ },
+ {
+  "id": "it_was_nice_talking_to_you",
+  "word": "it was nice talking to you",
+  "translation": "приятно было поговорить",
+  "note": "Вежливое завершение разговора.",
+  "examples": [
+   {
+    "en": "Well, #it was nice talking to you#.",
+    "ru": "Что ж, приятно было поговорить."
+   }
+  ]
+ },
+ {
+  "id": "drop_me_a_line",
+  "word": "drop me a line",
+  "translation": "черкни пару строк",
+  "note": "Разг.: напиши.",
+  "examples": [
+   {
+    "en": "#Drop me a line# when you get there.",
+    "ru": "Черкни, когда доберёшься."
+   }
+  ]
+ },
+ {
+  "id": "hit_me_up",
+  "word": "hit me up",
+  "translation": "напиши мне; набери",
+  "note": "Амер. сленг: свяжись со мной.",
+  "examples": [
+   {
+    "en": "#Hit me up# if you're in town.",
+    "ru": "Напиши, если будешь в городе."
+   }
+  ]
+ },
+ {
+  "id": "i_ll_text_you",
+  "word": "I'll text you",
+  "translation": "напишу тебе",
+  "note": "Обещание написать сообщение.",
+  "examples": [
+   {
+    "en": "#I'll text you# the address.",
+    "ru": "Напишу тебе адрес."
+   }
+  ]
+ },
+ {
+  "id": "what_a_small_world",
+  "word": "what a small world!",
+  "translation": "мир тесен!",
+  "note": "Неожиданная встреча или связь.",
+  "examples": [
+   {
+    "en": "You know Tom too? #What a small world#!",
+    "ru": "Ты тоже знаешь Тома? Мир тесен!"
+   }
+  ]
+ },
+ {
+  "id": "it_s_a_small_world",
+  "word": "it's a small world",
+  "translation": "мир тесен",
+  "note": "То же, утвердительно.",
+  "examples": [
+   {
+    "en": "Your mom taught my sister? #It's a small world#.",
+    "ru": "Твоя мама учила мою сестру? Мир тесен."
+   }
+  ]
+ },
+ {
+  "id": "small_talk",
+  "word": "small talk",
+  "translation": "светская беседа; болтовня",
+  "note": "Разговор о погоде и пустяках.",
+  "examples": [
+   {
+    "en": "I'm bad at #small talk#.",
+    "ru": "Я не умею поддерживать светскую беседу."
+   }
+  ]
+ },
+ {
+  "id": "nice_weather_huh",
+  "word": "nice weather, huh?",
+  "translation": "хорошая погода, да?",
+  "note": "Типичное начало small talk.",
+  "examples": [
+   {
+    "en": "#Nice weather, huh#?",
+    "ru": "Хорошая погода, да?"
+   }
+  ]
+ },
+ {
+  "id": "how_about_that",
+  "word": "how about that?",
+  "translation": "ну надо же!",
+  "note": "Удивление.",
+  "examples": [
+   {
+    "en": "He finished first! #How about that#?",
+    "ru": "Он пришёл первым! Ну надо же!"
+   }
+  ]
+ },
+ {
+  "id": "what_a_coincidence",
+  "word": "what a coincidence!",
+  "translation": "какое совпадение!",
+  "note": "Удивление совпадению.",
+  "examples": [
+   {
+    "en": "You're going too? #What a coincidence#!",
+    "ru": "Ты тоже идёшь? Какое совпадение!"
+   }
+  ]
+ },
+ {
+  "id": "oh_my_god",
+  "word": "oh my God",
+  "translation": "боже мой",
+  "note": "Удивление. Вежливее — oh my gosh / OMG.",
+  "examples": [
+   {
+    "en": "#Oh my God#, look at that view!",
+    "ru": "Боже мой, посмотри, какой вид!"
+   }
+  ]
+ },
+ {
+  "id": "oh_my_gosh",
+  "word": "oh my gosh",
+  "translation": "ой, божечки; ничего себе",
+  "note": "Смягчённый вариант oh my God, амер.",
+  "examples": [
+   {
+    "en": "#Oh my gosh#, you look amazing!",
+    "ru": "Ничего себе, ты потрясающе выглядишь!"
+   }
+  ]
+ },
+ {
+  "id": "wow",
+  "word": "wow",
+  "translation": "ух ты",
+  "note": "Восхищение или удивление.",
+  "examples": [
+   {
+    "en": "#Wow#, that's huge!",
+    "ru": "Ух ты, огромный!"
+   }
+  ]
+ },
+ {
+  "id": "yikes",
+  "word": "yikes",
+  "translation": "ой-ой; жуть",
+  "note": "Разг.: испуг, неловкость.",
+  "examples": [
+   {
+    "en": "The bill is $300? #Yikes#.",
+    "ru": "Счёт 300 долларов? Ой-ой."
+   }
+  ]
+ },
+ {
+  "id": "oops",
+  "word": "oops",
+  "translation": "упс; ой",
+  "note": "Мелкая ошибка.",
+  "examples": [
+   {
+    "en": "#Oops#, I dropped it.",
+    "ru": "Упс, уронил."
+   }
+  ]
+ },
+ {
+  "id": "ouch",
+  "word": "ouch",
+  "translation": "ай; больно",
+  "note": "Боль, буквально или от колкости.",
+  "examples": [
+   {
+    "en": "#Ouch#! That hurt.",
+    "ru": "Ай! Больно."
+   },
+   {
+    "en": "He said that? #Ouch#.",
+    "ru": "Он так сказал? Жёстко."
+   }
+  ]
+ },
+ {
+  "id": "phew",
+  "word": "phew",
+  "translation": "фух",
+  "note": "Облегчение.",
+  "examples": [
+   {
+    "en": "#Phew#, we made it.",
+    "ru": "Фух, успели."
+   }
+  ]
+ },
+ {
+  "id": "ugh",
+  "word": "ugh",
+  "translation": "фу; ну вот",
+  "note": "Отвращение или досада.",
+  "examples": [
+   {
+    "en": "#Ugh#, Monday again.",
+    "ru": "Фу, опять понедельник."
+   }
+  ]
+ },
+ {
+  "id": "duh",
+  "word": "duh",
+  "translation": "ну да, очевидно",
+  "note": "Разг. ирония над очевидным.",
+  "examples": [
+   {
+    "en": "— Is water wet? — #Duh#.",
+    "ru": "— Вода мокрая? — Ну да, очевидно."
+   }
+  ]
+ },
+ {
+  "id": "hold_on",
+  "word": "hold on",
+  "translation": "подожди; постой",
+  "note": "Просьба подождать или «стоп, минуту».",
+  "examples": [
+   {
+    "en": "#Hold on#, let me get a pen.",
+    "ru": "Подожди, возьму ручку."
+   },
+   {
+    "en": "#Hold on# — that's not right.",
+    "ru": "Постой — так не пойдёт."
+   }
+  ]
+ },
+ {
+  "id": "watch_out",
+  "word": "watch out!",
+  "translation": "осторожно!",
+  "note": "Предупреждение об опасности.",
+  "examples": [
+   {
+    "en": "#Watch out#! There's a car!",
+    "ru": "Осторожно! Машина!"
+   }
+  ]
+ },
+ {
+  "id": "heads_up",
+  "word": "heads up",
+  "translation": "предупреждаю; к сведению",
+  "note": "Амер.: предупреждение заранее.",
+  "examples": [
+   {
+    "en": "Just a #heads up#, the boss is coming.",
+    "ru": "Просто предупреждаю: начальник идёт."
+   }
+  ]
+ },
+ {
+  "id": "my_two_cents",
+  "word": "my two cents",
+  "translation": "моё скромное мнение",
+  "note": "Амер.: свои пять копеек.",
+  "examples": [
+   {
+    "en": "Here's #my two cents#: don't buy it.",
+    "ru": "Вот мои пять копеек: не покупай."
+   }
+  ]
+ },
+ {
+  "id": "it_s_not_a_big_deal",
+  "word": "it's not a big deal",
+  "translation": "ничего страшного; это не важно",
+  "note": "Как no big deal, полнее.",
+  "examples": [
+   {
+    "en": "Forget it, #it's not a big deal#.",
+    "ru": "Забудь, ничего страшного."
+   }
+  ]
+ },
+ {
+  "id": "i_m_kind_of_busy",
+  "word": "I'm kind of busy",
+  "translation": "я немного занят",
+  "note": "Мягкий отказ.",
+  "examples": [
+   {
+    "en": "Sorry, #I'm kind of busy# right now.",
+    "ru": "Извини, я сейчас немного занят."
+   }
+  ]
+ },
+ {
+  "id": "give_me_a_break",
+  "word": "give me a break",
+  "translation": "да ладно тебе; отстань",
+  "note": "Недовольство, недоверие или просьба отстать.",
+  "examples": [
+   {
+    "en": "Oh, #give me a break#, it wasn't my fault!",
+    "ru": "Да ладно тебе, это не моя вина!"
+   }
+  ]
+ },
+ {
+  "id": "cut_it_out",
+  "word": "cut it out",
+  "translation": "прекрати",
+  "note": "Резкая просьба перестать.",
+  "examples": [
+   {
+    "en": "#Cut it out#, you two!",
+    "ru": "Прекратите, вы двое!"
+   }
+  ]
+ },
+ {
+  "id": "knock_it_off",
+  "word": "knock it off",
+  "translation": "хватит; кончай",
+  "note": "Амер. разг.: перестань.",
+  "examples": [
+   {
+    "en": "#Knock it off#, I'm trying to work.",
+    "ru": "Хватит, я пытаюсь работать."
+   }
+  ]
+ },
+ {
+  "id": "mind_your_own_business",
+  "word": "mind your own business",
+  "translation": "не твоё дело",
+  "note": "Грубовато: не лезь.",
+  "examples": [
+   {
+    "en": "That's #none of your business#.",
+    "ru": "Это не твоё дело."
+   },
+   {
+    "en": "#Mind your own business#!",
+    "ru": "Не суй нос не в своё дело!"
+   }
+  ]
+ },
+ {
+  "id": "get_a_life",
+  "word": "get a life",
+  "translation": "займись делом",
+  "note": "Пренебрежительно: найди себе занятие поинтереснее.",
+  "examples": [
+   {
+    "en": "You count my steps? #Get a life#!",
+    "ru": "Ты считаешь мои шаги? Займись делом!"
+   }
+  ]
+ },
+ {
+  "id": "you_ll_be_fine",
+  "word": "you'll be fine",
+  "translation": "всё у тебя будет хорошо",
+  "note": "Поддержка перед испытанием.",
+  "examples": [
+   {
+    "en": "Don't worry about the exam, #you'll be fine#.",
+    "ru": "Не волнуйся за экзамен, всё будет хорошо."
+   }
+  ]
+ },
+ {
+  "id": "you_got_this",
+  "word": "you got this",
+  "translation": "ты справишься",
+  "note": "Амер. поддержка.",
+  "examples": [
+   {
+    "en": "Big presentation today — #you got this#!",
+    "ru": "Сегодня важная презентация — ты справишься!"
+   }
+  ]
+ },
+ {
+  "id": "good_luck_with_that",
+  "word": "good luck with that",
+  "translation": "удачи с этим",
+  "note": "Искренне или с сарказмом («ну-ну»).",
+  "examples": [
+   {
+    "en": "You want to fix it yourself? #Good luck with that#.",
+    "ru": "Хочешь сам починить? Ну-ну, удачи."
+   }
+  ]
+ },
+ {
+  "id": "it_s_about_time",
+  "word": "it's about time",
+  "translation": "давно пора",
+  "note": "Нетерпение: наконец-то.",
+  "examples": [
+   {
+    "en": "You're here! #It's about time#.",
+    "ru": "Пришёл! Давно пора."
+   }
+  ]
+ },
+ {
+  "id": "that_s_what_i_m_talking_about",
+  "word": "that's what I'm talking about!",
+  "translation": "вот это я понимаю!",
+  "note": "Амер. восторг: именно то, чего хотел.",
+  "examples": [
+   {
+    "en": "A huge burger? #That's what I'm talking about#!",
+    "ru": "Огромный бургер? Вот это я понимаю!"
+   }
+  ]
+ },
+ {
+  "id": "you_made_my_day",
+  "word": "you made my day",
+  "translation": "ты сделал мне день",
+  "note": "Благодарность за что-то приятное.",
+  "examples": [
+   {
+    "en": "Thanks for the flowers, #you made my day#!",
+    "ru": "Спасибо за цветы, ты сделал мой день!"
+   }
+  ]
+ },
+ {
+  "id": "how_cool_is_that",
+  "word": "how cool is that?",
+  "translation": "ну разве не круто?",
+  "note": "Восторг.",
+  "examples": [
+   {
+    "en": "We got free upgrades. #How cool is that#?",
+    "ru": "Нам бесплатно повысили класс. Ну разве не круто?"
+   }
+  ]
  }
 ]
