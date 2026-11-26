@@ -1370,5 +1370,21 @@
     "ru": "Вот двадцать — сдачи не надо."
    }
   ]
+ },
+ {
+  "id": "same_old_same_old",
+  "word": "same old, same old",
+  "translation": "всё по-старому; всё то же самое",
+  "note": "Разг. ответ на «как дела?» или «что нового?»: ничего не меняется. Звучит слегка устало или с иронией, но не жалобно. Синонимы: nothing much, same as always.",
+  "examples": [
+   {
+    "en": "— What's new at work? — Oh, #same old, same old#.",
+    "ru": "— Что нового на работе? — Да всё по-старому."
+   },
+   {
+    "en": "Traffic jam, coffee, emails — #same old, same old#.",
+    "ru": "Пробка, кофе, почта — всё то же самое."
+   }
+  ]
  }
 ]
