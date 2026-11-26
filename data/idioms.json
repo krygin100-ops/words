@@ -2,6 +2,7 @@
  {
   "id": "piece_of_cake",
   "word": "a piece of cake",
+  "pos": "идиома",
   "transcription": null,
   "translation": "проще простого, раз плюнуть",
   "nuance": null,
@@ -25,6 +26,7 @@
  {
   "id": "break_the_ice",
   "word": "break the ice",
+  "pos": "идиома",
   "transcription": null,
   "translation": "растопить лёд, разрядить обстановку",
   "nuance": null,
@@ -48,6 +50,7 @@
  {
   "id": "hit_the_books",
   "word": "hit the books",
+  "pos": "идиома",
   "transcription": null,
   "translation": "засесть за учёбу",
   "nuance": null,
@@ -71,6 +74,7 @@
  {
   "id": "hit_the_sack",
   "word": "hit the sack",
+  "pos": "идиома",
   "transcription": null,
   "translation": "завалиться спать",
   "nuance": null,
@@ -94,6 +98,7 @@
  {
   "id": "under_the_weather",
   "word": "under the weather",
+  "pos": "идиома",
   "transcription": null,
   "translation": "неважно себя чувствовать",
   "nuance": null,
@@ -117,6 +122,7 @@
  {
   "id": "cost_an_arm_and_a_leg",
   "word": "cost an arm and a leg",
+  "pos": "идиома",
   "transcription": null,
   "translation": "стоить целое состояние",
   "nuance": null,
@@ -140,6 +146,7 @@
  {
   "id": "spill_the_beans",
   "word": "spill the beans",
+  "pos": "идиома",
   "transcription": null,
   "translation": "проболтаться, выдать секрет",
   "nuance": null,
@@ -163,6 +170,7 @@
  {
   "id": "let_the_cat_out_of_the_bag",
   "word": "let the cat out of the bag",
+  "pos": "идиома",
   "transcription": null,
   "translation": "проговориться, раскрыть тайну",
   "nuance": null,
@@ -186,6 +194,7 @@
  {
   "id": "raining_cats_and_dogs",
   "word": "it's raining cats and dogs",
+  "pos": "идиома",
   "transcription": null,
   "translation": "льёт как из ведра",
   "nuance": null,
@@ -209,6 +218,7 @@
  {
   "id": "once_in_a_blue_moon",
   "word": "once in a blue moon",
+  "pos": "идиома",
   "transcription": null,
   "translation": "раз в сто лет, очень редко",
   "nuance": null,
@@ -232,6 +242,7 @@
  {
   "id": "break_a_leg",
   "word": "break a leg",
+  "pos": "идиома",
   "transcription": null,
   "translation": "ни пуха ни пера, удачи!",
   "nuance": null,
@@ -255,6 +266,7 @@
  {
   "id": "bite_the_bullet",
   "word": "bite the bullet",
+  "pos": "идиома",
   "transcription": null,
   "translation": "стиснуть зубы и сделать",
   "nuance": null,
@@ -278,6 +290,7 @@
  {
   "id": "call_it_a_day",
   "word": "call it a day",
+  "pos": "идиома",
   "transcription": null,
   "translation": "закончить на сегодня",
   "nuance": null,
@@ -301,6 +314,7 @@
  {
   "id": "cut_corners",
   "word": "cut corners",
+  "pos": "идиома",
   "transcription": null,
   "translation": "халтурить, срезать углы",
   "nuance": null,
@@ -324,6 +338,7 @@
  {
   "id": "hit_the_nail_on_the_head",
   "word": "hit the nail on the head",
+  "pos": "идиома",
   "transcription": null,
   "translation": "попасть в точку",
   "nuance": null,
@@ -347,6 +362,7 @@
  {
   "id": "kill_two_birds_with_one_stone",
   "word": "kill two birds with one stone",
+  "pos": "идиома",
   "transcription": null,
   "translation": "убить двух зайцев",
   "nuance": null,
@@ -370,6 +386,7 @@
  {
   "id": "the_ball_is_in_your_court",
   "word": "the ball is in your court",
+  "pos": "идиома",
   "transcription": null,
   "translation": "теперь твой ход, решать тебе",
   "nuance": null,
@@ -393,6 +410,7 @@
  {
   "id": "beat_around_the_bush",
   "word": "beat around the bush",
+  "pos": "идиома",
   "transcription": null,
   "translation": "ходить вокруг да около",
   "nuance": null,
@@ -416,6 +434,7 @@
  {
   "id": "best_of_both_worlds",
   "word": "the best of both worlds",
+  "pos": "идиома",
   "transcription": null,
   "translation": "лучшее из двух миров, и то и другое",
   "nuance": null,
@@ -439,6 +458,7 @@
  {
   "id": "cry_over_spilt_milk",
   "word": "cry over spilt milk",
+  "pos": "идиома",
   "transcription": null,
   "translation": "жалеть о том, чего не вернёшь",
   "nuance": null,
@@ -462,6 +482,7 @@
  {
   "id": "get_out_of_hand",
   "word": "get out of hand",
+  "pos": "идиома",
   "transcription": null,
   "translation": "выйти из-под контроля",
   "nuance": null,
@@ -485,6 +506,7 @@
  {
   "id": "go_the_extra_mile",
   "word": "go the extra mile",
+  "pos": "идиома",
   "transcription": null,
   "translation": "сделать больше, чем требуется",
   "nuance": null,
@@ -508,6 +530,7 @@
  {
   "id": "hang_in_there",
   "word": "hang in there",
+  "pos": "идиома",
   "transcription": null,
   "translation": "держись, не сдавайся",
   "nuance": null,
@@ -531,6 +554,7 @@
  {
   "id": "it_takes_two_to_tango",
   "word": "it takes two to tango",
+  "pos": "идиома",
   "transcription": null,
   "translation": "виноваты оба, нужны двое",
   "nuance": null,
@@ -554,6 +578,7 @@
  {
   "id": "jump_on_the_bandwagon",
   "word": "jump on the bandwagon",
+  "pos": "идиома",
   "transcription": null,
   "translation": "присоединиться к модному",
   "nuance": null,
@@ -577,6 +602,7 @@
  {
   "id": "keep_an_eye_on",
   "word": "keep an eye on",
+  "pos": "идиома",
   "transcription": null,
   "translation": "присматривать, следить",
   "nuance": null,
@@ -600,6 +626,7 @@
  {
   "id": "let_sleeping_dogs_lie",
   "word": "let sleeping dogs lie",
+  "pos": "идиома",
   "transcription": null,
   "translation": "не буди лихо, пока оно тихо",
   "nuance": null,
@@ -623,6 +650,7 @@
  {
   "id": "miss_the_boat",
   "word": "miss the boat",
+  "pos": "идиома",
   "transcription": null,
   "translation": "упустить шанс",
   "nuance": null,
@@ -646,6 +674,7 @@
  {
   "id": "no_pain_no_gain",
   "word": "no pain, no gain",
+  "pos": "идиома",
   "transcription": null,
   "translation": "без труда не вытащишь рыбку из пруда",
   "nuance": null,
@@ -669,6 +698,7 @@
  {
   "id": "on_the_ball",
   "word": "on the ball",
+  "pos": "идиома",
   "transcription": null,
   "translation": "быть начеку, сообразительный",
   "nuance": null,
@@ -692,6 +722,7 @@
  {
   "id": "pull_someones_leg",
   "word": "pull someone's leg",
+  "pos": "идиома",
   "transcription": null,
   "translation": "разыгрывать, подшучивать",
   "nuance": null,
@@ -715,6 +746,7 @@
  {
   "id": "sit_on_the_fence",
   "word": "sit on the fence",
+  "pos": "идиома",
   "transcription": null,
   "translation": "занимать выжидательную позицию",
   "nuance": null,
@@ -738,6 +770,7 @@
  {
   "id": "speak_of_the_devil",
   "word": "speak of the devil",
+  "pos": "идиома",
   "transcription": null,
   "translation": "лёгок на помине",
   "nuance": null,
@@ -761,6 +794,7 @@
  {
   "id": "the_last_straw",
   "word": "the last straw",
+  "pos": "идиома",
   "transcription": null,
   "translation": "последняя капля",
   "nuance": null,
@@ -784,6 +818,7 @@
  {
   "id": "time_flies",
   "word": "time flies",
+  "pos": "идиома",
   "transcription": null,
   "translation": "время летит",
   "nuance": null,
@@ -807,6 +842,7 @@
  {
   "id": "under_the_table",
   "word": "under the table",
+  "pos": "идиома",
   "transcription": null,
   "translation": "из-под полы, незаконно",
   "nuance": null,
@@ -830,6 +866,7 @@
  {
   "id": "when_pigs_fly",
   "word": "when pigs fly",
+  "pos": "идиома",
   "transcription": null,
   "translation": "когда рак на горе свистнет",
   "nuance": null,
@@ -853,6 +890,7 @@
  {
   "id": "your_guess_is_as_good_as_mine",
   "word": "your guess is as good as mine",
+  "pos": "идиома",
   "transcription": null,
   "translation": "понятия не имею, как и ты",
   "nuance": null,
@@ -876,6 +914,7 @@
  {
   "id": "add_insult_to_injury",
   "word": "add insult to injury",
+  "pos": "идиома",
   "transcription": null,
   "translation": "сыпать соль на рану",
   "nuance": null,
@@ -899,6 +938,7 @@
  {
   "id": "barking_up_the_wrong_tree",
   "word": "bark up the wrong tree",
+  "pos": "идиома",
   "transcription": null,
   "translation": "обращаться не по адресу",
   "nuance": null,
@@ -922,6 +962,7 @@
  {
   "id": "cat_got_your_tongue",
   "word": "cat got your tongue?",
+  "pos": "идиома",
   "transcription": null,
   "translation": "язык проглотил?",
   "nuance": null,
@@ -945,6 +986,7 @@
  {
   "id": "cold_feet",
   "word": "get cold feet",
+  "pos": "идиома",
   "transcription": null,
   "translation": "струсить в последний момент",
   "nuance": null,
@@ -968,6 +1010,7 @@
  {
   "id": "cool_as_a_cucumber",
   "word": "cool as a cucumber",
+  "pos": "идиома",
   "transcription": null,
   "translation": "невозмутимый, спокойный как удав",
   "nuance": null,
@@ -991,6 +1034,7 @@
  {
   "id": "couch_potato",
   "word": "couch potato",
+  "pos": "идиома",
   "transcription": null,
   "translation": "лежебока, домосед у телевизора",
   "nuance": null,
@@ -1014,6 +1058,7 @@
  {
   "id": "curiosity_killed_the_cat",
   "word": "curiosity killed the cat",
+  "pos": "идиома",
   "transcription": null,
   "translation": "любопытной Варваре нос оторвали",
   "nuance": null,
@@ -1037,6 +1082,7 @@
  {
   "id": "dont_count_your_chickens",
   "word": "don't count your chickens before they hatch",
+  "pos": "идиома",
   "transcription": null,
   "translation": "цыплят по осени считают",
   "nuance": null,
@@ -1060,6 +1106,7 @@
  {
   "id": "dont_put_all_your_eggs_in_one_basket",
   "word": "don't put all your eggs in one basket",
+  "pos": "идиома",
   "transcription": null,
   "translation": "не ставь всё на одну карту",
   "nuance": null,
@@ -1083,6 +1130,7 @@
  {
   "id": "elephant_in_the_room",
   "word": "the elephant in the room",
+  "pos": "идиома",
   "transcription": null,
   "translation": "очевидная проблема, о которой молчат",
   "nuance": null,
@@ -1106,6 +1154,7 @@
  {
   "id": "every_cloud_has_a_silver_lining",
   "word": "every cloud has a silver lining",
+  "pos": "идиома",
   "transcription": null,
   "translation": "нет худа без добра",
   "nuance": null,
@@ -1129,6 +1178,7 @@
  {
   "id": "face_the_music",
   "word": "face the music",
+  "pos": "идиома",
   "transcription": null,
   "translation": "отвечать за последствия",
   "nuance": null,
@@ -1152,6 +1202,7 @@
  {
   "id": "feel_blue",
   "word": "feel blue",
+  "pos": "идиома",
   "transcription": null,
   "translation": "грустить, хандрить",
   "nuance": null,
@@ -1175,6 +1226,7 @@
  {
   "id": "fish_out_of_water",
   "word": "a fish out of water",
+  "pos": "идиома",
   "transcription": null,
   "translation": "не в своей тарелке",
   "nuance": null,
@@ -1198,6 +1250,7 @@
  {
   "id": "get_the_ball_rolling",
   "word": "get the ball rolling",
+  "pos": "идиома",
   "transcription": null,
   "translation": "сдвинуть дело с мёртвой точки",
   "nuance": null,
@@ -1221,6 +1274,7 @@
  {
   "id": "give_the_cold_shoulder",
   "word": "give someone the cold shoulder",
+  "pos": "идиома",
   "transcription": null,
   "translation": "холодно игнорировать",
   "nuance": null,
@@ -1244,6 +1298,7 @@
  {
   "id": "go_down_in_flames",
   "word": "go down in flames",
+  "pos": "идиома",
   "transcription": null,
   "translation": "с треском провалиться",
   "nuance": null,
@@ -1267,6 +1322,7 @@
  {
   "id": "head_in_the_clouds",
   "word": "have your head in the clouds",
+  "pos": "идиома",
   "transcription": null,
   "translation": "витать в облаках",
   "nuance": null,
@@ -1290,6 +1346,7 @@
  {
   "id": "hold_your_horses",
   "word": "hold your horses",
+  "pos": "идиома",
   "transcription": null,
   "translation": "придержи коней, погоди",
   "nuance": null,
@@ -1313,6 +1370,7 @@
  {
   "id": "in_hot_water",
   "word": "in hot water",
+  "pos": "идиома",
   "transcription": null,
   "translation": "в беде, влип",
   "nuance": null,
@@ -1336,6 +1394,7 @@
  {
   "id": "in_the_same_boat",
   "word": "in the same boat",
+  "pos": "идиома",
   "transcription": null,
   "translation": "в одной лодке",
   "nuance": null,
@@ -1359,6 +1418,7 @@
  {
   "id": "keep_your_chin_up",
   "word": "keep your chin up",
+  "pos": "идиома",
   "transcription": null,
   "translation": "не вешай нос",
   "nuance": null,
@@ -1382,6 +1442,7 @@
  {
   "id": "let_off_steam",
   "word": "let off steam",
+  "pos": "идиома",
   "transcription": null,
   "translation": "выпустить пар",
   "nuance": null,
@@ -1405,6 +1466,7 @@
  {
   "id": "make_a_long_story_short",
   "word": "to make a long story short",
+  "pos": "идиома",
   "transcription": null,
   "translation": "короче говоря",
   "nuance": null,
@@ -1428,6 +1490,7 @@
  {
   "id": "on_cloud_nine",
   "word": "on cloud nine",
+  "pos": "идиома",
   "transcription": null,
   "translation": "на седьмом небе",
   "nuance": null,
@@ -1451,6 +1514,7 @@
  {
   "id": "once_bitten_twice_shy",
   "word": "once bitten, twice shy",
+  "pos": "идиома",
   "transcription": null,
   "translation": "обжёгшись на молоке, дуют на воду",
   "nuance": null,
@@ -1474,6 +1538,7 @@
  {
   "id": "out_of_the_blue",
   "word": "out of the blue",
+  "pos": "идиома",
   "transcription": null,
   "translation": "как гром среди ясного неба, внезапно",
   "nuance": null,
@@ -1497,6 +1562,7 @@
  {
   "id": "over_the_moon",
   "word": "over the moon",
+  "pos": "идиома",
   "transcription": null,
   "translation": "вне себя от радости",
   "nuance": null,
@@ -1520,6 +1586,7 @@
  {
   "id": "play_it_by_ear",
   "word": "play it by ear",
+  "pos": "идиома",
   "transcription": null,
   "translation": "действовать по обстановке",
   "nuance": null,
@@ -1543,6 +1610,7 @@
  {
   "id": "rings_a_bell",
   "word": "ring a bell",
+  "pos": "идиома",
   "transcription": null,
   "translation": "что-то напоминает, звучит знакомо",
   "nuance": null,
@@ -1566,6 +1634,7 @@
  {
   "id": "see_eye_to_eye",
   "word": "see eye to eye",
+  "pos": "идиома",
   "transcription": null,
   "translation": "сходиться во мнениях",
   "nuance": null,
@@ -1589,6 +1658,7 @@
  {
   "id": "steal_someones_thunder",
   "word": "steal someone's thunder",
+  "pos": "идиома",
   "transcription": null,
   "translation": "перехватить чужую славу",
   "nuance": null,
@@ -1612,6 +1682,7 @@
  {
   "id": "take_with_a_grain_of_salt",
   "word": "take it with a grain of salt",
+  "pos": "идиома",
   "transcription": null,
   "translation": "относиться скептически",
   "nuance": null,
@@ -1635,6 +1706,7 @@
  {
   "id": "the_tip_of_the_iceberg",
   "word": "the tip of the iceberg",
+  "pos": "идиома",
   "transcription": null,
   "translation": "верхушка айсберга",
   "nuance": null,
@@ -1658,6 +1730,7 @@
  {
   "id": "throw_in_the_towel",
   "word": "throw in the towel",
+  "pos": "идиома",
   "transcription": null,
   "translation": "сдаться, выбросить полотенце",
   "nuance": null,
@@ -1681,6 +1754,7 @@
  {
   "id": "up_in_the_air",
   "word": "up in the air",
+  "pos": "идиома",
   "transcription": null,
   "translation": "под вопросом, не решено",
   "nuance": null,
@@ -1704,6 +1778,7 @@
  {
   "id": "wild_goose_chase",
   "word": "a wild goose chase",
+  "pos": "идиома",
   "transcription": null,
   "translation": "бесполезная погоня, гоняться за химерой",
   "nuance": null,
@@ -1727,6 +1802,7 @@
  {
   "id": "you_cant_judge_a_book_by_its_cover",
   "word": "don't judge a book by its cover",
+  "pos": "идиома",
   "transcription": null,
   "translation": "не суди по внешности",
   "nuance": null,
@@ -1750,6 +1826,7 @@
  {
   "id": "a_dime_a_dozen",
   "word": "a dime a dozen",
+  "pos": "идиома",
   "transcription": null,
   "translation": "пруд пруди, на каждом шагу",
   "nuance": null,
@@ -1773,6 +1850,7 @@
  {
   "id": "actions_speak_louder_than_words",
   "word": "actions speak louder than words",
+  "pos": "идиома",
   "transcription": null,
   "translation": "дела говорят громче слов",
   "nuance": null,
@@ -1796,6 +1874,7 @@
  {
   "id": "back_to_square_one",
   "word": "back to square one",
+  "pos": "идиома",
   "transcription": null,
   "translation": "начинать всё сначала",
   "nuance": null,
@@ -1819,6 +1898,7 @@
  {
   "id": "better_late_than_never",
   "word": "better late than never",
+  "pos": "идиома",
   "transcription": null,
   "translation": "лучше поздно, чем никогда",
   "nuance": null,
@@ -1842,6 +1922,7 @@
  {
   "id": "bite_off_more_than_you_can_chew",
   "word": "bite off more than you can chew",
+  "pos": "идиома",
   "transcription": null,
   "translation": "взвалить на себя слишком много",
   "nuance": null,
@@ -1865,6 +1946,7 @@
  {
   "id": "blessing_in_disguise",
   "word": "a blessing in disguise",
+  "pos": "идиома",
   "transcription": null,
   "translation": "не было бы счастья, да несчастье помогло",
   "nuance": null,
@@ -1888,6 +1970,7 @@
  {
   "id": "burn_the_midnight_oil",
   "word": "burn the midnight oil",
+  "pos": "идиома",
   "transcription": null,
   "translation": "засиживаться допоздна за работой",
   "nuance": null,
@@ -1911,6 +1994,7 @@
  {
   "id": "by_the_skin_of_your_teeth",
   "word": "by the skin of your teeth",
+  "pos": "идиома",
   "transcription": null,
   "translation": "чудом, еле-еле",
   "nuance": null,
@@ -1934,6 +2018,7 @@
  {
   "id": "caught_red_handed",
   "word": "caught red-handed",
+  "pos": "идиома",
   "transcription": null,
   "translation": "пойман с поличным",
   "nuance": null,
@@ -1957,6 +2042,7 @@
  {
   "id": "cut_to_the_chase",
   "word": "cut to the chase",
+  "pos": "идиома",
   "transcription": null,
   "translation": "ближе к делу",
   "nuance": null,
@@ -1980,6 +2066,7 @@
  {
   "id": "down_to_earth",
   "word": "down to earth",
+  "pos": "идиома",
   "transcription": null,
   "translation": "приземлённый, простой",
   "nuance": null,
@@ -2003,6 +2090,7 @@
  {
   "id": "drive_someone_up_the_wall",
   "word": "drive someone up the wall",
+  "pos": "идиома",
   "transcription": null,
   "translation": "довести до белого каления",
   "nuance": null,
@@ -2026,6 +2114,7 @@
  {
   "id": "easier_said_than_done",
   "word": "easier said than done",
+  "pos": "идиома",
   "transcription": null,
   "translation": "легче сказать, чем сделать",
   "nuance": null,
@@ -2049,6 +2138,7 @@
  {
   "id": "get_your_act_together",
   "word": "get your act together",
+  "pos": "идиома",
   "transcription": null,
   "translation": "взять себя в руки",
   "nuance": null,
@@ -2072,6 +2162,7 @@
  {
   "id": "give_someone_a_hand",
   "word": "give someone a hand",
+  "pos": "идиома",
   "transcription": null,
   "translation": "помочь",
   "nuance": null,
@@ -2095,6 +2186,7 @@
  {
   "id": "go_back_to_the_drawing_board",
   "word": "go back to the drawing board",
+  "pos": "идиома",
   "transcription": null,
   "translation": "начать с чистого листа",
   "nuance": null,
@@ -2118,6 +2210,7 @@
  {
   "id": "have_a_sweet_tooth",
   "word": "have a sweet tooth",
+  "pos": "идиома",
   "transcription": null,
   "translation": "быть сладкоежкой",
   "nuance": null,
@@ -2141,6 +2234,7 @@
  {
   "id": "in_a_nutshell",
   "word": "in a nutshell",
+  "pos": "идиома",
   "transcription": null,
   "translation": "в двух словах",
   "nuance": null,
@@ -2164,6 +2258,7 @@
  {
   "id": "jump_the_gun",
   "word": "jump the gun",
+  "pos": "идиома",
   "transcription": null,
   "translation": "поспешить, забежать вперёд",
   "nuance": null,
@@ -2187,6 +2282,7 @@
  {
   "id": "keep_your_fingers_crossed",
   "word": "keep your fingers crossed",
+  "pos": "идиома",
   "transcription": null,
   "translation": "держать кулачки, скрестить пальцы",
   "nuance": null,
@@ -2210,6 +2306,7 @@
  {
   "id": "lend_an_ear",
   "word": "lend an ear",
+  "pos": "идиома",
   "transcription": null,
   "translation": "выслушать",
   "nuance": null,
@@ -2233,6 +2330,7 @@
  {
   "id": "look_before_you_leap",
   "word": "look before you leap",
+  "pos": "идиома",
   "transcription": null,
   "translation": "семь раз отмерь, один раз отрежь",
   "nuance": null,
@@ -2256,6 +2354,7 @@
  {
   "id": "make_ends_meet",
   "word": "make ends meet",
+  "pos": "идиома",
   "transcription": null,
   "translation": "сводить концы с концами",
   "nuance": null,
@@ -2279,6 +2378,7 @@
  {
   "id": "not_my_cup_of_tea",
   "word": "not my cup of tea",
+  "pos": "идиома",
   "transcription": null,
   "translation": "не моё, не по душе",
   "nuance": null,
@@ -2302,6 +2402,7 @@
  {
   "id": "on_thin_ice",
   "word": "on thin ice",
+  "pos": "идиома",
   "transcription": null,
   "translation": "на тонком льду, рисковать",
   "nuance": null,
@@ -2325,6 +2426,7 @@
  {
   "id": "over_my_dead_body",
   "word": "over my dead body",
+  "pos": "идиома",
   "transcription": null,
   "translation": "только через мой труп",
   "nuance": null,
@@ -2348,6 +2450,7 @@
  {
   "id": "pay_through_the_nose",
   "word": "pay through the nose",
+  "pos": "идиома",
   "transcription": null,
   "translation": "переплатить втридорога",
   "nuance": null,
@@ -2371,6 +2474,7 @@
  {
   "id": "practice_makes_perfect",
   "word": "practice makes perfect",
+  "pos": "идиома",
   "transcription": null,
   "translation": "повторение — мать учения",
   "nuance": null,
@@ -2394,6 +2498,7 @@
  {
   "id": "put_your_foot_in_your_mouth",
   "word": "put your foot in your mouth",
+  "pos": "идиома",
   "transcription": null,
   "translation": "ляпнуть глупость",
   "nuance": null,
@@ -2417,6 +2522,7 @@
  {
   "id": "rain_on_someones_parade",
   "word": "rain on someone's parade",
+  "pos": "идиома",
   "transcription": null,
   "translation": "испортить праздник",
   "nuance": null,
@@ -2440,6 +2546,7 @@
  {
   "id": "read_between_the_lines",
   "word": "read between the lines",
+  "pos": "идиома",
   "transcription": null,
   "translation": "читать между строк",
   "nuance": null,
@@ -2463,6 +2570,7 @@
  {
   "id": "rule_of_thumb",
   "word": "rule of thumb",
+  "pos": "идиома",
   "transcription": null,
   "translation": "практическое правило, на глазок",
   "nuance": null,
@@ -2486,6 +2594,7 @@
  {
   "id": "save_for_a_rainy_day",
   "word": "save for a rainy day",
+  "pos": "идиома",
   "transcription": null,
   "translation": "откладывать на чёрный день",
   "nuance": null,
@@ -2509,6 +2618,7 @@
  {
   "id": "sleep_on_it",
   "word": "sleep on it",
+  "pos": "идиома",
   "transcription": null,
   "translation": "утро вечера мудренее",
   "nuance": null,
@@ -2532,6 +2642,7 @@
  {
   "id": "spill_the_tea",
   "word": "spill the tea",
+  "pos": "идиома",
   "transcription": null,
   "translation": "рассказать сплетни",
   "nuance": null,
@@ -2555,6 +2666,7 @@
  {
   "id": "take_a_rain_check",
   "word": "take a rain check",
+  "pos": "идиома",
   "transcription": null,
   "translation": "перенести на потом",
   "nuance": null,
@@ -2578,6 +2690,7 @@
  {
   "id": "the_early_bird_catches_the_worm",
   "word": "the early bird catches the worm",
+  "pos": "идиома",
   "transcription": null,
   "translation": "кто рано встаёт, тому бог подаёт",
   "nuance": null,
@@ -2601,6 +2714,7 @@
  {
   "id": "the_whole_nine_yards",
   "word": "the whole nine yards",
+  "pos": "идиома",
   "transcription": null,
   "translation": "всё целиком, по полной",
   "nuance": null,
@@ -2624,6 +2738,7 @@
  {
   "id": "throw_someone_under_the_bus",
   "word": "throw someone under the bus",
+  "pos": "идиома",
   "transcription": null,
   "translation": "подставить, предать",
   "nuance": null,
@@ -2647,6 +2762,7 @@
  {
   "id": "turn_a_blind_eye",
   "word": "turn a blind eye",
+  "pos": "идиома",
   "transcription": null,
   "translation": "закрывать глаза на что-то",
   "nuance": null,
@@ -2670,6 +2786,7 @@
  {
   "id": "until_the_cows_come_home",
   "word": "until the cows come home",
+  "pos": "идиома",
   "transcription": null,
   "translation": "до бесконечности, до посинения",
   "nuance": null,
@@ -2693,6 +2810,7 @@
  {
   "id": "walk_on_eggshells",
   "word": "walk on eggshells",
+  "pos": "идиома",
   "transcription": null,
   "translation": "ходить на цыпочках, бояться задеть",
   "nuance": null,
@@ -2716,6 +2834,7 @@
  {
   "id": "water_under_the_bridge",
   "word": "water under the bridge",
+  "pos": "идиома",
   "transcription": null,
   "translation": "что было, то прошло",
   "nuance": null,
@@ -2739,6 +2858,7 @@
  {
   "id": "weather_the_storm",
   "word": "weather the storm",
+  "pos": "идиома",
   "transcription": null,
   "translation": "пережить трудности",
   "nuance": null,
@@ -2762,6 +2882,7 @@
  {
   "id": "when_in_rome",
   "word": "when in Rome, do as the Romans do",
+  "pos": "идиома",
   "transcription": null,
   "translation": "в чужой монастырь со своим уставом не ходят",
   "nuance": null,
@@ -2785,6 +2906,7 @@
  {
   "id": "wrap_your_head_around",
   "word": "wrap your head around something",
+  "pos": "идиома",
   "transcription": null,
   "translation": "уложить в голове, понять",
   "nuance": null,
@@ -2808,6 +2930,7 @@
  {
   "id": "you_can_say_that_again",
   "word": "you can say that again",
+  "pos": "идиома",
   "transcription": null,
   "translation": "точно сказано, согласен!",
   "nuance": null,
@@ -2831,6 +2954,7 @@
  {
   "id": "apple_of_my_eye",
   "word": "the apple of my eye",
+  "pos": "идиома",
   "transcription": null,
   "translation": "зеница ока, любимчик",
   "nuance": null,
@@ -2854,6 +2978,7 @@
  {
   "id": "as_easy_as_pie",
   "word": "as easy as pie",
+  "pos": "идиома",
   "transcription": null,
   "translation": "проще пареной репы",
   "nuance": null,
@@ -2877,6 +3002,7 @@
  {
   "id": "bend_over_backwards",
   "word": "bend over backwards",
+  "pos": "идиома",
   "transcription": null,
   "translation": "из кожи вон лезть",
   "nuance": null,
@@ -2900,6 +3026,7 @@
  {
   "id": "big_cheese",
   "word": "big cheese",
+  "pos": "идиома",
   "transcription": null,
   "translation": "большая шишка",
   "nuance": null,
@@ -2923,6 +3050,7 @@
  {
   "id": "bread_and_butter",
   "word": "bread and butter",
+  "pos": "идиома",
   "transcription": null,
   "translation": "основной заработок, хлеб насущный",
   "nuance": null,
@@ -2946,6 +3074,7 @@
  {
   "id": "break_the_bank",
   "word": "break the bank",
+  "pos": "идиома",
   "transcription": null,
   "translation": "разорить, стоить слишком дорого",
   "nuance": null,
@@ -2969,6 +3098,7 @@
  {
   "id": "bury_the_hatchet",
   "word": "bury the hatchet",
+  "pos": "идиома",
   "transcription": null,
   "translation": "зарыть топор войны, помириться",
   "nuance": null,
@@ -2992,6 +3122,7 @@
  {
   "id": "chip_on_your_shoulder",
   "word": "have a chip on your shoulder",
+  "pos": "идиома",
   "transcription": null,
   "translation": "быть обиженным на весь мир",
   "nuance": null,
@@ -3015,6 +3146,7 @@
  {
   "id": "cross_that_bridge_when_you_come_to_it",
   "word": "cross that bridge when you come to it",
+  "pos": "идиома",
   "transcription": null,
   "translation": "решать проблемы по мере поступления",
   "nuance": null,
@@ -3038,6 +3170,7 @@
  {
   "id": "cry_wolf",
   "word": "cry wolf",
+  "pos": "идиома",
   "transcription": null,
   "translation": "поднимать ложную тревогу",
   "nuance": null,
@@ -3061,6 +3194,7 @@
  {
   "id": "dark_horse",
   "word": "dark horse",
+  "pos": "идиома",
   "transcription": null,
   "translation": "тёмная лошадка",
   "nuance": null,
@@ -3084,6 +3218,7 @@
  {
   "id": "devils_advocate",
   "word": "play devil's advocate",
+  "pos": "идиома",
   "transcription": null,
   "translation": "играть роль адвоката дьявола",
   "nuance": null,
@@ -3107,6 +3242,7 @@
  {
   "id": "drop_in_the_bucket",
   "word": "a drop in the bucket",
+  "pos": "идиома",
   "transcription": null,
   "translation": "капля в море",
   "nuance": null,
@@ -3130,6 +3266,7 @@
  {
   "id": "eat_like_a_bird",
   "word": "eat like a bird",
+  "pos": "идиома",
   "transcription": null,
   "translation": "есть как птичка",
   "nuance": null,
@@ -3153,6 +3290,7 @@
  {
   "id": "eat_like_a_horse",
   "word": "eat like a horse",
+  "pos": "идиома",
   "transcription": null,
   "translation": "есть за троих",
   "nuance": null,
@@ -3176,6 +3314,7 @@
  {
   "id": "get_a_taste_of_your_own_medicine",
   "word": "get a taste of your own medicine",
+  "pos": "идиома",
   "transcription": null,
   "translation": "отведать своего же лекарства",
   "nuance": null,
@@ -3199,6 +3338,7 @@
  {
   "id": "go_cold_turkey",
   "word": "go cold turkey",
+  "pos": "идиома",
   "transcription": null,
   "translation": "резко бросить (привычку)",
   "nuance": null,
@@ -3222,6 +3362,7 @@
  {
   "id": "green_with_envy",
   "word": "green with envy",
+  "pos": "идиома",
   "transcription": null,
   "translation": "позеленеть от зависти",
   "nuance": null,
@@ -3245,6 +3386,7 @@
  {
   "id": "have_butterflies_in_your_stomach",
   "word": "have butterflies in your stomach",
+  "pos": "идиома",
   "transcription": null,
   "translation": "волноваться, бабочки в животе",
   "nuance": null,
@@ -3268,6 +3410,7 @@
  {
   "id": "hit_the_road",
   "word": "hit the road",
+  "pos": "идиома",
   "transcription": null,
   "translation": "отправиться в путь",
   "nuance": null,
@@ -3291,6 +3434,7 @@
  {
   "id": "in_the_nick_of_time",
   "word": "in the nick of time",
+  "pos": "идиома",
   "transcription": null,
   "translation": "в самый последний момент",
   "nuance": null,
@@ -3314,6 +3458,7 @@
  {
   "id": "its_not_rocket_science",
   "word": "it's not rocket science",
+  "pos": "идиома",
   "transcription": null,
   "translation": "это не бином Ньютона",
   "nuance": null,
@@ -3337,6 +3482,7 @@
  {
   "id": "keep_something_at_bay",
   "word": "keep something at bay",
+  "pos": "идиома",
   "transcription": null,
   "translation": "держать на расстоянии",
   "nuance": null,
@@ -3360,6 +3506,7 @@
  {
   "id": "let_the_chips_fall",
   "word": "let the chips fall where they may",
+  "pos": "идиома",
   "transcription": null,
   "translation": "будь что будет",
   "nuance": null,
@@ -3383,6 +3530,7 @@
  {
   "id": "like_two_peas_in_a_pod",
   "word": "like two peas in a pod",
+  "pos": "идиома",
   "transcription": null,
   "translation": "похожи как две капли воды",
   "nuance": null,
@@ -3406,6 +3554,7 @@
  {
   "id": "lose_your_marbles",
   "word": "lose your marbles",
+  "pos": "идиома",
   "transcription": null,
   "translation": "сойти с ума, сбрендить",
   "nuance": null,
@@ -3429,6 +3578,7 @@
  {
   "id": "money_doesnt_grow_on_trees",
   "word": "money doesn't grow on trees",
+  "pos": "идиома",
   "transcription": null,
   "translation": "деньги на деревьях не растут",
   "nuance": null,
@@ -3452,6 +3602,7 @@
  {
   "id": "nest_egg",
   "word": "nest egg",
+  "pos": "идиома",
   "transcription": null,
   "translation": "заначка, сбережения",
   "nuance": null,
@@ -3475,6 +3626,7 @@
  {
   "id": "off_the_hook",
   "word": "off the hook",
+  "pos": "идиома",
   "transcription": null,
   "translation": "выйти сухим из воды",
   "nuance": null,
@@ -3498,6 +3650,7 @@
  {
   "id": "out_of_the_woods",
   "word": "out of the woods",
+  "pos": "идиома",
   "transcription": null,
   "translation": "опасность миновала",
   "nuance": null,
@@ -3521,6 +3674,7 @@
  {
   "id": "pass_the_buck",
   "word": "pass the buck",
+  "pos": "идиома",
   "transcription": null,
   "translation": "перекладывать ответственность",
   "nuance": null,
@@ -3544,6 +3698,7 @@
  {
   "id": "penny_for_your_thoughts",
   "word": "a penny for your thoughts",
+  "pos": "идиома",
   "transcription": null,
   "translation": "о чём задумался?",
   "nuance": null,
@@ -3567,6 +3722,7 @@
  {
   "id": "pig_out",
   "word": "pig out",
+  "pos": "идиома",
   "transcription": null,
   "translation": "обожраться",
   "nuance": null,
@@ -3590,6 +3746,7 @@
  {
   "id": "pull_yourself_together",
   "word": "pull yourself together",
+  "pos": "идиома",
   "transcription": null,
   "translation": "возьми себя в руки",
   "nuance": null,
@@ -3613,6 +3770,7 @@
  {
   "id": "put_a_sock_in_it",
   "word": "put a sock in it",
+  "pos": "идиома",
   "transcription": null,
   "translation": "заткнись, помолчи",
   "nuance": null,
@@ -3636,6 +3794,7 @@
  {
   "id": "rock_the_boat",
   "word": "rock the boat",
+  "pos": "идиома",
   "transcription": null,
   "translation": "раскачивать лодку, мутить воду",
   "nuance": null,
@@ -3659,6 +3818,7 @@
  {
   "id": "second_nature",
   "word": "second nature",
+  "pos": "идиома",
   "transcription": null,
   "translation": "вторая натура",
   "nuance": null,
@@ -3682,6 +3842,7 @@
  {
   "id": "skeleton_in_the_closet",
   "word": "a skeleton in the closet",
+  "pos": "идиома",
   "transcription": null,
   "translation": "скелет в шкафу, тайна",
   "nuance": null,
@@ -3705,6 +3866,7 @@
  {
   "id": "smell_a_rat",
   "word": "smell a rat",
+  "pos": "идиома",
   "transcription": null,
   "translation": "чуять неладное",
   "nuance": null,
@@ -3728,6 +3890,7 @@
  {
   "id": "straight_from_the_horses_mouth",
   "word": "straight from the horse's mouth",
+  "pos": "идиома",
   "transcription": null,
   "translation": "из первых уст",
   "nuance": null,
@@ -3751,6 +3914,7 @@
  {
   "id": "take_the_bull_by_the_horns",
   "word": "take the bull by the horns",
+  "pos": "идиома",
   "transcription": null,
   "translation": "взять быка за рога",
   "nuance": null,
@@ -3774,6 +3938,7 @@
  {
   "id": "tie_the_knot",
   "word": "tie the knot",
+  "pos": "идиома",
   "transcription": null,
   "translation": "пожениться",
   "nuance": null,
@@ -3797,6 +3962,7 @@
  {
   "id": "tongue_in_cheek",
   "word": "tongue in cheek",
+  "pos": "идиома",
   "transcription": null,
   "translation": "с иронией, в шутку",
   "nuance": null,
@@ -3820,6 +3986,7 @@
  {
   "id": "two_heads_are_better_than_one",
   "word": "two heads are better than one",
+  "pos": "идиома",
   "transcription": null,
   "translation": "ум хорошо, а два лучше",
   "nuance": null,
@@ -3843,6 +4010,7 @@
  {
   "id": "up_to_your_ears",
   "word": "up to your ears in something",
+  "pos": "идиома",
   "transcription": null,
   "translation": "по уши в чём-то",
   "nuance": null,
