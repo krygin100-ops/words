@@ -1,0 +1,1976 @@
+[
+ {
+  "id": "lowkey",
+  "word": "lowkey",
+  "category": "slang",
+  "translation": "немного, втихую; тайно",
+  "note": "Gen Z / миллениалы. «Слегка, но честно»: признание чего-то не громко. Противоположное — highkey (открыто, очень).",
+  "examples": [
+   {
+    "en": "I'm #lowkey# obsessed with this song.",
+    "ru": "Я втайне подсел на эту песню."
+   },
+   {
+    "en": "#Lowkey# tired of this job.",
+    "ru": "Если честно, немного устал от этой работы."
+   },
+   {
+    "en": "We kept the wedding #lowkey#.",
+    "ru": "Мы сделали свадьбу скромной, без шума."
+   }
+  ]
+ },
+ {
+  "id": "highkey",
+  "word": "highkey",
+  "category": "slang",
+  "translation": "очень, открыто",
+  "note": "Противоположность lowkey: «и не скрываю». Молодёжное.",
+  "examples": [
+   {
+    "en": "I #highkey# want that jacket.",
+    "ru": "Я прямо очень хочу эту куртку."
+   },
+   {
+    "en": "She's #highkey# the best singer here.",
+    "ru": "Она реально лучшая певица здесь."
+   },
+   {
+    "en": "I'm #highkey# stressed about finals.",
+    "ru": "Я сильно переживаю из-за экзаменов."
+   }
+  ]
+ },
+ {
+  "id": "no_cap",
+  "word": "no cap",
+  "category": "slang",
+  "translation": "без шуток; реально; отвечаю",
+  "note": "Gen Z, из хип-хопа. cap = враньё.",
+  "examples": [
+   {
+    "en": "This is the best burger in town, #no cap#.",
+    "ru": "Лучший бургер в городе, отвечаю."
+   },
+   {
+    "en": "#No cap#, I ran ten miles today.",
+    "ru": "Реально, я пробежал сегодня десять миль."
+   },
+   {
+    "en": "That movie made me cry, #no cap#.",
+    "ru": "Фильм довёл меня до слёз, без шуток."
+   }
+  ]
+ },
+ {
+  "id": "cap",
+  "word": "cap",
+  "category": "slang",
+  "translation": "враньё; врёшь",
+  "note": "Gen Z: that's cap — это неправда. Также эмодзи кепки 🧢 в переписке.",
+  "examples": [
+   {
+    "en": "You met a celebrity? That's #cap#.",
+    "ru": "Ты встретил звезду? Врёшь."
+   },
+   {
+    "en": "Stop #capping#, you weren't there.",
+    "ru": "Хватит врать, тебя там не было."
+   },
+   {
+    "en": "— I'm never late. — #Cap#!",
+    "ru": "— Я никогда не опаздываю. — Враньё!"
+   }
+  ]
+ },
+ {
+  "id": "slaps",
+  "word": "slaps",
+  "category": "slang",
+  "translation": "качает; огонь (о музыке, еде)",
+  "note": "Молодёжное: очень хорошо.",
+  "examples": [
+   {
+    "en": "This song #slaps#!",
+    "ru": "Эта песня качает!"
+   },
+   {
+    "en": "This pizza #slaps#.",
+    "ru": "Эта пицца — огонь."
+   },
+   {
+    "en": "The new album really #slaps#.",
+    "ru": "Новый альбом реально крутой."
+   }
+  ]
+ },
+ {
+  "id": "fire",
+  "word": "fire",
+  "category": "slang",
+  "translation": "огонь; круто",
+  "note": "Разг. одобрение. Также lit (устаревает).",
+  "examples": [
+   {
+    "en": "Your outfit is #fire#!",
+    "ru": "Твой наряд — огонь!"
+   },
+   {
+    "en": "These tacos are #fire#.",
+    "ru": "Эти тако — бомба."
+   },
+   {
+    "en": "That concert was straight #fire#.",
+    "ru": "Концерт был просто огонь."
+   }
+  ]
+ },
+ {
+  "id": "lit",
+  "word": "lit",
+  "category": "slang",
+  "translation": "круто; огонь; (о вечеринке) зажигательно",
+  "note": "Было модно в 2010-х, сейчас звучит чуть устаревше. Также «пьяный» в разговоре.",
+  "examples": [
+   {
+    "en": "The party last night was #lit#!",
+    "ru": "Вечеринка вчера была огонь!"
+   },
+   {
+    "en": "This place gets #lit# on Fridays.",
+    "ru": "По пятницам тут жарко."
+   },
+   {
+    "en": "The game was #lit#.",
+    "ru": "Игра была зажигательная."
+   }
+  ]
+ },
+ {
+  "id": "vibe",
+  "word": "vibe",
+  "category": "slang",
+  "translation": "атмосфера; настроение; «вайб»",
+  "note": "Очень частое. vibe with — совпадать по настроению. Vibe check — проверка настроения.",
+  "examples": [
+   {
+    "en": "This café has a great #vibe#.",
+    "ru": "В этом кафе классная атмосфера."
+   },
+   {
+    "en": "I don't #vibe with# him.",
+    "ru": "Мы с ним не на одной волне."
+   },
+   {
+    "en": "Bad #vibes# here, let's go.",
+    "ru": "Тут плохой вайб, пошли."
+   }
+  ]
+ },
+ {
+  "id": "it_s_giving",
+  "word": "it's giving",
+  "category": "slang",
+  "translation": "выглядит как; есть ощущение",
+  "note": "Gen Z: it's giving + что-то — напоминает, создаёт впечатление.",
+  "examples": [
+   {
+    "en": "That outfit — #it's giving# rock star.",
+    "ru": "Этот наряд прямо как у рок-звезды."
+   },
+   {
+    "en": "The lighting here? #It's giving# horror movie.",
+    "ru": "Освещение тут? Как в фильме ужасов."
+   },
+   {
+    "en": "#It's giving# main character energy.",
+    "ru": "Прямо энергия главного героя."
+   }
+  ]
+ },
+ {
+  "id": "sus",
+  "word": "sus",
+  "category": "slang",
+  "translation": "подозрительный; стрёмный",
+  "note": "От suspicious. Gen Z, популяризовано играми.",
+  "examples": [
+   {
+    "en": "That guy is acting #sus#.",
+    "ru": "Этот парень ведёт себя подозрительно."
+   },
+   {
+    "en": "The deal sounds #sus#.",
+    "ru": "Сделка выглядит мутно."
+   },
+   {
+    "en": "Why are you being so #sus#?",
+    "ru": "Чего ты такой подозрительный?"
+   }
+  ]
+ },
+ {
+  "id": "salty",
+  "word": "salty",
+  "category": "slang",
+  "translation": "обиженный; задетый",
+  "note": "Разг.: злится по мелочи, особенно после проигрыша.",
+  "examples": [
+   {
+    "en": "He's still #salty# about losing.",
+    "ru": "Он всё ещё дуется из-за проигрыша."
+   },
+   {
+    "en": "Don't be #salty#, it was a joke.",
+    "ru": "Не обижайся, это была шутка."
+   },
+   {
+    "en": "She got #salty# when I beat her.",
+    "ru": "Она надулась, когда я её обыграл."
+   }
+  ]
+ },
+ {
+  "id": "shady",
+  "word": "shady",
+  "category": "slang",
+  "translation": "мутный; подозрительный; ехидный",
+  "note": "Нечестный или скрытный; throw shade — язвительно поддеть.",
+  "examples": [
+   {
+    "en": "That website looks #shady#.",
+    "ru": "Этот сайт выглядит мутно."
+   },
+   {
+    "en": "He's a #shady# guy.",
+    "ru": "Он мутный тип."
+   },
+   {
+    "en": "Was she #throwing shade# at me?",
+    "ru": "Она меня сейчас поддела?"
+   }
+  ]
+ },
+ {
+  "id": "throw_shade",
+  "word": "throw shade",
+  "category": "slang",
+  "translation": "язвить; поддевать",
+  "note": "Тонко оскорбить, задеть.",
+  "examples": [
+   {
+    "en": "Stop #throwing shade# at my cooking.",
+    "ru": "Хватит язвить по поводу моей стряпни."
+   },
+   {
+    "en": "Was that comment #shade#?",
+    "ru": "Это был наезд?"
+   },
+   {
+    "en": "She #threw shade# at her ex in the interview.",
+    "ru": "Она поддела бывшего в интервью."
+   }
+  ]
+ },
+ {
+  "id": "tea",
+  "word": "tea",
+  "category": "slang",
+  "translation": "сплетни; новости",
+  "note": "Gen Z / ЛГБТ-сленг: spill the tea — выкладывай новости.",
+  "examples": [
+   {
+    "en": "What's the #tea#?",
+    "ru": "Какие новости? Колись."
+   },
+   {
+    "en": "Spill the #tea#! What happened at the party?",
+    "ru": "Выкладывай! Что было на вечеринке?"
+   },
+   {
+    "en": "That's the #tea#, sis.",
+    "ru": "Вот такие дела, подруга."
+   }
+  ]
+ },
+ {
+  "id": "ghost",
+  "word": "ghost",
+  "category": "slang",
+  "translation": "пропасть без объяснений; игнорить",
+  "note": "Внезапно перестать отвечать, особенно в отношениях.",
+  "examples": [
+   {
+    "en": "He #ghosted# me after three dates.",
+    "ru": "Он пропал после трёх свиданий."
+   },
+   {
+    "en": "Don't #ghost# your friends.",
+    "ru": "Не пропадай с радаров для друзей."
+   },
+   {
+    "en": "I got #ghosted# by the recruiter.",
+    "ru": "Рекрутер просто перестал отвечать."
+   }
+  ]
+ },
+ {
+  "id": "flex",
+  "word": "flex",
+  "category": "slang",
+  "translation": "понты; хвастаться",
+  "note": "Разг.: показывать то, чем гордишься. Weird flex but OK — странный повод для хвастовства.",
+  "examples": [
+   {
+    "en": "He's always #flexing# his car.",
+    "ru": "Он вечно хвастается машиной."
+   },
+   {
+    "en": "Nice watch — big #flex#.",
+    "ru": "Классные часы — понты."
+   },
+   {
+    "en": "I read 50 books this year. — #Weird flex#, but OK.",
+    "ru": "Прочитал 50 книг за год. — Странный повод хвастаться, но ладно."
+   }
+  ]
+ },
+ {
+  "id": "extra",
+  "word": "extra",
+  "category": "slang",
+  "translation": "слишком; перебор; драматичный",
+  "note": "Gen Z/миллениалы: ведёт себя чересчур.",
+  "examples": [
+   {
+    "en": "She's so #extra# — she brought a cake to class.",
+    "ru": "Она такая — принесла на урок торт."
+   },
+   {
+    "en": "Ten balloons? That's a bit #extra#.",
+    "ru": "Десять шариков? Это перебор."
+   },
+   {
+    "en": "Stop being #extra#.",
+    "ru": "Не драматизируй."
+   }
+  ]
+ },
+ {
+  "id": "basic",
+  "word": "basic",
+  "category": "slang",
+  "translation": "банальный; попсовый",
+  "note": "Пренебрежительно: следует всем трендам.",
+  "examples": [
+   {
+    "en": "Pumpkin latte again? So #basic#.",
+    "ru": "Опять тыквенный латте? Как банально."
+   },
+   {
+    "en": "I'm #basic# and I'm proud of it.",
+    "ru": "Я попсовый и горжусь этим."
+   },
+   {
+    "en": "That's a #basic# outfit.",
+    "ru": "Это банальный наряд."
+   }
+  ]
+ },
+ {
+  "id": "cringe",
+  "word": "cringe",
+  "category": "slang",
+  "translation": "кринж; стыдно смотреть",
+  "note": "Неловкость, испанский стыд. Также прилагательное cringey.",
+  "examples": [
+   {
+    "en": "His dance moves were so #cringe#.",
+    "ru": "Его танцы — сплошной кринж."
+   },
+   {
+    "en": "Old photos of me are #cringe#.",
+    "ru": "Мои старые фото — кринж."
+   },
+   {
+    "en": "That ad is #cringey#.",
+    "ru": "Эта реклама — испанский стыд."
+   }
+  ]
+ },
+ {
+  "id": "slay",
+  "word": "slay",
+  "category": "slang",
+  "translation": "зажечь; разнести (в хорошем смысле)",
+  "note": "Gen Z: выглядеть или сделать что-то потрясающе.",
+  "examples": [
+   {
+    "en": "You #slayed# that presentation!",
+    "ru": "Ты разнёс эту презентацию!"
+   },
+   {
+    "en": "She #slays# in that dress.",
+    "ru": "В этом платье она — огонь."
+   },
+   {
+    "en": "#Slay#, queen!",
+    "ru": "Жги, королева!"
+   }
+  ]
+ },
+ {
+  "id": "goat",
+  "word": "GOAT",
+  "category": "slang",
+  "translation": "величайший всех времён",
+  "note": "Greatest Of All Time. О спортсменах, музыкантах и вообще о лучших.",
+  "examples": [
+   {
+    "en": "He's the #GOAT# of basketball.",
+    "ru": "Он величайший баскетболист в истории."
+   },
+   {
+    "en": "My grandma's cookies are the #GOAT#.",
+    "ru": "Бабушкино печенье — лучшее в мире."
+   },
+   {
+    "en": "Is she the #GOAT#?",
+    "ru": "Она лучшая из всех?"
+   }
+  ]
+ },
+ {
+  "id": "bet",
+  "word": "bet",
+  "category": "slang",
+  "translation": "окей; договорились; спорим",
+  "note": "Gen Z: короткое согласие.",
+  "examples": [
+   {
+    "en": "— See you at 8? — #Bet#.",
+    "ru": "— В восемь? — Окей."
+   },
+   {
+    "en": "— I'll pick you up. — #Bet#.",
+    "ru": "— Заеду за тобой. — Договорились."
+   },
+   {
+    "en": "#Bet# you can't eat it all.",
+    "ru": "Спорим, всё не съешь."
+   }
+  ]
+ },
+ {
+  "id": "deadass",
+  "word": "deadass",
+  "category": "slang",
+  "translation": "серьёзно; реально",
+  "note": "Нью-Йорк / Gen Z: я абсолютно серьёзен. Грубовато.",
+  "examples": [
+   {
+    "en": "I'm #deadass# leaving tomorrow.",
+    "ru": "Я серьёзно уезжаю завтра."
+   },
+   {
+    "en": "#Deadass#? You quit?",
+    "ru": "Серьёзно? Ты уволился?"
+   },
+   {
+    "en": "That was #deadass# the best day ever.",
+    "ru": "Это был реально лучший день."
+   }
+  ]
+ },
+ {
+  "id": "i_m_dead",
+  "word": "I'm dead",
+  "category": "slang",
+  "translation": "умираю (от смеха)",
+  "note": "Gen Z: очень смешно. Также I'm crying, 💀.",
+  "examples": [
+   {
+    "en": "That video — #I'm dead#.",
+    "ru": "Это видео — я умер от смеха."
+   },
+   {
+    "en": "#I'm dead#, look at his face!",
+    "ru": "Не могу, посмотри на его лицо!"
+   },
+   {
+    "en": "His joke had me #dead#.",
+    "ru": "От его шутки я помер со смеху."
+   }
+  ]
+ },
+ {
+  "id": "i_can_t_even",
+  "word": "I can't even",
+  "category": "slang",
+  "translation": "у меня нет слов",
+  "note": "Эмоции зашкаливают — восторг или возмущение.",
+  "examples": [
+   {
+    "en": "That puppy is so cute, #I can't even#.",
+    "ru": "Этот щенок такой милый, у меня нет слов."
+   },
+   {
+    "en": "He said what? #I can't even#.",
+    "ru": "Он что сказал? Нет слов."
+   },
+   {
+    "en": "Monday again? #I can't even#.",
+    "ru": "Опять понедельник? Я не могу."
+   }
+  ]
+ },
+ {
+  "id": "mood",
+  "word": "mood",
+  "category": "slang",
+  "translation": "это я; прямо про меня",
+  "note": "Gen Z: реакция на картинку или фразу, описывающую твоё состояние. Также big mood.",
+  "examples": [
+   {
+    "en": "A cat sleeping all day? #Mood#.",
+    "ru": "Кот спит весь день? Это я."
+   },
+   {
+    "en": "«Don't talk to me before coffee» — #big mood#.",
+    "ru": "«Не говори со мной до кофе» — прямо про меня."
+   },
+   {
+    "en": "Staying in bed all weekend is a #mood#.",
+    "ru": "Валяться в кровати все выходные — моё настроение."
+   }
+  ]
+ },
+ {
+  "id": "same",
+  "word": "same",
+  "category": "slang",
+  "translation": "у меня так же; согласен",
+  "note": "Короткое «я тоже», молодёжное.",
+  "examples": [
+   {
+    "en": "— I need a nap. — #Same#.",
+    "ru": "— Мне надо поспать. — У меня так же."
+   },
+   {
+    "en": "— I hate Mondays. — #Same#.",
+    "ru": "— Ненавижу понедельники. — Солидарен."
+   },
+   {
+    "en": "— Tired. — #Same#.",
+    "ru": "— Устал. — Аналогично."
+   }
+  ]
+ },
+ {
+  "id": "facts",
+  "word": "facts",
+  "category": "slang",
+  "translation": "факт; правда",
+  "note": "Gen Z: полное согласие.",
+  "examples": [
+   {
+    "en": "— Mom's cooking is the best. — #Facts#.",
+    "ru": "— Мамина еда лучше всех. — Факт."
+   },
+   {
+    "en": "That's #facts#, bro.",
+    "ru": "Это правда, бро."
+   },
+   {
+    "en": "— Sleep is important. — #Facts#.",
+    "ru": "— Сон важен. — Это факт."
+   }
+  ]
+ },
+ {
+  "id": "valid",
+  "word": "valid",
+  "category": "slang",
+  "translation": "справедливо; нормально; одобряю",
+  "note": "Gen Z: точка зрения или чувство имеет право быть.",
+  "examples": [
+   {
+    "en": "Your feelings are #valid#.",
+    "ru": "Твои чувства обоснованы."
+   },
+   {
+    "en": "Pineapple on pizza? #Valid#.",
+    "ru": "Ананасы на пицце? Одобряю."
+   },
+   {
+    "en": "That's a #valid# point.",
+    "ru": "Это справедливое замечание."
+   }
+  ]
+ },
+ {
+  "id": "bussin",
+  "word": "bussin'",
+  "category": "slang",
+  "translation": "очень вкусно",
+  "note": "Gen Z, из AAVE. Чаще о еде.",
+  "examples": [
+   {
+    "en": "This chicken is #bussin'#!",
+    "ru": "Эта курица — бомба!"
+   },
+   {
+    "en": "Grandma's pie is #bussin'#.",
+    "ru": "Бабушкин пирог — просто объедение."
+   },
+   {
+    "en": "These fries are #bussin'#, no cap.",
+    "ru": "Картошка — огонь, отвечаю."
+   }
+  ]
+ },
+ {
+  "id": "mid",
+  "word": "mid",
+  "category": "slang",
+  "translation": "средненько; так себе",
+  "note": "Gen Z: посредственный.",
+  "examples": [
+   {
+    "en": "The movie was #mid#.",
+    "ru": "Фильм так себе."
+   },
+   {
+    "en": "Honestly, the food was #mid#.",
+    "ru": "Честно, еда средненькая."
+   },
+   {
+    "en": "Their new album is kinda #mid#.",
+    "ru": "Новый альбом какой-то никакой."
+   }
+  ]
+ },
+ {
+  "id": "rizz",
+  "word": "rizz",
+  "category": "slang",
+  "translation": "харизма; умение флиртовать",
+  "note": "Gen Z, от charisma. Слово года Oxford 2023.",
+  "examples": [
+   {
+    "en": "He's got #rizz#.",
+    "ru": "У него есть подход к девушкам."
+   },
+   {
+    "en": "Zero #rizz#, man.",
+    "ru": "Харизмы ноль, чувак."
+   },
+   {
+    "en": "She #rizzed# him up in five minutes.",
+    "ru": "Она охмурила его за пять минут."
+   }
+  ]
+ },
+ {
+  "id": "simp",
+  "word": "simp",
+  "category": "slang",
+  "translation": "подкаблучник; лебезит",
+  "note": "Gen Z, пренебрежительное: слишком угождает объекту симпатии.",
+  "examples": [
+   {
+    "en": "Stop being a #simp#.",
+    "ru": "Хватит лебезить."
+   },
+   {
+    "en": "He bought her flowers every day — total #simp#.",
+    "ru": "Он каждый день дарил ей цветы — полный подкаблучник."
+   },
+   {
+    "en": "I'm a #simp# for this singer.",
+    "ru": "Я фанатею от этой певицы."
+   }
+  ]
+ },
+ {
+  "id": "stan",
+  "word": "stan",
+  "category": "slang",
+  "translation": "фанатеть; ярый фанат",
+  "note": "От песни Eminem «Stan». Глагол и существительное.",
+  "examples": [
+   {
+    "en": "I #stan# this band.",
+    "ru": "Я фанатею от этой группы."
+   },
+   {
+    "en": "She's a huge Taylor #stan#.",
+    "ru": "Она ярая фанатка Тейлор."
+   },
+   {
+    "en": "We #stan# a hardworking queen.",
+    "ru": "Мы восхищаемся трудолюбивой королевой."
+   }
+  ]
+ },
+ {
+  "id": "receipts",
+  "word": "receipts",
+  "category": "slang",
+  "translation": "доказательства; пруфы",
+  "note": "Скриншоты, подтверждающие слова.",
+  "examples": [
+   {
+    "en": "You say he lied? Show me the #receipts#.",
+    "ru": "Говоришь, он соврал? Покажи пруфы."
+   },
+   {
+    "en": "She came with #receipts#.",
+    "ru": "Она пришла с доказательствами."
+   },
+   {
+    "en": "I have the #receipts#, don't worry.",
+    "ru": "У меня есть скрины, не переживай."
+   }
+  ]
+ },
+ {
+  "id": "main_character",
+  "word": "main character",
+  "category": "slang",
+  "translation": "главный герой (о человеке)",
+  "note": "Gen Z: ведёт себя так, будто жизнь — кино про него. Main character energy.",
+  "examples": [
+   {
+    "en": "Walking in the rain with headphones — #main character# vibes.",
+    "ru": "Гулять под дождём в наушниках — вайб главного героя."
+   },
+   {
+    "en": "She thinks she's the #main character#.",
+    "ru": "Она считает себя главной героиней."
+   },
+   {
+    "en": "Today I'm the #main character#.",
+    "ru": "Сегодня я главный герой."
+   }
+  ]
+ },
+ {
+  "id": "touch_grass",
+  "word": "touch grass",
+  "category": "slang",
+  "translation": "выйди на улицу; отвлекись от интернета",
+  "note": "Gen Z: совет человеку, который слишком много сидит онлайн.",
+  "examples": [
+   {
+    "en": "You've been gaming for 12 hours — go #touch grass#.",
+    "ru": "Ты 12 часов играешь — иди погуляй."
+   },
+   {
+    "en": "Arguing online all day? #Touch grass#.",
+    "ru": "Весь день споришь в интернете? Выйди на улицу."
+   },
+   {
+    "en": "I need to #touch grass#.",
+    "ru": "Мне надо отлипнуть от экрана."
+   }
+  ]
+ },
+ {
+  "id": "red_flag",
+  "word": "red flag",
+  "category": "slang",
+  "translation": "тревожный знак",
+  "note": "Признак проблем, особенно у партнёра. Green flag — хороший знак.",
+  "examples": [
+   {
+    "en": "He's rude to waiters — #red flag#.",
+    "ru": "Он груб с официантами — тревожный звоночек."
+   },
+   {
+    "en": "Not texting back for days is a #red flag#.",
+    "ru": "Не отвечать днями — плохой знак."
+   },
+   {
+    "en": "He listens to you? #Green flag#.",
+    "ru": "Он тебя слушает? Хороший знак."
+   }
+  ]
+ },
+ {
+  "id": "situationship",
+  "word": "situationship",
+  "category": "slang",
+  "translation": "неопределённые отношения",
+  "note": "Больше чем дружба, но не пара.",
+  "examples": [
+   {
+    "en": "We're in a #situationship#.",
+    "ru": "У нас что-то непонятное, не отношения и не дружба."
+   },
+   {
+    "en": "I'm tired of this #situationship#.",
+    "ru": "Я устала от этих непоняток."
+   },
+   {
+    "en": "Is it dating or a #situationship#?",
+    "ru": "Это отношения или так, непонятно что?"
+   }
+  ]
+ },
+ {
+  "id": "the_ick",
+  "word": "the ick",
+  "category": "slang",
+  "translation": "отвращение; «отворот»",
+  "note": "Внезапная неприязнь к человеку из-за мелочи.",
+  "examples": [
+   {
+    "en": "He chewed loudly and I got #the ick#.",
+    "ru": "Он громко чавкал, и меня отвернуло."
+   },
+   {
+    "en": "Socks with sandals give me #the ick#.",
+    "ru": "Носки с сандалиями меня отталкивают."
+   },
+   {
+    "en": "Instant #ick#.",
+    "ru": "Сразу отворот."
+   }
+  ]
+ },
+ {
+  "id": "hype",
+  "word": "hype",
+  "category": "slang",
+  "translation": "ажиотаж; хайп",
+  "note": "Разг.: шумиха. hype up — подбадривать, разогревать.",
+  "examples": [
+   {
+    "en": "The #hype# around this phone is crazy.",
+    "ru": "Ажиотаж вокруг этого телефона безумный."
+   },
+   {
+    "en": "It didn't live up to the #hype#.",
+    "ru": "Не оправдало ожиданий."
+   },
+   {
+    "en": "My friends #hyped# me #up# before the date.",
+    "ru": "Друзья подбодрили меня перед свиданием."
+   }
+  ]
+ },
+ {
+  "id": "woke",
+  "word": "woke",
+  "category": "slang",
+  "translation": "сознательный; повёрнутый на соцвопросах",
+  "note": "Изначально — осведомлённый о несправедливости; сейчас часто иронично или критично. Политически заряжено.",
+  "examples": [
+   {
+    "en": "He's very #woke# about climate issues.",
+    "ru": "Он очень сознателен в вопросах климата."
+   },
+   {
+    "en": "Critics call the movie too #woke#.",
+    "ru": "Критики называют фильм излишне идеологизированным."
+   },
+   {
+    "en": "Some people use «#woke#» as an insult.",
+    "ru": "Некоторые используют «woke» как оскорбление."
+   }
+  ]
+ },
+ {
+  "id": "karen",
+  "word": "Karen",
+  "category": "slang",
+  "translation": "скандалистка; «позовите менеджера»",
+  "note": "Пренебрежительно о человеке, который скандалит и требует менеджера. Может обидеть людей с этим именем.",
+  "examples": [
+   {
+    "en": "A #Karen# yelled at the cashier.",
+    "ru": "Какая-то скандалистка наорала на кассира."
+   },
+   {
+    "en": "Don't be a #Karen#.",
+    "ru": "Не будь скандалисткой."
+   },
+   {
+    "en": "She went full #Karen# at the airport.",
+    "ru": "Она устроила скандал в аэропорту."
+   }
+  ]
+ },
+ {
+  "id": "ok_boomer",
+  "word": "OK boomer",
+  "category": "slang",
+  "translation": "ну да, ну да, дедуль",
+  "note": "Gen Z: снисходительный ответ на старомодное мнение. Грубовато.",
+  "examples": [
+   {
+    "en": "— Young people don't work hard. — #OK boomer#.",
+    "ru": "— Молодёжь не умеет работать. — Ну да, ну да."
+   },
+   {
+    "en": "He just replied «#OK boomer#».",
+    "ru": "Он просто ответил: «Ок, бумер»."
+   },
+   {
+    "en": "Grandpa says phones ruin kids. #OK boomer#.",
+    "ru": "Дедушка говорит, что телефоны портят детей. Ну да, ну да."
+   }
+  ]
+ },
+ {
+  "id": "fomo",
+  "word": "FOMO",
+  "category": "slang",
+  "translation": "страх что-то пропустить",
+  "note": "Fear Of Missing Out.",
+  "examples": [
+   {
+    "en": "I have #FOMO# when I see their vacation pics.",
+    "ru": "У меня FOMO, когда вижу их фото с отпуска."
+   },
+   {
+    "en": "I went only because of #FOMO#.",
+    "ru": "Я пошёл только из страха что-то пропустить."
+   },
+   {
+    "en": "Social media gives me #FOMO#.",
+    "ru": "Соцсети вызывают у меня страх что-то упустить."
+   }
+  ]
+ },
+ {
+  "id": "yolo",
+  "word": "YOLO",
+  "category": "slang",
+  "translation": "живём один раз",
+  "note": "You Only Live Once. Чуть устаревшее, часто иронично.",
+  "examples": [
+   {
+    "en": "Skydiving? Sure, #YOLO#!",
+    "ru": "Прыжок с парашютом? Давай, живём один раз!"
+   },
+   {
+    "en": "I bought the shoes. #YOLO#.",
+    "ru": "Купил туфли. Живём один раз."
+   },
+   {
+    "en": "#YOLO#, let's order dessert.",
+    "ru": "Живём один раз, заказываем десерт."
+   }
+  ]
+ },
+ {
+  "id": "hangry",
+  "word": "hangry",
+  "category": "slang",
+  "translation": "злой от голода",
+  "note": "hungry + angry.",
+  "examples": [
+   {
+    "en": "Feed me, I'm #hangry#.",
+    "ru": "Покорми меня, я злой от голода."
+   },
+   {
+    "en": "Don't talk to him, he's #hangry#.",
+    "ru": "Не трогай его, он голодный и злой."
+   },
+   {
+    "en": "I get #hangry# before lunch.",
+    "ru": "Перед обедом я становлюсь злым."
+   }
+  ]
+ },
+ {
+  "id": "adulting",
+  "word": "adulting",
+  "category": "slang",
+  "translation": "быть взрослым (делать скучные дела)",
+  "note": "Шутливо: платить счета, ходить к врачу и т. п.",
+  "examples": [
+   {
+    "en": "I paid my taxes today. #Adulting# is hard.",
+    "ru": "Сегодня заплатил налоги. Быть взрослым тяжело."
+   },
+   {
+    "en": "I can't, I'm #adulting# — doing laundry.",
+    "ru": "Не могу, занят взрослыми делами — стираю."
+   },
+   {
+    "en": "#Adulting# level: bought a vacuum.",
+    "ru": "Уровень взрослости: купил пылесос."
+   }
+  ]
+ },
+ {
+  "id": "binge_watch",
+  "word": "binge-watch",
+  "category": "slang",
+  "translation": "смотреть запоем",
+  "note": "Смотреть много серий подряд.",
+  "examples": [
+   {
+    "en": "We #binge-watched# the whole season.",
+    "ru": "Мы посмотрели весь сезон за раз."
+   },
+   {
+    "en": "I'm going to #binge-watch# something tonight.",
+    "ru": "Вечером буду смотреть сериал запоем."
+   },
+   {
+    "en": "#Binge-watching# is my weekend plan.",
+    "ru": "Мой план на выходные — сериальный марафон."
+   }
+  ]
+ },
+ {
+  "id": "netflix_and_chill",
+  "word": "Netflix and chill",
+  "category": "slang",
+  "translation": "«посмотреть кино» (намёк на интим)",
+  "note": "Ловушка: часто эвфемизм для близости, а не просто кино.",
+  "examples": [
+   {
+    "en": "He invited me to #Netflix and chill# — I knew what he meant.",
+    "ru": "Он позвал «посмотреть кино» — я поняла, что он имел в виду."
+   },
+   {
+    "en": "We literally just watched Netflix, no #chill#.",
+    "ru": "Мы реально просто смотрели кино, без намёков."
+   },
+   {
+    "en": "Careful — «#Netflix and chill#» doesn't always mean a movie.",
+    "ru": "Осторожно — «посмотреть Netflix» не всегда значит кино."
+   }
+  ]
+ },
+ {
+  "id": "ride_or_die",
+  "word": "ride or die",
+  "category": "slang",
+  "translation": "верный до конца",
+  "note": "Друг, который поддержит в любой ситуации.",
+  "examples": [
+   {
+    "en": "She's my #ride or die#.",
+    "ru": "Она мой самый верный друг."
+   },
+   {
+    "en": "We're #ride or die#.",
+    "ru": "Мы друг за друга горой."
+   },
+   {
+    "en": "My dog is my #ride or die#.",
+    "ru": "Мой пёс — мой самый преданный друг."
+   }
+  ]
+ },
+ {
+  "id": "bff",
+  "word": "BFF",
+  "category": "slang",
+  "translation": "лучший друг (подруга) навсегда",
+  "note": "Best Friends Forever.",
+  "examples": [
+   {
+    "en": "This is Mia, my #BFF#.",
+    "ru": "Это Мия, моя лучшая подруга."
+   },
+   {
+    "en": "We've been #BFFs# since kindergarten.",
+    "ru": "Мы лучшие друзья с детского сада."
+   },
+   {
+    "en": "#BFF# goals.",
+    "ru": "Вот это дружба."
+   }
+  ]
+ },
+ {
+  "id": "bae",
+  "word": "bae",
+  "category": "slang",
+  "translation": "любимый, любимая",
+  "note": "От before anyone else / baby. Чуть устарело.",
+  "examples": [
+   {
+    "en": "Dinner with #bae# tonight.",
+    "ru": "Сегодня ужин с любимым."
+   },
+   {
+    "en": "Happy birthday, #bae#!",
+    "ru": "С днём рождения, любимый!"
+   },
+   {
+    "en": "#Bae# made me breakfast.",
+    "ru": "Любимый сделал мне завтрак."
+   }
+  ]
+ },
+ {
+  "id": "bro",
+  "word": "bro",
+  "category": "slang",
+  "translation": "бро; братан",
+  "note": "Обращение к другу, разг. Также bruh — «ну ты чего».",
+  "examples": [
+   {
+    "en": "What's up, #bro#?",
+    "ru": "Как дела, бро?"
+   },
+   {
+    "en": "#Bruh#, you forgot the keys again?",
+    "ru": "Бро, ты опять забыл ключи?"
+   },
+   {
+    "en": "Thanks, #bro#.",
+    "ru": "Спасибо, братан."
+   }
+  ]
+ },
+ {
+  "id": "dude",
+  "word": "dude",
+  "category": "slang",
+  "translation": "чувак",
+  "note": "Амер. разг. обращение, часто к любому полу в группе. Также восклицание.",
+  "examples": [
+   {
+    "en": "Hey #dude#, what's up?",
+    "ru": "Привет, чувак, как дела?"
+   },
+   {
+    "en": "#Dude#, that's amazing!",
+    "ru": "Чувак, это потрясающе!"
+   },
+   {
+    "en": "Come on, #dudes#, let's go.",
+    "ru": "Ну, ребята, пошли."
+   }
+  ]
+ },
+ {
+  "id": "y_all",
+  "word": "y'all",
+  "category": "slang",
+  "translation": "вы все; ребята",
+  "note": "Южное амер. «you all», сейчас широко употребляется.",
+  "examples": [
+   {
+    "en": "Are #y'all# coming tonight?",
+    "ru": "Вы все придёте вечером?"
+   },
+   {
+    "en": "Thank #y'all# for coming.",
+    "ru": "Спасибо всем, что пришли."
+   },
+   {
+    "en": "#Y'all# need to see this.",
+    "ru": "Ребята, вам надо это увидеть."
+   }
+  ]
+ },
+ {
+  "id": "gonna_wanna_gotta",
+  "word": "gonna / wanna / gotta",
+  "category": "slang",
+  "translation": "собираюсь / хочу / надо",
+  "note": "Разг. слияния going to, want to, got to. На письме — только в неформальном.",
+  "examples": [
+   {
+    "en": "I'm #gonna# grab a coffee.",
+    "ru": "Я схожу за кофе."
+   },
+   {
+    "en": "#Wanna# come with me?",
+    "ru": "Хочешь со мной?"
+   },
+   {
+    "en": "I #gotta# go now.",
+    "ru": "Мне надо идти."
+   }
+  ]
+ },
+ {
+  "id": "kinda_sorta",
+  "word": "kinda / sorta",
+  "category": "slang",
+  "translation": "типа; вроде",
+  "note": "Разг. kind of / sort of.",
+  "examples": [
+   {
+    "en": "I'm #kinda# hungry.",
+    "ru": "Я вроде как голоден."
+   },
+   {
+    "en": "It's #sorta# complicated.",
+    "ru": "Это как бы сложно."
+   },
+   {
+    "en": "#Kinda# like it, actually.",
+    "ru": "Мне, вообще-то, вроде нравится."
+   }
+  ]
+ },
+ {
+  "id": "ain_t",
+  "word": "ain't",
+  "category": "slang",
+  "translation": "не; нету",
+  "note": "Разг., ненормативная грамматика: am not / isn't / aren't / hasn't. Звучит просторечно или нарочито.",
+  "examples": [
+   {
+    "en": "That #ain't# right.",
+    "ru": "Это неправильно."
+   },
+   {
+    "en": "I #ain't# got time for this.",
+    "ru": "Нет у меня на это времени."
+   },
+   {
+    "en": "If it #ain't# broke, don't fix it.",
+    "ru": "Работает — не трогай."
+   }
+  ]
+ },
+ {
+  "id": "legit",
+  "word": "legit",
+  "category": "slang",
+  "translation": "реально; по-настоящему; честный",
+  "note": "От legitimate. Разг.: настоящий, надёжный или «реально».",
+  "examples": [
+   {
+    "en": "This place is #legit# amazing.",
+    "ru": "Это место реально потрясающее."
+   },
+   {
+    "en": "Is this website #legit#?",
+    "ru": "Этот сайт настоящий, не развод?"
+   },
+   {
+    "en": "I #legit# forgot.",
+    "ru": "Я реально забыл."
+   }
+  ]
+ },
+ {
+  "id": "chill",
+  "word": "chill",
+  "category": "slang",
+  "translation": "спокойный; расслабленный",
+  "note": "Прилагательное: спокойный, нормальный.",
+  "examples": [
+   {
+    "en": "He's a #chill# guy.",
+    "ru": "Он спокойный парень."
+   },
+   {
+    "en": "The party was pretty #chill#.",
+    "ru": "Вечеринка была спокойная."
+   },
+   {
+    "en": "Are we #chill#?",
+    "ru": "У нас всё нормально?"
+   }
+  ]
+ },
+ {
+  "id": "sick",
+  "word": "sick",
+  "category": "slang",
+  "translation": "классный, крутой",
+  "note": "Разг. одобрение, звучит чуть по-подростковому.",
+  "examples": [
+   {
+    "en": "That skateboard trick was #sick#!",
+    "ru": "Трюк на скейте был крутой!"
+   },
+   {
+    "en": "#Sick# shoes, man.",
+    "ru": "Классные кроссы, чувак."
+   },
+   {
+    "en": "The view is #sick#.",
+    "ru": "Вид потрясный."
+   }
+  ]
+ },
+ {
+  "id": "dope",
+  "word": "dope",
+  "category": "slang",
+  "translation": "классный, крутой",
+  "note": "Разг. одобрение, хип-хоп. Также «наркотики» в другом контексте.",
+  "examples": [
+   {
+    "en": "That's a #dope# jacket.",
+    "ru": "Классная куртка."
+   },
+   {
+    "en": "The show was #dope#.",
+    "ru": "Шоу было крутое."
+   },
+   {
+    "en": "#Dope#, thanks!",
+    "ru": "Круто, спасибо!"
+   }
+  ]
+ },
+ {
+  "id": "savage",
+  "word": "savage",
+  "category": "slang",
+  "translation": "жёстко; дерзко; беспощадно",
+  "note": "Разг. восхищение дерзостью или жёстким ответом.",
+  "examples": [
+   {
+    "en": "That comeback was #savage#.",
+    "ru": "Это был жёсткий ответ."
+   },
+   {
+    "en": "She's #savage# on the court.",
+    "ru": "Она беспощадна на площадке."
+   },
+   {
+    "en": "#Savage#!",
+    "ru": "Дерзко!"
+   }
+  ]
+ },
+ {
+  "id": "lol",
+  "word": "lol",
+  "category": "texting",
+  "translation": "ха-ха; лол",
+  "note": "Laughing Out Loud. В переписке часто просто смягчает фразу, а не означает громкий смех.",
+  "examples": [
+   {
+    "en": "That's so funny #lol#.",
+    "ru": "Это так смешно, лол."
+   },
+   {
+    "en": "I forgot my own birthday #lol#.",
+    "ru": "Я забыл про свой день рождения, ха-ха."
+   },
+   {
+    "en": "#lol# no way.",
+    "ru": "Ха, да ладно."
+   }
+  ]
+ },
+ {
+  "id": "lmao",
+  "word": "lmao",
+  "category": "texting",
+  "translation": "ржу не могу",
+  "note": "Laughing My Ass Off. Грубее lol, но очень частое.",
+  "examples": [
+   {
+    "en": "That meme #lmao#.",
+    "ru": "Этот мем — ржу не могу."
+   },
+   {
+    "en": "#Lmao# you didn't!",
+    "ru": "Ахаха, не может быть!"
+   },
+   {
+    "en": "He fell off the chair #lmao#.",
+    "ru": "Он упал со стула, ору."
+   }
+  ]
+ },
+ {
+  "id": "omg",
+  "word": "omg",
+  "category": "texting",
+  "translation": "боже мой",
+  "note": "Oh My God. Удивление в переписке.",
+  "examples": [
+   {
+    "en": "#OMG# I passed!",
+    "ru": "Боже мой, я сдал!"
+   },
+   {
+    "en": "#Omg# look at this.",
+    "ru": "Офигеть, посмотри на это."
+   },
+   {
+    "en": "#OMG# that's so cute.",
+    "ru": "Боже, как мило."
+   }
+  ]
+ },
+ {
+  "id": "btw",
+  "word": "btw",
+  "category": "texting",
+  "translation": "кстати",
+  "note": "By The Way.",
+  "examples": [
+   {
+    "en": "#btw#, I'll be late.",
+    "ru": "Кстати, я опоздаю."
+   },
+   {
+    "en": "#Btw# the meeting moved to 3.",
+    "ru": "Кстати, встречу перенесли на три."
+   },
+   {
+    "en": "Love the photo #btw#.",
+    "ru": "Кстати, классное фото."
+   }
+  ]
+ },
+ {
+  "id": "idk",
+  "word": "idk",
+  "category": "texting",
+  "translation": "не знаю",
+  "note": "I Don't Know.",
+  "examples": [
+   {
+    "en": "#idk# what to wear.",
+    "ru": "Не знаю, что надеть."
+   },
+   {
+    "en": "— Where's Sam? — #idk#.",
+    "ru": "— Где Сэм? — Хз."
+   },
+   {
+    "en": "#Idk# maybe tomorrow?",
+    "ru": "Не знаю, может, завтра?"
+   }
+  ]
+ },
+ {
+  "id": "idc",
+  "word": "idc",
+  "category": "texting",
+  "translation": "мне всё равно",
+  "note": "I Don't Care. Может звучать резко.",
+  "examples": [
+   {
+    "en": "#idc#, pick any movie.",
+    "ru": "Мне всё равно, выбирай любой фильм."
+   },
+   {
+    "en": "Honestly #idc# what they think.",
+    "ru": "Честно, мне плевать, что они думают."
+   },
+   {
+    "en": "#idc# if it rains, I'm going.",
+    "ru": "Мне всё равно, будет ли дождь, я иду."
+   }
+  ]
+ },
+ {
+  "id": "tbh",
+  "word": "tbh",
+  "category": "texting",
+  "translation": "честно говоря",
+  "note": "To Be Honest.",
+  "examples": [
+   {
+    "en": "#tbh# I didn't like it.",
+    "ru": "Честно, мне не понравилось."
+   },
+   {
+    "en": "#Tbh# you look tired.",
+    "ru": "Если честно, ты выглядишь уставшим."
+   },
+   {
+    "en": "I'm kinda bored #tbh#.",
+    "ru": "Мне как-то скучно, если честно."
+   }
+  ]
+ },
+ {
+  "id": "ngl",
+  "word": "ngl",
+  "category": "texting",
+  "translation": "не буду врать; честно",
+  "note": "Not Gonna Lie. Gen Z.",
+  "examples": [
+   {
+    "en": "#ngl# that was amazing.",
+    "ru": "Не буду врать, это было потрясающе."
+   },
+   {
+    "en": "#Ngl# I'm a bit jealous.",
+    "ru": "Честно, я немного завидую."
+   },
+   {
+    "en": "This song is fire #ngl#.",
+    "ru": "Песня — огонь, без шуток."
+   }
+  ]
+ },
+ {
+  "id": "imo_imho",
+  "word": "imo / imho",
+  "category": "texting",
+  "translation": "по-моему",
+  "note": "In My (Humble) Opinion.",
+  "examples": [
+   {
+    "en": "#imo# the first movie was better.",
+    "ru": "По-моему, первый фильм был лучше."
+   },
+   {
+    "en": "#Imho# you should apologize.",
+    "ru": "Имхо, тебе стоит извиниться."
+   },
+   {
+    "en": "Best pizza in town #imo#.",
+    "ru": "Лучшая пицца в городе, по-моему."
+   }
+  ]
+ },
+ {
+  "id": "fyi",
+  "word": "fyi",
+  "category": "texting",
+  "translation": "к сведению",
+  "note": "For Your Information. Также в рабочей переписке.",
+  "examples": [
+   {
+    "en": "#FYI#, the office is closed Monday.",
+    "ru": "К сведению: в понедельник офис закрыт."
+   },
+   {
+    "en": "#Fyi# I'm allergic to nuts.",
+    "ru": "На всякий случай: у меня аллергия на орехи."
+   },
+   {
+    "en": "Just #FYI#.",
+    "ru": "Просто для информации."
+   }
+  ]
+ },
+ {
+  "id": "asap",
+  "word": "asap",
+  "category": "texting",
+  "translation": "как можно скорее",
+  "note": "As Soon As Possible. Произносят по буквам или «эйсап».",
+  "examples": [
+   {
+    "en": "Call me #ASAP#.",
+    "ru": "Позвони мне срочно."
+   },
+   {
+    "en": "I need it #asap#.",
+    "ru": "Мне это нужно как можно скорее."
+   },
+   {
+    "en": "Reply #ASAP# please.",
+    "ru": "Ответь, пожалуйста, побыстрее."
+   }
+  ]
+ },
+ {
+  "id": "brb",
+  "word": "brb",
+  "category": "texting",
+  "translation": "сейчас вернусь",
+  "note": "Be Right Back.",
+  "examples": [
+   {
+    "en": "#brb#, getting coffee.",
+    "ru": "Сейчас вернусь, схожу за кофе."
+   },
+   {
+    "en": "#Brb# doorbell.",
+    "ru": "Сек, в дверь звонят."
+   },
+   {
+    "en": "Hold on, #brb#.",
+    "ru": "Подожди, щас вернусь."
+   }
+  ]
+ },
+ {
+  "id": "omw",
+  "word": "omw",
+  "category": "texting",
+  "translation": "уже еду",
+  "note": "On My Way.",
+  "examples": [
+   {
+    "en": "#omw#!",
+    "ru": "Уже еду!"
+   },
+   {
+    "en": "#Omw#, 10 min.",
+    "ru": "Еду, буду через 10 минут."
+   },
+   {
+    "en": "Leaving now, #omw#.",
+    "ru": "Выхожу, уже в пути."
+   }
+  ]
+ },
+ {
+  "id": "ttyl",
+  "word": "ttyl",
+  "category": "texting",
+  "translation": "до связи",
+  "note": "Talk To You Later.",
+  "examples": [
+   {
+    "en": "Gotta go, #ttyl#!",
+    "ru": "Мне пора, до связи!"
+   },
+   {
+    "en": "#Ttyl#, have fun.",
+    "ru": "Поговорим позже, развлекайся."
+   },
+   {
+    "en": "OK #ttyl#.",
+    "ru": "Ладно, пока."
+   }
+  ]
+ },
+ {
+  "id": "np",
+  "word": "np",
+  "category": "texting",
+  "translation": "без проблем; не за что",
+  "note": "No Problem.",
+  "examples": [
+   {
+    "en": "— Thanks! — #np#.",
+    "ru": "— Спасибо! — Не за что."
+   },
+   {
+    "en": "#Np#, happy to help.",
+    "ru": "Без проблем, рад помочь."
+   },
+   {
+    "en": "#np# anytime!",
+    "ru": "Без проблем, обращайся!"
+   }
+  ]
+ },
+ {
+  "id": "ty_thx",
+  "word": "ty / thx",
+  "category": "texting",
+  "translation": "спасибо",
+  "note": "Thank You / Thanks.",
+  "examples": [
+   {
+    "en": "#ty# for the help!",
+    "ru": "Спасибо за помощь!"
+   },
+   {
+    "en": "#Thx#, see you.",
+    "ru": "Спс, увидимся."
+   },
+   {
+    "en": "Got it, #thx#!",
+    "ru": "Получил, спс!"
+   }
+  ]
+ },
+ {
+  "id": "pls_plz",
+  "word": "pls / plz",
+  "category": "texting",
+  "translation": "пожалуйста",
+  "note": "Please.",
+  "examples": [
+   {
+    "en": "Send the file #pls#.",
+    "ru": "Пришли файл, плиз."
+   },
+   {
+    "en": "Call me back #plz#.",
+    "ru": "Перезвони, пожалуйста."
+   },
+   {
+    "en": "#Pls# don't be late.",
+    "ru": "Пожалуйста, не опаздывай."
+   }
+  ]
+ },
+ {
+  "id": "jk",
+  "word": "jk",
+  "category": "texting",
+  "translation": "шучу",
+  "note": "Just Kidding.",
+  "examples": [
+   {
+    "en": "You're fired #jk#.",
+    "ru": "Ты уволен, шучу."
+   },
+   {
+    "en": "I hate you #jk#.",
+    "ru": "Ненавижу тебя, шучу."
+   },
+   {
+    "en": "#jk# jk, I'm coming!",
+    "ru": "Шучу-шучу, я приду!"
+   }
+  ]
+ },
+ {
+  "id": "irl",
+  "word": "irl",
+  "category": "texting",
+  "translation": "в реальной жизни",
+  "note": "In Real Life — в противоположность онлайну.",
+  "examples": [
+   {
+    "en": "We met #irl# last week.",
+    "ru": "Мы познакомились вживую на прошлой неделе."
+   },
+   {
+    "en": "She's even nicer #irl#.",
+    "ru": "В жизни она ещё милее."
+   },
+   {
+    "en": "Let's hang out #irl#.",
+    "ru": "Давай встретимся вживую."
+   }
+  ]
+ },
+ {
+  "id": "dm",
+  "word": "dm",
+  "category": "texting",
+  "translation": "личное сообщение; написать в личку",
+  "note": "Direct Message, также глагол.",
+  "examples": [
+   {
+    "en": "#DM# me the details.",
+    "ru": "Напиши мне подробности в личку."
+   },
+   {
+    "en": "Check your #DMs#.",
+    "ru": "Проверь личку."
+   },
+   {
+    "en": "Slide into her #DMs#.",
+    "ru": "Напиши ей в личку (с флиртом)."
+   }
+  ]
+ },
+ {
+  "id": "smh",
+  "word": "smh",
+  "category": "texting",
+  "translation": "качаю головой (неодобрение)",
+  "note": "Shaking My Head.",
+  "examples": [
+   {
+    "en": "He forgot again #smh#.",
+    "ru": "Он опять забыл, ну ты понял."
+   },
+   {
+    "en": "#smh# at these prices.",
+    "ru": "Только руками развести от этих цен."
+   },
+   {
+    "en": "People still not wearing seatbelts #smh#.",
+    "ru": "Люди до сих пор не пристёгиваются, ну что за дела."
+   }
+  ]
+ },
+ {
+  "id": "tfw",
+  "word": "tfw",
+  "category": "texting",
+  "translation": "то чувство, когда",
+  "note": "That Feeling When — в мемах.",
+  "examples": [
+   {
+    "en": "#tfw# you wake up before your alarm.",
+    "ru": "То чувство, когда просыпаешься раньше будильника."
+   },
+   {
+    "en": "#Tfw# the pizza arrives.",
+    "ru": "То чувство, когда привезли пиццу."
+   },
+   {
+    "en": "#tfw# it's Friday at 5 p.m.",
+    "ru": "То чувство, когда пятница, пять вечера."
+   }
+  ]
+ },
+ {
+  "id": "iykyk",
+  "word": "iykyk",
+  "category": "texting",
+  "translation": "кто знает, тот знает",
+  "note": "If You Know You Know — понятно только посвящённым.",
+  "examples": [
+   {
+    "en": "That café on 5th street… #iykyk#.",
+    "ru": "То кафе на Пятой улице… кто знает, тот знает."
+   },
+   {
+    "en": "Best summer ever #iykyk#.",
+    "ru": "Лучшее лето — кто был, тот поймёт."
+   },
+   {
+    "en": "Grandma's Sunday soup #iykyk#.",
+    "ru": "Бабушкин воскресный суп — кто пробовал, тот знает."
+   }
+  ]
+ },
+ {
+  "id": "wyd",
+  "word": "wyd",
+  "category": "texting",
+  "translation": "что делаешь?",
+  "note": "What (are) You Doing? Gen Z.",
+  "examples": [
+   {
+    "en": "#wyd# tonight?",
+    "ru": "Что делаешь вечером?"
+   },
+   {
+    "en": "Hey #wyd#?",
+    "ru": "Привет, чем занят?"
+   },
+   {
+    "en": "#wyd# this weekend?",
+    "ru": "Что делаешь на выходных?"
+   }
+  ]
+ },
+ {
+  "id": "hbu",
+  "word": "hbu",
+  "category": "texting",
+  "translation": "а ты?",
+  "note": "How About You?",
+  "examples": [
+   {
+    "en": "I'm good, #hbu#?",
+    "ru": "У меня всё хорошо, а у тебя?"
+   },
+   {
+    "en": "Tired lol #hbu#.",
+    "ru": "Устал, лол, а ты?"
+   },
+   {
+    "en": "Just got home, #hbu#?",
+    "ru": "Только пришёл домой, а ты?"
+   }
+  ]
+ },
+ {
+  "id": "rn",
+  "word": "rn",
+  "category": "texting",
+  "translation": "сейчас; прямо сейчас",
+  "note": "Right Now.",
+  "examples": [
+   {
+    "en": "I'm busy #rn#.",
+    "ru": "Я сейчас занят."
+   },
+   {
+    "en": "So tired #rn#.",
+    "ru": "Так устал прямо сейчас."
+   },
+   {
+    "en": "Can't talk #rn#, in a meeting.",
+    "ru": "Не могу говорить сейчас, я на совещании."
+   }
+  ]
+ },
+ {
+  "id": "nvm",
+  "word": "nvm",
+  "category": "texting",
+  "translation": "неважно; забей",
+  "note": "Never Mind.",
+  "examples": [
+   {
+    "en": "#nvm# I found it.",
+    "ru": "Забей, нашёл."
+   },
+   {
+    "en": "Oh #nvm#.",
+    "ru": "А, неважно."
+   },
+   {
+    "en": "Can you call me? #nvm#, I'll text.",
+    "ru": "Можешь позвонить? Забей, напишу."
+   }
+  ]
+ },
+ {
+  "id": "ikr",
+  "word": "ikr",
+  "category": "texting",
+  "translation": "вот-вот; и не говори",
+  "note": "I Know, Right? — согласие.",
+  "examples": [
+   {
+    "en": "— This weather is crazy. — #ikr#!",
+    "ru": "— Погода сумасшедшая. — И не говори!"
+   },
+   {
+    "en": "#Ikr#, he's so funny.",
+    "ru": "Вот-вот, он такой смешной."
+   },
+   {
+    "en": "— That test was impossible. — #ikr#?",
+    "ru": "— Тест был невозможный. — Вот-вот!"
+   }
+  ]
+ },
+ {
+  "id": "gg",
+  "word": "gg",
+  "category": "texting",
+  "translation": "хорошая игра",
+  "note": "Good Game — из геймерского сленга; иронично: всё, конец.",
+  "examples": [
+   {
+    "en": "#gg#, well played.",
+    "ru": "Хорошая игра, молодец."
+   },
+   {
+    "en": "Missed the train. #gg#.",
+    "ru": "Опоздал на поезд. Всё, приехали."
+   },
+   {
+    "en": "#gg# everyone, see you next match.",
+    "ru": "Всем хорошая игра, до следующего матча."
+   }
+  ]
+ },
+ {
+  "id": "afk",
+  "word": "afk",
+  "category": "texting",
+  "translation": "отошёл; не у компьютера",
+  "note": "Away From Keyboard.",
+  "examples": [
+   {
+    "en": "#afk# 5 min.",
+    "ru": "Отошёл на 5 минут."
+   },
+   {
+    "en": "Sorry, was #afk#.",
+    "ru": "Извини, отходил."
+   },
+   {
+    "en": "Going #afk# for dinner.",
+    "ru": "Отойду на ужин."
+   }
+  ]
+ }
+]
