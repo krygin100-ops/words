@@ -12,6 +12,10 @@
    {
     "en": "I hate the new office, but #it is what it is# — I need the job.",
     "ru": "Новый офис ужасный, но что есть, то есть — работа мне нужна."
+   },
+   {
+    "en": "We can't change the deadline, so #it is what it is#.",
+    "ru": "Сроки не сдвинуть, так что ничего не поделаешь."
    }
   ]
  },
@@ -28,6 +32,10 @@
    {
     "en": "So the meeting's moved, but maybe not, and maybe it's online? #Clear as mud#.",
     "ru": "То есть встречу перенесли, а может и нет, и может, она онлайн? Понятно, как в тумане."
+   },
+   {
+    "en": "The new parking rules are #clear as mud#.",
+    "ru": "Новые правила парковки — понятно, как в тумане."
    }
   ]
  },
@@ -44,6 +52,10 @@
    {
     "en": "You win some, you lose some — #that's life#.",
     "ru": "Где-то выигрываешь, где-то проигрываешь — такова жизнь."
+   },
+   {
+    "en": "Some days the coffee is cold. #That's life#.",
+    "ru": "Бывают дни, когда кофе холодный. Такова жизнь."
    }
   ]
  },
@@ -60,6 +72,10 @@
    {
     "en": "Didn't get the part? #You win some, you lose some#.",
     "ru": "Не дали роль? Бывает: где-то выигрываешь, где-то нет."
+   },
+   {
+    "en": "Our team lost again, but hey, #you win some, you lose some#.",
+    "ru": "Наши опять проиграли, но что поделать — где-то выигрываешь, где-то нет."
    }
   ]
  },
@@ -76,6 +92,10 @@
    {
     "en": "If we're late, #it's not the end of the world#.",
     "ru": "Опоздаем — не конец света."
+   },
+   {
+    "en": "So the cake fell — #it's not the end of the world#, we'll buy one.",
+    "ru": "Ну упал торт — не конец света, купим."
    }
   ]
  },
@@ -92,6 +112,10 @@
    {
     "en": "He got a promotion. #Big deal#, so did I.",
     "ru": "Его повысили. Подумаешь, меня тоже."
+   },
+   {
+    "en": "It's just a small cut, #no big deal#.",
+    "ru": "Это просто царапина, ничего страшного."
    }
   ]
  },
@@ -108,6 +132,10 @@
    {
     "en": "#Don't sweat it#, we'll fix it tomorrow.",
     "ru": "Не парься, завтра починим."
+   },
+   {
+    "en": "You missed the call? #Don't sweat it#, I'll call back.",
+    "ru": "Пропустил звонок? Не парься, я перезвоню."
    }
   ]
  },
@@ -124,6 +152,10 @@
    {
     "en": "I sent it to the wrong address — #my bad#.",
     "ru": "Отправил не на тот адрес — моя вина."
+   },
+   {
+    "en": "#My bad#, I thought the meeting was at three.",
+    "ru": "Мой косяк, думал, встреча в три."
    }
   ]
  },
@@ -140,6 +172,10 @@
    {
     "en": "#Fair enough#, you've got a point there.",
     "ru": "Справедливо, тут ты прав."
+   },
+   {
+    "en": "— I'd rather not talk about it. — #Fair enough#.",
+    "ru": "— Я бы не хотел об этом говорить. — Понятно, справедливо."
    }
   ]
  },
@@ -156,6 +192,10 @@
    {
     "en": "You say it's safe? #I'll take your word for it#.",
     "ru": "Говоришь, это безопасно? Поверю на слово."
+   },
+   {
+    "en": "— This app saves hours. — OK, #I'll take your word for it#.",
+    "ru": "— Это приложение экономит часы. — Ладно, поверю на слово."
    }
   ]
  },
@@ -172,6 +212,10 @@
    {
     "en": "— This heat is unbearable. — #Tell me about it#!",
     "ru": "— Жара невыносимая. — Ещё бы!"
+   },
+   {
+    "en": "— Rent is so expensive here. — #Tell me about it#!",
+    "ru": "— Аренда здесь такая дорогая. — И не говори!"
    }
   ]
  },
@@ -188,6 +232,10 @@
    {
     "en": "— Nice to meet you. — #Same here#.",
     "ru": "— Приятно познакомиться. — Взаимно."
+   },
+   {
+    "en": "— I can't wait for the weekend. — #Same here#.",
+    "ru": "— Скорее бы выходные. — У меня так же."
    }
   ]
  },
@@ -204,6 +252,10 @@
    {
     "en": "Football? #I couldn't care less#.",
     "ru": "Футбол? Мне глубоко безразлично."
+   },
+   {
+    "en": "Celebrity gossip? #I couldn't care less#.",
+    "ru": "Сплетни о звёздах? Мне абсолютно всё равно."
    }
   ]
  },
@@ -220,6 +272,10 @@
    {
     "en": "— You're wrong. — #Whatever#.",
     "ru": "— Ты не прав. — Ну и ладно."
+   },
+   {
+    "en": "Fine, #whatever#, do what you want.",
+    "ru": "Ладно, как хочешь, делай что хочешь."
    }
   ]
  },
@@ -236,6 +292,10 @@
    {
     "en": "Choose the restaurant, #I'm easy#.",
     "ru": "Выбирай ресторан, я не привередлив."
+   },
+   {
+    "en": "— Where should we sit? — #I'm easy#.",
+    "ru": "— Где сядем? — Мне всё равно."
    }
   ]
  },
@@ -252,6 +312,10 @@
    {
     "en": "#It's up to you# whether you come.",
     "ru": "Приходить или нет — решать тебе."
+   },
+   {
+    "en": "— Red or blue? — #It's up to you#.",
+    "ru": "— Красный или синий? — Решать тебе."
    }
   ]
  },
@@ -268,6 +332,10 @@
    {
     "en": "Pizza tonight? #Sounds good# to me.",
     "ru": "Пицца вечером? Меня устраивает."
+   },
+   {
+    "en": "— I'll send you the details tonight. — #Sounds good#.",
+    "ru": "— Пришлю подробности вечером. — Отлично."
    }
   ]
  },
@@ -280,6 +348,14 @@
    {
     "en": "— Let's grab lunch after the meeting. — #Sounds like a plan#.",
     "ru": "— Давай после встречи пообедаем. — Договорились."
+   },
+   {
+    "en": "— We leave at eight and stop for breakfast. — #Sounds like a plan#.",
+    "ru": "— Выезжаем в восемь и останавливаемся позавтракать. — Отличный план."
+   },
+   {
+    "en": "— Movie, then dinner? — #Sounds like a plan#!",
+    "ru": "— Кино, потом ужин? — Договорились!"
    }
   ]
  },
@@ -296,6 +372,10 @@
    {
     "en": "If you're buying tickets, #I'm in#.",
     "ru": "Если берёшь билеты, я в деле."
+   },
+   {
+    "en": "— We're thinking about a road trip. — #I'm in#!",
+    "ru": "— Думаем поехать в путешествие на машине. — Я с вами!"
    }
   ]
  },
@@ -312,6 +392,10 @@
    {
     "en": "If it's karaoke again, #count me out#.",
     "ru": "Если опять караоке, то без меня."
+   },
+   {
+    "en": "Skydiving? #Count me out#, I'm scared of heights.",
+    "ru": "Прыжок с парашютом? Без меня, я боюсь высоты."
    }
   ]
  },
@@ -328,6 +412,10 @@
    {
     "en": "Go on, #I'm all ears#.",
     "ru": "Давай, я слушаю."
+   },
+   {
+    "en": "Tell me everything — #I'm all ears#.",
+    "ru": "Рассказывай всё — я весь внимание."
    }
   ]
  },
@@ -344,6 +432,10 @@
    {
     "en": "#Long story short#, I got the job.",
     "ru": "Если коротко — меня взяли."
+   },
+   {
+    "en": "#Long story short#, we're moving to Texas.",
+    "ru": "Короче говоря, мы переезжаем в Техас."
    }
   ]
  },
@@ -356,6 +448,14 @@
    {
     "en": "— Why are you wearing one shoe? — #It's a long story#.",
     "ru": "— Почему ты в одном ботинке? — Это долгая история."
+   },
+   {
+    "en": "— How did you two meet? — #It's a long story#.",
+    "ru": "— Как вы познакомились? — Это долгая история."
+   },
+   {
+    "en": "Why I hate boats? #It's a long story#.",
+    "ru": "Почему я ненавижу лодки? Это долгая история."
    }
   ]
  },
@@ -372,6 +472,10 @@
    {
     "en": "#Don't get me wrong# — the food was fine.",
     "ru": "Не пойми превратно — еда была нормальная."
+   },
+   {
+    "en": "#Don't get me wrong#, I love my job, I'm just tired.",
+    "ru": "Не пойми меня неправильно, я люблю свою работу, просто устал."
    }
   ]
  },
@@ -388,6 +492,10 @@
    {
     "en": "#To be honest#, I forgot.",
     "ru": "Если честно, я забыл."
+   },
+   {
+    "en": "#To be honest#, I'd rather stay home.",
+    "ru": "Честно говоря, я бы лучше остался дома."
    }
   ]
  },
@@ -404,6 +512,10 @@
    {
     "en": "#If you ask me#, the old version was better.",
     "ru": "Если хочешь знать моё мнение, старая версия была лучше."
+   },
+   {
+    "en": "#If you ask me#, it's too expensive.",
+    "ru": "По-моему, это слишком дорого."
    }
   ]
  },
@@ -420,6 +532,10 @@
    {
     "en": "You could have called. #Just saying#.",
     "ru": "Мог бы и позвонить. Просто к слову."
+   },
+   {
+    "en": "It's the third time this week you've been late. #Just saying#.",
+    "ru": "Ты уже третий раз за неделю опаздываешь. Я просто говорю."
    }
   ]
  },
@@ -436,6 +552,10 @@
    {
     "en": "— #No offence#. — None taken.",
     "ru": "— Без обид. — Да я и не обижаюсь."
+   },
+   {
+    "en": "#No offence#, but I don't trust him.",
+    "ru": "Без обид, но я ему не доверяю."
    }
   ]
  },
@@ -448,6 +568,14 @@
    {
     "en": "— No offence, but you're wrong. — #None taken#.",
     "ru": "— Без обид, но ты не прав. — Не обижаюсь."
+   },
+   {
+    "en": "— No offence, but your car is ancient. — #None taken#, it is.",
+    "ru": "— Без обид, но твоя машина древняя. — Не обижаюсь, так и есть."
+   },
+   {
+    "en": "— I didn't mean to be rude. — #None taken#.",
+    "ru": "— Не хотел грубить. — Я не обиделся."
    }
   ]
  },
@@ -464,6 +592,10 @@
    {
     "en": "I had to say no. #No hard feelings#?",
     "ru": "Пришлось отказать. Без обид?"
+   },
+   {
+    "en": "I voted for the other guy. #No hard feelings#?",
+    "ru": "Я голосовал за другого. Без обид?"
    }
   ]
  },
@@ -480,6 +612,10 @@
    {
     "en": "I saved two copies. #Better safe than sorry#.",
     "ru": "Сохранил две копии. Береженого Бог бережёт."
+   },
+   {
+    "en": "I'll check the stove again. #Better safe than sorry#.",
+    "ru": "Проверю плиту ещё раз. Лучше перестраховаться."
    }
   ]
  },
@@ -492,6 +628,14 @@
    {
     "en": "The sale ends today — #it's now or never#.",
     "ru": "Распродажа сегодня кончается — сейчас или никогда."
+   },
+   {
+    "en": "Ask her out today — #it's now or never#.",
+    "ru": "Пригласи её сегодня — сейчас или никогда."
+   },
+   {
+    "en": "The last train leaves at midnight. #It's now or never#.",
+    "ru": "Последний поезд в полночь. Сейчас или никогда."
    }
   ]
  },
@@ -508,6 +652,10 @@
    {
     "en": "Okay, #easy does it#, back up slowly.",
     "ru": "Так, осторожно, сдавай назад потихоньку."
+   },
+   {
+    "en": "#Easy does it#, the paint is still wet.",
+    "ru": "Осторожно, краска ещё не высохла."
    }
   ]
  },
@@ -524,6 +672,10 @@
    {
     "en": "See you tomorrow — #take it easy#!",
     "ru": "До завтра — бывай!"
+   },
+   {
+    "en": "The doctor told me to #take it easy# for a week.",
+    "ru": "Врач велел мне неделю не напрягаться."
    }
   ]
  },
@@ -540,6 +692,10 @@
    {
     "en": "We just #chilled out# at home all weekend.",
     "ru": "Мы все выходные просто отдыхали дома."
+   },
+   {
+    "en": "Everyone just #chill out#, nobody's in trouble.",
+    "ru": "Все успокойтесь, никто не виноват."
    }
   ]
  },
@@ -552,6 +708,14 @@
    {
     "en": "#I've had it up to here# with his excuses.",
     "ru": "Я сыт по горло его отговорками."
+   },
+   {
+    "en": "#I've had it up to here# with this noise!",
+    "ru": "Я сыт по горло этим шумом!"
+   },
+   {
+    "en": "Honestly, #I've had it up to here# with meetings.",
+    "ru": "Честно, я сыт по горло совещаниями."
    }
   ]
  },
@@ -568,6 +732,10 @@
    {
     "en": "She was #fed up# with waiting.",
     "ru": "Ей надоело ждать."
+   },
+   {
+    "en": "#I'm fed up# with cooking every night.",
+    "ru": "Мне надоело готовить каждый вечер."
    }
   ]
  },
@@ -580,6 +748,14 @@
    {
     "en": "#Enough is enough# — I'm calling the landlord.",
     "ru": "Хватит — звоню хозяину квартиры."
+   },
+   {
+    "en": "You've been on your phone all day. #Enough is enough#.",
+    "ru": "Ты весь день в телефоне. Хватит."
+   },
+   {
+    "en": "#Enough is enough# — I'm quitting.",
+    "ru": "Довольно — я увольняюсь."
    }
   ]
  },
@@ -596,6 +772,10 @@
    {
     "en": "#Here we go again# — another argument about money.",
     "ru": "Опять двадцать пять — снова спор о деньгах."
+   },
+   {
+    "en": "Mom's asking when I'll get married. #Here we go again#.",
+    "ru": "Мама спрашивает, когда я женюсь. Опять началось."
    }
   ]
  },
@@ -608,6 +788,14 @@
    {
     "en": "A free laptop? #What's the catch#?",
     "ru": "Бесплатный ноутбук? А в чём подвох?"
+   },
+   {
+    "en": "A free trip to Hawaii? #What's the catch#?",
+    "ru": "Бесплатная поездка на Гавайи? А в чём подвох?"
+   },
+   {
+    "en": "Three months free? OK, #what's the catch#?",
+    "ru": "Три месяца бесплатно? Ладно, а в чём подвох?"
    }
   ]
  },
@@ -624,6 +812,10 @@
    {
     "en": "It rained on the one day I forgot my umbrella. #Go figure#.",
     "ru": "Дождь пошёл в единственный день, когда я забыл зонт. Вот и пойми."
+   },
+   {
+    "en": "The cheapest one turned out to be the best. #Go figure#.",
+    "ru": "Самый дешёвый оказался лучшим. Поди пойми."
    }
   ]
  },
@@ -640,6 +832,10 @@
    {
     "en": "Keep his number, #you never know#.",
     "ru": "Сохрани его номер, мало ли."
+   },
+   {
+    "en": "Bring a jacket, #you never know#.",
+    "ru": "Возьми куртку, мало ли."
    }
   ]
  },
@@ -652,6 +848,14 @@
    {
     "en": "#What's done is done# — let's move on.",
     "ru": "Что сделано, то сделано — двигаемся дальше."
+   },
+   {
+    "en": "Don't blame yourself. #What's done is done#.",
+    "ru": "Не вини себя. Что сделано, то сделано."
+   },
+   {
+    "en": "We can't undo it — #what's done is done#.",
+    "ru": "Этого не исправить — что сделано, то сделано."
    }
   ]
  },
@@ -668,6 +872,10 @@
    {
     "en": "Okay, #moving on# to the next item.",
     "ru": "Так, переходим к следующему пункту."
+   },
+   {
+    "en": "— Did anyone like my joke? — No. — OK, #moving on#.",
+    "ru": "— Кому-нибудь понравилась моя шутка? — Нет. — Ладно, идём дальше."
    }
   ]
  },
@@ -684,6 +892,10 @@
    {
     "en": "Camping in the rain? #Been there, done that#.",
     "ru": "Поход под дождём? Знаем, плавали."
+   },
+   {
+    "en": "Working two jobs? #Been there, done that#.",
+    "ru": "Работать на двух работах? Проходили."
    }
   ]
  },
@@ -696,6 +908,14 @@
    {
     "en": "He says he'll quit smoking. #I'll believe it when I see it#.",
     "ru": "Говорит, что бросит курить. Поверю, когда увижу."
+   },
+   {
+    "en": "He promised to clean his room. #I'll believe it when I see it#.",
+    "ru": "Он обещал убраться в комнате. Поверю, когда увижу."
+   },
+   {
+    "en": "A four-day work week? #I'll believe it when I see it#.",
+    "ru": "Четырёхдневная рабочая неделя? Поверю, когда увижу."
    }
   ]
  },
@@ -712,6 +932,10 @@
    {
     "en": "#You've got to be kidding me# — again?",
     "ru": "Да ладно — опять?"
+   },
+   {
+    "en": "It's snowing in May? #You've got to be kidding me#.",
+    "ru": "Снег в мае? Ты шутишь?"
    }
   ]
  },
@@ -728,6 +952,10 @@
    {
     "en": "Lend him money? #No way#.",
     "ru": "Одолжить ему денег? Ни за что."
+   },
+   {
+    "en": "#No way#! You met her in person?",
+    "ru": "Да ладно! Ты встречался с ней лично?"
    }
   ]
  },
@@ -744,6 +972,10 @@
    {
     "en": "Don't worry about the report, #I'm on it#.",
     "ru": "Не волнуйся за отчёт, я беру на себя."
+   },
+   {
+    "en": "— The client needs an answer today. — #I'm on it#.",
+    "ru": "— Клиенту нужен ответ сегодня. — Уже занимаюсь."
    }
   ]
  },
@@ -760,6 +992,10 @@
    {
     "en": "You can go — #I've got this#.",
     "ru": "Можешь идти, я сам справлюсь."
+   },
+   {
+    "en": "Don't help me park, #I've got this#.",
+    "ru": "Не подсказывай, как парковаться, я справлюсь."
    }
   ]
  },
@@ -776,6 +1012,10 @@
    {
     "en": "#Hang on a sec# — who said that?",
     "ru": "Погоди-ка — кто это сказал?"
+   },
+   {
+    "en": "#Hang on a sec#, someone's at the door.",
+    "ru": "Подожди секунду, кто-то в дверь звонит."
    }
   ]
  },
@@ -792,6 +1032,10 @@
    {
     "en": "#Bear with me# while I explain.",
     "ru": "Потерпите, пока я объясню."
+   },
+   {
+    "en": "#Bear with me#, I'm new at this.",
+    "ru": "Потерпите, я тут новичок."
    }
   ]
  },
@@ -804,6 +1048,14 @@
    {
     "en": "— This job is exhausting. — #You're telling me#!",
     "ru": "— Эта работа выматывает. — Кому ты рассказываешь!"
+   },
+   {
+    "en": "— That test was hard. — #You're telling me#!",
+    "ru": "— Сложный был тест. — Кому ты рассказываешь!"
+   },
+   {
+    "en": "— It's freezing! — #You're telling me#, I forgot my gloves.",
+    "ru": "— Холод жуткий! — Мне ли не знать, я перчатки забыл."
    }
   ]
  },
@@ -820,6 +1072,10 @@
    {
     "en": "— I'm so tired. — #I hear you#.",
     "ru": "— Я так устал. — Понимаю."
+   },
+   {
+    "en": "#I hear you#. Let's find a solution together.",
+    "ru": "Я тебя понимаю. Давай вместе найдём решение."
    }
   ]
  },
@@ -832,6 +1088,14 @@
    {
     "en": "— You've been late three times. — #Point taken#.",
     "ru": "— Ты опоздал уже трижды. — Понял, принято."
+   },
+   {
+    "en": "— Maybe use fewer slides. — #Point taken#.",
+    "ru": "— Может, поменьше слайдов? — Понял, учту."
+   },
+   {
+    "en": "OK, #point taken#, I'll be more careful.",
+    "ru": "Ладно, принято, буду аккуратнее."
    }
   ]
  },
@@ -844,6 +1108,14 @@
    {
     "en": "— I have no idea what's going on. — #That makes two of us#.",
     "ru": "— Понятия не имею, что происходит. — Нас таких двое."
+   },
+   {
+    "en": "— I hate flying. — #That makes two of us#.",
+    "ru": "— Ненавижу летать. — Нас таких двое."
+   },
+   {
+    "en": "— I'm confused. — #That makes two of us#.",
+    "ru": "— Я запутался. — Я тоже."
    }
   ]
  },
@@ -860,6 +1132,10 @@
    {
     "en": "#Beats me# why he quit.",
     "ru": "Ума не приложу, почему он уволился."
+   },
+   {
+    "en": "— Why is the line so long? — #Beats me#.",
+    "ru": "— Почему такая длинная очередь? — Без понятия."
    }
   ]
  },
@@ -872,6 +1148,14 @@
    {
     "en": "— Who ate the cake? — #Search me#.",
     "ru": "— Кто съел торт? — Понятия не имею."
+   },
+   {
+    "en": "— What time does it start? — #Search me#.",
+    "ru": "— Во сколько начало? — Понятия не имею."
+   },
+   {
+    "en": "— Where did my keys go? — #Search me#.",
+    "ru": "— Куда делись мои ключи? — Понятия не имею."
    }
   ]
  },
@@ -888,6 +1172,10 @@
    {
     "en": "Dinner's #on me# tonight.",
     "ru": "Сегодня ужин за мой счёт."
+   },
+   {
+    "en": "Coffee's #on me# this time.",
+    "ru": "Кофе в этот раз за мой счёт."
    }
   ]
  },
@@ -900,6 +1188,14 @@
    {
     "en": "After that hike, #I'm beat#.",
     "ru": "После этого похода я без сил."
+   },
+   {
+    "en": "Can we go home? #I'm beat#.",
+    "ru": "Пойдём домой? Я без сил."
+   },
+   {
+    "en": "Double shift today — #I'm beat#.",
+    "ru": "Сегодня две смены подряд — я без сил."
    }
   ]
  },
@@ -912,6 +1208,14 @@
    {
     "en": "No dessert for me, #I'm stuffed#.",
     "ru": "Мне без десерта, я объелся."
+   },
+   {
+    "en": "That was delicious, but #I'm stuffed#.",
+    "ru": "Было вкусно, но я объелся."
+   },
+   {
+    "en": "— More pasta? — No thanks, #I'm stuffed#.",
+    "ru": "— Ещё пасты? — Нет, спасибо, я наелся."
    }
   ]
  },
@@ -924,6 +1228,14 @@
    {
     "en": "When's dinner? #I could eat a horse#.",
     "ru": "Когда ужин? Я голоден как волк."
+   },
+   {
+    "en": "I skipped lunch — #I could eat a horse#.",
+    "ru": "Я пропустил обед — голоден как волк."
+   },
+   {
+    "en": "After swimming #I could eat a horse#.",
+    "ru": "После плавания я голоден как волк."
    }
   ]
  },
@@ -936,6 +1248,14 @@
    {
     "en": "— Anything else? — No, #I'm all set#, thanks.",
     "ru": "— Что-нибудь ещё? — Нет, всё есть, спасибо."
+   },
+   {
+    "en": "Thanks, #I'm all set# for the trip.",
+    "ru": "Спасибо, у меня всё готово к поездке."
+   },
+   {
+    "en": "— Need a bag? — No, #I'm all set#.",
+    "ru": "— Пакет нужен? — Нет, всё есть."
    }
   ]
  },
@@ -952,6 +1272,10 @@
    {
     "en": "— How are you? — #I'm good#.",
     "ru": "— Как дела? — Хорошо."
+   },
+   {
+    "en": "— Want a ride? — #I'm good#, I'll walk.",
+    "ru": "— Подвезти? — Не надо, пройдусь."
    }
   ]
  },
@@ -968,6 +1292,10 @@
    {
     "en": "— Sorry! — #No worries#.",
     "ru": "— Извини! — Ничего страшного."
+   },
+   {
+    "en": "#No worries#, take your time.",
+    "ru": "Не беспокойся, не торопись."
    }
   ]
  },
@@ -984,6 +1312,10 @@
    {
     "en": "#Cheers#, see you Monday.",
     "ru": "Пока, до понедельника."
+   },
+   {
+    "en": "— Here's your change. — #Cheers#!",
+    "ru": "— Ваша сдача. — Спасибо!"
    }
   ]
  },
@@ -1000,6 +1332,10 @@
    {
     "en": "#Take care# on the roads.",
     "ru": "Будь осторожен на дорогах."
+   },
+   {
+    "en": "Get some rest and #take care#.",
+    "ru": "Отдохни и береги себя."
    }
   ]
  },
@@ -1012,6 +1348,14 @@
    {
     "en": "I'm off — #catch you later#!",
     "ru": "Я пошёл — увидимся!"
+   },
+   {
+    "en": "#Catch you later#, I have class.",
+    "ru": "Увидимся, у меня пара."
+   },
+   {
+    "en": "OK, #catch you later#!",
+    "ru": "Ладно, увидимся!"
    }
   ]
  },
@@ -1024,6 +1368,14 @@
    {
     "en": "Hey, #long time no see#! How've you been?",
     "ru": "Привет, сколько лет, сколько зим! Как ты?"
+   },
+   {
+    "en": "Wow, #long time no see#! You look great.",
+    "ru": "Ого, сколько лет! Отлично выглядишь."
+   },
+   {
+    "en": "#Long time no see# — how's the family?",
+    "ru": "Давно не виделись — как семья?"
    }
   ]
  },
@@ -1040,6 +1392,10 @@
    {
     "en": "You look upset. #What's up#?",
     "ru": "Ты расстроен. Что случилось?"
+   },
+   {
+    "en": "#What's up#, man? Haven't seen you around.",
+    "ru": "Как дела, друг? Давно тебя не видно."
    }
   ]
  },
@@ -1052,6 +1408,14 @@
    {
     "en": "Hi Tom, #how's it going#?",
     "ru": "Привет, Том, как жизнь?"
+   },
+   {
+    "en": "Hey, #how's it going#? — Not bad!",
+    "ru": "Привет, как жизнь? — Неплохо!"
+   },
+   {
+    "en": "#How's it going# at the new school?",
+    "ru": "Как тебе в новой школе?"
    }
   ]
  },
@@ -1064,6 +1428,14 @@
    {
     "en": "— How was the film? — #Not bad#.",
     "ru": "— Как фильм? — Неплохо."
+   },
+   {
+    "en": "— How's your soup? — #Not bad# at all.",
+    "ru": "— Как суп? — Совсем неплохо."
+   },
+   {
+    "en": "#Not bad# for a first try!",
+    "ru": "Неплохо для первого раза!"
    }
   ]
  },
@@ -1076,6 +1448,14 @@
    {
     "en": "— How are things? — #Can't complain#.",
     "ru": "— Как дела? — Грех жаловаться."
+   },
+   {
+    "en": "Work's fine, family's fine — #can't complain#.",
+    "ru": "На работе нормально, дома нормально — грех жаловаться."
+   },
+   {
+    "en": "— How's retirement? — #Can't complain#!",
+    "ru": "— Как на пенсии? — Грех жаловаться!"
    }
   ]
  },
@@ -1088,6 +1468,14 @@
    {
     "en": "— How's the new job? — #So far so good#.",
     "ru": "— Как новая работа? — Пока всё хорошо."
+   },
+   {
+    "en": "We've driven 300 miles. #So far so good#.",
+    "ru": "Проехали 300 миль. Пока всё хорошо."
+   },
+   {
+    "en": "The baby's sleeping — #so far so good#.",
+    "ru": "Малыш спит — пока всё хорошо."
    }
   ]
  },
@@ -1100,6 +1488,14 @@
    {
     "en": "I broke my phone, but #it could be worse#.",
     "ru": "Разбил телефон, но могло быть и хуже."
+   },
+   {
+    "en": "— It's raining. — #It could be worse#, it could be snowing.",
+    "ru": "— Идёт дождь. — Могло быть и хуже, мог быть снег."
+   },
+   {
+    "en": "The car's damaged, but nobody's hurt. #It could be worse#.",
+    "ru": "Машина помята, но никто не пострадал. Могло быть хуже."
    }
   ]
  },
@@ -1112,6 +1508,14 @@
    {
     "en": "#It's been a while# since I've been here.",
     "ru": "Давненько я здесь не был."
+   },
+   {
+    "en": "#It's been a while#! How are you?",
+    "ru": "Давненько не виделись! Как ты?"
+   },
+   {
+    "en": "#It's been a while# since I rode a bike.",
+    "ru": "Давненько я не катался на велосипеде."
    }
   ]
  },
@@ -1124,6 +1528,14 @@
    {
     "en": "Will it work? #Time will tell#.",
     "ru": "Сработает ли? Время покажет."
+   },
+   {
+    "en": "Is he the right guy? #Time will tell#.",
+    "ru": "Тот ли он человек? Время покажет."
+   },
+   {
+    "en": "The new coach looks good, but #time will tell#.",
+    "ru": "Новый тренер вроде хорош, но время покажет."
    }
   ]
  },
@@ -1136,6 +1548,14 @@
    {
     "en": "— Can we go to the zoo? — #We'll see#.",
     "ru": "— Пойдём в зоопарк? — Посмотрим."
+   },
+   {
+    "en": "— Will you come to the party? — #We'll see#.",
+    "ru": "— Придёшь на вечеринку? — Посмотрим."
+   },
+   {
+    "en": "Maybe it'll work, maybe not. #We'll see#.",
+    "ru": "Может, сработает, может, нет. Посмотрим."
    }
   ]
  },
@@ -1148,6 +1568,14 @@
    {
     "en": "Call them again — #it's worth a shot#.",
     "ru": "Позвони им ещё раз — стоит попробовать."
+   },
+   {
+    "en": "It probably won't work, but #it's worth a shot#.",
+    "ru": "Скорее всего не сработает, но попробовать стоит."
+   },
+   {
+    "en": "Ask for a discount — #it's worth a shot#.",
+    "ru": "Попроси скидку — попытка не пытка."
    }
   ]
  },
@@ -1160,6 +1588,14 @@
    {
     "en": "Never surfed? #Give it a go#!",
     "ru": "Ни разу не серфил? Попробуй!"
+   },
+   {
+    "en": "I've never made bread, but I'll #give it a go#.",
+    "ru": "Я никогда не пёк хлеб, но попробую."
+   },
+   {
+    "en": "Just #give it a go# — you might like it.",
+    "ru": "Просто попробуй — вдруг понравится."
    }
   ]
  },
@@ -1172,6 +1608,14 @@
    {
     "en": "Apply anyway — you've got #nothing to lose#.",
     "ru": "Подай заявку всё равно — терять нечего."
+   },
+   {
+    "en": "Ask her out — what have you got to lose? You've got #nothing to lose#.",
+    "ru": "Пригласи её — что ты теряешь? Тебе нечего терять."
+   },
+   {
+    "en": "Try the audition, there's #nothing to lose#.",
+    "ru": "Сходи на прослушивание, терять нечего."
    }
   ]
  },
@@ -1184,6 +1628,14 @@
    {
     "en": "— I'll try again tomorrow. — #That's the spirit#!",
     "ru": "— Попробую завтра снова. — Вот это настрой!"
+   },
+   {
+    "en": "— I'm not giving up. — #That's the spirit#!",
+    "ru": "— Я не сдамся. — Вот это настрой!"
+   },
+   {
+    "en": "A little rain won't stop us? #That's the spirit#.",
+    "ru": "Небольшой дождь нас не остановит? Вот это я понимаю."
    }
   ]
  },
@@ -1200,6 +1652,10 @@
    {
     "en": "You locked us out? #Way to go#.",
     "ru": "Захлопнул дверь без ключей? Ну молодец."
+   },
+   {
+    "en": "You got an A? #Way to go#!",
+    "ru": "Получил пятёрку? Молодец!"
    }
   ]
  },
@@ -1212,6 +1668,14 @@
    {
     "en": "You quit smoking? #Good for you#!",
     "ru": "Бросил курить? Молодец!"
+   },
+   {
+    "en": "You started running? #Good for you#!",
+    "ru": "Начал бегать? Молодец!"
+   },
+   {
+    "en": "You said no to him? #Good for you#.",
+    "ru": "Ты ему отказала? Правильно сделала."
    }
   ]
  },
@@ -1224,6 +1688,14 @@
    {
     "en": "#You did it#! I knew you would.",
     "ru": "У тебя получилось! Я знал."
+   },
+   {
+    "en": "Finish line! #You did it#!",
+    "ru": "Финиш! У тебя получилось!"
+   },
+   {
+    "en": "#You did it# — you passed your driving test!",
+    "ru": "Получилось — ты сдал на права!"
    }
   ]
  },
@@ -1236,6 +1708,14 @@
    {
     "en": "Thanks for covering my shift — #I owe you one#.",
     "ru": "Спасибо, что подменил, — я твой должник."
+   },
+   {
+    "en": "You picked up my kids? #I owe you one#.",
+    "ru": "Ты забрал моих детей? Я твой должник."
+   },
+   {
+    "en": "Thanks for the advice, #I owe you one#.",
+    "ru": "Спасибо за совет, с меня причитается."
    }
   ]
  },
@@ -1248,6 +1728,14 @@
    {
     "en": "— Thanks a lot. — #Don't mention it#.",
     "ru": "— Большое спасибо. — Не за что."
+   },
+   {
+    "en": "— You saved my life! — Oh, #don't mention it#.",
+    "ru": "— Ты меня спас! — Да не за что."
+   },
+   {
+    "en": "— Thanks for lunch. — #Don't mention it#.",
+    "ru": "— Спасибо за обед. — Не стоит благодарности."
    }
   ]
  },
@@ -1260,6 +1748,14 @@
    {
     "en": "— Thanks for the help. — #Anytime#.",
     "ru": "— Спасибо за помощь. — Обращайся."
+   },
+   {
+    "en": "Need help moving? Call me — #anytime#.",
+    "ru": "Нужна помощь с переездом? Звони в любое время."
+   },
+   {
+    "en": "— Thanks for listening. — #Anytime#.",
+    "ru": "— Спасибо, что выслушал. — Обращайся."
    }
   ]
  },
@@ -1272,6 +1768,14 @@
    {
     "en": "— I'm not coming. — #Suit yourself#.",
     "ru": "— Я не пойду. — Как хочешь."
+   },
+   {
+    "en": "— I'll stay in the car. — #Suit yourself#.",
+    "ru": "— Я посижу в машине. — Как хочешь."
+   },
+   {
+    "en": "You don't want dessert? #Suit yourself#, more for me.",
+    "ru": "Не хочешь десерт? Как хочешь, мне больше достанется."
    }
   ]
  },
@@ -1284,6 +1788,14 @@
    {
     "en": "Fine, #have it your way#.",
     "ru": "Ладно, будь по-твоему."
+   },
+   {
+    "en": "OK, #have it your way#, but don't blame me later.",
+    "ru": "Ладно, будь по-твоему, но потом не вини меня."
+   },
+   {
+    "en": "#Have it your way# — we'll take the long road.",
+    "ru": "Будь по-твоему — поедем длинной дорогой."
    }
   ]
  },
@@ -1296,6 +1808,14 @@
    {
     "en": "Dancing #is not really my thing#.",
     "ru": "Танцы — это не моё."
+   },
+   {
+    "en": "Golf #isn't really my thing#.",
+    "ru": "Гольф — это не моё."
+   },
+   {
+    "en": "Thanks, but karaoke #isn't my thing#.",
+    "ru": "Спасибо, но караоке — не моё."
    }
   ]
  },
@@ -1308,6 +1828,14 @@
    {
     "en": "Honestly, #I'm not a fan# of horror films.",
     "ru": "Честно говоря, ужастики мне не очень."
+   },
+   {
+    "en": "#I'm not a fan# of spicy food.",
+    "ru": "Я не очень люблю острое."
+   },
+   {
+    "en": "Winter? #I'm not a fan#.",
+    "ru": "Зима? Не мой сезон."
    }
   ]
  },
@@ -1320,6 +1848,14 @@
    {
     "en": "Just reply to my email — #it's not a big ask#.",
     "ru": "Просто ответь на письмо — я не так много прошу."
+   },
+   {
+    "en": "Can you text me when you land? #It's not a big ask#.",
+    "ru": "Напиши, когда приземлишься? Я не так много прошу."
+   },
+   {
+    "en": "Help me carry one box — #it's not a big ask#.",
+    "ru": "Помоги донести одну коробку — это не так много."
    }
   ]
  },
@@ -1332,6 +1868,14 @@
    {
     "en": "Interview tomorrow — #fingers crossed#!",
     "ru": "Завтра собеседование — держу кулачки!"
+   },
+   {
+    "en": "The doctor will call tomorrow. #Fingers crossed#.",
+    "ru": "Врач позвонит завтра. Держу кулачки."
+   },
+   {
+    "en": "#Fingers crossed# for good weather!",
+    "ru": "Будем надеяться на хорошую погоду!"
    }
   ]
  },
@@ -1344,6 +1888,14 @@
    {
     "en": "No problems so far, #knock on wood#.",
     "ru": "Пока без проблем, тьфу-тьфу."
+   },
+   {
+    "en": "I've never been sick this year, #knock on wood#.",
+    "ru": "Я в этом году ни разу не болел, тьфу-тьфу."
+   },
+   {
+    "en": "The car's been fine, #knock on wood#.",
+    "ru": "Машина пока не подводит, тьфу-тьфу."
    }
   ]
  },
@@ -1356,6 +1908,14 @@
    {
     "en": "— Can I help you? — Thanks, #I'm just looking#.",
     "ru": "— Вам помочь? — Спасибо, я просто смотрю."
+   },
+   {
+    "en": "No thanks, #I'm just looking# around.",
+    "ru": "Нет, спасибо, я просто смотрю."
+   },
+   {
+    "en": "— Need any help? — #I'm just looking#, thanks.",
+    "ru": "— Вам помочь? — Я просто смотрю, спасибо."
    }
   ]
  },
@@ -1368,6 +1928,14 @@
    {
     "en": "Here's twenty — #keep the change#.",
     "ru": "Вот двадцать — сдачи не надо."
+   },
+   {
+    "en": "That's fine, #keep the change#.",
+    "ru": "Всё в порядке, сдачи не надо."
+   },
+   {
+    "en": "Great service — #keep the change#!",
+    "ru": "Отличное обслуживание — сдачи не надо!"
    }
   ]
  },
@@ -1384,6 +1952,10 @@
    {
     "en": "Traffic jam, coffee, emails — #same old, same old#.",
     "ru": "Пробка, кофе, почта — всё то же самое."
+   },
+   {
+    "en": "— How's life in the suburbs? — #Same old, same old#.",
+    "ru": "— Как жизнь в пригороде? — Всё по-старому."
    }
   ]
  },
@@ -1400,6 +1972,10 @@
    {
     "en": "— #What's new#? — Not much, you?",
     "ru": "— Что нового? — Да ничего, а у тебя?"
+   },
+   {
+    "en": "Long time! #What's new# with you?",
+    "ru": "Давно не виделись! Что у тебя нового?"
    }
   ]
  },
@@ -1416,6 +1992,10 @@
    {
     "en": "— What are you doing tonight? — #Not much#.",
     "ru": "— Что делаешь вечером? — Ничего особенного."
+   },
+   {
+    "en": "— What did you do today? — #Not much#, just relaxed.",
+    "ru": "— Что делал сегодня? — Ничего особенного, отдыхал."
    }
   ]
  },
@@ -1432,6 +2012,10 @@
    {
     "en": "— #How are you doing#? — Pretty good, thanks.",
     "ru": "— Как дела? — Неплохо, спасибо."
+   },
+   {
+    "en": "#How are you doing# after the surgery?",
+    "ru": "Как ты после операции?"
    }
   ]
  },
@@ -1448,6 +2032,10 @@
    {
     "en": "I'm doing #pretty good#, thanks.",
     "ru": "У меня всё неплохо, спасибо."
+   },
+   {
+    "en": "The food here is #pretty good#.",
+    "ru": "Еда здесь довольно неплохая."
    }
   ]
  },
@@ -1460,6 +2048,14 @@
    {
     "en": "#Hey there#! Haven't seen you in ages.",
     "ru": "Привет! Сто лет тебя не видел."
+   },
+   {
+    "en": "#Hey there#, need some help?",
+    "ru": "Привет, нужна помощь?"
+   },
+   {
+    "en": "Oh, #hey there#! I didn't see you.",
+    "ru": "О, привет! Я тебя не заметил."
    }
   ]
  },
@@ -1476,6 +2072,10 @@
    {
     "en": "It was #nice meeting you#!",
     "ru": "Было приятно познакомиться!"
+   },
+   {
+    "en": "— This is my brother, Sam. — #Nice to meet you#, Sam.",
+    "ru": "— Это мой брат Сэм. — Приятно познакомиться, Сэм."
    }
   ]
  },
@@ -1488,6 +2088,14 @@
    {
     "en": "Mike! #How have you been#?",
     "ru": "Майк! Как ты поживал всё это время?"
+   },
+   {
+    "en": "Hey stranger! #How have you been#?",
+    "ru": "Эй, пропащий! Как ты всё это время?"
+   },
+   {
+    "en": "#How have you been# since the move?",
+    "ru": "Как ты после переезда?"
    }
   ]
  },
@@ -1500,6 +2108,14 @@
    {
     "en": "So, #what have you been up to# lately?",
     "ru": "Ну, чем ты занимался в последнее время?"
+   },
+   {
+    "en": "#What have you been up to# since college?",
+    "ru": "Чем ты занимался после колледжа?"
+   },
+   {
+    "en": "Haven't heard from you — #what have you been up to#?",
+    "ru": "Ничего о тебе не слышно — чем занимался?"
    }
   ]
  },
@@ -1516,6 +2132,10 @@
    {
     "en": "Hey, #what are you up to#?",
     "ru": "Привет, чем занят?"
+   },
+   {
+    "en": "#What are you up to# later? Want to hang out?",
+    "ru": "Что делаешь потом? Хочешь потусить?"
    }
   ]
  },
@@ -1528,6 +2148,14 @@
    {
     "en": "Hi honey, #how was your day#?",
     "ru": "Привет, дорогая, как прошёл день?"
+   },
+   {
+    "en": "— #How was your day#? — Long.",
+    "ru": "— Как прошёл день? — Длинный."
+   },
+   {
+    "en": "#How was your day# at school?",
+    "ru": "Как прошёл день в школе?"
    }
   ]
  },
@@ -1544,6 +2172,10 @@
    {
     "en": "— #How's everything# here? — Delicious!",
     "ru": "— Всё ли в порядке с блюдами? — Очень вкусно!"
+   },
+   {
+    "en": "#How's everything# at home?",
+    "ru": "Как дома всё?"
    }
   ]
  },
@@ -1556,6 +2188,14 @@
    {
     "en": "#How's it going with# the new house?",
     "ru": "Как дела с новым домом?"
+   },
+   {
+    "en": "#How's it going with# your new boss?",
+    "ru": "Как у тебя с новым начальником?"
+   },
+   {
+    "en": "#How's it going with# the diet?",
+    "ru": "Как продвигается диета?"
    }
   ]
  },
@@ -1568,6 +2208,14 @@
    {
     "en": "— #What do you do#? — I'm a nurse.",
     "ru": "— Кем работаешь? — Я медсестра."
+   },
+   {
+    "en": "So, #what do you do# for a living?",
+    "ru": "Так чем ты зарабатываешь на жизнь?"
+   },
+   {
+    "en": "— #What do you do#? — I teach high school math.",
+    "ru": "— Кем работаешь? — Преподаю математику в старшей школе."
    }
   ]
  },
@@ -1580,6 +2228,14 @@
    {
     "en": "— #Where are you from#? — Russia, originally.",
     "ru": "— Откуда ты? — Вообще из России."
+   },
+   {
+    "en": "Your accent is nice — #where are you from#?",
+    "ru": "Красивый акцент — ты откуда?"
+   },
+   {
+    "en": "— #Where are you from#? — Chicago, but I live in Denver now.",
+    "ru": "— Откуда ты? — Из Чикаго, но сейчас живу в Денвере."
    }
   ]
  },
@@ -1592,6 +2248,14 @@
    {
     "en": "You look upset. #What's wrong#?",
     "ru": "Ты расстроен. Что случилось?"
+   },
+   {
+    "en": "#What's wrong# with the TV? It won't turn on.",
+    "ru": "Что с телевизором? Не включается."
+   },
+   {
+    "en": "Honey, #what's wrong#? You're crying.",
+    "ru": "Милая, что случилось? Ты плачешь."
    }
   ]
  },
@@ -1604,6 +2268,14 @@
    {
     "en": "#What's the matter#? You're so quiet.",
     "ru": "В чём дело? Ты такой тихий."
+   },
+   {
+    "en": "#What's the matter# with your leg?",
+    "ru": "Что у тебя с ногой?"
+   },
+   {
+    "en": "#What's the matter#, don't you like it?",
+    "ru": "В чём дело, тебе не нравится?"
    }
   ]
  },
@@ -1616,6 +2288,14 @@
    {
     "en": "You fell! #Are you OK#?",
     "ru": "Ты упал! Ты в порядке?"
+   },
+   {
+    "en": "You look pale. #Are you OK#?",
+    "ru": "Ты бледный. Ты в порядке?"
+   },
+   {
+    "en": "— #Are you OK#? — Yeah, just tired.",
+    "ru": "— Всё нормально? — Да, просто устал."
    }
   ]
  },
@@ -1628,6 +2308,14 @@
    {
     "en": "Your car is dented — #what happened#?",
     "ru": "У тебя машина помята — что произошло?"
+   },
+   {
+    "en": "#What happened# to your phone screen?",
+    "ru": "Что случилось с экраном телефона?"
+   },
+   {
+    "en": "I missed the game — #what happened#?",
+    "ru": "Я пропустил матч — что там было?"
    }
   ]
  },
@@ -1644,6 +2332,10 @@
    {
     "en": "— I can't go. — #How come#?",
     "ru": "— Я не могу пойти. — Почему?"
+   },
+   {
+    "en": "#How come# he gets a bonus and I don't?",
+    "ru": "Как так, что ему дали премию, а мне нет?"
    }
   ]
  },
@@ -1656,6 +2348,14 @@
    {
     "en": "— I need your passport. — #What for#?",
     "ru": "— Мне нужен твой паспорт. — Зачем?"
+   },
+   {
+    "en": "— I'm going to the store. — #What for#?",
+    "ru": "— Я в магазин. — Зачем?"
+   },
+   {
+    "en": "You bought a ladder? #What for#?",
+    "ru": "Ты купил лестницу? Для чего?"
    }
   ]
  },
@@ -1668,6 +2368,14 @@
    {
     "en": "It's just a scratch — #what's the big deal#?",
     "ru": "Это просто царапина — что такого?"
+   },
+   {
+    "en": "So I'm ten minutes late, #what's the big deal#?",
+    "ru": "Ну опоздал на десять минут, что такого?"
+   },
+   {
+    "en": "Everyone's talking about it. #What's the big deal#?",
+    "ru": "Все об этом говорят. Что тут такого?"
    }
   ]
  },
@@ -1680,6 +2388,14 @@
    {
     "en": "Why is everyone shouting? #What's going on#?",
     "ru": "Почему все кричат? Что происходит?"
+   },
+   {
+    "en": "Hey, #what's going on#? Long time!",
+    "ru": "Привет, как дела? Давно не виделись!"
+   },
+   {
+    "en": "Police cars everywhere — #what's going on#?",
+    "ru": "Кругом полиция — что происходит?"
    }
   ]
  },
@@ -1692,6 +2408,14 @@
    {
     "en": "— It's complicated. — #What do you mean#?",
     "ru": "— Всё сложно. — Что ты имеешь в виду?"
+   },
+   {
+    "en": "#What do you mean# you lost the tickets?",
+    "ru": "Что значит «ты потерял билеты»?"
+   },
+   {
+    "en": "— I'm done. — #What do you mean#, done?",
+    "ru": "— С меня хватит. — В каком смысле «хватит»?"
    }
   ]
  },
@@ -1704,6 +2428,14 @@
    {
     "en": "It's just weird, #you know what I mean#?",
     "ru": "Это просто странно, понимаешь, о чём я?"
+   },
+   {
+    "en": "I need a break from people, #you know what I mean#?",
+    "ru": "Мне нужен перерыв от людей, понимаешь?"
+   },
+   {
+    "en": "He's nice, but a bit much, #you know what I mean#?",
+    "ru": "Он хороший, но его слишком много, понимаешь, о чём я?"
    }
   ]
  },
@@ -1716,6 +2448,14 @@
    {
     "en": "— I'll pay. — #Are you sure#?",
     "ru": "— Я заплачу. — Ты уверен?"
+   },
+   {
+    "en": "#Are you sure# you locked the door?",
+    "ru": "Ты уверен, что запер дверь?"
+   },
+   {
+    "en": "— I don't need help. — #Are you sure#?",
+    "ru": "— Помощь не нужна. — Точно?"
    }
   ]
  },
@@ -1728,6 +2468,14 @@
    {
     "en": "— He's moving to Paris. — #Is that so#?",
     "ru": "— Он переезжает в Париж. — Вот как?"
+   },
+   {
+    "en": "You think you can beat me? #Is that so#?",
+    "ru": "Думаешь, обыграешь меня? Вот как?"
+   },
+   {
+    "en": "— She says she's never late. — #Is that so#?",
+    "ru": "— Она говорит, что никогда не опаздывает. — Да неужели?"
    }
   ]
  },
@@ -1740,6 +2488,14 @@
    {
     "en": "— I've never seen snow. — #Really#?",
     "ru": "— Я ни разу не видел снега. — Правда?"
+   },
+   {
+    "en": "You've been to Japan? #Really#?",
+    "ru": "Ты был в Японии? Правда?"
+   },
+   {
+    "en": "#Really#? You had to tell everyone?",
+    "ru": "Серьёзно? Обязательно было всем рассказывать?"
    }
   ]
  },
@@ -1752,6 +2508,14 @@
    {
     "en": "You ate the whole cake? #Seriously#?",
     "ru": "Ты съел весь торт? Серьёзно?"
+   },
+   {
+    "en": "#Seriously#, you need to see a doctor.",
+    "ru": "Серьёзно, тебе нужно к врачу."
+   },
+   {
+    "en": "You forgot my birthday? #Seriously#?",
+    "ru": "Ты забыл про мой день рождения? Серьёзно?"
    }
   ]
  },
@@ -1768,6 +2532,10 @@
    {
     "en": "I'm not joking, #for real#.",
     "ru": "Я не шучу, серьёзно."
+   },
+   {
+    "en": "This place is amazing, #for real#.",
+    "ru": "Это место потрясающее, правда."
    }
   ]
  },
@@ -1780,6 +2548,14 @@
    {
     "en": "$200 for a T-shirt? #Are you kidding#?",
     "ru": "200 долларов за футболку? Ты шутишь?"
+   },
+   {
+    "en": "#Are you kidding#? I'd love to come!",
+    "ru": "Ты шутишь? Я с радостью приду!"
+   },
+   {
+    "en": "#Are you kidding# me? It's broken again?",
+    "ru": "Ты издеваешься? Опять сломалось?"
    }
   ]
  },
@@ -1792,6 +2568,14 @@
    {
     "en": "#You know what#? Let's just order pizza.",
     "ru": "Знаешь что? Давай просто закажем пиццу."
+   },
+   {
+    "en": "#You know what#? I'm proud of you.",
+    "ru": "Знаешь что? Я тобой горжусь."
+   },
+   {
+    "en": "#You know what#, forget it.",
+    "ru": "Знаешь что, забудь."
    }
   ]
  },
@@ -1804,6 +2588,14 @@
    {
     "en": "#Guess what#? I'm pregnant!",
     "ru": "Угадай, что! Я беременна!"
+   },
+   {
+    "en": "#Guess what#? We're going to Disneyland!",
+    "ru": "Угадай, что! Мы едем в Диснейленд!"
+   },
+   {
+    "en": "#Guess what# I found in the attic.",
+    "ru": "Угадай, что я нашёл на чердаке."
    }
   ]
  },
@@ -1816,6 +2608,14 @@
    {
     "en": "#Can I ask you something#? Why did you leave?",
     "ru": "Можно спросить? Почему ты ушёл?"
+   },
+   {
+    "en": "#Can I ask you something# personal?",
+    "ru": "Можно задать личный вопрос?"
+   },
+   {
+    "en": "Hey, #can I ask you something# about the project?",
+    "ru": "Слушай, можно спросить про проект?"
    }
   ]
  },
@@ -1828,6 +2628,14 @@
    {
     "en": "#Do you have a minute#? I need your advice.",
     "ru": "Есть минутка? Нужен твой совет."
+   },
+   {
+    "en": "Sir, #do you have a minute#?",
+    "ru": "Сэр, у вас есть минутка?"
+   },
+   {
+    "en": "#Do you have a minute# to look at this?",
+    "ru": "Есть минутка взглянуть на это?"
    }
   ]
  },
@@ -1844,6 +2652,10 @@
    {
     "en": "#Do you mind#? I'm trying to sleep!",
     "ru": "Можно потише? Я пытаюсь уснуть!"
+   },
+   {
+    "en": "#Do you mind# closing the window?",
+    "ru": "Не закроешь окно?"
    }
   ]
  },
@@ -1856,6 +2668,14 @@
    {
     "en": "#What do you think# of my new haircut?",
     "ru": "Как тебе моя новая стрижка?"
+   },
+   {
+    "en": "I'm thinking of quitting. #What do you think#?",
+    "ru": "Думаю уволиться. Как думаешь?"
+   },
+   {
+    "en": "#What do you think#, should we go left?",
+    "ru": "Как думаешь, нам налево?"
    }
   ]
  },
@@ -1868,6 +2688,14 @@
    {
     "en": "#How about# Italian tonight?",
     "ru": "Как насчёт итальянской кухни вечером?"
+   },
+   {
+    "en": "#How about# a walk after dinner?",
+    "ru": "Как насчёт прогулки после ужина?"
+   },
+   {
+    "en": "— Friday doesn't work. — #How about# Saturday?",
+    "ru": "— Пятница не подходит. — А суббота?"
    }
   ]
  },
@@ -1880,6 +2708,14 @@
    {
     "en": "#Why don't we# take a break?",
     "ru": "А давай сделаем перерыв?"
+   },
+   {
+    "en": "#Why don't we# split the bill?",
+    "ru": "А давай поделим счёт?"
+   },
+   {
+    "en": "#Why don't we# ask someone for directions?",
+    "ru": "А давай спросим дорогу?"
    }
   ]
  },
@@ -1892,6 +2728,14 @@
    {
     "en": "#Want to grab a bite# after class?",
     "ru": "Перекусим после занятий?"
+   },
+   {
+    "en": "I'm starving. #Want to grab a bite#?",
+    "ru": "Умираю с голоду. Перекусим?"
+   },
+   {
+    "en": "#Want to grab a coffee# before work?",
+    "ru": "Выпьем кофе перед работой?"
    }
   ]
  },
@@ -1904,6 +2748,14 @@
    {
     "en": "#Are you free# on Friday?",
     "ru": "Ты свободен в пятницу?"
+   },
+   {
+    "en": "#Are you free# for lunch tomorrow?",
+    "ru": "Ты свободен завтра в обед?"
+   },
+   {
+    "en": "— #Are you free# tonight? — Sorry, I have plans.",
+    "ru": "— Ты свободен вечером? — Извини, у меня планы."
    }
   ]
  },
@@ -1916,6 +2768,14 @@
    {
     "en": "#What time works for you#, two or three?",
     "ru": "Во сколько тебе удобно, в два или в три?"
+   },
+   {
+    "en": "Let's meet next week. #What time works for you#?",
+    "ru": "Давай встретимся на следующей неделе. Когда тебе удобно?"
+   },
+   {
+    "en": "I'm flexible — #what time works for you#?",
+    "ru": "Мне всё равно — во сколько тебе удобно?"
    }
   ]
  },
@@ -1928,6 +2788,14 @@
    {
     "en": "#Can you do me a favor# and feed my cat?",
     "ru": "Можешь сделать одолжение и покормить кошку?"
+   },
+   {
+    "en": "#Can you do me a favor#? Pick up some milk.",
+    "ru": "Сделай одолжение: купи молока."
+   },
+   {
+    "en": "#Can you do me a favor# and not tell Mom?",
+    "ru": "Можешь сделать одолжение и не говорить маме?"
    }
   ]
  },
@@ -1940,6 +2808,14 @@
    {
     "en": "#Can you give me a hand# with these boxes?",
     "ru": "Поможешь с коробками?"
+   },
+   {
+    "en": "#Can you give me a hand# in the kitchen?",
+    "ru": "Поможешь мне на кухне?"
+   },
+   {
+    "en": "The car's stuck — #can you give me a hand#?",
+    "ru": "Машина застряла — поможешь?"
    }
   ]
  },
@@ -1952,6 +2828,14 @@
    {
     "en": "Sorry, #could you say that again#?",
     "ru": "Простите, можете повторить?"
+   },
+   {
+    "en": "#Could you say that again# a bit slower?",
+    "ru": "Можете повторить чуть медленнее?"
+   },
+   {
+    "en": "Sorry, the line is bad. #Could you say that again#?",
+    "ru": "Простите, плохая связь. Повторите, пожалуйста?"
    }
   ]
  },
@@ -1964,6 +2848,14 @@
    {
     "en": "— I'm quitting. — #Come again#?",
     "ru": "— Я увольняюсь. — Что-что?"
+   },
+   {
+    "en": "You want to sell the house? #Come again#?",
+    "ru": "Ты хочешь продать дом? Что-что?"
+   },
+   {
+    "en": "— It's 500 dollars. — #Come again#?",
+    "ru": "— 500 долларов. — Сколько-сколько?"
    }
   ]
  },
@@ -1976,6 +2868,14 @@
    {
     "en": "#Excuse me#? Did you just call me old?",
     "ru": "Простите? Вы назвали меня старым?"
+   },
+   {
+    "en": "#Excuse me#, where's the restroom?",
+    "ru": "Извините, где туалет?"
+   },
+   {
+    "en": "#Excuse me#? I was here first!",
+    "ru": "Простите? Я был тут первым!"
    }
   ]
  },
@@ -1988,6 +2888,14 @@
    {
     "en": "Sorry, phone call. #Where were we#?",
     "ru": "Простите, звонок. На чём мы остановились?"
+   },
+   {
+    "en": "OK, the kids are asleep. Now, #where were we#?",
+    "ru": "Так, дети уснули. На чём мы остановились?"
+   },
+   {
+    "en": "Sorry about that. #Where were we#?",
+    "ru": "Извините. На чём мы остановились?"
    }
   ]
  },
@@ -2000,6 +2908,14 @@
    {
     "en": "Pass me the... #what's it called#... the remote.",
     "ru": "Дай мне... как его... пульт."
+   },
+   {
+    "en": "That movie with the boat... #what's it called#?",
+    "ru": "Тот фильм с кораблём... как он называется?"
+   },
+   {
+    "en": "#What's it called# when you can't sleep?",
+    "ru": "Как называется, когда не можешь уснуть?"
    }
   ]
  },
@@ -2012,6 +2928,14 @@
    {
     "en": "The car won't start. #Any ideas#?",
     "ru": "Машина не заводится. Есть идеи?"
+   },
+   {
+    "en": "We need a name for the dog. #Any ideas#?",
+    "ru": "Нам нужно имя для собаки. Есть идеи?"
+   },
+   {
+    "en": "#Any ideas# where my glasses are?",
+    "ru": "Есть идеи, где мои очки?"
    }
   ]
  },
@@ -2024,6 +2948,14 @@
    {
     "en": "So, #what's the plan# for tonight?",
     "ru": "Итак, какие планы на вечер?"
+   },
+   {
+    "en": "#What's the plan#, boss?",
+    "ru": "Какой план, босс?"
+   },
+   {
+    "en": "OK, we're here. #What's the plan#?",
+    "ru": "Так, мы на месте. Какой план?"
    }
   ]
  },
@@ -2036,6 +2968,14 @@
    {
     "en": "It's raining — #who cares#, let's go!",
     "ru": "Дождь — какая разница, пошли!"
+   },
+   {
+    "en": "#Who cares# what they say?",
+    "ru": "Какая разница, что они говорят?"
+   },
+   {
+    "en": "— You'll look silly. — #Who cares#?",
+    "ru": "— Будешь выглядеть глупо. — Да какая разница?"
    }
   ]
  },
@@ -2048,6 +2988,14 @@
    {
     "en": "— Everyone will see. — #So what#?",
     "ru": "— Все увидят. — Ну и что?"
+   },
+   {
+    "en": "#So what# if I'm old? I can still dance.",
+    "ru": "Ну и что, что я старый? Танцевать-то могу."
+   },
+   {
+    "en": "— He's rich. — #So what#?",
+    "ru": "— Он богат. — Ну и что?"
    }
   ]
  },
@@ -2060,6 +3008,14 @@
    {
     "en": "#What's the point# of arguing?",
     "ru": "Какой смысл спорить?"
+   },
+   {
+    "en": "#What's the point# of a phone without internet?",
+    "ru": "Какой смысл в телефоне без интернета?"
+   },
+   {
+    "en": "It'll be cancelled anyway. #What's the point#?",
+    "ru": "Всё равно отменят. Какой смысл?"
    }
   ]
  },
@@ -2072,6 +3028,14 @@
    {
     "en": "Relax, #what's the rush#?",
     "ru": "Расслабься, куда спешить?"
+   },
+   {
+    "en": "The movie starts at nine. #What's the rush#?",
+    "ru": "Кино в девять. Куда спешить?"
+   },
+   {
+    "en": "Slow down! #What's the rush#?",
+    "ru": "Притормози! Куда торопишься?"
    }
   ]
  },
@@ -2088,6 +3052,10 @@
    {
     "en": "— #Are we good#? — Yeah, #we're good#.",
     "ru": "— Без обид? — Да, всё нормально."
+   },
+   {
+    "en": "I paid you back, so #are we good#?",
+    "ru": "Я вернул долг, так что мы в расчёте?"
    }
   ]
  },
@@ -2104,6 +3072,10 @@
    {
     "en": "I #totally# forgot.",
     "ru": "Я напрочь забыл."
+   },
+   {
+    "en": "#Totally#, I agree with you.",
+    "ru": "Полностью согласен с тобой."
    }
   ]
  },
@@ -2116,6 +3088,14 @@
    {
     "en": "— So we need more time. — #Exactly#.",
     "ru": "— Значит, нужно больше времени. — Именно."
+   },
+   {
+    "en": "#Exactly#! That's what I've been saying.",
+    "ru": "Вот именно! Я об этом и говорю."
+   },
+   {
+    "en": "— It's not about money. — #Exactly#.",
+    "ru": "— Дело не в деньгах. — Именно."
    }
   ]
  },
@@ -2132,6 +3112,10 @@
    {
     "en": "#Absolutely not#.",
     "ru": "Ни в коем случае."
+   },
+   {
+    "en": "You're #absolutely# right.",
+    "ru": "Ты абсолютно прав."
    }
   ]
  },
@@ -2148,6 +3132,10 @@
    {
     "en": "#I guess# you're right.",
     "ru": "Пожалуй, ты прав."
+   },
+   {
+    "en": "#I guess# I'll take the bus then.",
+    "ru": "Тогда, пожалуй, поеду на автобусе."
    }
   ]
  },
@@ -2164,6 +3152,10 @@
    {
     "en": "— Can I borrow your car? — #I don't think so#.",
     "ru": "— Можно взять твою машину? — Не думаю."
+   },
+   {
+    "en": "— Is this the right way? — #I think so#.",
+    "ru": "— Мы правильно идём? — Думаю, да."
    }
   ]
  },
@@ -2176,6 +3168,14 @@
    {
     "en": "— Can we stay longer? — #I suppose so#.",
     "ru": "— Можно задержаться? — Ну ладно."
+   },
+   {
+    "en": "— Will you help me? — #I suppose so#.",
+    "ru": "— Поможешь? — Ну ладно."
+   },
+   {
+    "en": "— It's fair, isn't it? — #I suppose so#.",
+    "ru": "— Это справедливо, да? — Полагаю, да."
    }
   ]
  },
@@ -2192,6 +3192,10 @@
    {
     "en": "— Thanks! — #Sure thing#.",
     "ru": "— Спасибо! — Не за что."
+   },
+   {
+    "en": "— Can you water my plants? — #Sure thing#!",
+    "ru": "— Польёшь мои цветы? — Конечно!"
    }
   ]
  },
@@ -2208,6 +3212,10 @@
    {
     "en": "— Thanks for coming. — #You bet#.",
     "ru": "— Спасибо, что пришёл. — Не за что."
+   },
+   {
+    "en": "— Are you excited? — #You bet# I am!",
+    "ru": "— Ты рад? — Ещё бы!"
    }
   ]
  },
@@ -2220,6 +3228,14 @@
    {
     "en": "— See you there? — #For sure#.",
     "ru": "— Увидимся там? — Обязательно."
+   },
+   {
+    "en": "I'll be there #for sure#.",
+    "ru": "Я точно буду."
+   },
+   {
+    "en": "— Great party, right? — #For sure#!",
+    "ru": "— Классная вечеринка, да? — Точно!"
    }
   ]
  },
@@ -2232,6 +3248,14 @@
    {
     "en": "— Can I use the bathroom? — #Of course#.",
     "ru": "— Можно в ванную? — Конечно."
+   },
+   {
+    "en": "#Of course# I remember you!",
+    "ru": "Конечно, я тебя помню!"
+   },
+   {
+    "en": "— Can you keep a secret? — #Of course#.",
+    "ru": "— Умеешь хранить секреты? — Конечно."
    }
   ]
  },
@@ -2244,6 +3268,14 @@
    {
     "en": "— Can you send it today? — #No problem#.",
     "ru": "— Пришлёшь сегодня? — Без проблем."
+   },
+   {
+    "en": "— Sorry to bother you. — #No problem#.",
+    "ru": "— Извините за беспокойство. — Без проблем."
+   },
+   {
+    "en": "I can drive you there, #no problem#.",
+    "ru": "Могу тебя отвезти, без проблем."
    }
   ]
  },
@@ -2256,6 +3288,14 @@
    {
     "en": "#I'm not sure# that's a good idea.",
     "ru": "Не уверен, что это хорошая идея."
+   },
+   {
+    "en": "#I'm not sure# what time it starts.",
+    "ru": "Не уверен, во сколько начало."
+   },
+   {
+    "en": "— Is she coming? — #I'm not sure#.",
+    "ru": "— Она придёт? — Не знаю точно."
    }
   ]
  },
@@ -2268,6 +3308,14 @@
    {
     "en": "— It's the best pizza in town. — Hmm, #I don't know about that#.",
     "ru": "— Лучшая пицца в городе. — Хм, ну не знаю."
+   },
+   {
+    "en": "— Cats are smarter than dogs. — #I don't know about that#.",
+    "ru": "— Кошки умнее собак. — Ну не знаю."
+   },
+   {
+    "en": "Easy? #I don't know about that#.",
+    "ru": "Легко? Ну не знаю."
    }
   ]
  },
@@ -2280,6 +3328,14 @@
    {
     "en": "— Do you like jazz? — #Not really#.",
     "ru": "— Тебе нравится джаз? — Не особо."
+   },
+   {
+    "en": "— Are you hungry? — #Not really#.",
+    "ru": "— Ты голоден? — Не очень."
+   },
+   {
+    "en": "I #don't really# want to go.",
+    "ru": "Мне не особо хочется идти."
    }
   ]
  },
@@ -2292,6 +3348,14 @@
    {
     "en": "— Do you mind waiting? — #Not at all#.",
     "ru": "— Не против подождать? — Совсем нет."
+   },
+   {
+    "en": "— Thanks for your help! — #Not at all#.",
+    "ru": "— Спасибо за помощь! — Не за что."
+   },
+   {
+    "en": "I'm #not at all# tired.",
+    "ru": "Я совсем не устал."
    }
   ]
  },
@@ -2308,6 +3372,10 @@
    {
     "en": "— I won the lottery. — #No kidding#!",
     "ru": "— Я выиграл в лотерею. — Серьёзно?!"
+   },
+   {
+    "en": "— This is the best day ever. — #No kidding#!",
+    "ru": "— Это лучший день в жизни. — Ещё бы!"
    }
   ]
  },
@@ -2320,6 +3388,14 @@
    {
     "en": "He drove 12 hours straight? #That's crazy#.",
     "ru": "Он ехал 12 часов подряд? С ума сойти."
+   },
+   {
+    "en": "Gas costs how much? #That's crazy#!",
+    "ru": "Сколько стоит бензин? С ума сойти!"
+   },
+   {
+    "en": "#That's crazy# — I was just thinking about you!",
+    "ru": "С ума сойти — я только о тебе думал!"
    }
   ]
  },
@@ -2332,6 +3408,14 @@
    {
     "en": "You got tickets? #That's awesome#!",
     "ru": "Ты достал билеты? Это круто!"
+   },
+   {
+    "en": "You're having a baby? #That's awesome#!",
+    "ru": "У вас будет ребёнок? Это потрясающе!"
+   },
+   {
+    "en": "#That's awesome#, congrats on the new job!",
+    "ru": "Круто, поздравляю с новой работой!"
    }
   ]
  },
@@ -2344,6 +3428,14 @@
    {
     "en": "You can't come? #That's too bad#.",
     "ru": "Не можешь прийти? Очень жаль."
+   },
+   {
+    "en": "— I sprained my ankle. — Oh, #that's too bad#.",
+    "ru": "— Я подвернул ногу. — Ой, как жаль."
+   },
+   {
+    "en": "#That's too bad# they closed the café.",
+    "ru": "Жаль, что кафе закрыли."
    }
   ]
  },
@@ -2356,6 +3448,14 @@
    {
     "en": "Your dog is sick? #I'm sorry to hear that#.",
     "ru": "Собака заболела? Мне жаль."
+   },
+   {
+    "en": "— I lost my job. — #I'm sorry to hear that#.",
+    "ru": "— Я потерял работу. — Мне очень жаль."
+   },
+   {
+    "en": "#I'm sorry to hear that# you're not feeling well.",
+    "ru": "Жаль слышать, что ты плохо себя чувствуешь."
    }
   ]
  },
@@ -2368,6 +3468,14 @@
    {
     "en": "The concert was cancelled? #That's a shame#.",
     "ru": "Концерт отменили? Жаль."
+   },
+   {
+    "en": "You can't make it? #That's a shame#.",
+    "ru": "Не сможешь прийти? Жаль."
+   },
+   {
+    "en": "#That's a shame# — it was such a nice place.",
+    "ru": "Жаль — такое было хорошее место."
    }
   ]
  },
@@ -2380,6 +3488,14 @@
    {
     "en": "We missed the bus. #Oh well#, we'll walk.",
     "ru": "Опоздали на автобус. Ну что ж, пешком."
+   },
+   {
+    "en": "#Oh well#, maybe next year.",
+    "ru": "Ну что ж, может, в следующем году."
+   },
+   {
+    "en": "They're sold out? #Oh well#.",
+    "ru": "Всё раскупили? Ну что ж."
    }
   ]
  },
@@ -2392,6 +3508,14 @@
    {
     "en": "It's closed? #Bummer#.",
     "ru": "Закрыто? Облом."
+   },
+   {
+    "en": "Rain all weekend? #What a bummer#.",
+    "ru": "Дождь все выходные? Вот облом."
+   },
+   {
+    "en": "— The show was cancelled. — #Bummer#!",
+    "ru": "— Шоу отменили. — Облом!"
    }
   ]
  },
@@ -2404,6 +3528,14 @@
    {
     "en": "— I'll pick you up at 7. — #Awesome#!",
     "ru": "— Заеду за тобой в семь. — Отлично!"
+   },
+   {
+    "en": "#Awesome#, thanks for letting me know!",
+    "ru": "Отлично, спасибо, что сообщил!"
+   },
+   {
+    "en": "That concert was #awesome#!",
+    "ru": "Концерт был классный!"
    }
   ]
  },
@@ -2416,6 +3548,14 @@
    {
     "en": "— We're meeting at the café. — #Cool#.",
     "ru": "— Встречаемся в кафе. — Ладно."
+   },
+   {
+    "en": "That's a #cool# jacket.",
+    "ru": "Классная куртка."
+   },
+   {
+    "en": "— I'll be there at six. — #Cool#, see you.",
+    "ru": "— Буду в шесть. — Ок, до встречи."
    }
   ]
  },
@@ -2432,6 +3572,10 @@
    {
     "en": "#Gotcha#! You fell for it.",
     "ru": "Попался! Повёлся."
+   },
+   {
+    "en": "— Don't touch the red button. — #Gotcha#.",
+    "ru": "— Не трогай красную кнопку. — Понял."
    }
   ]
  },
@@ -2444,6 +3588,14 @@
    {
     "en": "— Save it in this folder. — #Got it#.",
     "ru": "— Сохрани в эту папку. — Понял."
+   },
+   {
+    "en": "#Got it#, thanks for explaining.",
+    "ru": "Понял, спасибо, что объяснил."
+   },
+   {
+    "en": "— Turn right after the bank. — #Got it#.",
+    "ru": "— После банка направо. — Ясно."
    }
   ]
  },
@@ -2456,6 +3608,14 @@
    {
     "en": "— I left early to avoid traffic. — #Makes sense#.",
     "ru": "— Ушёл пораньше, чтобы не стоять в пробке. — Логично."
+   },
+   {
+    "en": "That #makes sense# now.",
+    "ru": "Теперь это понятно."
+   },
+   {
+    "en": "— It's cheaper online. — #Makes sense#.",
+    "ru": "— Онлайн дешевле. — Логично."
    }
   ]
  },
@@ -2468,6 +3628,14 @@
    {
     "en": "He didn't sleep last night? #That explains it#.",
     "ru": "Он не спал ночью? Теперь понятно."
+   },
+   {
+    "en": "The battery's dead? #That explains it#.",
+    "ru": "Батарейка села? Теперь понятно."
+   },
+   {
+    "en": "— She's his sister. — Oh, #that explains it#!",
+    "ru": "— Она его сестра. — А, тогда понятно!"
    }
   ]
  },
@@ -2480,6 +3648,14 @@
    {
     "en": "— Thank you for your help. — #My pleasure#.",
     "ru": "— Спасибо за помощь. — Не за что."
+   },
+   {
+    "en": "— Thanks for dinner. — #My pleasure#.",
+    "ru": "— Спасибо за ужин. — Мне было приятно."
+   },
+   {
+    "en": "It was #my pleasure# to help.",
+    "ru": "Был рад помочь."
    }
   ]
  },
@@ -2492,6 +3668,14 @@
    {
     "en": "— Thanks! — #You're welcome#.",
     "ru": "— Спасибо! — Пожалуйста."
+   },
+   {
+    "en": "— Thank you so much! — #You're welcome#!",
+    "ru": "— Огромное спасибо! — Пожалуйста!"
+   },
+   {
+    "en": "— Thanks for the tip. — #You're welcome#.",
+    "ru": "— Спасибо за совет. — Не за что."
    }
   ]
  },
@@ -2508,6 +3692,10 @@
    {
     "en": "You told her? #Thanks a lot#.",
     "ru": "Ты ей сказал? Ну спасибо."
+   },
+   {
+    "en": "#Thanks a lot#, you saved me.",
+    "ru": "Большое спасибо, ты меня спас."
    }
   ]
  },
@@ -2520,6 +3708,14 @@
    {
     "en": "Thanks for staying late, #I appreciate it#.",
     "ru": "Спасибо, что задержался, я ценю."
+   },
+   {
+    "en": "I know you're busy, so #I appreciate it#.",
+    "ru": "Я знаю, что ты занят, так что ценю это."
+   },
+   {
+    "en": "— I'll cover for you. — Thanks, #I appreciate it#.",
+    "ru": "— Я тебя прикрою. — Спасибо, ценю."
    }
   ]
  },
@@ -2532,6 +3728,14 @@
    {
     "en": "Flowers? #You shouldn't have#!",
     "ru": "Цветы? Не стоило!"
+   },
+   {
+    "en": "A gift for me? Oh, #you shouldn't have#!",
+    "ru": "Подарок мне? Ой, не стоило!"
+   },
+   {
+    "en": "You cooked all this? #You shouldn't have#!",
+    "ru": "Ты всё это приготовил? Не надо было!"
    }
   ]
  },
@@ -2544,6 +3748,14 @@
    {
     "en": "#I'm sorry, I didn't catch that#. Your name was?",
     "ru": "Простите, не расслышал. Как вас зовут?"
+   },
+   {
+    "en": "#I'm sorry, I didn't catch that#. Could you spell it?",
+    "ru": "Простите, не расслышал. Можете продиктовать по буквам?"
+   },
+   {
+    "en": "#Sorry, I didn't catch that# — the music is loud.",
+    "ru": "Прости, не расслышал — музыка громкая."
    }
   ]
  },
@@ -2556,6 +3768,14 @@
    {
     "en": "The room's a mess — #sorry about that#.",
     "ru": "В комнате беспорядок — извини."
+   },
+   {
+    "en": "I stepped on your foot — #sorry about that#.",
+    "ru": "Наступил тебе на ногу — извини."
+   },
+   {
+    "en": "#Sorry about that#, wrong number.",
+    "ru": "Извините, ошибся номером."
    }
   ]
  },
@@ -2568,6 +3788,14 @@
    {
     "en": "— Sorry for the trouble. — #No problem at all#.",
     "ru": "— Извини за беспокойство. — Совсем не проблема."
+   },
+   {
+    "en": "Moving the meeting is #no problem at all#.",
+    "ru": "Перенести встречу — совсем не проблема."
+   },
+   {
+    "en": "— Can I pay later? — #No problem at all#.",
+    "ru": "— Можно заплатить позже? — Конечно, без проблем."
    }
   ]
  },
@@ -2580,6 +3808,14 @@
    {
     "en": "Wrong file attached — #my mistake#.",
     "ru": "Не тот файл прикрепил — моя ошибка."
+   },
+   {
+    "en": "#My mistake#, it's on Thursday, not Tuesday.",
+    "ru": "Моя ошибка, это в четверг, а не во вторник."
+   },
+   {
+    "en": "Sorry, #my mistake#. I'll fix it.",
+    "ru": "Извините, моя ошибка. Исправлю."
    }
   ]
  },
@@ -2592,6 +3828,14 @@
    {
     "en": "Sorry, #I didn't mean to# wake you.",
     "ru": "Извини, не хотел тебя будить."
+   },
+   {
+    "en": "#I didn't mean to# hurt your feelings.",
+    "ru": "Я не хотел тебя обидеть."
+   },
+   {
+    "en": "Sorry, #I didn't mean to# interrupt.",
+    "ru": "Извини, не хотел перебивать."
    }
   ]
  },
@@ -2604,6 +3848,14 @@
    {
     "en": "— Sorry I'm late. — #It's all good#.",
     "ru": "— Извини за опоздание. — Всё нормально."
+   },
+   {
+    "en": "Don't worry, #it's all good#.",
+    "ru": "Не волнуйся, всё нормально."
+   },
+   {
+    "en": "— Did I mess up? — Nah, #it's all good#.",
+    "ru": "— Я накосячил? — Не, всё в порядке."
    }
   ]
  },
@@ -2616,6 +3868,14 @@
    {
     "en": "You spilled it? #It happens#.",
     "ru": "Пролил? Бывает."
+   },
+   {
+    "en": "Don't feel bad, #it happens# to everyone.",
+    "ru": "Не расстраивайся, с каждым бывает."
+   },
+   {
+    "en": "Forgot your password? #It happens#.",
+    "ru": "Забыл пароль? Бывает."
    }
   ]
  },
@@ -2628,6 +3888,14 @@
    {
     "en": "— I broke your mug. — #Don't worry about it#.",
     "ru": "— Я разбил твою кружку. — Не переживай."
+   },
+   {
+    "en": "I'll handle it, #don't worry about it#.",
+    "ru": "Я разберусь, не переживай."
+   },
+   {
+    "en": "— I'm so sorry! — #Don't worry about it#.",
+    "ru": "— Мне так жаль! — Не переживай."
    }
   ]
  },
@@ -2644,6 +3912,10 @@
    {
     "en": "#Never mind#, I found it.",
     "ru": "Забудь, я нашёл."
+   },
+   {
+    "en": "Oh, #never mind#, it's not important.",
+    "ru": "А, неважно, это не главное."
    }
   ]
  },
@@ -2656,6 +3928,14 @@
    {
     "en": "#Forget it#, I'll do it myself.",
     "ru": "Проехали, сам сделаю."
+   },
+   {
+    "en": "— I'll pay you back. — #Forget it#, it's on me.",
+    "ru": "— Я верну тебе деньги. — Забудь, я угощаю."
+   },
+   {
+    "en": "You want me to apologize? #Forget it#!",
+    "ru": "Хочешь, чтобы я извинился? Ни за что!"
    }
   ]
  },
@@ -2668,6 +3948,14 @@
    {
     "en": "You didn't sleep? #No wonder# you're tired.",
     "ru": "Не спал? Неудивительно, что ты устал."
+   },
+   {
+    "en": "#No wonder# it's cold — the window's open.",
+    "ru": "Неудивительно, что холодно, — окно открыто."
+   },
+   {
+    "en": "He ate three burgers? #No wonder# he feels sick.",
+    "ru": "Он съел три бургера? Неудивительно, что его тошнит."
    }
   ]
  },
@@ -2680,6 +3968,14 @@
    {
     "en": "They're dating? #I knew it#!",
     "ru": "Они встречаются? Я так и знал!"
+   },
+   {
+    "en": "#I knew it#! You were behind this.",
+    "ru": "Я так и знал! Это ты всё устроил."
+   },
+   {
+    "en": "#I knew it# would rain today.",
+    "ru": "Так и знал, что сегодня будет дождь."
    }
   ]
  },
@@ -2692,6 +3988,14 @@
    {
     "en": "It rained. #Told you so#.",
     "ru": "Пошёл дождь. Я же говорил."
+   },
+   {
+    "en": "The store was closed? #Told you so#.",
+    "ru": "Магазин был закрыт? Я же говорил."
+   },
+   {
+    "en": "I hate to say #I told you so#, but...",
+    "ru": "Не хочу говорить «я же говорил», но..."
    }
   ]
  },
@@ -2704,6 +4008,14 @@
    {
     "en": "— You're always late. — #Look who's talking#!",
     "ru": "— Ты вечно опаздываешь. — Кто бы говорил!"
+   },
+   {
+    "en": "You say I eat too much? #Look who's talking#!",
+    "ru": "Говоришь, я много ем? Кто бы говорил!"
+   },
+   {
+    "en": "— You're so messy. — #Look who's talking#.",
+    "ru": "— Ты такой неряха. — Кто бы говорил."
    }
   ]
  },
@@ -2716,6 +4028,14 @@
    {
     "en": "— Bet I can beat you. — #You're on#!",
     "ru": "— Спорим, я тебя обыграю? — По рукам!"
+   },
+   {
+    "en": "— Loser pays for dinner? — #You're on#!",
+    "ru": "— Проигравший платит за ужин? — Принято!"
+   },
+   {
+    "en": "A race to the car? #You're on#!",
+    "ru": "Наперегонки до машины? Давай!"
    }
   ]
  },
@@ -2728,6 +4048,14 @@
    {
     "en": "— You cook, I'll clean. — #Deal#.",
     "ru": "— Ты готовишь, я убираю. — Договорились."
+   },
+   {
+    "en": "— I'll help you if you help me. — #Deal#.",
+    "ru": "— Я помогу тебе, если ты поможешь мне. — Договорились."
+   },
+   {
+    "en": "OK, #deal# — but just this once.",
+    "ru": "Ладно, договорились, но только в этот раз."
    }
   ]
  },
@@ -2740,6 +4068,14 @@
    {
     "en": "Twenty bucks? #It's a deal#.",
     "ru": "Двадцать баксов? По рукам."
+   },
+   {
+    "en": "You wash the car and I'll buy lunch. #It's a deal#?",
+    "ru": "Ты моешь машину, а я покупаю обед. По рукам?"
+   },
+   {
+    "en": "— 50 bucks and it's yours. — #It's a deal#.",
+    "ru": "— 50 баксов, и это твоё. — По рукам."
    }
   ]
  },
@@ -2752,6 +4088,14 @@
    {
     "en": "— Monday at 10? — #Works for me#.",
     "ru": "— Понедельник в 10? — Меня устраивает."
+   },
+   {
+    "en": "— Let's skip the movie. — #Works for me#.",
+    "ru": "— Давай пропустим кино. — Меня устраивает."
+   },
+   {
+    "en": "Pizza again? #Works for me#!",
+    "ru": "Опять пицца? Меня устраивает!"
    }
   ]
  },
@@ -2764,6 +4108,14 @@
    {
     "en": "— Movie tonight? — #I'm down#.",
     "ru": "— Кино вечером? — Я за."
+   },
+   {
+    "en": "Beach this weekend? #I'm down#!",
+    "ru": "На пляж на выходных? Я за!"
+   },
+   {
+    "en": "#I'm down# for whatever.",
+    "ru": "Я на всё согласен."
    }
   ]
  },
@@ -2776,6 +4128,14 @@
    {
     "en": "— Shall we try that new place? — #Why not#?",
     "ru": "— Попробуем новое место? — Почему бы и нет?"
+   },
+   {
+    "en": "— Wanna try sushi? — Sure, #why not#?",
+    "ru": "— Попробуем суши? — Давай, почему бы и нет?"
+   },
+   {
+    "en": "#Why not# ask him yourself?",
+    "ru": "Почему бы не спросить его самому?"
    }
   ]
  },
@@ -2788,6 +4148,14 @@
    {
     "en": "— Want to join us? — #I'd love to#!",
     "ru": "— Присоединишься? — С удовольствием!"
+   },
+   {
+    "en": "— Would you like to dance? — #I'd love to#.",
+    "ru": "— Потанцуем? — С удовольствием."
+   },
+   {
+    "en": "#I'd love to# see your photos.",
+    "ru": "С удовольствием посмотрю твои фотографии."
    }
   ]
  },
@@ -2800,6 +4168,14 @@
    {
     "en": "— Coming to the party? — #I wish I could#, but I'm working.",
     "ru": "— Придёшь на вечеринку? — Хотел бы, но я работаю."
+   },
+   {
+    "en": "#I wish I could# help, but I'm out of town.",
+    "ru": "Хотел бы помочь, но меня нет в городе."
+   },
+   {
+    "en": "— Stay for dinner! — #I wish I could#.",
+    "ru": "— Останься на ужин! — Если бы я мог."
    }
   ]
  },
@@ -2812,6 +4188,14 @@
    {
     "en": "Not tonight — #maybe next time#.",
     "ru": "Не сегодня — может, в следующий раз."
+   },
+   {
+    "en": "Too bad you missed it. #Maybe next time#.",
+    "ru": "Жаль, что ты пропустил. Может, в следующий раз."
+   },
+   {
+    "en": "No luck today. #Maybe next time#!",
+    "ru": "Сегодня не повезло. Может, в следующий раз!"
    }
   ]
  },
@@ -2824,6 +4208,14 @@
    {
     "en": "Can I take a #rain check# on dinner?",
     "ru": "Можно перенесём ужин на другой раз?"
+   },
+   {
+    "en": "I'm exhausted — can we take a #rain check# on the movie?",
+    "ru": "Я вымотан — давай перенесём кино?"
+   },
+   {
+    "en": "— Coffee today? — I'll take a #rain check#.",
+    "ru": "— Кофе сегодня? — Давай в другой раз."
    }
   ]
  },
@@ -2836,6 +4228,14 @@
    {
     "en": "— More cake? — #I'll pass#, thanks.",
     "ru": "— Ещё торта? — Я пас, спасибо."
+   },
+   {
+    "en": "— Want to try the spicy wings? — #I'll pass#.",
+    "ru": "— Попробуешь острые крылышки? — Я пас."
+   },
+   {
+    "en": "A 6 a.m. meeting? #I'll pass#.",
+    "ru": "Встреча в шесть утра? Я пас."
    }
   ]
  },
@@ -2848,6 +4248,14 @@
    {
     "en": "It was, #you know#, kind of weird.",
     "ru": "Это было, ну, знаешь, как-то странно."
+   },
+   {
+    "en": "We could, #you know#, just stay home.",
+    "ru": "Мы могли бы, ну, знаешь, просто остаться дома."
+   },
+   {
+    "en": "He's the guy from, #you know#, the gym.",
+    "ru": "Это тот парень из, ну, спортзала."
    }
   ]
  },
@@ -2860,6 +4268,14 @@
    {
     "en": "It's fine. #I mean#, it's not great.",
     "ru": "Нормально. В смысле, не супер."
+   },
+   {
+    "en": "I like him. #I mean#, he's a bit weird, but nice.",
+    "ru": "Он мне нравится. Ну, в смысле, он странноватый, но милый."
+   },
+   {
+    "en": "#I mean#, what else could we do?",
+    "ru": "Ну а что ещё мы могли сделать?"
    }
   ]
  },
@@ -2876,6 +4292,10 @@
    {
     "en": "And he #was like#, «Seriously?»",
     "ru": "А он такой: «Серьёзно?»"
+   },
+   {
+    "en": "There were, #like#, a hundred people there.",
+    "ru": "Там было, типа, человек сто."
    }
   ]
  },
@@ -2892,6 +4312,10 @@
    {
     "en": "— Did you like it? — #Kind of#.",
     "ru": "— Понравилось? — Типа того."
+   },
+   {
+    "en": "It's #kind of# cold in here.",
+    "ru": "Здесь как-то прохладно."
    }
   ]
  },
@@ -2904,6 +4328,14 @@
    {
     "en": "#Basically#, we need more money.",
     "ru": "В общем, нам нужно больше денег."
+   },
+   {
+    "en": "#Basically#, he said no.",
+    "ru": "По сути, он отказал."
+   },
+   {
+    "en": "It's #basically# the same phone.",
+    "ru": "Это по сути тот же телефон."
    }
   ]
  },
@@ -2920,6 +4352,10 @@
    {
     "en": "#Anyway#, I have to go.",
     "ru": "В общем, мне пора."
+   },
+   {
+    "en": "I don't like it, but I'll do it #anyway#.",
+    "ru": "Мне не нравится, но всё равно сделаю."
    }
   ]
  },
@@ -2932,6 +4368,14 @@
    {
     "en": "#By the way#, Lisa called.",
     "ru": "Кстати, звонила Лиза."
+   },
+   {
+    "en": "#By the way#, nice shoes!",
+    "ru": "Кстати, классные туфли!"
+   },
+   {
+    "en": "Oh, #by the way#, the meeting's at ten.",
+    "ru": "А, кстати, встреча в десять."
    }
   ]
  },
@@ -2944,6 +4388,14 @@
    {
     "en": "#Speaking of which#, have you paid the rent?",
     "ru": "Кстати об этом, ты заплатил за квартиру?"
+   },
+   {
+    "en": "We need snacks. #Speaking of which#, who's hungry?",
+    "ru": "Нам нужны закуски. Кстати, кто голоден?"
+   },
+   {
+    "en": "Mom's birthday is soon — #speaking of which#, did you buy a gift?",
+    "ru": "Скоро у мамы день рождения — кстати, ты купил подарок?"
    }
   ]
  },
@@ -2956,6 +4408,14 @@
    {
     "en": "#At the end of the day#, it's your decision.",
     "ru": "В конечном счёте решать тебе."
+   },
+   {
+    "en": "#At the end of the day#, family is what matters.",
+    "ru": "В конечном счёте важна семья."
+   },
+   {
+    "en": "#At the end of the day#, we all want the same thing.",
+    "ru": "В итоге мы все хотим одного и того же."
    }
   ]
  },
@@ -2968,6 +4428,14 @@
    {
     "en": "#To be fair#, he did apologize.",
     "ru": "Справедливости ради, он извинился."
+   },
+   {
+    "en": "#To be fair#, it was a hard test.",
+    "ru": "Справедливости ради, тест был сложный."
+   },
+   {
+    "en": "He's slow, but #to be fair#, he's careful.",
+    "ru": "Он медленный, но, справедливости ради, аккуратный."
    }
   ]
  },
@@ -2980,6 +4448,14 @@
    {
     "en": "#The thing is#, I can't afford it.",
     "ru": "Дело в том, что мне это не по карману."
+   },
+   {
+    "en": "I'd love to come. #The thing is#, I'm working.",
+    "ru": "Я бы с радостью. Дело в том, что я работаю."
+   },
+   {
+    "en": "#The thing is#, nobody asked me.",
+    "ru": "Дело в том, что меня никто не спросил."
    }
   ]
  },
@@ -2992,6 +4468,14 @@
    {
     "en": "#Here's the thing#: we're out of time.",
     "ru": "Дело вот в чём: у нас нет времени."
+   },
+   {
+    "en": "#Here's the thing# — I don't trust him.",
+    "ru": "Дело вот в чём — я ему не доверяю."
+   },
+   {
+    "en": "OK, #here's the thing#: we're over budget.",
+    "ru": "Короче, дело в том, что мы вышли за бюджет."
    }
   ]
  },
@@ -3004,6 +4488,14 @@
    {
     "en": "#As a matter of fact#, I've been there.",
     "ru": "Вообще-то я там был."
+   },
+   {
+    "en": "— You don't cook, do you? — #As a matter of fact#, I do.",
+    "ru": "— Ты ведь не готовишь? — Вообще-то готовлю."
+   },
+   {
+    "en": "#As a matter of fact#, I was just leaving.",
+    "ru": "Вообще-то я как раз уходил."
    }
   ]
  },
@@ -3016,6 +4508,14 @@
    {
     "en": "#Actually#, I prefer tea.",
     "ru": "Вообще-то я предпочитаю чай."
+   },
+   {
+    "en": "It's #actually# easier than it looks.",
+    "ru": "На самом деле это проще, чем кажется."
+   },
+   {
+    "en": "— You're from London? — #Actually#, I'm from Leeds.",
+    "ru": "— Ты из Лондона? — Вообще-то из Лидса."
    }
   ]
  },
@@ -3028,6 +4528,14 @@
    {
     "en": "I #literally# ran all the way.",
     "ru": "Я буквально бежал всю дорогу."
+   },
+   {
+    "en": "I #literally# just got home.",
+    "ru": "Я буквально только пришёл домой."
+   },
+   {
+    "en": "There was #literally# nobody there.",
+    "ru": "Там реально никого не было."
    }
   ]
  },
@@ -3040,6 +4548,14 @@
    {
     "en": "#No offense, but# that shirt is ugly.",
     "ru": "Без обид, но рубашка ужасная."
+   },
+   {
+    "en": "#No offense, but# you're not a great driver.",
+    "ru": "Без обид, но водитель ты так себе."
+   },
+   {
+    "en": "#No offense, but# I'd rather go alone.",
+    "ru": "Без обид, но я лучше пойду один."
    }
   ]
  },
@@ -3052,6 +4568,14 @@
    {
     "en": "You're fired! #I'm just kidding#.",
     "ru": "Ты уволен! Шучу."
+   },
+   {
+    "en": "Relax, #I'm just kidding#!",
+    "ru": "Расслабься, я шучу!"
+   },
+   {
+    "en": "I ate your fries. #Just kidding#!",
+    "ru": "Я съел твою картошку. Шучу!"
    }
   ]
  },
@@ -3064,6 +4588,14 @@
    {
     "en": "#I'm serious#, don't touch it.",
     "ru": "Я серьёзно, не трогай."
+   },
+   {
+    "en": "#I'm serious#, this is important.",
+    "ru": "Я серьёзно, это важно."
+   },
+   {
+    "en": "Stop laughing, #I'm serious#!",
+    "ru": "Хватит смеяться, я серьёзно!"
    }
   ]
  },
@@ -3076,6 +4608,14 @@
    {
     "en": "#I'm telling you#, it was him.",
     "ru": "Говорю тебе, это был он."
+   },
+   {
+    "en": "#I'm telling you#, this place has the best tacos.",
+    "ru": "Говорю тебе, тут лучшие тако."
+   },
+   {
+    "en": "It's going to rain, #I'm telling you#.",
+    "ru": "Будет дождь, точно тебе говорю."
    }
   ]
  },
@@ -3088,6 +4628,14 @@
    {
     "en": "#Trust me#, you'll love it.",
     "ru": "Поверь, тебе понравится."
+   },
+   {
+    "en": "#Trust me#, I've done this before.",
+    "ru": "Поверь, я это уже делал."
+   },
+   {
+    "en": "Don't buy it — #trust me#.",
+    "ru": "Не покупай — поверь мне."
    }
   ]
  },
@@ -3100,6 +4648,14 @@
    {
     "en": "#Believe it or not#, I've never had pizza.",
     "ru": "Хочешь верь, хочешь нет, я ни разу не ел пиццу."
+   },
+   {
+    "en": "#Believe it or not#, he's 70.",
+    "ru": "Хочешь верь, хочешь нет, ему 70."
+   },
+   {
+    "en": "#Believe it or not#, the test was easy.",
+    "ru": "Не поверишь, тест был лёгким."
    }
   ]
  },
@@ -3112,6 +4668,14 @@
    {
     "en": "Hmm, #let me think#... Tuesday?",
     "ru": "Хм, дай подумать... во вторник?"
+   },
+   {
+    "en": "— What do you want for your birthday? — #Let me think#.",
+    "ru": "— Что хочешь на день рождения? — Дай подумать."
+   },
+   {
+    "en": "#Let me think# about it overnight.",
+    "ru": "Дай мне подумать до завтра."
    }
   ]
  },
@@ -3124,6 +4688,14 @@
    {
     "en": "#Let me see#... it's on page 5.",
     "ru": "Так, сейчас... это на пятой странице."
+   },
+   {
+    "en": "#Let me see# your ticket, please.",
+    "ru": "Покажите, пожалуйста, ваш билет."
+   },
+   {
+    "en": "#Let me see#, where did I park?",
+    "ru": "Так, где же я припарковался?"
    }
   ]
  },
@@ -3136,6 +4708,14 @@
    {
     "en": "#Let's see# what happens.",
     "ru": "Посмотрим, что будет."
+   },
+   {
+    "en": "#Let's see# what's on TV.",
+    "ru": "Посмотрим, что идёт по телевизору."
+   },
+   {
+    "en": "#Let's see#... we need eggs, milk, and bread.",
+    "ru": "Так-с... нам нужны яйца, молоко и хлеб."
    }
   ]
  },
@@ -3148,6 +4728,14 @@
    {
     "en": "#Let me know# if you need anything.",
     "ru": "Дай знать, если что-то понадобится."
+   },
+   {
+    "en": "#Let me know# when you get home.",
+    "ru": "Дай знать, когда доберёшься."
+   },
+   {
+    "en": "#Let me know# what you think.",
+    "ru": "Скажи, что думаешь."
    }
   ]
  },
@@ -3160,6 +4748,14 @@
    {
     "en": "#Keep me posted# on the results.",
     "ru": "Держи меня в курсе результатов."
+   },
+   {
+    "en": "Good luck at the hospital — #keep me posted#.",
+    "ru": "Удачи в больнице — держи в курсе."
+   },
+   {
+    "en": "#Keep me posted# on the flight.",
+    "ru": "Держи меня в курсе насчёт рейса."
    }
   ]
  },
@@ -3172,6 +4768,14 @@
    {
     "en": "Let me check and #I'll get back to you#.",
     "ru": "Я уточню и отвечу вам."
+   },
+   {
+    "en": "I'm not sure — #I'll get back to you# tomorrow.",
+    "ru": "Не уверен — отвечу завтра."
+   },
+   {
+    "en": "Let me check my calendar and #I'll get back to you#.",
+    "ru": "Проверю календарь и отпишусь."
    }
   ]
  },
@@ -3184,6 +4788,14 @@
    {
     "en": "Thanks for the tip, #I'll keep that in mind#.",
     "ru": "Спасибо за совет, учту."
+   },
+   {
+    "en": "Good point — #I'll keep that in mind#.",
+    "ru": "Хорошее замечание — учту."
+   },
+   {
+    "en": "#I'll keep that in mind# next time.",
+    "ru": "В следующий раз учту."
    }
   ]
  },
@@ -3196,6 +4808,14 @@
    {
     "en": "— Join our team? — #I'll think about it#.",
     "ru": "— Присоединишься к команде? — Я подумаю."
+   },
+   {
+    "en": "It's a good offer. #I'll think about it#.",
+    "ru": "Хорошее предложение. Подумаю."
+   },
+   {
+    "en": "— Will you come with us? — #I'll think about it#.",
+    "ru": "— Поедешь с нами? — Я подумаю."
    }
   ]
  },
@@ -3208,6 +4828,14 @@
    {
     "en": "#I'm not in the mood# for a party.",
     "ru": "Нет настроения идти на вечеринку."
+   },
+   {
+    "en": "Sorry, #I'm not in the mood# to talk.",
+    "ru": "Извини, нет настроения разговаривать."
+   },
+   {
+    "en": "#I'm not in the mood# for jokes.",
+    "ru": "Мне не до шуток."
    }
   ]
  },
@@ -3220,6 +4848,14 @@
    {
     "en": "I was going to run, but #I'm not feeling it#.",
     "ru": "Собирался на пробежку, но что-то не хочется."
+   },
+   {
+    "en": "The party's OK, but #I'm not feeling it#.",
+    "ru": "Вечеринка нормальная, но что-то не моё сегодня."
+   },
+   {
+    "en": "I tried the new song — #not feeling it#.",
+    "ru": "Послушал новую песню — не зацепило."
    }
   ]
  },
@@ -3232,6 +4868,14 @@
    {
     "en": "Can't talk now, #I'm swamped#.",
     "ru": "Не могу говорить, я завален."
+   },
+   {
+    "en": "#I'm swamped# this week, let's meet next week.",
+    "ru": "На этой неделе я завален, давай на следующей."
+   },
+   {
+    "en": "Sorry for the late reply, #I've been swamped#.",
+    "ru": "Извини за поздний ответ, был завален работой."
    }
   ]
  },
@@ -3244,6 +4888,14 @@
    {
     "en": "Sorry, #I'm running late#, be there in ten.",
     "ru": "Извини, опаздываю, буду через десять минут."
+   },
+   {
+    "en": "#I'm running late#, start without me.",
+    "ru": "Я опаздываю, начинайте без меня."
+   },
+   {
+    "en": "Traffic is crazy — #I'm running late#.",
+    "ru": "Жуткие пробки — я опаздываю."
    }
   ]
  },
@@ -3256,6 +4908,14 @@
    {
     "en": "Don't wait, #I'm on my way#.",
     "ru": "Не ждите, я уже еду."
+   },
+   {
+    "en": "#I'm on my way#, be there in five.",
+    "ru": "Я уже еду, буду через пять минут."
+   },
+   {
+    "en": "Hold the door, #I'm on my way#!",
+    "ru": "Придержите дверь, я уже бегу!"
    }
   ]
  },
@@ -3268,6 +4928,14 @@
    {
     "en": "OK, #I'm heading out#. See you tomorrow.",
     "ru": "Ладно, я пошёл. До завтра."
+   },
+   {
+    "en": "#I'm heading out# to the store. Need anything?",
+    "ru": "Я в магазин. Тебе что-нибудь нужно?"
+   },
+   {
+    "en": "It's late — #I'm heading out#.",
+    "ru": "Поздно — я пошёл."
    }
   ]
  },
@@ -3280,6 +4948,14 @@
    {
     "en": "Sorry, #I gotta go#. Talk later!",
     "ru": "Извини, мне пора. Поговорим позже!"
+   },
+   {
+    "en": "My boss is calling, #I gotta go#.",
+    "ru": "Начальник звонит, мне пора."
+   },
+   {
+    "en": "#I gotta go#, my bus is here.",
+    "ru": "Мне пора, автобус пришёл."
    }
   ]
  },
@@ -3292,6 +4968,14 @@
    {
     "en": "Bye, #talk to you later#!",
     "ru": "Пока, до связи!"
+   },
+   {
+    "en": "Got to run — #talk to you later#!",
+    "ru": "Бегу — поговорим позже!"
+   },
+   {
+    "en": "OK, #talk to you later#. Bye!",
+    "ru": "Ладно, до связи. Пока!"
    }
   ]
  },
@@ -3304,6 +4988,14 @@
    {
     "en": "Nice chatting, #see you around#!",
     "ru": "Приятно поболтали, ещё увидимся!"
+   },
+   {
+    "en": "Good luck with everything — #see you around#.",
+    "ru": "Удачи во всём — ещё увидимся."
+   },
+   {
+    "en": "#See you around#, neighbor!",
+    "ru": "Ещё увидимся, сосед!"
    }
   ]
  },
@@ -3316,6 +5008,14 @@
    {
     "en": "Thanks! #Have a good one#.",
     "ru": "Спасибо! Хорошего дня."
+   },
+   {
+    "en": "#Have a good one#, man!",
+    "ru": "Бывай, друг!"
+   },
+   {
+    "en": "Thanks for shopping. #Have a good one#.",
+    "ru": "Спасибо за покупку. Хорошего дня."
    }
   ]
  },
@@ -3328,6 +5028,14 @@
    {
     "en": "Here's your receipt. #Have a nice day#!",
     "ru": "Ваш чек. Хорошего дня!"
+   },
+   {
+    "en": "Enjoy your meal and #have a nice day#!",
+    "ru": "Приятного аппетита и хорошего дня!"
+   },
+   {
+    "en": "Thank you! #Have a nice day#.",
+    "ru": "Спасибо! Хорошего дня."
    }
   ]
  },
@@ -3340,6 +5048,14 @@
    {
     "en": "— Have a nice weekend! — #You too#!",
     "ru": "— Хороших выходных! — И вам!"
+   },
+   {
+    "en": "— Happy holidays! — #You too#!",
+    "ru": "— С праздниками! — И вас!"
+   },
+   {
+    "en": "— Nice to meet you. — #You too#.",
+    "ru": "— Приятно познакомиться. — Взаимно."
    }
   ]
  },
@@ -3352,6 +5068,14 @@
    {
     "en": "#See you later, alligator#!",
     "ru": "До скорого, крокодил!"
+   },
+   {
+    "en": "— Bye, Dad! — #See you later, alligator#!",
+    "ru": "— Пока, пап! — До скорого, крокодильчик!"
+   },
+   {
+    "en": "#See you later, alligator# — in a while, crocodile!",
+    "ru": "До скорого, аллигатор — до встречи, крокодил!"
    }
   ]
  },
@@ -3368,6 +5092,10 @@
    {
     "en": "Another round? #I'm out#.",
     "ru": "Ещё раунд? Я пас."
+   },
+   {
+    "en": "This game is boring. #I'm out#.",
+    "ru": "Скучная игра. Я выхожу."
    }
   ]
  },
@@ -3380,6 +5108,14 @@
    {
     "en": "Good luck in Boston, #keep in touch#!",
     "ru": "Удачи в Бостоне, не пропадай!"
+   },
+   {
+    "en": "It was great working with you. #Keep in touch#!",
+    "ru": "Было здорово с тобой работать. Не пропадай!"
+   },
+   {
+    "en": "Let's #keep in touch# after graduation.",
+    "ru": "Давай не терять связь после выпуска."
    }
   ]
  },
@@ -3392,6 +5128,14 @@
    {
     "en": "Well, #it was nice talking to you#.",
     "ru": "Что ж, приятно было поговорить."
+   },
+   {
+    "en": "#It was nice talking to you#. Have a great trip!",
+    "ru": "Приятно было поговорить. Хорошей поездки!"
+   },
+   {
+    "en": "Well, I should go. #It was nice talking to you#.",
+    "ru": "Ну, мне пора. Приятно было поговорить."
    }
   ]
  },
@@ -3404,6 +5148,14 @@
    {
     "en": "#Drop me a line# when you get there.",
     "ru": "Черкни, когда доберёшься."
+   },
+   {
+    "en": "#Drop me a line# sometime!",
+    "ru": "Пиши как-нибудь!"
+   },
+   {
+    "en": "If you have questions, #drop me a line#.",
+    "ru": "Будут вопросы — напиши."
    }
   ]
  },
@@ -3416,6 +5168,14 @@
    {
     "en": "#Hit me up# if you're in town.",
     "ru": "Напиши, если будешь в городе."
+   },
+   {
+    "en": "Need a ride? #Hit me up#.",
+    "ru": "Нужно подвезти? Набери."
+   },
+   {
+    "en": "#Hit me up# when you're free.",
+    "ru": "Напиши, когда освободишься."
    }
   ]
  },
@@ -3428,6 +5188,14 @@
    {
     "en": "#I'll text you# the address.",
     "ru": "Напишу тебе адрес."
+   },
+   {
+    "en": "#I'll text you# when I'm outside.",
+    "ru": "Напишу, когда буду у входа."
+   },
+   {
+    "en": "I can't talk now — #I'll text you#.",
+    "ru": "Не могу говорить — напишу."
    }
   ]
  },
@@ -3440,6 +5208,14 @@
    {
     "en": "You know Tom too? #What a small world#!",
     "ru": "Ты тоже знаешь Тома? Мир тесен!"
+   },
+   {
+    "en": "You went to my school? #What a small world#!",
+    "ru": "Ты учился в моей школе? Мир тесен!"
+   },
+   {
+    "en": "We're on the same flight? #What a small world#!",
+    "ru": "Мы летим одним рейсом? Мир тесен!"
    }
   ]
  },
@@ -3452,6 +5228,14 @@
    {
     "en": "Your mom taught my sister? #It's a small world#.",
     "ru": "Твоя мама учила мою сестру? Мир тесен."
+   },
+   {
+    "en": "Her boss is my cousin — #it's a small world#.",
+    "ru": "Её начальник — мой двоюродный брат, мир тесен."
+   },
+   {
+    "en": "I keep running into you. #It's a small world#!",
+    "ru": "Я всё время на тебя натыкаюсь. Мир тесен!"
    }
   ]
  },
@@ -3464,6 +5248,14 @@
    {
     "en": "I'm bad at #small talk#.",
     "ru": "Я не умею поддерживать светскую беседу."
+   },
+   {
+    "en": "Let's skip the #small talk# and get to business.",
+    "ru": "Давайте без светской болтовни, к делу."
+   },
+   {
+    "en": "Americans love #small talk# about the weather.",
+    "ru": "Американцы обожают болтать о погоде."
    }
   ]
  },
@@ -3476,6 +5268,14 @@
    {
     "en": "#Nice weather, huh#?",
     "ru": "Хорошая погода, да?"
+   },
+   {
+    "en": "— #Nice weather, huh#? — Finally some sun!",
+    "ru": "— Хорошая погода, да? — Наконец-то солнце!"
+   },
+   {
+    "en": "Hot day today. #Nice weather for the beach, huh#?",
+    "ru": "Жарко сегодня. Погода для пляжа, да?"
    }
   ]
  },
@@ -3488,6 +5288,14 @@
    {
     "en": "He finished first! #How about that#?",
     "ru": "Он пришёл первым! Ну надо же!"
+   },
+   {
+    "en": "The old car still runs! #How about that#?",
+    "ru": "Старая машина ещё ездит! Ну надо же!"
+   },
+   {
+    "en": "#How about that# — we won!",
+    "ru": "Ничего себе — мы выиграли!"
    }
   ]
  },
@@ -3500,6 +5308,14 @@
    {
     "en": "You're going too? #What a coincidence#!",
     "ru": "Ты тоже идёшь? Какое совпадение!"
+   },
+   {
+    "en": "We have the same birthday? #What a coincidence#!",
+    "ru": "У нас день рождения в один день? Какое совпадение!"
+   },
+   {
+    "en": "I was just about to call you. #What a coincidence#!",
+    "ru": "Я как раз собирался тебе звонить. Какое совпадение!"
    }
   ]
  },
@@ -3512,6 +5328,14 @@
    {
     "en": "#Oh my God#, look at that view!",
     "ru": "Боже мой, посмотри, какой вид!"
+   },
+   {
+    "en": "#Oh my God#, I forgot my passport!",
+    "ru": "Боже мой, я забыл паспорт!"
+   },
+   {
+    "en": "#Oh my God#, you're here!",
+    "ru": "Боже, ты здесь!"
    }
   ]
  },
@@ -3524,6 +5348,14 @@
    {
     "en": "#Oh my gosh#, you look amazing!",
     "ru": "Ничего себе, ты потрясающе выглядишь!"
+   },
+   {
+    "en": "#Oh my gosh#, it's so cute!",
+    "ru": "Ой, какая прелесть!"
+   },
+   {
+    "en": "#Oh my gosh#, I'm so late!",
+    "ru": "Божечки, я так опаздываю!"
    }
   ]
  },
@@ -3536,6 +5368,14 @@
    {
     "en": "#Wow#, that's huge!",
     "ru": "Ух ты, огромный!"
+   },
+   {
+    "en": "#Wow#, you cooked all this?",
+    "ru": "Ух ты, ты всё это приготовил?"
+   },
+   {
+    "en": "#Wow#, look at the stars.",
+    "ru": "Ого, посмотри на звёзды."
    }
   ]
  },
@@ -3548,6 +5388,14 @@
    {
     "en": "The bill is $300? #Yikes#.",
     "ru": "Счёт 300 долларов? Ой-ой."
+   },
+   {
+    "en": "#Yikes#, that was close!",
+    "ru": "Ой-ой, чуть не попали!"
+   },
+   {
+    "en": "#Yikes#, look at the time!",
+    "ru": "Ой, сколько времени!"
    }
   ]
  },
@@ -3560,6 +5408,14 @@
    {
     "en": "#Oops#, I dropped it.",
     "ru": "Упс, уронил."
+   },
+   {
+    "en": "#Oops#, wrong button.",
+    "ru": "Ой, не та кнопка."
+   },
+   {
+    "en": "#Oops#, sorry, I didn't see you.",
+    "ru": "Упс, извини, не заметил тебя."
    }
   ]
  },
@@ -3576,6 +5432,10 @@
    {
     "en": "He said that? #Ouch#.",
     "ru": "Он так сказал? Жёстко."
+   },
+   {
+    "en": "#Ouch#, the water's hot!",
+    "ru": "Ай, вода горячая!"
    }
   ]
  },
@@ -3588,6 +5448,14 @@
    {
     "en": "#Phew#, we made it.",
     "ru": "Фух, успели."
+   },
+   {
+    "en": "#Phew#, I thought I lost my wallet.",
+    "ru": "Фух, думал, что потерял кошелёк."
+   },
+   {
+    "en": "#Phew#, that test is over.",
+    "ru": "Фух, тест позади."
    }
   ]
  },
@@ -3600,6 +5468,14 @@
    {
     "en": "#Ugh#, Monday again.",
     "ru": "Фу, опять понедельник."
+   },
+   {
+    "en": "#Ugh#, I hate traffic.",
+    "ru": "Фу, ненавижу пробки."
+   },
+   {
+    "en": "#Ugh#, the milk's gone bad.",
+    "ru": "Фу, молоко прокисло."
    }
   ]
  },
@@ -3612,6 +5488,14 @@
    {
     "en": "— Is water wet? — #Duh#.",
     "ru": "— Вода мокрая? — Ну да, очевидно."
+   },
+   {
+    "en": "— You need a key to open it. — #Duh#!",
+    "ru": "— Чтобы открыть, нужен ключ. — Ну да, очевидно!"
+   },
+   {
+    "en": "— It's dark at night. — #Duh#.",
+    "ru": "— Ночью темно. — Ну ясное дело."
    }
   ]
  },
@@ -3628,6 +5512,10 @@
    {
     "en": "#Hold on# — that's not right.",
     "ru": "Постой — так не пойдёт."
+   },
+   {
+    "en": "#Hold on# tight, it's going to be bumpy!",
+    "ru": "Держитесь крепче, будет трясти!"
    }
   ]
  },
@@ -3640,6 +5528,14 @@
    {
     "en": "#Watch out#! There's a car!",
     "ru": "Осторожно! Машина!"
+   },
+   {
+    "en": "#Watch out# for the ice!",
+    "ru": "Осторожно, лёд!"
+   },
+   {
+    "en": "#Watch out#, the plate's hot.",
+    "ru": "Осторожно, тарелка горячая."
    }
   ]
  },
@@ -3652,6 +5548,14 @@
    {
     "en": "Just a #heads up#, the boss is coming.",
     "ru": "Просто предупреждаю: начальник идёт."
+   },
+   {
+    "en": "Thanks for the #heads up#!",
+    "ru": "Спасибо, что предупредил!"
+   },
+   {
+    "en": "#Heads up# — it's going to rain later.",
+    "ru": "Предупреждаю — позже будет дождь."
    }
   ]
  },
@@ -3664,6 +5568,14 @@
    {
     "en": "Here's #my two cents#: don't buy it.",
     "ru": "Вот мои пять копеек: не покупай."
+   },
+   {
+    "en": "If you want #my two cents#, take the job.",
+    "ru": "Если хочешь моё мнение — соглашайся на работу."
+   },
+   {
+    "en": "Just #my two cents#, but I'd wait.",
+    "ru": "Просто моё мнение, но я бы подождал."
    }
   ]
  },
@@ -3676,6 +5588,14 @@
    {
     "en": "Forget it, #it's not a big deal#.",
     "ru": "Забудь, ничего страшного."
+   },
+   {
+    "en": "Don't apologize — #it's not a big deal#.",
+    "ru": "Не извиняйся — это ерунда."
+   },
+   {
+    "en": "#It's not a big deal#, I can walk.",
+    "ru": "Ничего страшного, я дойду пешком."
    }
   ]
  },
@@ -3688,6 +5608,14 @@
    {
     "en": "Sorry, #I'm kind of busy# right now.",
     "ru": "Извини, я сейчас немного занят."
+   },
+   {
+    "en": "Can I call you back? #I'm kind of busy#.",
+    "ru": "Можно я перезвоню? Я немного занят."
+   },
+   {
+    "en": "#I'm kind of busy# this weekend.",
+    "ru": "На выходных я немного занят."
    }
   ]
  },
@@ -3700,6 +5628,14 @@
    {
     "en": "Oh, #give me a break#, it wasn't my fault!",
     "ru": "Да ладно тебе, это не моя вина!"
+   },
+   {
+    "en": "#Give me a break#, I just got home!",
+    "ru": "Дай передохнуть, я только пришёл!"
+   },
+   {
+    "en": "He said he was sick? #Give me a break#.",
+    "ru": "Он сказал, что болел? Да ладно тебе."
    }
   ]
  },
@@ -3712,6 +5648,14 @@
    {
     "en": "#Cut it out#, you two!",
     "ru": "Прекратите, вы двое!"
+   },
+   {
+    "en": "#Cut it out#, that's not funny.",
+    "ru": "Прекрати, это не смешно."
+   },
+   {
+    "en": "Hey, #cut it out#! Stop poking me.",
+    "ru": "Эй, прекрати! Хватит тыкать."
    }
   ]
  },
@@ -3724,6 +5668,14 @@
    {
     "en": "#Knock it off#, I'm trying to work.",
     "ru": "Хватит, я пытаюсь работать."
+   },
+   {
+    "en": "#Knock it off#, both of you!",
+    "ru": "Хватит, вы оба!"
+   },
+   {
+    "en": "#Knock it off# with the jokes.",
+    "ru": "Кончай с шуточками."
    }
   ]
  },
@@ -3740,6 +5692,10 @@
    {
     "en": "#Mind your own business#!",
     "ru": "Не суй нос не в своё дело!"
+   },
+   {
+    "en": "I told him to #mind his own business#.",
+    "ru": "Я сказал ему не лезть не в своё дело."
    }
   ]
  },
@@ -3752,6 +5708,14 @@
    {
     "en": "You count my steps? #Get a life#!",
     "ru": "Ты считаешь мои шаги? Займись делом!"
+   },
+   {
+    "en": "You read my messages? #Get a life#!",
+    "ru": "Ты читаешь мои сообщения? Займись делом!"
+   },
+   {
+    "en": "He spends all day gaming. He needs to #get a life#.",
+    "ru": "Он целыми днями играет. Ему пора заняться чем-то полезным."
    }
   ]
  },
@@ -3764,6 +5728,14 @@
    {
     "en": "Don't worry about the exam, #you'll be fine#.",
     "ru": "Не волнуйся за экзамен, всё будет хорошо."
+   },
+   {
+    "en": "It's just a shot, #you'll be fine#.",
+    "ru": "Это просто укол, всё будет хорошо."
+   },
+   {
+    "en": "First day at work? #You'll be fine#!",
+    "ru": "Первый день на работе? Всё будет хорошо!"
    }
   ]
  },
@@ -3776,6 +5748,14 @@
    {
     "en": "Big presentation today — #you got this#!",
     "ru": "Сегодня важная презентация — ты справишься!"
+   },
+   {
+    "en": "Deep breath — #you got this#.",
+    "ru": "Глубокий вдох — ты справишься."
+   },
+   {
+    "en": "Last mile — #you got this#!",
+    "ru": "Последняя миля — ты сможешь!"
    }
   ]
  },
@@ -3788,6 +5768,14 @@
    {
     "en": "You want to fix it yourself? #Good luck with that#.",
     "ru": "Хочешь сам починить? Ну-ну, удачи."
+   },
+   {
+    "en": "You want to teach the cat tricks? #Good luck with that#.",
+    "ru": "Хочешь научить кота трюкам? Ну, удачи."
+   },
+   {
+    "en": "#Good luck with that# interview!",
+    "ru": "Удачи на собеседовании!"
    }
   ]
  },
@@ -3800,6 +5788,14 @@
    {
     "en": "You're here! #It's about time#.",
     "ru": "Пришёл! Давно пора."
+   },
+   {
+    "en": "You cleaned your room? #It's about time#!",
+    "ru": "Ты убрался в комнате? Давно пора!"
+   },
+   {
+    "en": "#It's about time# they fixed this road.",
+    "ru": "Давно пора починить эту дорогу."
    }
   ]
  },
@@ -3812,6 +5808,14 @@
    {
     "en": "A huge burger? #That's what I'm talking about#!",
     "ru": "Огромный бургер? Вот это я понимаю!"
+   },
+   {
+    "en": "Free pizza? #That's what I'm talking about#!",
+    "ru": "Бесплатная пицца? Вот это я понимаю!"
+   },
+   {
+    "en": "Touchdown! #That's what I'm talking about#!",
+    "ru": "Тачдаун! Вот это да!"
    }
   ]
  },
@@ -3824,6 +5828,14 @@
    {
     "en": "Thanks for the flowers, #you made my day#!",
     "ru": "Спасибо за цветы, ты сделал мой день!"
+   },
+   {
+    "en": "Your message #made my day#.",
+    "ru": "Твоё сообщение подняло мне настроение."
+   },
+   {
+    "en": "Thanks for the compliment — #you made my day#.",
+    "ru": "Спасибо за комплимент — сделал мне день."
    }
   ]
  },
@@ -3836,6 +5848,14 @@
    {
     "en": "We got free upgrades. #How cool is that#?",
     "ru": "Нам бесплатно повысили класс. Ну разве не круто?"
+   },
+   {
+    "en": "My grandma learned to text. #How cool is that#?",
+    "ru": "Бабушка научилась писать сообщения. Ну разве не круто?"
+   },
+   {
+    "en": "We can see the ocean from here! #How cool is that#?",
+    "ru": "Отсюда видно океан! Это же круто!"
    }
   ]
  }
